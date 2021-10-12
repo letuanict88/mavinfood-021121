@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>45c5</objectGroupId>
+	<objectId>45c5edd8-9a24-ed6a-4365-2120be5e33f0</objectId>
+	<internal-name>Giò gà</internal-name>
+	<navLabel>Giò gà</navLabel>
+	<name_s>Giò gà</name_s>
+	<kl_s>1 kg</kl_s>
+	<price_s>90000</price_s>
+	<sku_s>8936082676265</sku_s>
+	<image1_s>/static-assets/images/san-pham/Gio Ga Mavin 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/Gio Ga Mavin 3.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/Gio Ga Mavin 2.png</image3_s>
+	<file-name>index.xml</file-name>
+	<folder-name>gio-ga</folder-name>
+	<sptype_o>	<item>	<key>gio-cha</key>
+	<value_smv>Giò chả</value_smv>
+	</item></sptype_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>false</isHot_b>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>584f92fa-c2a2-e9c3-ddae-376f1fd1aa77</key>
+	<value>Slide</value>
+<component id="584f92fa-c2a2-e9c3-ddae-376f1fd1aa77">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>584f</objectGroupId>
+	<objectId>584f92fa-c2a2-e9c3-ddae-376f1fd1aa77</objectId>
+	<internal-name>Slide</internal-name>
+	<file-name>584f92fa-c2a2-e9c3-ddae-376f1fd1aa77.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app3.jpg</image_s>
+	<createdDate>2021-08-25T09:46:28.606Z</createdDate>
+	<createdDate_dt>2021-08-25T09:46:28.606Z</createdDate_dt>
+	<lastModifiedDate>2021-08-25T09:46:28.606Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-25T09:46:28.606Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Vẫn trong d&amp;ograve;ng sản phẩm Gi&amp;ograve;, Mavin ph&amp;aacute;t triển th&amp;ecirc;m c&amp;aacute;c m&amp;atilde; sản phẩm: Chả Lụa, Gi&amp;ograve; G&amp;agrave; v&amp;agrave; Chả G&amp;agrave; để phục vụ nhu cầu Người Ti&amp;ecirc;u d&amp;ugrave;ng ng&amp;agrave;y c&amp;agrave;ng đa dạng. Nếu như d&amp;ograve;ng Gi&amp;ograve; Lụa v&amp;agrave; Chả Lụa với th&amp;agrave;nh phần ch&amp;iacute;nh l&amp;agrave; thịt lợn, mang theo hương vị đặc trưng của thịt lợn nấu ch&amp;iacute;n quện lại trong vị mắm truyền thống, th&amp;igrave; d&amp;ograve;ng Gi&amp;ograve; G&amp;agrave; v&amp;agrave; Chả G&amp;agrave; sẽ cho người ăn cảm nhận hương vị thơm ngọt của thịt G&amp;agrave; r&amp;otilde; rệt.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c b&amp;agrave; nội trợ th&amp;ocirc;ng minh c&amp;oacute; thể chi&amp;ecirc;n r&amp;aacute;n, chế biến, hoặc ăn c&amp;ugrave;ng c&amp;aacute;c m&amp;oacute;n ăn truyền thống của người Việt như: B&amp;aacute;nh cuốn chả; Chả chi&amp;ecirc;n rim sốt/ c&amp;agrave; chua; Gi&amp;ograve;/ Chả rim mắm; Gi&amp;ograve;/Chả kho ti&amp;ecirc;u/ x&amp;igrave; dầu; Gi&amp;ograve;/Chả x&amp;agrave;o nấm/ miến; Gi&amp;ograve;/Chả nộm rau củ quả; Gi&amp;ograve;/Chả ăn k&amp;egrave;m c&amp;aacute;c m&amp;oacute;n b&amp;uacute;n, x&amp;ocirc;i, cơm chi&amp;ecirc;n ....để thay đổi thực đơn Gia đ&amp;igrave;nh mỗi ng&amp;agrave;y sinh động v&amp;agrave; đủ chất dinh dưỡng hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;M&amp;atilde; sản phẩm: &lt;/strong&gt;SGG09000100.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Quy c&amp;aacute;ch đ&amp;oacute;ng g&amp;oacute;i:&lt;/strong&gt; 1kg/ C&amp;acirc;y hoặc 500gr/C&amp;acirc;y t&amp;ugrave;y y&amp;ecirc;u cầu của Kh&amp;aacute;ch h&amp;agrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hướng dẫn sử dụng: &lt;/strong&gt;Sản phẩm ăn ngay, chi&amp;ecirc;n r&amp;aacute;n hoặc chế biến th&amp;agrave;nh c&amp;aacute;c m&amp;oacute;n ăn y&amp;ecirc;u th&amp;iacute;ch.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-08-25T09:44:41.938Z</createdDate>
+	<createdDate_dt>2021-08-25T09:44:41.938Z</createdDate_dt>
+	<lastModifiedDate>2021-09-27T04:36:03.344Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-27T04:36:03.344Z</lastModifiedDate_dt>
+</page>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6a9d90b0</objectGroupId>
+	<objectId>6a9d90b0-6e40-4640-bf1a-5d36c93d5e77</objectId>
+	<internal-name>Thịt heo xông khói 250g</internal-name>
+	<navLabel>Thịt heo xông khói 250g</navLabel>
+	<name_s>Thịt heo xông khói 250g</name_s>
+	<kl_s>250g/túi</kl_s>
+	<price_s>Liên hệ</price_s>
+	<file-name>index.xml</file-name>
+	<folder-name>thit-heo-xong-khoi-fbbf84b5</folder-name>
+	<isHot_b>false</isHot_b>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image1_s>/static-assets/images/san-pham/Cat lat (Thit heo XK 1 - 250g).png</image1_s>
+	<image2_s>/static-assets/images/san-pham/Cat lat (Thit heo XK 3).png</image2_s>
+	<image3_s>/static-assets/images/san-pham/Cat lat (Thit Heo XK 2).jpg</image3_s>
+	<sptype_o>	<item>	<key>cat-lat</key>
+	<value_smv>Cắt lát</value_smv>
+	</item></sptype_o>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>2b14abb9-4c7f-9d7f-5846-3366511d1d54</key>
+	<value>Slide</value>
+<component id="2b14abb9-4c7f-9d7f-5846-3366511d1d54">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2b14</objectGroupId>
+	<objectId>2b14abb9-4c7f-9d7f-5846-3366511d1d54</objectId>
+	<file-name>2b14abb9-4c7f-9d7f-5846-3366511d1d54.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app6.jpg</image_s>
+	<createdDate>2021-08-05T09:10:01.679Z</createdDate>
+	<createdDate_dt>2021-08-05T09:10:01.679Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T09:10:01.679Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T09:10:01.679Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p&gt;Với c&amp;ocirc;ng nghệ x&amp;ocirc;ng kh&amp;oacute;i bằng gỗ sồi nhập khẩu từ Đức, v&amp;agrave; sản xuất tr&amp;ecirc;n d&amp;acirc;y chuyền hiện đại chuẩn c&amp;ocirc;ng nghệ Đức, thịt Heo X&amp;ocirc;ng kh&amp;oacute;i Mavin vẫn giữ được vị thơm, thớ thịt tươi nguy&amp;ecirc;n của thịt heo ba chỉ Mavin sạch từ nguồn, m&amp;agrave; kh&amp;ocirc;ng giảm vị x&amp;ocirc;ng kh&amp;oacute;i đặc trưng của gỗ sồi, l&amp;agrave; m&amp;oacute;n ăn bổ dưỡng v&amp;agrave; lựa chọn th&amp;ocirc;ng minh cho c&amp;aacute;c b&amp;agrave; Nội trợ.&lt;span style="white-space: pre;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Đặc điểm sản phẩm:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- C&amp;ocirc;ng nghệ x&amp;ocirc;ng kh&amp;oacute;i bằng gỗ sồi nhập khẩu Đức&lt;/p&gt;
+&lt;p&gt;- Sản xuất tr&amp;ecirc;n d&amp;acirc;y chuyền hiện đại chuẩn c&amp;ocirc;ng nghệ Đức&lt;/p&gt;
+&lt;p&gt;- Th&amp;agrave;nh phần ch&amp;iacute;nh l&amp;agrave; thịt heo ba chỉ Mavin sạch từ nguồn&lt;/p&gt;
+&lt;p&gt;- Đặc trưng vị thịt tươi v&amp;agrave; vị x&amp;ocirc;ng kh&amp;oacute;i của gỗ Sồi&lt;/p&gt;
+&lt;p&gt;- H&amp;agrave;m lượng dinh dưỡng cao, đảm bảo an to&amp;agrave;n thực phẩm cho NTD&lt;/p&gt;</content_html>
+	<createdDate>2021-08-05T09:07:37.260Z</createdDate>
+	<createdDate_dt>2021-08-05T09:07:37.260Z</createdDate_dt>
+	<lastModifiedDate>2021-10-09T04:29:58.799Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-09T04:29:58.799Z</lastModifiedDate_dt>
+	<sku_s>8936082672816</sku_s>
+</page>

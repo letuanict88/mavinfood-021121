@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7d2d</objectGroupId>
+	<objectId>7d2d2927-7cdf-69c0-d44f-044e6c837622</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>award</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Recognition &amp; Awards</internal-name>
+	<navLabel>Recognition &amp; Awards</navLabel>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>3d556a0c-5173-e56d-5cef-67956ef79f60</key>
+	<value>S</value>
+<component id="3d556a0c-5173-e56d-5cef-67956ef79f60">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3d55</objectGroupId>
+	<objectId>3d556a0c-5173-e56d-5cef-67956ef79f60</objectId>
+	<internal-name>S</internal-name>
+	<file-name>3d556a0c-5173-e56d-5cef-67956ef79f60.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-09-30T03:51:02.676Z</createdDate>
+	<createdDate_dt>2021-09-30T03:51:02.676Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T03:51:02.676Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T03:51:02.676Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>feb83cfa-ae50-d545-9c88-c5f65e4bb068</key>
+	<value>Recognition &amp;amp; Awards - Con</value>
+<component id="feb83cfa-ae50-d545-9c88-c5f65e4bb068">
+	<content-type>/component/encomchungnhan</content-type>
+	<display-template>/templates/web/components/en/chungnhan.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>feb8</objectGroupId>
+	<objectId>feb83cfa-ae50-d545-9c88-c5f65e4bb068</objectId>
+	<certi_o item-list="true">	<item>	<title_s/>
+	<content_s/>
+	<image_s>/static-assets/images/tong-quan/Chung nhan iso 22000-2018 (song ngu_page-0001.jpg</image_s>
+	</item></certi_o>
+	<file-name>feb83cfa-ae50-d545-9c88-c5f65e4bb068.xml</file-name>
+	<internal-name>Recognition &amp; Awards - Con</internal-name>
+	<createdDate>2021-09-30T03:52:25.336Z</createdDate>
+	<createdDate_dt>2021-09-30T03:52:25.336Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T03:52:25.336Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T03:52:25.336Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-09-30T03:50:27.605Z</createdDate>
+	<createdDate_dt>2021-09-30T03:50:27.605Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T03:50:27.605Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T03:50:27.605Z</lastModifiedDate_dt>
+</page>

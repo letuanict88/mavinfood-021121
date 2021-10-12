@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/pages/tintuc.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4313</objectGroupId>
+	<objectId>4313082b-ebdb-d806-3c40-2a451f1ee228</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>phan-mem-erp-cho-nganh-foods</folder-name>
+	<internal-name>Mavin chính thức vận hành phần mềm ERP cho ngành thực phẩm chế biến</internal-name>
+	<navLabel>Mavin chính thức vận hành phần mềm ERP cho ngành thực phẩm chế biến</navLabel>
+	<title_s>Mavin chính thức vận hành phần mềm ERP cho ngành thực phẩm chế biến</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/new/Golive_ERP_Mavin_Foods.jpg</image_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>f0c09412-4e92-df1a-29bc-c1929045ffb9</key>
+	<value>Slide</value>
+<component id="f0c09412-4e92-df1a-29bc-c1929045ffb9">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f0c0</objectGroupId>
+	<objectId>f0c09412-4e92-df1a-29bc-c1929045ffb9</objectId>
+	<file-name>f0c09412-4e92-df1a-29bc-c1929045ffb9.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app9.jpg</image_s>
+	<createdDate>2021-08-04T08:40:58.722Z</createdDate>
+	<createdDate_dt>2021-08-04T08:40:58.722Z</createdDate_dt>
+	<lastModifiedDate>2021-08-04T08:40:58.722Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-04T08:40:58.722Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Ng&amp;agrave;y 4/11/2020, tại Nh&amp;agrave; m&amp;aacute;y chế biến thực phẩm Mavin Foods (Duy Ti&amp;ecirc;n, H&amp;agrave; Nam) - Tập đo&amp;agrave;n Mavin đ&amp;atilde; tổ chức Lễ Ghi nhận vận h&amp;agrave;nh ch&amp;iacute;nh thức (Go-live) phần mềm ERP SAP S/4HANA cho ng&amp;agrave;nh thực phẩm chế biến &amp;ndash; Mavin Foods. Tham dự buổi Lễ c&amp;oacute; &amp;ocirc;ng Đ&amp;agrave;o Mạnh Lương, Tổng Gi&amp;aacute;m đốc Tập đo&amp;agrave;n, to&amp;agrave;n thể Ban Dự &amp;aacute;n Mavin ERP của Tập đo&amp;agrave;n Mavin v&amp;agrave; đối t&amp;aacute;c tư vấn Deloitte Consulting Vietnam.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;iacute;nh thức khởi động từ 22/6/2020, trải qua 133 ng&amp;agrave;y nỗ lực v&amp;agrave; cố gắng, tập thể Mavin Foods đ&amp;atilde; l&amp;agrave;m được điều tưởng chừng kh&amp;ocirc;ng thể, đ&amp;oacute; l&amp;agrave; vận h&amp;agrave;nh được phần mềm ERP SAP trong thời gian ngắn kỷ lục. Để c&amp;oacute; kết quả n&amp;agrave;y, to&amp;agrave;n bộ nh&amp;oacute;m triển khai Dự &amp;aacute;n gồm cả nh&amp;acirc;n sự của Mavin cũng như của đối t&amp;aacute;c Deloitte đ&amp;atilde; cố gắng kh&amp;ocirc;ng biết mệt mỏi v&amp;igrave; mục ti&amp;ecirc;u ho&amp;agrave;n th&amp;agrave;nh dự &amp;aacute;n đ&amp;uacute;ng tiến độ v&amp;agrave; đạt chất lượng y&amp;ecirc;u cầu.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chia sẻ tại buổi Lễ, &amp;ocirc;ng Đ&amp;agrave;o Mạnh Lương &amp;ndash; Tổng Gi&amp;aacute;m đốc Tập đo&amp;agrave;n Mavin khẳng định&amp;nbsp; th&amp;agrave;nh quả triển khai v&amp;agrave; vận h&amp;agrave;nh ERP SAP sẽ gi&amp;uacute;p Mavin Foods l&amp;agrave;m ra những sản phẩm tốt nhất, mang lại dịch vụ kh&amp;aacute;ch h&amp;agrave;ng tốt nhất v&amp;agrave; cuối c&amp;ugrave;ng l&amp;agrave; c&amp;oacute; thể tạo ra gi&amp;aacute; trị cao nhất cho người ti&amp;ecirc;u d&amp;ugrave;ng. Tổng Gi&amp;aacute;m đốc cũng nhấn mạnh ERP chỉ l&amp;agrave; giai đoạn đầu trong chặng đường d&amp;agrave;i số h&amp;oacute;a hoạt động Mavin, nhưng l&amp;agrave; nền tảng quan trọng để triển khai nhiều hoạt động hỗ trợ kh&amp;aacute;c để ph&amp;aacute;t triển Mavin, n&amp;acirc;ng cao chất lượng Dịch vụ kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; ph&amp;aacute;t triển kinh doanh. Tổng Gi&amp;aacute;m đốc cũng kh&amp;ocirc;ng qu&amp;ecirc;n biểu dương sự cố gắng của mỗi th&amp;agrave;nh vi&amp;ecirc;n Mavin Foods, Ban Dự &amp;aacute;n ERP v&amp;agrave; đặc biệt l&amp;agrave; sự hỗ trợ của đối t&amp;aacute;c Deloitte trong 133 ng&amp;agrave;y vừa qua.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;Ocirc;ng Đ&amp;agrave;o Mạnh Lương &amp;ndash; Tổng Gi&amp;aacute;m đốc Tập đo&amp;agrave;n Mavin ph&amp;aacute;t biểu ghi nhận Go-live ERP&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tham dự buổi Lễ, &amp;ocirc;ng Tạ Thanh H&amp;ugrave;ng &amp;ndash; Gi&amp;aacute;m đốc triển khai Deloitte Consulting Việt Nam, đ&amp;atilde; gửi lời cảm ơn Ban L&amp;atilde;nh đạo Tập đo&amp;agrave;n Mavin đ&amp;atilde; cho Deloitte cơ hội đồng h&amp;agrave;nh c&amp;ugrave;ng Mavin trong cả hai dự &amp;aacute;n ứng dụng ERP cho ng&amp;agrave;nh Feed v&amp;agrave; Foods. Đặc biệt, với ng&amp;agrave;nh Foods, chỉ trong 133 ng&amp;agrave;y với nguồn lực hạn chế đ&amp;atilde; ho&amp;agrave;n th&amp;agrave;nh với chất lượng tốt nhất của Deloitte, ch&amp;iacute;nh l&amp;agrave; nhờ cam kết của Ban L&amp;atilde;nh đạo Mavin, đặc biệt l&amp;agrave; tinh thần l&amp;agrave;m việc nhiệt t&amp;igrave;nh của c&amp;aacute;n bộ Mavin Foods.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;Ocirc;ng Tạ Thanh H&amp;ugrave;ng &amp;ndash; Gi&amp;aacute;m đốc triển khai Deloitte Consulting Việt Nam cảm ơn sự đồng h&amp;agrave;nh của Mavin&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kết th&amp;uacute;c Chương tr&amp;igrave;nh ghi nhận Go-live, to&amp;agrave;n thể Ban Dự &amp;aacute;n Mavin, Mavin Foods, đối t&amp;aacute;c Deloitte đ&amp;atilde; c&amp;ugrave;ng nhau chụp một tấm ảnh lưu niệm, ghi dấu khoảnh khắc quan trọng đối với sự ph&amp;aacute;t triển số h&amp;oacute;a của Mavin Foods c&amp;ugrave;ng với phần mềm ERP SAP S/4HANA.&lt;/p&gt;</content_html>
+	<createdDate>2021-08-04T08:39:01.096Z</createdDate>
+	<createdDate_dt>2021-08-04T08:39:01.096Z</createdDate_dt>
+	<lastModifiedDate>2021-08-09T09:54:20.379Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-09T09:54:20.379Z</lastModifiedDate_dt>
+	<date_dt>2020-12-04T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/pages/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<placeInNav>false</placeInNav>
+	<file-name>index.xml</file-name>
+	<internal-name>Trang chủ</internal-name>
+	<orderDefault_f>-1</orderDefault_f>
+	<objectGroupId>8d7f</objectGroupId>
+	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+	<folder-name/>
+	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
+	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
+	<lastModifiedDate>2021-09-29T02:33:31.752Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-29T02:33:31.752Z</lastModifiedDate_dt>
+	<title_t>Mavin-Food</title_t>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>eae80de2-40f3-601d-7236-b66d34d383a1</key>
+	<value>Giới thiệu - Home</value>
+<component id="eae80de2-40f3-601d-7236-b66d34d383a1">
+	<content-type>/component/homeintroduce</content-type>
+	<display-template>/templates/web/components/gioithieu-home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>eae8</objectGroupId>
+	<objectId>eae80de2-40f3-601d-7236-b66d34d383a1</objectId>
+	<product_o item-list="true">	<item>	<name_s>Thức ăn chăn nuôi </name_s>
+	<image_s>/static-assets/images/1-1.png</image_s>
+	<name2_s/>
+	</item>	<item>	<name_s>Con Giống</name_s>
+	<image_s>/static-assets/images/1-2.png</image_s>
+	<name2_s> &amp; trang trại &lt;/br&gt; chăn nuôi</name2_s>
+	</item>	<item>	<name_s>Thuốc Thú y</name_s>
+	<image_s>/static-assets/images/1-3.png</image_s>
+	<name2_s/>
+	</item></product_o>
+	<file-name>eae80de2-40f3-601d-7236-b66d34d383a1.xml</file-name>
+	<internal-name>Giới thiệu - Home</internal-name>
+	<subtitle_s>Thực phẩm chế biến</subtitle_s>
+	<content_html>&lt;p class="text-recommend"&gt;&lt;em&gt;&lt;span style="font-size: 12pt; color: #485056; font-weight: 500; font-family: UVF-DINPro;"&gt;Mavin Foods ch&amp;iacute;nh l&amp;agrave; mắt x&amp;iacute;ch ho&amp;agrave;n chỉnh tạo n&amp;ecirc;n c&amp;aacute;c sản phẩm &lt;strong&gt;&amp;ldquo;Sạch từ nguồn&amp;rdquo;&lt;/strong&gt; của Tập đo&amp;agrave;n Mavin. Thịt nguy&amp;ecirc;n liệu để sản xuất c&amp;aacute;c sản phẩm của Mavin Food l&amp;agrave; thịt sạch, được cung cấp bởi ch&amp;iacute;nh hệ thống c&amp;aacute;c C&amp;ocirc;ng ty của Mavin. Hệ thống n&amp;agrave;y sở hữu c&amp;aacute;c nh&amp;agrave; m&amp;aacute;y sản xuất thức ăn chăn nu&amp;ocirc;i lớn tr&amp;ecirc;n cả nước với c&amp;ocirc;ng suất h&amp;agrave;ng trăm ngh&amp;igrave;n tấn/năm, cũng như sở hữu hệ thống trang trại heo giống v&amp;agrave; heo thịt lớn tại miền Bắc, với c&amp;aacute;c giống heo được nhập trực tiếp từ Vương quốc Anh; mỗi năm cung cấp h&amp;agrave;ng ngh&amp;igrave;n tấn thịt heo th&amp;agrave;nh phẩm, chất lượng cao, đảm bảo vệ sinh an to&amp;agrave;n ra thị trường.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content_html>
+	<maintitle_o item-list="true">	<item>	<text_s>Chuỗi Giá Trị  của Mavin</text_s>
+	</item></maintitle_o>
+	<createdDate>2021-06-01T07:03:43.787Z</createdDate>
+	<createdDate_dt>2021-06-01T07:03:43.787Z</createdDate_dt>
+	<lastModifiedDate>2021-09-29T02:33:39.700Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-29T02:33:39.700Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>602a4487-a099-b354-32fc-4bb84ddede22</key>
+	<value>Sản Phẩm - Home</value>
+<component id="602a4487-a099-b354-32fc-4bb84ddede22">
+	<content-type>/component/homeproduct</content-type>
+	<display-template>/templates/web/components/sanpham-home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>602a</objectGroupId>
+	<objectId>602a4487-a099-b354-32fc-4bb84ddede22</objectId>
+	<products_o item-list="true">	<item>	<name_s>Xúc xích</name_s>
+	<image_s>/static-assets/images/home/xuc-xich.png</image_s>
+	<link_s>/san-pham/xuc-xich</link_s>
+	</item>	<item>	<name_s>Đồ viên</name_s>
+	<image_s>/static-assets/images/home/do-vien.png</image_s>
+	<link_s>/san-pham/do-vien</link_s>
+	</item>	<item>	<name_s>Giò chả</name_s>
+	<image_s>/static-assets/images/home/Dia Gio cha (Home).png</image_s>
+	<link_s>/san-pham/gio-cha</link_s>
+	</item>	<item>	<name_s>Cắt lát</name_s>
+	<image_s>/static-assets/images/home/cat-lat.png</image_s>
+	<link_s>/san-pham/cat-lat</link_s>
+	</item>	<item>	<name_s>Sản phẩm khác</name_s>
+	<image_s>/static-assets/images/home/sp-khac.png</image_s>
+	<link_s>/san-pham/sp-khac</link_s>
+	</item></products_o>
+	<file-name>602a4487-a099-b354-32fc-4bb84ddede22.xml</file-name>
+	<internal-name>Sản Phẩm - Home</internal-name>
+	<createdDate>2021-06-01T07:20:23.678Z</createdDate>
+	<createdDate_dt>2021-06-01T07:20:23.678Z</createdDate_dt>
+	<lastModifiedDate>2021-08-09T10:19:45.180Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-09T10:19:45.180Z</lastModifiedDate_dt>
+	<featPro_o item-list="true">	<item>	<link_s>/san-pham/xuc-xich/xuc-xich-xong-khoi</link_s>
+	<image_s>/static-assets/images/home/XX Hong khoi.png</image_s>
+	</item>	<item>	<link_s>/san-pham/xuc-xich/xuc-xich-ga</link_s>
+	<image_s>/static-assets/images/home/XX Ga.png</image_s>
+	</item>	<item>	<link_s>/san-pham/xuc-xich/mavin-gia-dinh</link_s>
+	<image_s>/static-assets/images/home/XX Mavin Gia dinh.png</image_s>
+	</item>	<item>	<link_s>/san-pham/xuc-xich/xuc-xich-hotdog</link_s>
+	<image_s>/static-assets/images/home/XX HotDog.png</image_s>
+	</item>	<item>	<link_s>/san-pham/xuc-xich/xuc-xich-thit-trau</link_s>
+	<image_s>/static-assets/images/home/XX Vealino Plus.png</image_s>
+	</item>	<item>	<link_s>/san-pham/xuc-xich/xuc-xich-mavinia</link_s>
+	<image_s>/static-assets/images/home/XX Mavinia.png</image_s>
+	</item></featPro_o>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>10c713f1-c553-2b41-17f6-824cb28eabfd</key>
+	<value>Bản tin - Home</value>
+<component id="10c713f1-c553-2b41-17f6-824cb28eabfd">
+	<content-type>/component/homenews</content-type>
+	<display-template>/templates/web/components/bantin-home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>10c7</objectGroupId>
+	<objectId>10c713f1-c553-2b41-17f6-824cb28eabfd</objectId>
+	<file-name>10c713f1-c553-2b41-17f6-824cb28eabfd.xml</file-name>
+	<internal-name>Bản tin - Home</internal-name>
+	<docTitle_s>Test</docTitle_s>
+	<video_s/>
+	<typeDoc_o item-list="true"/>
+	<createdDate>2021-06-01T08:17:53.780Z</createdDate>
+	<createdDate_dt>2021-06-01T08:17:53.780Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T02:43:06.972Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T02:43:06.972Z</lastModifiedDate_dt>
+	<image_s>/static-assets/images/home/Anh tin bai XX Mavin GD.jpg</image_s>
+</component>
+	</item></sections_o>
+	<description_t>Trang chủ của mavin-food</description_t>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>27ad99b8-4ae2-b982-aaec-b15b4d56e8d1</key>
+	<value>Slide</value>
+<component id="27ad99b8-4ae2-b982-aaec-b15b4d56e8d1">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>27ad</objectGroupId>
+	<objectId>27ad99b8-4ae2-b982-aaec-b15b4d56e8d1</objectId>
+	<file-name>27ad99b8-4ae2-b982-aaec-b15b4d56e8d1.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-06-21T08:57:03.479Z</createdDate>
+	<createdDate_dt>2021-06-21T08:57:03.479Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T08:57:03.479Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T08:57:03.479Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

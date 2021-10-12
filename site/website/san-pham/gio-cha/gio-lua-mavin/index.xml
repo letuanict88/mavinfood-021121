@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>411a</objectGroupId>
+	<objectId>411a2069-a43a-7073-0971-437c7adae8a4</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<sptype_o>	<item>	<key>gio-cha</key>
+	<value_smv>Giò chả</value_smv>
+	</item></sptype_o>
+	<file-name>index.xml</file-name>
+	<folder-name>gio-lua-mavin</folder-name>
+	<isHot_b>false</isHot_b>
+	<internal-name>Giò lụa</internal-name>
+	<navLabel>Giò lụa</navLabel>
+	<name_s>Giò lụa</name_s>
+	<kl_s>1 kg</kl_s>
+	<price_s>95000</price_s>
+	<image1_s>/static-assets/images/san-pham/Gio Lua Mavin 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/Gio cha 1.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/Gio Lua Mavin 2.png</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>dd3800ec-6138-82db-2984-6c29856d67c5</key>
+	<value>Slide</value>
+<component id="dd3800ec-6138-82db-2984-6c29856d67c5">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dd38</objectGroupId>
+	<objectId>dd3800ec-6138-82db-2984-6c29856d67c5</objectId>
+	<file-name>dd3800ec-6138-82db-2984-6c29856d67c5.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app3.jpg</image_s>
+	<createdDate>2021-08-04T08:21:08.834Z</createdDate>
+	<createdDate_dt>2021-08-04T08:21:08.834Z</createdDate_dt>
+	<lastModifiedDate>2021-08-04T08:21:08.834Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-04T08:21:08.834Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Gi&amp;ograve; Lụa đ&amp;atilde; trở th&amp;agrave;nh m&amp;oacute;n ăn truyền thống mang theo n&amp;eacute;t đẹp văn h&amp;oacute;a ẩm thực cổ truyền của người Việt v&amp;agrave; kh&amp;ocirc;ng thể thiếu trong mỗi dịp Xu&amp;acirc;n về. Xa xưa, &amp;ocirc;ng cha ta c&amp;ograve;n tự gi&amp;atilde; Gi&amp;ograve; bằng cối đ&amp;aacute; gọi l&amp;agrave; Gi&amp;ograve; thủ c&amp;ocirc;ng. Ng&amp;agrave;y nay, c&amp;aacute;c C&amp;ocirc;ng ty Thực phẩm sản xuất Gi&amp;ograve; dưới nhiều c&amp;ocirc;ng nghệ kh&amp;aacute;c nhau.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với c&amp;ocirc;ng nghệ bảo quản m&amp;aacute;t, Mavin đ&amp;atilde; cho ra d&amp;ograve;ng sản phẩm mới Gi&amp;ograve; Lụa Mavin. Thay v&amp;igrave; chỉ sử dụng trong 1-2 ng&amp;agrave;y như d&amp;ograve;ng Gi&amp;ograve; n&amp;oacute;ng thủ c&amp;ocirc;ng truyền thống b&amp;aacute;n ngo&amp;agrave;i chợ, Gi&amp;ograve; Lụa Mavin c&amp;oacute; thể sử dụng trong 40 ng&amp;agrave;y nếu bảo quản m&amp;aacute;t 0-4 độ C, 90 ng&amp;agrave;y nếu bảo quản đ&amp;ocirc;ng dưới -18 độ C m&amp;agrave; vẫn đảm bảo hương vị truyền th&amp;ocirc;ng vốn c&amp;oacute; của Gi&amp;ograve;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;M&amp;atilde; sản phẩm: &lt;/strong&gt;SGL09000100&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Quy c&amp;aacute;ch đ&amp;oacute;ng g&amp;oacute;i: &lt;/strong&gt;1kg/ C&amp;acirc;y hoặc 500gr/C&amp;acirc;y t&amp;ugrave;y y&amp;ecirc;u cầu của Kh&amp;aacute;ch h&amp;agrave;ng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hướng dẫn sử dụng:&lt;/strong&gt; Sản phẩm ăn ngay, chi&amp;ecirc;n r&amp;aacute;n hoặc chế biến th&amp;agrave;nh c&amp;aacute;c m&amp;oacute;n ăn y&amp;ecirc;u th&amp;iacute;ch.&amp;nbsp;&lt;/p&gt;</content_html>
+	<createdDate>2021-08-04T08:17:26.262Z</createdDate>
+	<createdDate_dt>2021-08-04T08:17:26.262Z</createdDate_dt>
+	<lastModifiedDate>2021-09-27T04:36:14.507Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-27T04:36:14.507Z</lastModifiedDate_dt>
+	<sku_s>8936082676203</sku_s>
+</page>

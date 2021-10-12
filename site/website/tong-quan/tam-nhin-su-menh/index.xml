@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7370</objectGroupId>
+	<objectId>7370510b-0ed9-1a6e-664d-40f4aefce63e</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tam-nhin-su-menh</folder-name>
+	<internal-name>Tầm nhìn sức mệnh</internal-name>
+	<navLabel>Tầm nhìn sức mệnh</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>dbc1a88e-7cc0-1c6b-ffc2-5632a1daecf7</key>
+	<value>Tầm nhìn sức mệnh</value>
+<component id="dbc1a88e-7cc0-1c6b-ffc2-5632a1daecf7">
+	<content-type>/component/tamnhin-sumenh</content-type>
+	<display-template>/templates/web/components/tamnhin.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dbc1</objectGroupId>
+	<objectId>dbc1a88e-7cc0-1c6b-ffc2-5632a1daecf7</objectId>
+	<internal-name>Tầm nhìn sức mệnh</internal-name>
+	<file-name>dbc1a88e-7cc0-1c6b-ffc2-5632a1daecf7.xml</file-name>
+	<createdDate>2021-06-15T09:19:23.548Z</createdDate>
+	<createdDate_dt>2021-06-15T09:19:23.548Z</createdDate_dt>
+	<lastModifiedDate>2021-09-28T08:29:26.427Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-28T08:29:26.427Z</lastModifiedDate_dt>
+	<visionimage_s>/static-assets/images/tong-quan/tam-nhin.jpg</visionimage_s>
+	<missionimage_s>/static-assets/images/tong-quan/su-menh.jpg</missionimage_s>
+	<visiontitle_s>Tầm nhìn</visiontitle_s>
+	<missiontitle_s>Sứ mệnh</missiontitle_s>
+	<visioncontent_html>&lt;p&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;- Trở th&amp;agrave;nh doanh nghiệp h&amp;agrave;ng đầu cung cấp c&amp;aacute;c sản phẩm v&amp;agrave; dịch vụ về n&amp;ocirc;ng nghiệp hiệu quả v&amp;agrave; chuy&amp;ecirc;n nghiệp&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;- Tạo ra c&amp;aacute;c sản phẩm dịch vụ ưu việt th&amp;ocirc;ng qua c&amp;ocirc;ng t&amp;aacute;c nghi&amp;ecirc;n cứu ph&amp;aacute;t triển li&amp;ecirc;n tục.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;- Ph&amp;aacute;t triển v&amp;agrave; ứng dụng hệ thống sản xuất th&amp;acirc;n thiện với m&amp;ocirc;i trường.&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;- Cung cấp lợi &amp;iacute;ch bền vững cho kh&amp;aacute;ch h&amp;agrave;ng, đối t&amp;aacute;c, nh&amp;acirc;n vi&amp;ecirc;n v&amp;agrave; cổ đ&amp;ocirc;ng&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</visioncontent_html>
+	<missioncontent_html>&lt;p&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Trở th&amp;agrave;nh Nh&amp;agrave; cung cấp c&amp;aacute;c giải ph&amp;aacute;p to&amp;agrave;n diện về thực phẩm an to&amp;agrave;n&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</missioncontent_html>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-15T09:16:45.803Z</createdDate>
+	<createdDate_dt>2021-06-15T09:16:45.803Z</createdDate_dt>
+	<lastModifiedDate>2021-09-28T08:29:22.870Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-28T08:29:22.870Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>103b799d-ba79-4983-d872-0fff0ff2d71a</key>
+	<value>S</value>
+<component id="103b799d-ba79-4983-d872-0fff0ff2d71a">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>103b</objectGroupId>
+	<objectId>103b799d-ba79-4983-d872-0fff0ff2d71a</objectId>
+	<file-name>103b799d-ba79-4983-d872-0fff0ff2d71a.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<internal-name>S</internal-name>
+	<createdDate>2021-06-21T09:37:57.469Z</createdDate>
+	<createdDate_dt>2021-06-21T09:37:57.469Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:14:54.872Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:14:54.872Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

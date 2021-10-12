@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/chinhsachdetail</content-type>
+	<display-template>/templates/web/pages/chinhsachdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8515</objectGroupId>
+	<objectId>851559bc-6a5b-3942-c8a0-196fe2e166d5</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>chinh-sach-website</folder-name>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>52731ec2-5090-7435-19cb-3c4e17b9c45c</key>
+	<value>Slide</value>
+<component id="52731ec2-5090-7435-19cb-3c4e17b9c45c">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5273</objectGroupId>
+	<objectId>52731ec2-5090-7435-19cb-3c4e17b9c45c</objectId>
+	<file-name>52731ec2-5090-7435-19cb-3c4e17b9c45c.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-08-10T07:35:07.522Z</createdDate>
+	<createdDate_dt>2021-08-10T07:35:07.522Z</createdDate_dt>
+	<lastModifiedDate>2021-08-10T07:35:07.522Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-10T07:35:07.522Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<internal-name>Chính sách website</internal-name>
+	<navLabel>Chính sách website</navLabel>
+	<title_s>Chính sách website</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/tuyen-dung/IMG_1345.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;1. Tổng quan&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;https://mavinfood.com l&amp;agrave; website do C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin (sau đ&amp;acirc;y gọi l&amp;agrave; Mavin Foods) quản l&amp;yacute; v&amp;agrave; vận h&amp;agrave;nh. Nội dung được đăng tải tr&amp;ecirc;n website tập trung ch&amp;iacute;nh về c&amp;aacute;c lĩnh vực hoạt động, kinh doanh của Mavin Foods.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nội dung Ch&amp;iacute;nh s&amp;aacute;ch website n&amp;agrave;y d&amp;agrave;nh cho tất cả mọi người đọc truy cập v&amp;agrave;o website.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;2. Mục đ&amp;iacute;ch&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Website của Mavin Foods nhằm mục đ&amp;iacute;ch giới thiệu sản phẩm, dịch vụ của Mavin Foods, cập nhật c&amp;aacute;c hoạt động, sự kiện mới của Mavin Foods đồng thời cung cấp th&amp;ocirc;ng tin hướng dẫn về c&amp;aacute;ch ph&amp;acirc;n biệt thực phẩm sạch, an to&amp;agrave;n, c&amp;aacute;ch chế biến c&amp;aacute;c m&amp;oacute;n ăn từ sản phẩm của Mavin Foods.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;3. Phương ch&amp;acirc;m li&amp;ecirc;n quan đến nội dung b&amp;agrave;i viết&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nội dung b&amp;agrave;i viết được đăng tải tr&amp;ecirc;n website l&amp;agrave; những th&amp;ocirc;ng tin do Mavin Foods bi&amp;ecirc;n soạn, chọn lọc.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tuy nhi&amp;ecirc;n, Mavin Foods kh&amp;ocirc;ng bảo đảm t&amp;iacute;nh ch&amp;iacute;nh x&amp;aacute;c tuyệt đối, ph&amp;ugrave; hợp v&amp;agrave; đầy đủ của những nội dung đăng tải tr&amp;ecirc;n Trang Web, v&amp;agrave; trong giới hạn được ph&amp;aacute;p luật cho ph&amp;eacute;p, Mavin Foods kh&amp;ocirc;ng chịu tr&amp;aacute;ch nhiệm đối với c&amp;aacute;c lỗi hoặc thiếu s&amp;oacute;t trong c&amp;aacute;c th&amp;ocirc;ng tin v&amp;agrave; t&amp;agrave;i liệu, c&amp;aacute;c bảo đảm kh&amp;ocirc;ng vi phạm quyền, quyền sở hữu của b&amp;ecirc;n thứ ba, hoặc bảo đảm Trang Web kh&amp;ocirc;ng bị nhiễm vir&amp;uacute;t.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;4. T&amp;aacute;ch biệt giữa giới thiệu dịch vụ v&amp;agrave; b&amp;agrave;i viết tr&amp;ecirc;n website&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;uacute;ng t&amp;ocirc;i t&amp;aacute;ch biệt r&amp;otilde; r&amp;agrave;ng nội dung về sản phẩm, dịch vụ m&amp;agrave; c&amp;ocirc;ng ty cung cấp v&amp;agrave; nội dung tư vấn, tham khảo tr&amp;ecirc;n website.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nếu người đọc cần tư vấn li&amp;ecirc;n quan đến c&amp;aacute;c sản phẩm, dịch vụ của Mavin Foods xin vui l&amp;ograve;ng li&amp;ecirc;n hệ theo c&amp;aacute;c h&amp;igrave;nh thức: email hoặc số điện thoại ghi tr&amp;ecirc;n website, hoặc li&amp;ecirc;n hệ trực tiếp với văn ph&amp;ograve;ng của ch&amp;uacute;ng t&amp;ocirc;i. Nội dung tất cả b&amp;agrave;i viết được bi&amp;ecirc;n soạn để đảm bảo tối đa t&amp;iacute;nh trung lập, kh&amp;aacute;ch quan, từ đ&amp;oacute; mang lại nguồn th&amp;ocirc;ng tin hữu &amp;iacute;ch cho người đọc.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;5. Từ chối tr&amp;aacute;ch nhiệm&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavin Foods trong giới hạn được ph&amp;aacute;p luật cho ph&amp;eacute;p, trong bất kỳ trường hợp n&amp;agrave;o, sẽ kh&amp;ocirc;ng chịu tr&amp;aacute;ch nhiệm đối với bất kỳ tổn thất, mất m&amp;aacute;t, thiệt hại n&amp;agrave;o trực tiếp hay gi&amp;aacute;n tiếp ph&amp;aacute;t sinh c&amp;oacute; li&amp;ecirc;n quan đến Trang Web n&amp;agrave;y v&amp;agrave;/hoặc c&amp;aacute;c trang web li&amp;ecirc;n kết kh&amp;aacute;c hay từ việc b&amp;ecirc;n n&amp;agrave;o sử dụng hoặc kh&amp;ocirc;ng sử dụng được Trang Web do lỗi, sai s&amp;oacute;t, gi&amp;aacute;n đoạn, chậm trễ trong hoạt động hay truyền dữ liệu, do virut, lỗi hệ thống hay đường truyền.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;uacute;ng t&amp;ocirc;i cũng kh&amp;ocirc;ng chịu tr&amp;aacute;ch nhiệm cho bất kỳ vấn đề g&amp;igrave; xảy ra đối với những suy đo&amp;aacute;n, quyết định, h&amp;agrave;nh động dựa tr&amp;ecirc;n th&amp;ocirc;ng tin đang hoặc sẽ được đăng tải tr&amp;ecirc;n website.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;6. Bản quyền&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mọi th&amp;ocirc;ng tin được đăng tải tr&amp;ecirc;n website bao gồm văn bản, h&amp;igrave;nh ảnh, video&amp;hellip; đều thuộc bản quyền của C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;uacute;ng t&amp;ocirc;i nghi&amp;ecirc;m cấm bất kỳ h&amp;agrave;nh vi sao ch&amp;eacute;p, đăng tải lại nội dung b&amp;agrave;i viết m&amp;agrave; kh&amp;ocirc;ng dẫn link đầy đủ của b&amp;agrave;i viết tr&amp;ecirc;n website khi chưa c&amp;oacute; sự đồng &amp;yacute; từ ch&amp;uacute;ng t&amp;ocirc;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;uacute;ng t&amp;ocirc;i cho ph&amp;eacute;p v&amp;agrave; khuyến kh&amp;iacute;ch người đọc chia sẻ lại nội dung b&amp;agrave;i viết tới cộng đồng với điều kiện bắt buộc phải dẫn link v&amp;agrave; ghi r&amp;otilde; tr&amp;iacute;ch dẫn nguồn từ website.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;7. Ch&amp;iacute;nh s&amp;aacute;ch bảo mật th&amp;ocirc;ng tin&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tham khảo th&amp;ecirc;m tại Ch&amp;iacute;nh s&amp;aacute;ch bảo mật th&amp;ocirc;ng tin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;8. Quyền v&amp;agrave; tr&amp;aacute;ch nhiệm của người sử dụng website&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tất cả mọi người sử dụng website đều cần tu&amp;acirc;n thủ c&amp;aacute;c quy định, quy tắc m&amp;agrave; ch&amp;uacute;ng t&amp;ocirc;i ghi r&amp;otilde; r&amp;agrave;ng trong Ch&amp;iacute;nh s&amp;aacute;ch website, Ch&amp;iacute;nh s&amp;aacute;ch bảo mật th&amp;ocirc;ng tin, Quy định sử dụng website.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;9. Th&amp;ocirc;ng tin c&amp;ocirc;ng ty quản l&amp;yacute; v&amp;agrave; vận h&amp;agrave;nh website&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin l&amp;agrave; đơn vị chịu tr&amp;aacute;ch nhiệm quản l&amp;yacute; v&amp;agrave; vận h&amp;agrave;nh website. C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin giữ bản quyền của mọi th&amp;ocirc;ng tin đăng tải tr&amp;ecirc;n website.&lt;/p&gt;</content_html>
+	<createdDate>2021-08-10T07:32:56.146Z</createdDate>
+	<createdDate_dt>2021-08-10T07:32:56.146Z</createdDate_dt>
+	<lastModifiedDate>2021-08-12T07:41:52.091Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-12T07:41:52.091Z</lastModifiedDate_dt>
+	<date_dt>2021-08-01T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

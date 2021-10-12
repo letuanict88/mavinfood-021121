@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c8d6</objectGroupId>
+	<objectId>c8d625b0-bcf7-44d0-e3e4-5e23ff08e346</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>xuc-xich-berliner</folder-name>
+	<internal-name>Berliner</internal-name>
+	<navLabel>Berliner</navLabel>
+	<name_s>Berliner</name_s>
+	<kl_s>500g/túi</kl_s>
+	<price_s>45000</price_s>
+	<isHot_b>true</isHot_b>
+	<sptype_o>	<item>	<key>xuc-xich</key>
+	<value_smv>Xúc xích</value_smv>
+	</item></sptype_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image1_s>/static-assets/images/san-pham/XX Berliner 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/XX Berliner 3.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/XX Berliner 2.png</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>eebec920-d2fa-48fe-8205-a7c84a6b105b</key>
+	<value>Slide</value>
+<component id="eebec920-d2fa-48fe-8205-a7c84a6b105b">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>eebe</objectGroupId>
+	<objectId>eebec920-d2fa-48fe-8205-a7c84a6b105b</objectId>
+	<file-name>eebec920-d2fa-48fe-8205-a7c84a6b105b.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app4.jpg</image_s>
+	<createdDate>2021-08-04T07:54:55.104Z</createdDate>
+	<createdDate_dt>2021-08-04T07:54:55.104Z</createdDate_dt>
+	<lastModifiedDate>2021-08-04T07:54:55.104Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-04T07:54:55.104Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Với th&amp;agrave;nh phần thịt heo tr&amp;ecirc;n 60%, c&amp;ugrave;ng mỡ heo, muối ăn, hạt ti&amp;ecirc;u, hạt m&amp;ugrave;i, kh&amp;oacute;i tự nhi&amp;ecirc;n v&amp;agrave; c&amp;aacute;c gia vị đặc trưng, Berliner l&amp;agrave; một trong những d&amp;ograve;ng x&amp;uacute;c x&amp;iacute;ch Heo cao cấp của Mavin. Berliner cũng c&amp;oacute; mức gi&amp;aacute; ph&amp;ugrave; hợp hơn cho c&amp;aacute;c gia đ&amp;igrave;nh trong ph&amp;acirc;n ph&amp;uacute;c sản phẩm cao cấp của Mavin.&lt;span style="white-space: pre;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Đặc điểm sản phẩm:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Th&amp;agrave;nh phần ch&amp;iacute;nh l&amp;agrave; thịt heo (tr&amp;ecirc;n 60%) c&amp;ugrave;ng mỡ heo, muối ăn, hạt ti&amp;ecirc;u, hạt m&amp;ugrave;i, kh&amp;oacute;i tự nhi&amp;ecirc;n v&amp;agrave; c&amp;aacute;c gia vị đặc trưng;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- H&amp;agrave;m lượng dinh dưỡng cao, đảm bảo an to&amp;agrave;n thực phẩm;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Mức gi&amp;aacute; ph&amp;ugrave; hợp với ti&amp;ecirc;u d&amp;ugrave;ng của c&amp;aacute;c Gia đ&amp;igrave;nh.&lt;/p&gt;</content_html>
+	<createdDate>2021-08-04T07:44:27.554Z</createdDate>
+	<createdDate_dt>2021-08-04T07:44:27.554Z</createdDate_dt>
+	<lastModifiedDate>2021-09-23T09:57:01.412Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-23T09:57:01.412Z</lastModifiedDate_dt>
+	<sku_s>8936082670003</sku_s>
+</page>

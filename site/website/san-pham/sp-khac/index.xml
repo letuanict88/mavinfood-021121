@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>739e2959</objectGroupId>
+	<objectId>739e2959-96da-478a-a0ad-1b107e557ed5</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>sp-khac</folder-name>
+	<internal-name>Sản phẩm khác</internal-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<navLabel>Sản phẩm khác</navLabel>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>f492e5e7-21bf-318f-ee42-844cc37f01d3</key>
+	<value>Sản phẩm khác</value>
+<component id="f492e5e7-21bf-318f-ee42-844cc37f01d3">
+	<content-type>/component/comnhomsp</content-type>
+	<display-template>/templates/web/components/groupproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f492</objectGroupId>
+	<objectId>f492e5e7-21bf-318f-ee42-844cc37f01d3</objectId>
+	<file-name>f492e5e7-21bf-318f-ee42-844cc37f01d3.xml</file-name>
+	<internal-name>Sản phẩm khác</internal-name>
+	<title_s>Sản phẩm khác</title_s>
+	<image_s>/static-assets/images/san-pham/SP khac.png</image_s>
+	<groupproduct_o item-list="true">	<item datasource="groupProuduct">	<key>/site/items/d5fdac74-e36b-38b4-1a16-95081514a6a9.xml</key>
+	<value>SP khác</value>
+	<include>/site/items/d5fdac74-e36b-38b4-1a16-95081514a6a9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></groupproduct_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Pate (từ gốc tiếng Ph&amp;aacute;p: p&amp;acirc;t&amp;eacute;) l&amp;agrave; một loại thực phẩm hay m&amp;oacute;n ăn c&amp;oacute; dạng nhuyễn (xay th&amp;agrave;nh bột) được chế biến từ thịt v&amp;agrave; gan của động vật c&amp;ugrave;ng c&amp;aacute;c gia vị kh&amp;aacute;c. Thịt l&amp;agrave;m pat&amp;ecirc; thường được sử dụng từ c&amp;aacute;c loại thịt của nội tạng chắc, như l&amp;agrave; gan (phổ biến nhất) v&amp;agrave; bổ sung th&amp;ecirc;m mỡ, rau, gia vị, rượu vang v&amp;agrave; một số th&amp;agrave;nh phần kh&amp;aacute;c t&amp;ugrave;y khẩu vị. Từ "p&amp;acirc;t&amp;eacute;" trong tiếng Ph&amp;aacute;p được d&amp;agrave;nh ri&amp;ecirc;ng chỉ hỗn hợp của thịt xay nhuyễn v&amp;agrave; mỡ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Pa t&amp;ecirc; thường d&amp;ugrave;ng kẹp với b&amp;aacute;nh mỳ hoặc sandwich. L&amp;agrave; m&amp;oacute;n rất dễ ăn v&amp;agrave; thuận tiện trong c&amp;aacute;c bữa s&amp;aacute;ng cho những người vội v&amp;atilde; đi l&amp;agrave;m hoặc thảnh thơi đi du lịch. Ở Việt Nam pa t&amp;ecirc; đ&amp;atilde; được chế biến theo phong c&amp;aacute;ch Việt đ&amp;oacute; l&amp;agrave; người ta thường d&amp;ugrave;ng phần gan của động vật (thường l&amp;agrave; gan heo) v&amp;igrave; vậy ở Việt Nam đ&amp;ocirc;i khi người ta gọi pa t&amp;ecirc; với c&amp;aacute;i t&amp;ecirc;n thuần Việt l&amp;agrave; gan xay.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sản phẩm Pate của Mavin được l&amp;agrave;m từ thịt heo sạch, được chọn lọc từ nguồn giống chất lượng cao tr&amp;ecirc;n thế giới v&amp;agrave; nu&amp;ocirc;i an to&amp;agrave;n tại c&amp;aacute;c trang trại của Mavin Farm. Tại đ&amp;acirc;y, heo được ph&amp;ograve;ng dịch bệnh nghi&amp;ecirc;m ngặt v&amp;agrave; được cho ăn bằng thức ăn chất lượng cao, sản xuất tr&amp;ecirc;n d&amp;acirc;y chuyền nhập khẩu ho&amp;agrave;n to&amp;agrave;n từ Thụy Sỹ. Mavin kiểm so&amp;aacute;t kh&amp;acirc;u giết mổ an to&amp;agrave;n, bảo quản v&amp;agrave; chế biến đạt chuẩn ISO 22000 v&amp;agrave; HACCP, đảm bảo mang lại c&amp;aacute;c sản phẩm sạch v&amp;agrave; an to&amp;agrave;n đến tận tay người d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c chuy&amp;ecirc;n gia của Mavin l&amp;agrave; những người đ&amp;atilde; nhiều năm kinh nghiệm trong lĩnh vực thực phẩm tại CHLB Đức, mang b&amp;iacute; quyết ẩm thực của nước Đức tới Việt Nam, với mong muốn cho kh&amp;aacute;ch h&amp;agrave;ng cơ hội thưởng thức c&amp;aacute;c sản phẩm đậm tinh hoa ẩm thực Đức &amp;ndash; đất nước nổi tiếng thế giới về c&amp;aacute;c thực phẩm chế biến.&lt;/p&gt;</content_html>
+	<createdDate>2021-06-16T08:42:34.975Z</createdDate>
+	<createdDate_dt>2021-06-16T08:42:34.975Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T03:37:07.845Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T03:37:07.845Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-16T08:42:24.479Z</createdDate>
+	<createdDate_dt>2021-06-16T08:42:24.479Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T03:37:01.473Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T03:37:01.473Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>4c045879-1a14-03a8-0db8-6dcba6617a6a</key>
+	<value>S</value>
+<component id="4c045879-1a14-03a8-0db8-6dcba6617a6a">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4c04</objectGroupId>
+	<objectId>4c045879-1a14-03a8-0db8-6dcba6617a6a</objectId>
+	<file-name>4c045879-1a14-03a8-0db8-6dcba6617a6a.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app3.jpg</image_s>
+	<createdDate>2021-06-21T09:23:53.184Z</createdDate>
+	<createdDate_dt>2021-06-21T09:23:53.184Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:00:08.557Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:00:08.557Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

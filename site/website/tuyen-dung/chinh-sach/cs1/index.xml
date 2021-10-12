@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/chinhsachdetail</content-type>
+	<display-template>/templates/web/pages/chinhsachdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>93fe</objectGroupId>
+	<objectId>93fe1aa4-dbac-2f48-ee5c-42e30e68a156</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cs1</folder-name>
+	<internal-name>Giá trị cốt lõi của Mavin</internal-name>
+	<navLabel>Giá trị cốt lõi của Mavin</navLabel>
+	<title_s>Giá trị cốt lõi của Mavin</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/tuyen-dung/tuyen-dung.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Đo&amp;agrave;n kết&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;uacute;ng t&amp;ocirc;i hiểu tầm quan trọng của sức mạnh đo&amp;agrave;n kết đối với sự ph&amp;aacute;t triển của Mavin v&amp;agrave; coi đ&amp;oacute; l&amp;agrave; tải sản v&amp;agrave; động lực cho mọi sự ph&amp;aacute;t triển.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Đổi mới&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;uacute;ng t&amp;ocirc;i nỗ lực tạo ra sự kh&amp;aacute;c biệt v&amp;agrave; vượt trội với đối thủ bằng c&amp;aacute;ch kh&amp;ocirc;ng ngừng khơi gợi tư duy cởi mở, tư duy phản biện của mọi nh&amp;acirc;n vi&amp;ecirc;n ở mọi bộ phận.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Tr&amp;aacute;ch nhiệm&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mỗi th&amp;agrave;nh vi&amp;ecirc;n của Mavin lu&amp;ocirc;n &amp;yacute; thức được tr&amp;aacute;ch nhiệm của m&amp;igrave;nh đối với c&amp;ocirc;ng việc v&amp;agrave; đối với tập thể, bằng tinh thần phối hợp tương t&amp;aacute;c cao nhất v&amp;agrave; mong muốn ho&amp;agrave;n th&amp;agrave;nh c&amp;ocirc;ng việc ở mức cao nhất.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Chất lượng vượt trội&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;uacute;ng t&amp;ocirc;i lu&amp;ocirc;n hướng tới tư duy chất lượng trong mọi c&amp;ocirc;ng việc, mọi hoạt động.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Sự h&amp;agrave;i l&amp;ograve;ng của kh&amp;aacute;ch h&amp;agrave;ng&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;aacute;ch h&amp;agrave;ng của Mavin l&amp;agrave; người mua h&amp;agrave;ng, l&amp;agrave; đối t&amp;aacute;c, cổ đ&amp;ocirc;ng, v&amp;agrave; cũng ch&amp;iacute;nh l&amp;agrave; nh&amp;acirc;n vi&amp;ecirc;n của ch&amp;uacute;ng t&amp;ocirc;i. Mavin lu&amp;ocirc;n lắng nghe để thấu hiểu, sẻ chia những mong muốn để mang đến sự h&amp;agrave;i l&amp;ograve;ng tr&amp;ecirc;n cả mong đợi cho họ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Minh bạch&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sự minh bạch được thể hiện từ nhận thức tới h&amp;agrave;nh động của mỗi con người Mavin. Ch&amp;uacute;ng t&amp;ocirc;i hoạt động theo chuẩn mực đạo đức nghề nghiệp, ph&amp;ugrave; hợp với ph&amp;aacute;p luật, theo c&amp;aacute;c ti&amp;ecirc;u chuẩn quốc tế v&amp;agrave; lu&amp;ocirc;n minh bạch mọi th&amp;ocirc;ng tin li&amp;ecirc;n quan đến hoạt động kinh doanh.&amp;nbsp;&lt;/p&gt;</content_html>
+	<createdDate>2021-06-17T04:18:08.030Z</createdDate>
+	<createdDate_dt>2021-06-17T04:18:08.030Z</createdDate_dt>
+	<lastModifiedDate>2021-08-12T07:47:03.710Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-12T07:47:03.710Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>d84f87f8-f05a-a332-da71-756d2cfb0362</key>
+	<value>S</value>
+<component id="d84f87f8-f05a-a332-da71-756d2cfb0362">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d84f</objectGroupId>
+	<objectId>d84f87f8-f05a-a332-da71-756d2cfb0362</objectId>
+	<file-name>d84f87f8-f05a-a332-da71-756d2cfb0362.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app6.jpg</image_s>
+	<createdDate>2021-06-21T09:34:58.982Z</createdDate>
+	<createdDate_dt>2021-06-21T09:34:58.982Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:12:23.762Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:12:23.762Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<date_dt>2021-08-12T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

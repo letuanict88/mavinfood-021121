@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagespchitiet</content-type>
+	<display-template>/templates/web/pages/en/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fb05</objectGroupId>
+	<objectId>fb05e57f-efd7-7496-fade-0a3efc64616b</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>1</folder-name>
+	<internal-name>1</internal-name>
+	<navLabel>1</navLabel>
+	<name_s>1</name_s>
+	<kl_s>500g</kl_s>
+	<price_s>10000</price_s>
+	<sku_s>444</sku_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>true</isHot_b>
+	<sptype_o>	<item>	<key>balls</key>
+	<value_smv>balls</value_smv>
+	</item></sptype_o>
+	<image1_s>/static-assets/images/san-pham/Ca vien 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/Ca vien Huong Tom 2.jpg</image2_s>
+	<image3_s>/static-assets/images/san-pham/Ca vien huong Tom.png</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>f258a196-2307-399f-e564-fbe1b5f2405f</key>
+	<value>S</value>
+<component id="f258a196-2307-399f-e564-fbe1b5f2405f">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f258</objectGroupId>
+	<objectId>f258a196-2307-399f-e564-fbe1b5f2405f</objectId>
+	<file-name>f258a196-2307-399f-e564-fbe1b5f2405f.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app4.jpg</image_s>
+	<createdDate>2021-10-04T09:39:28.937Z</createdDate>
+	<createdDate_dt>2021-10-04T09:39:28.937Z</createdDate_dt>
+	<lastModifiedDate>2021-10-04T09:39:28.937Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-04T09:39:28.937Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<createdDate>2021-10-04T08:56:43.577Z</createdDate>
+	<createdDate_dt>2021-10-04T08:56:43.577Z</createdDate_dt>
+	<lastModifiedDate>2021-10-04T08:56:43.577Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-04T08:56:43.577Z</lastModifiedDate_dt>
+</page>

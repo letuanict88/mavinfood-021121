@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/recipedetail</content-type>
+	<display-template>/templates/web/pages/bepmavin.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1a36d1ca</objectGroupId>
+	<objectId>1a36d1ca-fe2a-4ae2-8939-76bb1c4d7792</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cong-thuc-2</folder-name>
+	<internal-name>Xúc xích Việt làm theo công thức bí truyền của Hoàng gia Đức</internal-name>
+	<navLabel>Xúc xích Việt làm theo công thức bí truyền của Hoàng gia Đức</navLabel>
+	<title_s>Xúc xích Việt làm theo công thức bí truyền </title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/bep/Mavinia tren ke sieu thi.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;D&amp;ugrave; mới c&amp;oacute; mặt tr&amp;ecirc;n thị trường chưa l&amp;acirc;u nhưng x&amp;uacute;c x&amp;iacute;ch Mavinia &amp;ndash; một sản phẩm mới của C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh thực phẩm Mavin đ&amp;atilde; g&amp;acirc;y sự ch&amp;uacute; &amp;yacute; cho người ti&amp;ecirc;u d&amp;ugrave;ng. Đặc biệt l&amp;agrave; nhờ c&amp;acirc;u chuyện ra đời hấp dẫn v&amp;agrave; c&amp;ocirc;ng nghệ sản xuất sạch của sản phẩm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tương truyền, tại một buổi tiệc của Ho&amp;agrave;ng Gia Đức v&amp;agrave;o thế kỷ thứ 9, Ho&amp;agrave;ng đế Đức đ&amp;atilde; y&amp;ecirc;u cầu c&amp;aacute;c đầu bếp chuẩn bị những m&amp;oacute;n ăn hảo hạng để chi&amp;ecirc;u đ&amp;atilde;i quan kh&amp;aacute;ch. Rất nhiều m&amp;oacute;n ăn được d&amp;acirc;ng l&amp;ecirc;n nhưng Ho&amp;agrave;ng đế chỉ d&amp;agrave;nh lời khen cho một m&amp;oacute;n x&amp;uacute;c x&amp;iacute;ch với c&amp;ocirc;ng thức chế biến đặc biệt. C&amp;ocirc;ng thức của m&amp;oacute;n ăn n&amp;agrave;y l&amp;agrave; b&amp;iacute; truyền cho đến năm 2016. Tại Hội chợ ẩm thực Bavaria - Đức, Tập đo&amp;agrave;n Mavin đ&amp;atilde; được c&amp;ocirc;ng nhận sở hữu c&amp;ocirc;ng thức chuẩn vị nhất v&amp;agrave; người ta đ&amp;atilde; đặt t&amp;ecirc;n cho m&amp;oacute;n x&amp;uacute;c x&amp;iacute;ch b&amp;iacute; truyền n&amp;agrave;y l&amp;agrave; Mavinia &amp;ndash; m&amp;oacute;n ăn y&amp;ecirc;u th&amp;iacute;ch của Ho&amp;agrave;ng đế Đức.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavinia thuyết phục người ti&amp;ecirc;u d&amp;ugrave;ng bằng hương vị thơm ngon, kh&amp;oacute; cưỡng. Mavinia l&amp;agrave;m chủ yếu từ thịt heo sạch c&amp;oacute; nguồn gốc từ c&amp;aacute;c trang trại c&amp;ocirc;ng nghiệp của Tập đo&amp;agrave;n Mavin, xay th&amp;ocirc; v&amp;agrave; tẩm ướp bằng c&amp;aacute;c gia vị nhập khẩu theo c&amp;ocirc;ng thức đặc biệt, vỏ l&amp;agrave;m bằng ruột cừu 100% tự nhi&amp;ecirc;n. Để tạo ra hương vị x&amp;ocirc;ng kh&amp;oacute;i đặc trưng, Mavinia được x&amp;ocirc;ng kh&amp;oacute;i bằng gỗ sồi nhập khẩu từ CHLB Đức, nhờ đ&amp;oacute;, giữ nguy&amp;ecirc;n được hương vị được Ho&amp;agrave;ng đế Đức y&amp;ecirc;u th&amp;iacute;ch. Ngo&amp;agrave;i ra, Mavinia &amp;aacute;p dụng c&amp;ocirc;ng nghệ truy xuất nguồn gốc bằng m&amp;atilde; QR để kh&amp;aacute;ch h&amp;agrave;ng t&amp;igrave;m hiểu v&amp;agrave; y&amp;ecirc;n t&amp;acirc;m về xuất xứ của sản phẩm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đặc biệt, Mavinia được sản xuất theo chuỗi gi&amp;aacute; trị sạch v&amp;agrave; kh&amp;eacute;p k&amp;iacute;n của Tập đo&amp;agrave;n Mavin, gồm: heo giống tuyển chọn từ c&amp;aacute;c nguồn giống tốt nhất tr&amp;ecirc;n thế giới, nu&amp;ocirc;i sạch tại c&amp;aacute;c trang trại c&amp;ocirc;ng nghiệp của Tập đo&amp;agrave;n Mavin với thức ăn chăn nu&amp;ocirc;i chất lượng cao do ch&amp;iacute;nh c&amp;aacute;c Nh&amp;agrave; m&amp;aacute;y của Mavin cung cấp, ph&amp;ograve;ng dịch bệnh nghi&amp;ecirc;m ngặt. Mavin cũng &amp;aacute;p dụng c&amp;ocirc;ng nghệ giết mổ ti&amp;ecirc;u chuẩn Ch&amp;acirc;u &amp;Acirc;u, an to&amp;agrave;n cho sức khỏe người ti&amp;ecirc;u d&amp;ugrave;ng. Mavinia xứng đ&amp;aacute;ng l&amp;agrave; sản phẩm an to&amp;agrave;n cho sức khỏe người ti&amp;ecirc;u d&amp;ugrave;ng v&amp;agrave; mang đậm tinh hoa ẩm thực Đức.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Th&amp;agrave;nh lập từ năm 2013, C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin hiện l&amp;agrave; doanh nghiệp lớn thứ 3 tại miền Bắc trong lĩnh vực thực phẩm. Sản phẩm phổ biến v&amp;agrave; quen thuộc nhất của Mavin l&amp;agrave; x&amp;uacute;c x&amp;iacute;ch sạch từ nguồn như Berliner, Hotdog, Vealino,&amp;hellip; Mavin sở hữu Nh&amp;agrave; m&amp;aacute;y chế biến thực phẩm c&amp;oacute; c&amp;ocirc;ng suất 10.000 tấn/năm, được đầu tư hệ thống sản xuất ho&amp;agrave;n to&amp;agrave;n theo c&amp;ocirc;ng nghệ hiện đại nhất của Cộng h&amp;ograve;a Li&amp;ecirc;n bang Đức, đảm bảo tạo ra c&amp;aacute;c sản phẩm chất lượng cao v&amp;agrave; tuyệt đối an to&amp;agrave;n vệ sinh thực phẩm. Với x&amp;uacute;c x&amp;iacute;ch Mavinia, kh&amp;aacute;ch h&amp;agrave;ng giờ đ&amp;acirc;y đ&amp;atilde; c&amp;oacute; cơ hội thưởng thức được một sản phẩm cao cấp đến từ nước Đức, với hương vị v&amp;agrave; kết cấu nguy&amp;ecirc;n bản của Ch&amp;acirc;u &amp;Acirc;u cổ xưa.&lt;/p&gt;</content_html>
+	<createdDate>2021-06-01T10:30:53.471Z</createdDate>
+	<createdDate_dt>2021-06-01T10:30:53.471Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T02:41:14.578Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T02:41:14.578Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>d28e0ed5-7c30-152c-c423-3f8fc6c89321</key>
+	<value>S</value>
+<component id="d28e0ed5-7c30-152c-c423-3f8fc6c89321">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d28e</objectGroupId>
+	<objectId>d28e0ed5-7c30-152c-c423-3f8fc6c89321</objectId>
+	<file-name>d28e0ed5-7c30-152c-c423-3f8fc6c89321.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app5.jpg</image_s>
+	<createdDate>2021-06-21T09:15:33.476Z</createdDate>
+	<createdDate_dt>2021-06-21T09:15:33.476Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T10:38:50.977Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T10:38:50.977Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

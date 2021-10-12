@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/encomlistproduct</content-type>
+	<display-template>/templates/web/components/en/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d1aa</objectGroupId>
+	<objectId>d1aa808a-ec46-2f5b-bfc0-886129c3ba6f</objectId>
+	<file-name>d1aa808a-ec46-2f5b-bfc0-886129c3ba6f.xml</file-name>
+	<internal-name>Do vien</internal-name>
+	<listproduct_s>balls</listproduct_s>
+	<createdDate>2021-09-30T09:19:59.366Z</createdDate>
+	<createdDate_dt>2021-09-30T09:19:59.366Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:19:59.366Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:19:59.366Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>02f7</objectGroupId>
+	<objectId>02f7cb99-b048-eb20-88ec-31123f41aafe</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>4</folder-name>
+	<internal-name>Do vien</internal-name>
+	<navLabel>Do vien</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>36e7d476-9ee3-2dc0-0bdf-dfccfbc84fbe</key>
+	<value>S</value>
+<component id="36e7d476-9ee3-2dc0-0bdf-dfccfbc84fbe">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>36e7</objectGroupId>
+	<objectId>36e7d476-9ee3-2dc0-0bdf-dfccfbc84fbe</objectId>
+	<file-name>36e7d476-9ee3-2dc0-0bdf-dfccfbc84fbe.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app3.jpg</image_s>
+	<createdDate>2021-09-30T09:17:58.738Z</createdDate>
+	<createdDate_dt>2021-09-30T09:17:58.738Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:17:58.738Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:17:58.738Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>3117cc37-6380-0fe3-6689-288620a3be87</key>
+	<value>Do vien</value>
+<component id="3117cc37-6380-0fe3-6689-288620a3be87">
+	<content-type>/component/encomgroupsp</content-type>
+	<display-template>/templates/web/components/en/groupproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3117</objectGroupId>
+	<objectId>3117cc37-6380-0fe3-6689-288620a3be87</objectId>
+	<file-name>3117cc37-6380-0fe3-6689-288620a3be87.xml</file-name>
+	<internal-name>Do vien</internal-name>
+	<title_s>Do vien</title_s>
+	<image_s>/static-assets/images/san-pham/Ca vien 1.png</image_s>
+	<groupproduct_o item-list="true">	<item datasource="groupProduct">	<key>/site/items/d1aa808a-ec46-2f5b-bfc0-886129c3ba6f.xml</key>
+	<value>Do vien</value>
+	<include>/site/items/d1aa808a-ec46-2f5b-bfc0-886129c3ba6f.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></groupproduct_o>
+	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<createdDate>2021-09-30T09:19:17.212Z</createdDate>
+	<createdDate_dt>2021-09-30T09:19:17.212Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:19:17.212Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:19:17.212Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-09-30T09:17:43.279Z</createdDate>
+	<createdDate_dt>2021-09-30T09:17:43.279Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:17:43.279Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:17:43.279Z</lastModifiedDate_dt>
+</page>

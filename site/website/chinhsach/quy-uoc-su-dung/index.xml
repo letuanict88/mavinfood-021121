@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/chinhsachdetail</content-type>
+	<display-template>/templates/web/pages/chinhsachdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2a681113</objectGroupId>
+	<objectId>2a681113-b27b-40b5-8dba-96214d1eea6a</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>quy-uoc-su-dung</folder-name>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>52731ec2-5090-7435-19cb-3c4e17b9c45c</key>
+	<value>Slide</value>
+<component id="52731ec2-5090-7435-19cb-3c4e17b9c45c">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5273</objectGroupId>
+	<objectId>52731ec2-5090-7435-19cb-3c4e17b9c45c</objectId>
+	<file-name>52731ec2-5090-7435-19cb-3c4e17b9c45c.xml</file-name>
+	<internal-name>Slide 5f4fe6bb</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-08-10T07:35:07.522Z</createdDate>
+	<createdDate_dt>2021-08-10T07:35:07.522Z</createdDate_dt>
+	<lastModifiedDate>2021-08-10T07:35:07.522Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-10T07:35:07.522Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<internal-name>Quy ước sử dụng Website</internal-name>
+	<navLabel>Quy ước sử dụng Website</navLabel>
+	<title_s>Quy ước sử dụng Website</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/tuyen-dung/DSC_2444.JPG</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Giới thiệu chung&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trang Web với t&amp;ecirc;n miền &amp;ldquo;https://mavinfood.com&amp;rdquo; l&amp;agrave; t&amp;agrave;i sản của C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin (sau đ&amp;acirc;y gọi tắt l&amp;agrave; MAVIN FOODS). Việc truy cập Trang Web đồng nghĩa với việc Qu&amp;yacute; kh&amp;aacute;ch đ&amp;atilde; hiểu r&amp;otilde;, ho&amp;agrave;n to&amp;agrave;n đồng &amp;yacute; v&amp;agrave; cam kết thực hiện đ&amp;uacute;ng với c&amp;aacute;c Điều khoản sau đ&amp;acirc;y:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Bản quyền v&amp;agrave; thương hiệu&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Những nội dung của trang web n&amp;agrave;y l&amp;agrave; to&amp;agrave;n bộ hay l&amp;agrave; một phần như thương hiệu, biểu tượng, h&amp;igrave;nh ảnh, biểu trưng, h&amp;igrave;nh tượng, phần mềm, văn bản v&amp;agrave; những nội dung kh&amp;aacute;c đều l&amp;agrave; t&amp;agrave;i sản của MAVIN FOODS v&amp;agrave;/hoặc c&amp;aacute;c nội dung th&amp;ocirc;ng tin do MAVIN FOODS kiểm so&amp;aacute;t.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thương hiệu MAVIN FOODS bao gồm logo, t&amp;ecirc;n gọi, m&amp;agrave;u sắc, biểu tượng v&amp;agrave; c&amp;aacute;c nh&amp;atilde;n m&amp;aacute;c dịch vụ được hiển thị tr&amp;ecirc;n Trang Web n&amp;agrave;y của MAVIN FOODS đ&amp;atilde; được bảo hộ theo quy định của ph&amp;aacute;p luật.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với tư c&amp;aacute;ch l&amp;agrave; chủ sở hữu hợp ph&amp;aacute;p c&amp;aacute;c nội dung được hiển thị tr&amp;ecirc;n Trang Web, MAVIN FOODS c&amp;oacute; to&amp;agrave;n quyền sửa đổi, bổ sung, x&amp;oacute;a bất kỳ nội dung n&amp;agrave;o của Trang Web v&amp;agrave;o bất kỳ thời điểm n&amp;agrave;o m&amp;agrave; kh&amp;ocirc;ng cần th&amp;ocirc;ng b&amp;aacute;o. C&amp;aacute;c nội dung về sản phẩm, dịch vụ hiển thị tr&amp;ecirc;n website của MAVIN FOODS mang t&amp;iacute;nh chất giới thiệu v&amp;agrave; kh&amp;ocirc;ng mặc nhi&amp;ecirc;n c&amp;oacute; hiệu lực &amp;aacute;p dụng v&amp;agrave;o bất kỳ thời điểm, địa điểm n&amp;agrave;o m&amp;agrave; Qu&amp;yacute; kh&amp;aacute;ch truy cập. MAVIN FOODS c&amp;oacute; quyền ho&amp;atilde;n, dừng ngừng cung cấp dịch vụ&amp;nbsp; qua website.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Kh&amp;ocirc;ng ai được thay đổi, xo&amp;aacute;, huỷ, giả mạo, sao ch&amp;eacute;p, tiết lộ, hiển thị, di chuyển tr&amp;aacute;i ph&amp;eacute;p, sử dụng v&amp;igrave; c&amp;aacute;c mục đ&amp;iacute;ch thương mại hay c&amp;ocirc;ng cộng bất kỳ một phần hoặc to&amp;agrave;n bộ những t&amp;agrave;i liệu n&amp;agrave;y m&amp;agrave; nếu kh&amp;ocirc;ng được MAVIN FOODS chấp thuận trước bằng văn bản. Việc sử dụng n&amp;agrave;y l&amp;agrave; hợp ph&amp;aacute;p nếu đ&amp;aacute;p ứng đầy đủ c&amp;aacute;c ti&amp;ecirc;u ch&amp;iacute; sau:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-&amp;nbsp; &amp;nbsp; Cho ch&amp;iacute;nh mục đ&amp;iacute;ch giao dịch với MAVIN FOODS,&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-&amp;nbsp; &amp;nbsp; Khi sử dụng phải tr&amp;iacute;ch dẫn nguồn v&amp;agrave; giữ nguy&amp;ecirc;n dường dẫn đến t&amp;agrave;i liệu gốc, giữ nguy&amp;ecirc;n t&amp;iacute;nh to&amp;agrave;n vẹn của th&amp;ocirc;ng tin v&amp;agrave; đảm bảo quyền sở hữu tr&amp;iacute; tuệ của&amp;nbsp; MAVIN FOODS đối với c&amp;aacute;c t&amp;agrave;i sản tr&amp;iacute; tuệ tr&amp;ecirc;n website n&amp;agrave;y&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Truy cập sử dụng&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;MAVIN FOODS nghi&amp;ecirc;m cấm sử dụng tr&amp;aacute;i ph&amp;eacute;p Trang Web n&amp;agrave;y, bao gồm nhưng kh&amp;ocirc;ng giới hạn, việc truy cập tr&amp;aacute;i ph&amp;eacute;p v&amp;agrave;o Trang Web, d&amp;ugrave;ng sai mật khẩu hoặc sử dụng tr&amp;aacute;i ph&amp;eacute;p bất kỳ th&amp;ocirc;ng tin v&amp;agrave; t&amp;agrave;i liệu n&amp;agrave;o được đăng tải tr&amp;ecirc;n Trang Web. Trong trường hợp ph&amp;aacute;t hiện việc truy cập v&amp;agrave; sử dụng tr&amp;aacute;i ph&amp;eacute;p Trang Web, MAVIN FOODS c&amp;oacute; thể lập tức chấm dứt thỏa thuận n&amp;agrave;y v&amp;agrave;/hoặc quyền truy cập v&amp;agrave;o Trang Web của Qu&amp;yacute; kh&amp;aacute;ch tại mọi thời điểm m&amp;agrave; kh&amp;ocirc;ng cần th&amp;ocirc;ng b&amp;aacute;o trước v&amp;agrave; y&amp;ecirc;u cầu Qu&amp;yacute; kh&amp;aacute;ch bồi thường thiệt hại (nếu c&amp;oacute;).&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Thư điện tử&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;MAVIN FOODS kh&amp;ocirc;ng bảo đảm rằng c&amp;aacute;c thư điện tử được gửi đến MAVIN FOODS qua đường Internet sẽ được bảo đảm t&amp;iacute;nh bảo mật. MAVIN FOODS sẽ kh&amp;ocirc;ng chịu tr&amp;aacute;ch nhiệm đối với bất kỳ thiệt hại n&amp;agrave;o xảy ra với người sử dụng nếu sử dụng thư điện tử kh&amp;ocirc;ng được bảo mật (nếu c&amp;oacute;). MAVIN FOODS kh&amp;ocirc;ng chịu tr&amp;aacute;ch nhiệm đối với c&amp;aacute;c thiệt hại trực tiếp, gi&amp;aacute;n tiếp, hoặc l&amp;agrave; hậu quả ph&amp;aacute;t sinh từ việc sử dụng Trang Web n&amp;agrave;y kh&amp;ocirc;ng đ&amp;uacute;ng quy định, kh&amp;ocirc;ng đ&amp;uacute;ng hướng dẫn v&amp;agrave;/hoặc kh&amp;ocirc;ng tu&amp;acirc;n thủ c&amp;aacute;c quy định về bảo mật th&amp;ocirc;ng tin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Giới hạn tr&amp;aacute;ch nhiệm&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với những tr&amp;aacute;ch nhiệm theo bất kỳ điều kiện hay bảo đảm n&amp;agrave;o m&amp;agrave; kh&amp;ocirc;ng thể được loại trừ theo quy định của ph&amp;aacute;p luật, sẽ được giới hạn bởi việc MAVIN FOODS quyết định việc lựa chọn để thay thế, sửa chữa, t&amp;aacute;i cung cấp c&amp;aacute;c sản phẩm, dịch vụ hay thanh to&amp;aacute;n cho c&amp;aacute;c chi ph&amp;iacute; t&amp;aacute;i cung cấp dịch vụ hoặc sửa chữa sản phẩm đ&amp;oacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Kh&amp;ocirc;ng đảm bảo&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;MAVIN FOODS trong giới hạn được ph&amp;aacute;p luật cho ph&amp;eacute;p, trong bất kỳ trường hợp n&amp;agrave;o, sẽ kh&amp;ocirc;ng chịu tr&amp;aacute;ch nhiệm đối với bất kỳ tổn thất, mất m&amp;aacute;t, thiệt hại n&amp;agrave;o trực tiếp hay gi&amp;aacute;n tiếp ph&amp;aacute;t sinh c&amp;oacute; li&amp;ecirc;n quan đến Trang Web n&amp;agrave;y v&amp;agrave;/hoặc c&amp;aacute;c trang web li&amp;ecirc;n kết kh&amp;aacute;c hay từ việc b&amp;ecirc;n n&amp;agrave;o sử dụng hoặc kh&amp;ocirc;ng sử dụng được Trang Web do lỗi, sai s&amp;oacute;t, gi&amp;aacute;n đoạn, chậm trễ trong hoạt động hay truyền dữ liệu, do virut, lỗi hệ thống hay đường truyền.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;MAVIN FOODS x&amp;acirc;y dựng c&amp;aacute;c th&amp;ocirc;ng tin v&amp;agrave; c&amp;aacute;c t&amp;agrave;i liệu tr&amp;ecirc;n Trang Web n&amp;agrave;y với sự thận trọng tối đa. Tuy nhi&amp;ecirc;n, MAVIN FOODS kh&amp;ocirc;ng bảo đảm t&amp;iacute;nh ch&amp;iacute;nh x&amp;aacute;c tuyệt đối, ph&amp;ugrave; hợp v&amp;agrave; đầy đủ của những nội dung đăng tải tr&amp;ecirc;n Trang Web, v&amp;agrave; trong giới hạn được ph&amp;aacute;p luật cho ph&amp;eacute;p, MAVIN FOODS kh&amp;ocirc;ng chịu tr&amp;aacute;ch nhiệm đối với c&amp;aacute;c lỗi hoặc thiếu s&amp;oacute;t trong c&amp;aacute;c th&amp;ocirc;ng tin v&amp;agrave; t&amp;agrave;i liệu, c&amp;aacute;c bảo đảm kh&amp;ocirc;ng vi phạm quyền, quyền sở hữu của b&amp;ecirc;n thứ ba, hoặc bảo đảm Trang Web kh&amp;ocirc;ng bị nhiễm vir&amp;uacute;t.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với vấn đề về qu&amp;aacute; tr&amp;igrave;nh truyền t&amp;iacute;nh hiệu v&amp;agrave; việc tải th&amp;ocirc;ng tin, MAVIN FOODS kh&amp;ocirc;ng bảo đảm rằng: c&amp;aacute;c đường truyền dữ liệu kh&amp;ocirc;ng bị chậm, gi&amp;aacute;n đoạn, lỗi, mất t&amp;iacute;n hiệu của đường truyền g&amp;acirc;y ra bởi c&amp;aacute;c thiết bị truyền ph&amp;aacute;t kh&amp;ocirc;ng thuộc sự kiểm so&amp;aacute;t của MAVIN FOODS, kh&amp;ocirc;ng chứa đựng vir&amp;uacute;t, nhiễm c&amp;aacute;c chương tr&amp;igrave;nh g&amp;acirc;y hại hoặc kh&amp;ocirc;ng c&amp;oacute; tổn thất đối với hệ thống m&amp;aacute;y t&amp;iacute;nh của Qu&amp;yacute; kh&amp;aacute;ch.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Để việc tải th&amp;ocirc;ng tin được bảo đảm an to&amp;agrave;n, Qu&amp;yacute; kh&amp;aacute;ch c&amp;oacute; tr&amp;aacute;ch nhiệm sử dụng c&amp;aacute;c thiết bị, chương tr&amp;igrave;nh bảo vệ ph&amp;ugrave; hợp v&amp;agrave; thực hiện việc qu&amp;eacute;t virut v&amp;agrave;/hoặc c&amp;aacute;c chương tr&amp;igrave;nh g&amp;acirc;y hại.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;aacute;c trang web li&amp;ecirc;n kết&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;MAVIN FOODS kh&amp;ocirc;ng chịu tr&amp;aacute;ch nhiệm về bất cứ th&amp;ocirc;ng tin, t&amp;agrave;i liệu, sản phẩm, dịch vụ v&amp;agrave; nội dung n&amp;agrave;o được đăng tải, cung cấp tại c&amp;aacute;c trang web kh&amp;aacute;c li&amp;ecirc;n kết đến Trang Web n&amp;agrave;y v&amp;agrave; vấn đề an to&amp;agrave;n v&amp;agrave; bảo mật của c&amp;aacute;c trang web đ&amp;oacute;. Khi truy cập, sử dụng những trang web li&amp;ecirc;n kết kh&amp;aacute;c, Qu&amp;yacute; kh&amp;aacute;ch phải tu&amp;acirc;n theo c&amp;aacute;c quy định sử dụng, an to&amp;agrave;n v&amp;agrave; bảo mật của c&amp;aacute;c trang web đ&amp;oacute; v&amp;agrave; tự chịu tr&amp;aacute;ch nhiệm về những tổn thất, thiệt hại cho việc truy cập, sử dụng đ&amp;oacute;.&lt;/p&gt;</content_html>
+	<createdDate>2021-08-10T07:32:56.146Z</createdDate>
+	<createdDate_dt>2021-08-10T07:32:56.146Z</createdDate_dt>
+	<lastModifiedDate>2021-08-12T07:42:09.243Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-12T07:42:09.243Z</lastModifiedDate_dt>
+	<date_dt>2021-08-01T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

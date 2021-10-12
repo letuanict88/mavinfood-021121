@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d593</objectGroupId>
+	<objectId>d593e407-2353-67ae-d9a6-e56bef132ab8</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>xuc-xich-hotdog</folder-name>
+	<internal-name>Hotdog</internal-name>
+	<navLabel>Hotdog</navLabel>
+	<name_s>Xúc xích Hotdog</name_s>
+	<kl_s>500 g/túi</kl_s>
+	<price_s>38000</price_s>
+	<isHot_b>true</isHot_b>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<sptype_o>	<item>	<key>xuc-xich</key>
+	<value_smv>Xúc xích</value_smv>
+	</item></sptype_o>
+	<image1_s>/static-assets/images/san-pham/XX Hot Dog 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/XX Hot Dog 3.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/XX Hot Dog 2.png</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>c77c17b9-9efe-10bd-24bd-5d75305ccea6</key>
+	<value>Slide</value>
+<component id="c77c17b9-9efe-10bd-24bd-5d75305ccea6">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c77c</objectGroupId>
+	<objectId>c77c17b9-9efe-10bd-24bd-5d75305ccea6</objectId>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<file-name>c77c17b9-9efe-10bd-24bd-5d75305ccea6.xml</file-name>
+	<createdDate>2021-08-05T04:35:24.300Z</createdDate>
+	<createdDate_dt>2021-08-05T04:35:24.300Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T04:35:24.300Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T04:35:24.300Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Nằm trong ph&amp;acirc;n kh&amp;uacute;c đại tr&amp;agrave;, x&amp;uacute;c x&amp;iacute;ch Hotdog hiện đang l&amp;agrave; d&amp;ograve;ng x&amp;uacute;c x&amp;iacute;ch được b&amp;aacute;n chạy nhất của Mavin. Hotdog cũng l&amp;agrave; t&amp;ecirc;n một loại x&amp;uacute;c x&amp;iacute;ch danh tiếng l&amp;acirc;u đời tr&amp;ecirc;n thế giới.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với th&amp;agrave;nh phần ch&amp;iacute;nh l&amp;agrave; thịt heo, đặc biệt c&amp;oacute; th&amp;ecirc;m th&amp;agrave;nh phần thịt g&amp;agrave;, Hotdog của Mavin đảm bảo đủ h&amp;agrave;m lượng dinh dưỡng m&amp;agrave; kh&amp;ocirc;ng cho cảm gi&amp;aacute;c gậy b&amp;eacute;o hay ngấy như mọi người vẫn nghĩ về ăn x&amp;uacute;c x&amp;iacute;ch.&lt;span style="white-space: pre;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Đặc điểm sản phẩm:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Th&amp;agrave;nh phần ch&amp;iacute;nh l&amp;agrave; thịt heo v&amp;agrave; thịt g&amp;agrave; c&amp;ugrave;ng c&amp;aacute;c gia vị đặc trưng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- H&amp;agrave;m lượng dinh dưỡng cao, kh&amp;ocirc;ng tạo cảm gi&amp;aacute;c b&amp;eacute;o gậy v&amp;agrave; đảm bảo an to&amp;agrave;n. thực phẩm cho NTD&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gi&amp;aacute; cả ph&amp;ugrave; hợp lựa chọn cho mọi Gia đ&amp;igrave;nh.&lt;/p&gt;</content_html>
+	<createdDate>2021-08-05T04:30:45.915Z</createdDate>
+	<createdDate_dt>2021-08-05T04:30:45.915Z</createdDate_dt>
+	<lastModifiedDate>2021-10-09T04:29:09.815Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-09T04:29:09.815Z</lastModifiedDate_dt>
+	<sku_s>8936082673912</sku_s>
+</page>

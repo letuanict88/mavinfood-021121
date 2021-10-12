@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/pages/tintuc.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2aa1</objectGroupId>
+	<objectId>2aa149fc-3f35-e5c5-632b-67348540b143</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ung-ho-dong-bao-mien-trung</folder-name>
+	<internal-name>4.000 kg xúc xích ủng hộ đồng bào bão lụt</internal-name>
+	<navLabel>4.000 kg xúc xích ủng hộ đồng bào bão lụt</navLabel>
+	<title_s>4.000 kg xúc xích ủng hộ đồng bào bão lụt</title_s>
+	<image_s>/static-assets/images/new/Ung ho dong bao MT 2.png</image_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>bdf3b6c4-2798-5f81-ecfb-4f4b28051014</key>
+	<value>Slide</value>
+<component id="bdf3b6c4-2798-5f81-ecfb-4f4b28051014">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bdf3</objectGroupId>
+	<objectId>bdf3b6c4-2798-5f81-ecfb-4f4b28051014</objectId>
+	<file-name>bdf3b6c4-2798-5f81-ecfb-4f4b28051014.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app5.jpg</image_s>
+	<internal-name>Slide</internal-name>
+	<createdDate>2021-08-04T08:43:23.643Z</createdDate>
+	<createdDate_dt>2021-08-04T08:43:23.643Z</createdDate_dt>
+	<lastModifiedDate>2021-08-04T08:43:23.643Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-04T08:43:23.643Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Ng&amp;agrave;y 17, 18/10/2020 - Hướng về kh&amp;uacute;c ruột miền Trung th&amp;acirc;n thương đang oằn m&amp;igrave;nh trong b&amp;atilde;o lũ do ảnh hưởng của cơn b&amp;atilde;o số 7, Tập đo&amp;agrave;n Mavin đ&amp;atilde; thực hiện trao tặng 4.000 kg x&amp;uacute;c x&amp;iacute;ch cho b&amp;agrave; con v&amp;ugrave;ng &amp;ldquo;rốn lũ&amp;rdquo; c&amp;aacute;c tỉnh Quảng B&amp;igrave;nh, Quảng Trị, Thừa Thi&amp;ecirc;n Huế, Quảng Nam.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ngay sau khi nắm được t&amp;igrave;nh h&amp;igrave;nh thiệt hại của c&amp;aacute;c tỉnh miền Trung, Tập đo&amp;agrave;n Mavin đ&amp;atilde; nhanh ch&amp;oacute;ng phối hợp với c&amp;aacute;c Nh&amp;agrave; ph&amp;acirc;n phối Mavin tr&amp;ecirc;n địa b&amp;agrave;n v&amp;agrave; th&amp;ocirc;ng qua Ủy ban Mặt Trận Tổ quốc Việt Nam c&amp;aacute;c tỉnh Quảng B&amp;igrave;nh, Quảng Trị, Thừa Thi&amp;ecirc;n Huế, Quảng Nam x&amp;aacute;c định c&amp;aacute;c khu vực thiệt hại nặng nề nhất, xem x&amp;eacute;t nhu cầu thực tế của người d&amp;acirc;n v&amp;agrave; quyết định trao tặng sản phẩm x&amp;uacute;c x&amp;iacute;ch Mavin - một thực phẩm tiện dụng gi&amp;uacute;p b&amp;agrave; con bổ sung dinh dưỡng khắc phục điều kiện thiếu thốn do b&amp;atilde;o lũ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;To&amp;agrave;n bộ 4.000 kg x&amp;uacute;c x&amp;iacute;ch ủng hộ đồng b&amp;agrave;o b&amp;atilde;o lụt được đ&amp;iacute;ch th&amp;acirc;n c&amp;aacute;n bộ Mavin phối hợp với một số nh&amp;agrave; ph&amp;acirc;n phối vận chuyển từ Nh&amp;agrave; m&amp;aacute;y chế biến thực phẩm Mavin Foods (Duy Ti&amp;ecirc;n, H&amp;agrave; Nam) vượt ng&amp;agrave;n c&amp;acirc;y số đến trao cho đại diện c&amp;aacute;c Ủy ban Mặt trận Tổ quốc của 4 tỉnh Quảng B&amp;igrave;nh, Quảng Trị, Thừa Thi&amp;ecirc;n Huế, Quảng Nam để ph&amp;acirc;n phối cho b&amp;agrave; con tr&amp;ecirc;n c&amp;aacute;c địa b&amp;agrave;n bị thiệt hại nặng nề nhất. Đo&amp;agrave;n cứu trợ của Mavin cũng đ&amp;atilde; trực tiếp đến thăm hỏi v&amp;agrave; trao tặng qu&amp;agrave; cho một số gia đ&amp;igrave;nh trong khu vực ngập lụt của c&amp;aacute;c tỉnh tr&amp;ecirc;n lộ tr&amp;igrave;nh di chuyển.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;Ocirc;ng L&amp;ecirc; Minh Phương &amp;ndash; Gi&amp;aacute;m đốc Kinh doanh k&amp;ecirc;nh GT C&amp;ocirc;ng ty Mavin Foods, trưởng Đo&amp;agrave;n cứu trợ đồng b&amp;agrave;o b&amp;atilde;o lụt miền Trung của Mavin cho biết, mặc d&amp;ugrave; việc di chuyển gặp nhiều kh&amp;oacute; khăn do mưa lớn nhưng với quyết t&amp;acirc;m v&amp;agrave; cảm th&amp;ocirc;ng s&amp;acirc;u sắc trước kh&amp;oacute; khăn của b&amp;agrave; con miền Trung, Đo&amp;agrave;n Mavin đ&amp;atilde; cố gắng đến c&amp;aacute;c điểm tiếp nhận h&amp;agrave;ng cứu trợ lũ lụt của c&amp;aacute;c tỉnh theo kế hoạch để kịp thời chuyển qu&amp;agrave; cho b&amp;agrave; con.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sau Chương tr&amp;igrave;nh cứu trợ đồng b&amp;agrave;o b&amp;atilde;o lụt, Tập đo&amp;agrave;n Mavin sẽ tiếp tục theo d&amp;otilde;i, phối hợp c&amp;ugrave;ng c&amp;aacute;c địa phương để khắc phục hậu quả sau thi&amp;ecirc;n tai, đặc biệt l&amp;agrave; c&amp;aacute;c chương tr&amp;igrave;nh hỗ trợ sinh kế gi&amp;uacute;p b&amp;agrave; con phục hồi hoạt động sản xuất, chăn nu&amp;ocirc;i. Đ&amp;acirc;y l&amp;agrave; những hoạt động tr&amp;aacute;ch nhiệm x&amp;atilde; hội của Mavin, chung tay v&amp;igrave; sự ph&amp;aacute;t triển của cộng đồng, chung tay ph&amp;aacute;t triển bền vững ng&amp;agrave;nh n&amp;ocirc;ng nghiệp Việt Nam.&lt;/p&gt;</content_html>
+	<createdDate>2021-08-04T08:41:45.430Z</createdDate>
+	<createdDate_dt>2021-08-04T08:41:45.430Z</createdDate_dt>
+	<lastModifiedDate>2021-08-09T09:53:56.401Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-09T09:53:56.401Z</lastModifiedDate_dt>
+	<date_dt>2020-12-04T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

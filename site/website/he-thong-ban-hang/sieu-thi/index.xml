@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagesieuthichitiet</content-type>
+	<display-template>/templates/web/sieuthi.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a0f2</objectGroupId>
+	<objectId>a0f21474-27ae-2f9c-c59e-eb0f55210801</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>sieu-thi</folder-name>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>c5a27318-7060-a50b-1168-ab7eab051c5f</key>
+	<value>Slide</value>
+<component id="c5a27318-7060-a50b-1168-ab7eab051c5f">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c5a2</objectGroupId>
+	<objectId>c5a27318-7060-a50b-1168-ab7eab051c5f</objectId>
+	<file-name>c5a27318-7060-a50b-1168-ab7eab051c5f.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app8.jpg</image_s>
+	<internal-name>Slide</internal-name>
+	<createdDate>2021-06-28T03:34:52.933Z</createdDate>
+	<createdDate_dt>2021-06-28T03:34:52.933Z</createdDate_dt>
+	<lastModifiedDate>2021-06-28T03:34:52.933Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-28T03:34:52.933Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Hệ thống siêu thị</internal-name>
+	<navLabel>Hệ thống siêu thị</navLabel>
+	<createdDate>2021-06-28T03:34:12.082Z</createdDate>
+	<createdDate_dt>2021-06-28T03:34:12.082Z</createdDate_dt>
+	<lastModifiedDate>2021-08-26T08:15:16.098Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-26T08:15:16.098Z</lastModifiedDate_dt>
+</page>

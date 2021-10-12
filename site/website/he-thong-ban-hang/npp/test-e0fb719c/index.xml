@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagemarketchitiet</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4911fe5e</objectGroupId>
+	<objectId>4911fe5e-afa6-4b7e-9f00-54cdd76af304</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test-e0fb719c</folder-name>
+	<internal-name>Đại lý Khu vực Sóc Sơn</internal-name>
+	<navLabel>Đại lý Khu vực Sóc Sơn</navLabel>
+	<name_s>Đại lý Khu vực Sóc Sơn - Hà Nội</name_s>
+	<address_s>xã Tiên Dược, Huyện Sóc Sơn, TP. Hà Nội</address_s>
+	<phone_s>0973708561</phone_s>
+	<latitude_s>21.237212319465794</latitude_s>
+	<longitude_s>105.84726331725982</longitude_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2021-09-13T10:59:08.737Z</createdDate>
+	<createdDate_dt>2021-09-13T10:59:08.737Z</createdDate_dt>
+	<lastModifiedDate>2021-09-14T02:18:48.484Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-14T02:18:48.484Z</lastModifiedDate_dt>
+</page>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagehethongbanhangchitiet</content-type>
+	<display-template>/templates/web/pages/hethongbanhangdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4ca1</objectGroupId>
+	<objectId>4ca11e20-7724-29e8-5b04-2fc82d03242d</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>npp</folder-name>
+	<internal-name>Hệ thống đại lý - npp</internal-name>
+	<navLabel>Hệ thống đại lý - npp</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>c4df0255-55d4-2fbd-1854-35eab2a80a64</key>
+	<value>Slide</value>
+<component id="c4df0255-55d4-2fbd-1854-35eab2a80a64">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c4df</objectGroupId>
+	<objectId>c4df0255-55d4-2fbd-1854-35eab2a80a64</objectId>
+	<file-name>c4df0255-55d4-2fbd-1854-35eab2a80a64.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app8.jpg</image_s>
+	<createdDate>2021-06-28T03:36:07.373Z</createdDate>
+	<createdDate_dt>2021-06-28T03:36:07.373Z</createdDate_dt>
+	<lastModifiedDate>2021-06-28T03:36:07.373Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-28T03:36:07.373Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<createdDate>2021-06-28T03:35:21.969Z</createdDate>
+	<createdDate_dt>2021-06-28T03:35:21.969Z</createdDate_dt>
+	<lastModifiedDate>2021-08-26T08:15:40.404Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-26T08:15:40.404Z</lastModifiedDate_dt>
+	<title_s>He Thong Ban Hang</title_s>
+</page>

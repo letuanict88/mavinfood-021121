@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/pages/tintuc.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3d5b</objectGroupId>
+	<objectId>3d5b283f-1bab-4ee7-4e20-8d5af9bbf82b</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>thuc-pham-sach-giao-tan-nha</folder-name>
+	<internal-name>Hà Nội giãn cách nhưng không giãn lòng - Thực phẩm Sạch từ nguồn hỗ trợ giao tận nhà</internal-name>
+	<navLabel>Hà Nội giãn cách nhưng không giãn lòng - Thực phẩm Sạch từ nguồn hỗ trợ giao tận nhà</navLabel>
+	<title_s>Hà Nội giãn cách nhưng không giãn lòng - Thực phẩm Sạch từ nguồn hỗ trợ giao tận nhà</title_s>
+	<image_s>/static-assets/images/new/QC FB Food 8.2021A.jpg</image_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>fbab7847-0d6c-fb68-3e42-fcb8ab2a752e</key>
+	<value>slide</value>
+<component id="fbab7847-0d6c-fb68-3e42-fcb8ab2a752e">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fbab</objectGroupId>
+	<objectId>fbab7847-0d6c-fb68-3e42-fcb8ab2a752e</objectId>
+	<file-name>fbab7847-0d6c-fb68-3e42-fcb8ab2a752e.xml</file-name>
+	<internal-name>slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-08-12T04:45:09.695Z</createdDate>
+	<createdDate_dt>2021-08-12T04:45:09.695Z</createdDate_dt>
+	<lastModifiedDate>2021-08-12T04:45:09.695Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-12T04:45:09.695Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Đồng h&amp;agrave;nh c&amp;ugrave;ng Thủ đ&amp;ocirc; H&amp;agrave; Nội quyết t&amp;acirc;m chiến thắng đại dịch, Mavin Foods hỗ trợ GIAO H&amp;Agrave;NG MIỄN PH&amp;Iacute; TẬN NH&amp;Agrave; c&amp;aacute;c sản phẩm X&amp;Uacute;C X&amp;Iacute;CH, ĐỒ VI&amp;Ecirc;N, GI&amp;Ograve; CHẢ, phục vụ nhu cầu thực phẩm sạch v&amp;agrave; an to&amp;agrave;n của kh&amp;aacute;ch h&amp;agrave;ng trong thời gian gi&amp;atilde;n c&amp;aacute;ch.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Kh&amp;ocirc;ng cần ra đường, kh&amp;ocirc;ng cần đắn đo, với mức gi&amp;aacute; v&amp;ocirc; c&amp;ugrave;ng hợp l&amp;yacute;, chỉ từ 34.000 đồng/t&amp;uacute;i x&amp;uacute;c x&amp;iacute;ch 500gr v&amp;agrave; 25.000 đồng/t&amp;uacute;i c&amp;aacute; vi&amp;ecirc;n 500 gr, Mavin Foods l&amp;agrave; sự lựa chọn ph&amp;ugrave; hợp cho cả c&amp;aacute;c gia đ&amp;igrave;nh c&amp;oacute; chi ti&amp;ecirc;u hạn hẹp m&amp;agrave; vẫn đảm bảo dinh dưỡng, an to&amp;agrave;n, chất lượng. Chỉ cần COMMENT hoặc INBOX tr&amp;ecirc;n fanpage của Mavin Foods tại địa chỉ: &lt;a href="https://www.facebook.com/mavinfood"&gt;https://www.facebook.com/mavinfood&lt;/a&gt;, bạn sẽ được giao tận nh&amp;agrave; c&amp;aacute;c sản phẩm sạch sẽ, an to&amp;agrave;n, truy xuất nguồn gốc Mavin Foods.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Mavin Foods l&amp;agrave; một trong số &amp;iacute;t c&amp;aacute;c C&amp;ocirc;ng ty tại Việt Nam hoạt động kh&amp;eacute;p k&amp;iacute;n chuỗi gi&amp;aacute; trị &amp;ldquo;Từ N&amp;ocirc;ng trại tới b&amp;agrave;n ăn&amp;rdquo;, kiểm so&amp;aacute;t tốt nhất chất lượng nguy&amp;ecirc;n liệu v&amp;agrave; đảm bảo truy xuất nguồn gốc.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;&lt;em&gt;3 yếu tố đảm bảo sản phẩm Mavin Foods sạch sẽ, an to&amp;agrave;n, tươi ngon:&lt;/em&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;Nguy&amp;ecirc;n liệu an to&amp;agrave;n:&lt;/strong&gt; Nguy&amp;ecirc;n liệu để sản xuất sản phẩm của Mavin Foods l&amp;agrave; thịt sạch được cung cấp bởi ch&amp;iacute;nh hệ thống trang trại kh&amp;eacute;p k&amp;iacute;n chuỗi gi&amp;aacute; trị của Tập đo&amp;agrave;n Mavin;&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;Kiểm so&amp;aacute;t giết mổ: &lt;/strong&gt;Mavin sử dụng c&amp;ocirc;ng nghệ giết mổ theo ti&amp;ecirc;u chuẩn Ch&amp;acirc;u &amp;Acirc;u, hạn chế tối đa nhiễm khuẩn từ b&amp;ecirc;n ngo&amp;agrave;i;&lt;/span&gt;&lt;/li&gt;
+&lt;li style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;Chế biến an to&amp;agrave;n:&lt;/strong&gt; Nh&amp;agrave; m&amp;aacute;y chế biến của Mavin Foods đặt tại Duy Ti&amp;ecirc;n, H&amp;agrave; Nam được đầu tư c&amp;ocirc;ng nghệ sản xuất hiện đại của CHLB Đức, đạt ti&amp;ecirc;u chuẩn ISO 22000 v&amp;agrave; HACCP, sản phẩm nhờ đ&amp;oacute; kh&amp;ocirc;ng những đảm bảo vệ sinh an to&amp;agrave;n thực phẩm m&amp;agrave; c&amp;ograve;n mang hương vị nguy&amp;ecirc;n bản Ch&amp;acirc;u &amp;Acirc;u.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Đặc biệt, Thực phẩm sạch từ nguồn Mavin Foods đang đồng h&amp;agrave;nh c&amp;ugrave;ng Thủ đ&amp;ocirc; H&amp;agrave; Nội trong Chương tr&amp;igrave;nh &amp;ldquo;&lt;em&gt;&lt;a href="https://www.facebook.com/mavinfood/posts/4211751688943034?__cft__[0]=AZUweLdYS8RzKytpJ_ew0nr7Pa5dNs0LYTg8yettbUe8w6-5XlR9t3VCGzFNhUO5usJzUGXG8UwquRiwnU0gV9ETz_pDECiroZI-vUf7fAGgh_ttN-eLZmvqecXc1LxLNCABt3QxaHlES4uJ8z4Tx7BkX-6YuDxQjpXSMlaWb6tbo5Jdhaej8-2COU3G0pa-mrI&amp;amp;__tn__=%2CO%2CP-R"&gt;H&amp;agrave; Nội tr&amp;aacute;i tim hồng &amp;ndash; Si&amp;ecirc;u thị mini 0 đồng&lt;/a&gt;&lt;/em&gt;&amp;rdquo;, đ&amp;oacute;ng g&amp;oacute;p trong giỏ h&amp;agrave;ng thực phẩm thiết yếu hỗ trợ những người lao động kh&amp;oacute; khăn, sinh vi&amp;ecirc;n ngh&amp;egrave;o mắc kẹt, ho&amp;agrave;n cảnh neo đơn của Thủ đ&amp;ocirc; trong những ng&amp;agrave;y gi&amp;atilde;n c&amp;aacute;ch.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;C&amp;ugrave;ng Mavin, h&amp;atilde;y y&amp;ecirc;n t&amp;acirc;m thực hiện gi&amp;atilde;n c&amp;aacute;ch x&amp;atilde; hội, đồng l&amp;ograve;ng v&amp;agrave; quyết t&amp;acirc;m chiến thắng đại dịch bạn nh&amp;eacute;! Mọi nhu cầu về thực phẩm sạch h&amp;atilde;y để Mavin lo!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-08-12T04:42:11.272Z</createdDate>
+	<createdDate_dt>2021-08-12T04:42:11.272Z</createdDate_dt>
+	<lastModifiedDate>2021-08-12T04:54:29.943Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-12T04:54:29.943Z</lastModifiedDate_dt>
+	<date_dt>2021-08-12T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

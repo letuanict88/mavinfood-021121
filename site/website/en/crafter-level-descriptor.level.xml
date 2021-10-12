@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/level-descriptor</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c80a</objectGroupId>
+	<objectId>c80a43f6-366d-963c-b297-18dbc8238225</objectId>
+	<file-name>crafter-level-descriptor.level.xml</file-name>
+	<folder-name/>
+	<header_o item-list="true">	<item datasource="components-header">	<key>/site/components/headers//27484928-97e8-83c1-63be-ca565cb0af93.xml</key>
+	<value>Header</value>
+	<include>/site/components/headers//27484928-97e8-83c1-63be-ca565cb0af93.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<footer_o item-list="true">	<item datasource="component-footer">	<key>/site/components/footers//11cb1f67-0447-b57f-ed0d-e83a03a8c0f3.xml</key>
+	<value>Footer</value>
+	<include>/site/components/footers//11cb1f67-0447-b57f-ed0d-e83a03a8c0f3.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+	<createdDate>2021-09-29T07:48:38.191Z</createdDate>
+	<createdDate_dt>2021-09-29T07:48:38.191Z</createdDate_dt>
+	<lastModifiedDate>2021-09-29T07:49:46.160Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-29T07:49:46.160Z</lastModifiedDate_dt>
+</component>

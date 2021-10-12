@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pageagency</content-type>
+	<display-template>/templates/web/pageagency.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c2aebb3a</objectGroupId>
+	<objectId>c2aebb3a-5b30-4c90-a9a3-831cd81d50a9</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>daily3</folder-name>
+	<internal-name>BigC Long Biên</internal-name>
+	<navLabel>BigC Long Biên</navLabel>
+	<name_s>BigC Long Biên</name_s>
+	<address_s>số 7-9 Nguyễn Văn Linh, TTTM Savico Megamall, Long</address_s>
+	<phone_s>024 6257 3573</phone_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2021-07-28T14:50:59.398Z</createdDate>
+	<createdDate_dt>2021-07-28T14:50:59.398Z</createdDate_dt>
+	<lastModifiedDate>2021-08-23T06:51:37.725Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-23T06:51:37.725Z</lastModifiedDate_dt>
+	<latitude_s>21.0264512101336</latitude_s>
+	<longitude_s>105.79745181829894</longitude_s>
+</page>

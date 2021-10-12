@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/tuyendung</content-type>
+	<display-template>/templates/web/pages/tuyendungdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>41d8d9cb</objectGroupId>
+	<objectId>41d8d9cb-0332-4144-a53d-81d2396f47e0</objectId>
+	<internal-name>PHÓ GIÁM ĐỐC TRUNG TÂM CHẨN ĐOÁN</internal-name>
+	<navLabel>PHÓ GIÁM ĐỐC TRUNG TÂM CHẨN ĐOÁN</navLabel>
+	<title_s>PHÓ GIÁM ĐỐC TRUNG TÂM CHẨN ĐOÁN</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>tin-6</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<content_html>&lt;p&gt;Vị tr&amp;iacute;: PGĐ TT Chẩn Đo&amp;aacute;n Mavin Pigfarm&lt;/p&gt;
+&lt;p&gt;Địa chỉ l&amp;agrave;m việc: Thị Tứ B&amp;ocirc; Thời, Hồng Tiến, Kho&amp;aacute;i Ch&amp;acirc;u, Hưng Y&amp;ecirc;n &amp;amp; Số 6, Nguyễn Hữu Thọ, Ho&amp;agrave;ng Mai, H&amp;agrave; Nội&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;M&amp;Ocirc; TẢ C&amp;Ocirc;NG VIỆC&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Triển khai v&amp;agrave; ph&amp;acirc;n c&amp;ocirc;ng c&amp;ocirc;ng việc cho nh&amp;acirc;n vi&amp;ecirc;n theo m&amp;ocirc; h&amp;igrave;nh tổ chức của C&amp;ocirc;ng ty;&lt;/p&gt;
+&lt;p&gt;- X&amp;acirc;y dựng, chuẩn h&amp;oacute;a v&amp;agrave; ph&amp;aacute;t triển phương ph&amp;aacute;p x&amp;eacute;t nhiệm;&lt;/p&gt;
+&lt;p&gt;- Kiểm so&amp;aacute;t v&amp;agrave; đ&amp;aacute;nh gi&amp;aacute; chất lượng c&amp;aacute;c kết quả x&amp;eacute;t nghiệm;&lt;/p&gt;
+&lt;p&gt;- Lập v&amp;agrave; gi&amp;aacute;m s&amp;aacute;t triển khai c&amp;aacute;c chương tr&amp;igrave;nh khảo nghiệm, tầm so&amp;aacute;t;&lt;/p&gt;
+&lt;p&gt;- Quản l&amp;yacute; số liệu, ph&amp;acirc;n t&amp;iacute;ch v&amp;agrave; bảo mật số liệu theo qui định;&lt;/p&gt;
+&lt;p&gt;- Đ&amp;agrave;o tạo chuy&amp;ecirc;n m&amp;ocirc;n cho nh&amp;acirc;n vi&amp;ecirc;n trực thuộc v&amp;agrave; cho c&amp;aacute;c bộ phận kh&amp;aacute;c (nếu c&amp;oacute;);&lt;/p&gt;
+&lt;p&gt;- Thực hiện c&amp;aacute;c b&amp;aacute;o c&amp;aacute;o, kế hoạch, chương tr&amp;igrave;nh&amp;hellip; theo qui định v&amp;agrave; theo y&amp;ecirc;u cầu (nếu c&amp;oacute;)&lt;/p&gt;
+&lt;p&gt;- Thực hiện c&amp;aacute;c c&amp;ocirc;ng việc kh&amp;aacute;c theo sự ph&amp;acirc;n c&amp;ocirc;ng của Gi&amp;aacute;m đốc TTCĐ v&amp;agrave; cấp tr&amp;ecirc;n gi&amp;aacute;n tiếp&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Y&amp;Ecirc;U CẦU C&amp;Ocirc;NG VIỆC&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Bằng cấp chuy&amp;ecirc;n m&amp;ocirc;n: c&amp;ocirc;ng nghệ sinh học, sinh học ph&amp;acirc;n tử từ đại học trở l&amp;ecirc;n;&lt;/p&gt;
+&lt;p&gt;- Ngoại ngữ v&amp;agrave; tin học: đọc v&amp;agrave; viết tốt tiếng Anh chuy&amp;ecirc;n ng&amp;agrave;nh; th&amp;ocirc;ng thạo tin học văn ph&amp;ograve;ng;&lt;/p&gt;
+&lt;p&gt;- Kinh nghiệm: c&amp;oacute; kinh nghiệm trong lĩnh vực (i) kỹ thuật ph&amp;acirc;n t&amp;iacute;ch sinh học ph&amp;acirc;n tử (PCR, real time PCR, Elisa,&amp;hellip;), c&amp;oacute; kinh nghiệm về vi sinh, kh&amp;aacute;ng sinh đồ, h&amp;oacute;a ph&amp;acirc;n t&amp;iacute;ch,&amp;hellip; l&amp;agrave; một lợi thế.&lt;/p&gt;
+&lt;p&gt;- Kỹ năng lập kế hoạch, ph&amp;acirc;n t&amp;iacute;ch-tổng hợp-đ&amp;aacute;nh gi&amp;aacute;, viết b&amp;aacute;o c&amp;aacute;o, l&amp;agrave;m việc nh&amp;oacute;m-phối hợp, thuyết tr&amp;igrave;nh-thuyết phục, l&amp;agrave;m việc chủ động-độc lập, giao tiếp: tốt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;* QUYỀN LỢI:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Thu nhập thỏa thuận theo năng lực&lt;/p&gt;
+&lt;p&gt;- Được tham gia c&amp;aacute;c kh&amp;oacute;a đ&amp;agrave;o tạo về nghiệp vụ tại C&amp;ocirc;ng ty.&lt;/p&gt;
+&lt;p&gt;- Được trang bị đầy đủ về bảo hộ lao động phục vụ c&amp;ocirc;ng việc.&lt;/p&gt;
+&lt;p&gt;- Ph&amp;uacute;c lợi: theo quy định của Bộ luật lao động v&amp;agrave; ch&amp;iacute;nh s&amp;aacute;ch đ&amp;atilde;i ngộ kh&amp;aacute;c của c&amp;ocirc;ng ty ( tiền điện thoại, tiền gởi xe, thưởng lễ, Tết&amp;hellip;)&lt;/p&gt;
+&lt;p&gt;- Ng&amp;agrave;y nghỉ: Theo quy định Bộ Luật Lao động hiện h&amp;agrave;nh&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;* TH&amp;Ocirc;NG TIN LI&amp;Ecirc;N HỆ:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Ứng vi&amp;ecirc;n quan t&amp;acirc;m vui l&amp;ograve;ng gửi CV qua mail: tuyendung@mavinfarm.com&lt;/p&gt;
+&lt;p&gt;- Hoặc li&amp;ecirc;n hệ trực tiếp Ms Tuyền, SĐT: 0989.539.856.&lt;/p&gt;</content_html>
+	<createdDate>2021-06-17T04:26:07.346Z</createdDate>
+	<createdDate_dt>2021-06-17T04:26:07.346Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T10:04:12.885Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T10:04:12.885Z</lastModifiedDate_dt>
+	<date_dt>2021-06-17T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>728fc45e-3ea2-2d1f-15ce-1d66055b52d4</key>
+	<value>S</value>
+<component id="728fc45e-3ea2-2d1f-15ce-1d66055b52d4">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>728f</objectGroupId>
+	<objectId>728fc45e-3ea2-2d1f-15ce-1d66055b52d4</objectId>
+	<file-name>728fc45e-3ea2-2d1f-15ce-1d66055b52d4.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app6.jpg</image_s>
+	<createdDate>2021-06-21T09:35:53.329Z</createdDate>
+	<createdDate_dt>2021-06-21T09:35:53.329Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:10:44.119Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:10:44.119Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

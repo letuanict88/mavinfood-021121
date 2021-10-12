@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/chinhsachdetail</content-type>
+	<display-template>/templates/web/pages/chinhsachdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>46397de8</objectGroupId>
+	<objectId>46397de8-5d5f-4343-82c4-1f684511fffd</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cs2</folder-name>
+	<internal-name>Văn hóa doanh nghiệp</internal-name>
+	<navLabel>Văn hóa doanh nghiệp</navLabel>
+	<title_s>Văn hóa doanh nghiệp</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/tuyen-dung/tuyen-dung.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Tập đo&amp;agrave;n Mavin l&amp;agrave; nơi hội tụ của c&amp;aacute;c c&amp;aacute; nh&amp;acirc;n ưu t&amp;uacute; của Việt Nam v&amp;agrave; quốc tế, những người t&amp;acirc;m huyết với sự ph&amp;aacute;t triển của ng&amp;agrave;nh n&amp;ocirc;ng nghiệp Việt Nam, với ước mong mang lại nguồn thực phẩm sạch, an to&amp;agrave;n v&amp;igrave; sức khỏe của mọi người.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;6 gi&amp;aacute; trị cốt l&amp;otilde;i gồm &amp;ldquo;Đo&amp;agrave;n kết - Đổi mới - Tr&amp;aacute;ch nhiệm - Chất lượng - Sự h&amp;agrave;i l&amp;ograve;ng của kh&amp;aacute;ch h&amp;agrave;ng &amp;ndash; Minh bạch&amp;rdquo; hiện đang l&amp;agrave; kim chỉ nan cho h&amp;agrave;nh động của mọi th&amp;agrave;nh vi&amp;ecirc;n Mavin. Với gần 15 năm th&amp;agrave;nh lập v&amp;agrave; ph&amp;aacute;t triển, Mavin tự h&amp;agrave;o l&amp;agrave; 1 c&amp;ocirc;ng ty uy t&amp;iacute;n nhất cung cấp chuỗi gi&amp;aacute; trị &amp;ldquo;từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn&amp;rdquo; cho mọi nh&amp;agrave;. Mỗi ng&amp;agrave;y tr&amp;ocirc;i qua, Mavin tự h&amp;agrave;o mang đến c&amp;aacute;c sản phẩm sạch từ nguồn đến tay người ti&amp;ecirc;u d&amp;ugrave;ng Việt Nam.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tinh thần l&amp;agrave;m việc Tr&amp;aacute;ch nhiệm, lu&amp;ocirc;n lu&amp;ocirc;n Đổi mới, S&amp;aacute;ng tạo đ&amp;atilde; thấm nhuần đối với mỗi th&amp;agrave;nh vi&amp;ecirc;n Mavin. Mỗi một &amp;yacute; kiến cải tiến, đổi mới li&amp;ecirc;n quan đến sản xuất, quy tr&amp;igrave;nh l&amp;agrave;m việc để cho năng suất cao hơn, hiệu quả hơn, tiết kiệm hơn, đều được Ban l&amp;atilde;nh đạo tr&amp;acirc;n trọng v&amp;agrave; trao thưởng xứng đ&amp;aacute;ng với quỹ thưởng l&amp;ecirc;n tới 10.000 USD mỗi năm. Tinh thần 5S được phổ biến rộng r&amp;atilde;i, đ&amp;atilde; g&amp;oacute;p phần đ&amp;aacute;ng kể n&amp;acirc;ng cao hiệu quả hoạt động của Mavin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chất lượng sản phẩm v&amp;agrave; sự h&amp;agrave;i l&amp;ograve;ng của kh&amp;aacute;ch h&amp;agrave;ng l&amp;agrave; mục ti&amp;ecirc;u cuối c&amp;ugrave;ng trong chuỗi gi&amp;aacute; trị của Mavin, l&amp;agrave; cơ sở v&amp;agrave; động lực để mọi th&amp;agrave;nh vi&amp;ecirc;n Mavin nỗ lực tự ho&amp;agrave;n thiện m&amp;igrave;nh. Ch&amp;uacute;ng t&amp;ocirc;i lu&amp;ocirc;n tr&amp;acirc;n trọng v&amp;agrave; n&amp;acirc;ng niu mọi mối quan hệ với kh&amp;aacute;ch h&amp;agrave;ng, lắng nghe v&amp;agrave; thấu hiểu nhu cầu để n&amp;acirc;ng cao chất lượng sản phẩm, phục vụ kh&amp;aacute;ch h&amp;agrave;ng tốt hơn. C&amp;aacute;c th&amp;agrave;nh vi&amp;ecirc;n của Mavin được đ&amp;agrave;o tạo li&amp;ecirc;n tục c&amp;aacute;c kỹ năng về dịch vụ kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; coi chất lượng v&amp;agrave; kh&amp;aacute;ch h&amp;agrave;ng l&amp;agrave; hai nh&amp;acirc;n tố cần thiết nhất cho sự ph&amp;aacute;t triển bền vững của Mavin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Để mọi th&amp;agrave;nh vi&amp;ecirc;n chia sẻ với mục ti&amp;ecirc;u v&amp;agrave; chiến lược ph&amp;aacute;t triển, Mavin thường xuy&amp;ecirc;n c&amp;oacute; c&amp;aacute;c chương tr&amp;igrave;nh Teambuilding cho to&amp;agrave;n thể c&amp;aacute;n bộ kinh doanh h&amp;agrave;ng năm, Tọa đ&amp;agrave;m chiến lược kinh doanh cho c&amp;aacute;c cấp quản l&amp;yacute;. C&amp;aacute;c diễn đ&amp;agrave;n nội bộ, Bản tin nội bộ,&amp;hellip; l&amp;agrave; nơi c&amp;aacute;c th&amp;agrave;nh vi&amp;ecirc;n cập nhật th&amp;ocirc;ng tin hệ thống, trao đổi kinh nghiệm trong c&amp;ocirc;ng việc v&amp;agrave; cuộc sống đ&amp;atilde; v&amp;agrave; đang g&amp;oacute;p phần vun đắp tinh thần đo&amp;agrave;n kết v&amp;agrave; sự minh bạch trong tập thể Mavin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavin tự h&amp;agrave;o l&amp;agrave; ng&amp;ocirc;i nh&amp;agrave; thứ 2 của mọi nh&amp;acirc;n vi&amp;ecirc;n, nơi c&amp;aacute;c th&amp;agrave;nh vi&amp;ecirc;n gắn b&amp;oacute; v&amp;agrave; d&amp;agrave;nh nhiều thời gian, t&amp;acirc;m huyết để c&amp;ugrave;ng nhau ph&amp;aacute;t triển. Mavin cũng tự h&amp;agrave;o đ&amp;atilde; đ&amp;agrave;o tạo v&amp;agrave; ph&amp;aacute;t triển được rất nhiều c&amp;aacute;c chuy&amp;ecirc;n gia, kỹ sư l&amp;agrave;nh nghề trong lĩnh vực n&amp;ocirc;ng nghiệp, thực phẩm, đ&amp;oacute;ng g&amp;oacute;p t&amp;iacute;ch cực cho sự ph&amp;aacute;t triển của Mavin cũng như sự ph&amp;aacute;t triển của ng&amp;agrave;nh n&amp;ocirc;ng nghiệp Việt Nam.&lt;/p&gt;</content_html>
+	<createdDate>2021-06-17T04:18:08.030Z</createdDate>
+	<createdDate_dt>2021-06-17T04:18:08.030Z</createdDate_dt>
+	<lastModifiedDate>2021-08-12T07:47:17.192Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-12T07:47:17.192Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>e2fd34ba-000b-2dcb-40e9-4c51d61a244d</key>
+	<value>S</value>
+<component id="e2fd34ba-000b-2dcb-40e9-4c51d61a244d">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e2fd</objectGroupId>
+	<objectId>e2fd34ba-000b-2dcb-40e9-4c51d61a244d</objectId>
+	<file-name>e2fd34ba-000b-2dcb-40e9-4c51d61a244d.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app6.jpg</image_s>
+	<createdDate>2021-06-21T09:35:14.458Z</createdDate>
+	<createdDate_dt>2021-06-21T09:35:14.458Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:12:43.938Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:12:43.938Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<date_dt>2021-08-12T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

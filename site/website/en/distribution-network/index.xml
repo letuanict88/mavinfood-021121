@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>83d6</objectGroupId>
+	<objectId>83d6f5a1-c0b0-bef5-516d-c626cc3f14e1</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>distribution-network</folder-name>
+	<internal-name>Distribution network</internal-name>
+	<navLabel>Distribution network</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>f71ef055-101e-9f53-9043-69c55b8f57f5</key>
+	<value>S</value>
+<component id="f71ef055-101e-9f53-9043-69c55b8f57f5">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f71e</objectGroupId>
+	<objectId>f71ef055-101e-9f53-9043-69c55b8f57f5</objectId>
+	<image_s>/static-assets/images/header/bg-app6.jpg</image_s>
+	<internal-name>S</internal-name>
+	<file-name>f71ef055-101e-9f53-9043-69c55b8f57f5.xml</file-name>
+	<createdDate>2021-09-30T04:53:34.054Z</createdDate>
+	<createdDate_dt>2021-09-30T04:53:34.054Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:53:34.054Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:53:34.054Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>425301f3-e8fc-e9ba-1610-f57c316441fc</key>
+	<value>Distribution network - Con</value>
+<component id="425301f3-e8fc-e9ba-1610-f57c316441fc">
+	<content-type>/component/encomhethongbanhang</content-type>
+	<display-template>/templates/web/components/en/hethongbanhang.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4253</objectGroupId>
+	<objectId>425301f3-e8fc-e9ba-1610-f57c316441fc</objectId>
+	<file-name>425301f3-e8fc-e9ba-1610-f57c316441fc.xml</file-name>
+	<internal-name>Distribution network - Con</internal-name>
+	<createdDate>2021-09-30T04:53:59.804Z</createdDate>
+	<createdDate_dt>2021-09-30T04:53:59.804Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:53:59.804Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:53:59.804Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-09-30T04:53:16.350Z</createdDate>
+	<createdDate_dt>2021-09-30T04:53:16.350Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:53:16.350Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:53:16.350Z</lastModifiedDate_dt>
+</page>

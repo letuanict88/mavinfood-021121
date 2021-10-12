@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5468</objectGroupId>
+	<objectId>5468b7ba-8276-7f23-9431-ef229ab8ea38</objectId>
+	<items item-list="true">	<item>	<key>xuc-xich</key>
+	<value>Xúc xích</value>
+	</item>	<item>	<key>do-vien</key>
+	<value>Đồ viên</value>
+	</item>	<item>	<key>gio-cha</key>
+	<value>Giò chả</value>
+	</item>	<item>	<key>cat-lat</key>
+	<value>Cắt lát</value>
+	</item>	<item>	<key>sp-khác</key>
+	<value>Sản phẩm khác</value>
+	</item></items>
+	<internal-name>Nhóm sản phẩm</internal-name>
+	<file-name>nhom-sp.xml</file-name>
+	<folder-name/>
+	<createdDate>2021-06-15T10:04:37.013Z</createdDate>
+	<createdDate_dt>2021-06-15T10:04:37.013Z</createdDate_dt>
+	<lastModifiedDate>2021-06-15T10:16:48.229Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-15T10:16:48.229Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>456b</objectGroupId>
+	<objectId>456bd840-8887-cd98-2ba1-910c55bb9a8a</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>1</folder-name>
+	<internal-name>Xuc xich</internal-name>
+	<navLabel>Xuc xich</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>1020548a-f008-5c09-b83c-8b526615b0b0</key>
+	<value>S</value>
+<component id="1020548a-f008-5c09-b83c-8b526615b0b0">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1020</objectGroupId>
+	<objectId>1020548a-f008-5c09-b83c-8b526615b0b0</objectId>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app3.jpg</image_s>
+	<file-name>1020548a-f008-5c09-b83c-8b526615b0b0.xml</file-name>
+	<createdDate>2021-09-30T09:04:34.462Z</createdDate>
+	<createdDate_dt>2021-09-30T09:04:34.462Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:04:34.462Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:04:34.462Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>50b1e8a6-7af8-980c-7901-e3e68efe76f0</key>
+	<value>Xuc Xich</value>
+<component id="50b1e8a6-7af8-980c-7901-e3e68efe76f0">
+	<content-type>/component/encomgroupsp</content-type>
+	<display-template>/templates/web/components/en/groupproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>50b1</objectGroupId>
+	<objectId>50b1e8a6-7af8-980c-7901-e3e68efe76f0</objectId>
+	<file-name>50b1e8a6-7af8-980c-7901-e3e68efe76f0.xml</file-name>
+	<internal-name>Xuc Xich</internal-name>
+	<title_s>Xuc xich</title_s>
+	<image_s>/static-assets/images/san-pham/xuc-xich1.png</image_s>
+	<groupproduct_o item-list="true">	<item datasource="groupProduct">	<key>/site/items/1f995aee-4e5f-b8ed-0b90-891143f98166.xml</key>
+	<value>xuc xich</value>
+	<include>/site/items/1f995aee-4e5f-b8ed-0b90-891143f98166.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></groupproduct_o>
+	<content_html>&lt;p&gt;content&lt;/p&gt;</content_html>
+	<createdDate>2021-09-30T09:05:19.780Z</createdDate>
+	<createdDate_dt>2021-09-30T09:05:19.780Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:05:19.780Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:05:19.780Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-09-30T09:04:01.967Z</createdDate>
+	<createdDate_dt>2021-09-30T09:04:01.967Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:07:14.687Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:07:14.687Z</lastModifiedDate_dt>
+</page>

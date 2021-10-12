@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/components/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7bf0</objectGroupId>
+	<objectId>7bf0d10a-ea25-46ee-f65d-5936a28eda16</objectId>
+	<file-name>7bf0d10a-ea25-46ee-f65d-5936a28eda16.xml</file-name>
+	<internal-name>Sản phẩm đồ viên</internal-name>
+	<listproduct_s>do-vien</listproduct_s>
+	<createdDate>2021-06-16T08:37:31.633Z</createdDate>
+	<createdDate_dt>2021-06-16T08:37:31.633Z</createdDate_dt>
+	<lastModifiedDate>2021-08-25T07:41:45.259Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-25T07:41:45.259Z</lastModifiedDate_dt>
+</component>

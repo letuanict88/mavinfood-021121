@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8e57</objectGroupId>
+	<objectId>8e57ba61-e7a3-f69a-e26d-6bb37d48bf41</objectId>
+	<internal-name>Thư viện tư liệu</internal-name>
+	<navLabel>Thư viện tư liệu</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>thu-vien</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>c39652ae-7858-0234-dfb6-5b7b4298965b</key>
+	<value>Thư viện tư liệu</value>
+<component id="c39652ae-7858-0234-dfb6-5b7b4298965b">
+	<content-type>/component/tulieu</content-type>
+	<display-template>/templates/web/components/tulieu.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c396</objectGroupId>
+	<objectId>c39652ae-7858-0234-dfb6-5b7b4298965b</objectId>
+	<file-name>c39652ae-7858-0234-dfb6-5b7b4298965b.xml</file-name>
+	<internal-name>Thư viện tư liệu</internal-name>
+	<createdDate>2021-06-16T10:54:44.919Z</createdDate>
+	<createdDate_dt>2021-06-16T10:54:44.919Z</createdDate_dt>
+	<lastModifiedDate>2021-08-11T02:25:02.343Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-11T02:25:02.343Z</lastModifiedDate_dt>
+	<p2title_s>Hội chợ Xuân 2021</p2title_s>
+	<v1title_s>Đại hội Công đoàn 2021</v1title_s>
+	<v2title_s>Đại hội Công đoàn 2021</v2title_s>
+	<d1title_s>Mavin Foods Teambuilding 2020</d1title_s>
+	<p1image_s>/static-assets/images/tai-lieu/IMG_5447.jpg</p1image_s>
+	<p2image_s>/static-assets/images/tai-lieu/IMG_5485.jpg</p2image_s>
+	<v1image_s>/static-assets/images/tai-lieu/Mavin Foods_DHCD lan II (1).jpg</v1image_s>
+	<v2image_s>/static-assets/images/tai-lieu/Mavin Foods_DHCD lan II (7).jpg</v2image_s>
+	<d1image_s>/static-assets/images/tai-lieu/DSC_2386.JPG</d1image_s>
+	<d2Image_s>/static-assets/images/tai-lieu/DSC_2389.JPG</d2Image_s>
+	<p1title_s>Hội chợ Xuân 2021</p1title_s>
+	<d2title_s>Gala tổng kết năm 2020</d2title_s>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-16T10:54:13.054Z</createdDate>
+	<createdDate_dt>2021-06-16T10:54:13.054Z</createdDate_dt>
+	<lastModifiedDate>2021-08-11T02:24:55.743Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-11T02:24:55.743Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>06d53256-3c81-7866-9a8f-5aeda8368b4e</key>
+	<value>S</value>
+<component id="06d53256-3c81-7866-9a8f-5aeda8368b4e">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>06d5</objectGroupId>
+	<objectId>06d53256-3c81-7866-9a8f-5aeda8368b4e</objectId>
+	<file-name>06d53256-3c81-7866-9a8f-5aeda8368b4e.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app7.jpg</image_s>
+	<createdDate>2021-06-21T09:26:03.339Z</createdDate>
+	<createdDate_dt>2021-06-21T09:26:03.339Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:04:25.612Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:04:25.612Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

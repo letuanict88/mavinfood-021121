@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/components/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7d3c</objectGroupId>
+	<objectId>7d3c43d2-1647-7f45-1003-7fcb41a7271c</objectId>
+	<file-name>7d3c43d2-1647-7f45-1003-7fcb41a7271c.xml</file-name>
+	<internal-name>Cắt lát</internal-name>
+	<listproduct_s>cat-lat</listproduct_s>
+	<createdDate>2021-06-16T08:19:32.351Z</createdDate>
+	<createdDate_dt>2021-06-16T08:19:32.351Z</createdDate_dt>
+	<lastModifiedDate>2021-06-16T08:19:32.351Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-16T08:19:32.351Z</lastModifiedDate_dt>
+</component>

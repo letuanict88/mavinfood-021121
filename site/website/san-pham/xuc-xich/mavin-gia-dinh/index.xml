@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a870</objectGroupId>
+	<objectId>a8704026-cd11-a37b-71ef-786f30e09481</objectId>
+	<internal-name>Mavin Gia Đình</internal-name>
+	<navLabel>Mavin Gia Đình</navLabel>
+	<name_s>Mavin Gia Đình</name_s>
+	<kl_s>500 g/túi</kl_s>
+	<price_s>34000</price_s>
+	<file-name>index.xml</file-name>
+	<folder-name>mavin-gia-dinh</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>true</isHot_b>
+	<sptype_o>	<item>	<key>xuc-xich</key>
+	<value_smv>Xúc xích</value_smv>
+	</item></sptype_o>
+	<image1_s>/static-assets/images/san-pham/XX Mavin GD 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/XX Mavin GD 3.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/XX Mavin GD 2.png</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>47dbaf81-a30a-dd56-76c3-64f35ce9ee9c</key>
+	<value>Slide</value>
+<component id="47dbaf81-a30a-dd56-76c3-64f35ce9ee9c">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>47db</objectGroupId>
+	<objectId>47dbaf81-a30a-dd56-76c3-64f35ce9ee9c</objectId>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<internal-name>Slide</internal-name>
+	<file-name>47dbaf81-a30a-dd56-76c3-64f35ce9ee9c.xml</file-name>
+	<createdDate>2021-08-05T04:41:16.521Z</createdDate>
+	<createdDate_dt>2021-08-05T04:41:16.521Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T04:41:16.521Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T04:41:16.521Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;L&amp;agrave; d&amp;ograve;ng b&amp;igrave;nh d&amp;acirc;n, phục vụ chủ yếu ph&amp;acirc;n kh&amp;uacute;c kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; kế hoạch chi ti&amp;ecirc;u hạn hẹp, Mavin Gia đ&amp;igrave;nh với th&amp;agrave;nh ch&amp;iacute;nh l&amp;agrave; thịt heo v&amp;agrave; thịt g&amp;agrave; vẫn đảm bảo h&amp;agrave;m lượng dinh dưỡng v&amp;agrave; chất lượng ổn định, ph&amp;ugrave; hợp khẩu vị người ăn.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Đặc điểm sản phẩm:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Th&amp;agrave;nh phần ch&amp;iacute;nh l&amp;agrave; thịt heo v&amp;agrave; thịt g&amp;agrave;;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Đảm bảo h&amp;agrave;m lượng dinh dưỡng v&amp;agrave; an to&amp;agrave;n thực phẩm cho NTD;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Lựa chọn ph&amp;ugrave; hợp cho c&amp;aacute;c gia đ&amp;igrave;nh c&amp;oacute; kế hoạch chi ti&amp;ecirc;u hạn hẹp hoặc c&amp;aacute;c cơ sở chế biến ăn ngay.&lt;/p&gt;</content_html>
+	<createdDate>2021-08-05T04:36:34.401Z</createdDate>
+	<createdDate_dt>2021-08-05T04:36:34.401Z</createdDate_dt>
+	<lastModifiedDate>2021-09-23T09:59:00.022Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-23T09:59:00.022Z</lastModifiedDate_dt>
+	<sku_s>8936082676333</sku_s>
+</page>

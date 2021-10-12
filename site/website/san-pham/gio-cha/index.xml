@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ef2b1bd3</objectGroupId>
+	<objectId>ef2b1bd3-f195-4ef5-aa50-118327d472af</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>gio-cha</folder-name>
+	<internal-name>Sản phẩm giò chả</internal-name>
+	<navLabel>Sản phẩm giò chả</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>b833e13a-b8ff-73ae-8c53-065e857a7429</key>
+	<value>Sản phẩm giò chả</value>
+<component id="b833e13a-b8ff-73ae-8c53-065e857a7429">
+	<content-type>/component/comnhomsp</content-type>
+	<display-template>/templates/web/components/groupproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b833</objectGroupId>
+	<objectId>b833e13a-b8ff-73ae-8c53-065e857a7429</objectId>
+	<file-name>b833e13a-b8ff-73ae-8c53-065e857a7429.xml</file-name>
+	<internal-name>Sản phẩm giò chả</internal-name>
+	<image_s>/static-assets/images/san-pham/Gio cha 1A.png</image_s>
+	<groupproduct_o item-list="true">	<item datasource="groupProuduct">	<key>/site/items/e2082058-e44a-120d-5a25-63203067503f.xml</key>
+	<value>Sản phẩm giò chả</value>
+	<include>/site/items/e2082058-e44a-120d-5a25-63203067503f.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></groupproduct_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Mỗi dịp Xu&amp;acirc;n tới, Tết về, trong m&amp;acirc;m cơm của mỗi Gia đ&amp;igrave;nh chắc chắn kh&amp;ocirc;ng thể thiếu khoanh Gi&amp;ograve;, Chả. Gi&amp;ograve; Chả đ&amp;atilde; trở th&amp;agrave;nh m&amp;oacute;n ăn truyền th&amp;ocirc;ng mang theo n&amp;eacute;t đẹp văn h&amp;oacute;a ẩm thực cổ truyền của người Việt. Để tạo cơ hội cho kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; th&amp;ecirc;m nhiều lựa chọn khi thưởng thức ẩm thực đ&amp;oacute;n Xu&amp;acirc;n, Mavin đ&amp;atilde; tung ra c&amp;aacute;c sản phẩm Gi&amp;ograve; Chả Mavin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c sản phẩm gi&amp;ograve; chả Mavin gồm: Gi&amp;ograve; Lụa Mavin, Chả Lụa Mavin, Gi&amp;ograve; G&amp;agrave; Mavin, Chả G&amp;agrave; Mavin. Sản phẩm được sản xuất từ c&amp;aacute;c nguy&amp;ecirc;n liệu do Mavin sản xuất theo chuỗi kh&amp;eacute;p k&amp;iacute;n &amp;ldquo;Từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn&amp;rdquo;, đảm bảo c&amp;aacute;c ti&amp;ecirc;u chuẩn về quản l&amp;yacute; chất lượng quốc tế như HACCP v&amp;agrave; ISO 22000. Nguồn nguy&amp;ecirc;n liệu cũng được lựa chọn một c&amp;aacute;ch kỹ lưỡng, đảm bảo ti&amp;ecirc;u ch&amp;iacute; tươi, ngon, an to&amp;agrave;n, đảm bảo chất dinh dưỡng v&amp;agrave; truy xuất được nguồn gốc.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đặc biệt, c&amp;aacute;c b&amp;agrave; nội trợ c&amp;oacute; thể chế biến đa dạng c&amp;aacute;c m&amp;oacute;n ăn gia đ&amp;igrave;nh h&amp;agrave;ng ng&amp;agrave;y bằng sản phẩm Gi&amp;ograve; Chả Mavin trong thời gian rất nhanh, chỉ mất từ 2-4 ph&amp;uacute;t, rất tiện lợi v&amp;agrave; gi&amp;uacute;p tiết kiệm thời gian, ph&amp;ugrave; hợp với nhịp sống hiện đại.&lt;/p&gt;</content_html>
+	<createdDate>2021-06-16T08:18:06.367Z</createdDate>
+	<createdDate_dt>2021-06-16T08:18:06.367Z</createdDate_dt>
+	<lastModifiedDate>2021-08-25T09:24:08.518Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-25T09:24:08.518Z</lastModifiedDate_dt>
+	<title_s>Giò chả</title_s>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-16T07:50:56.337Z</createdDate>
+	<createdDate_dt>2021-06-16T07:50:56.337Z</createdDate_dt>
+	<lastModifiedDate>2021-08-25T09:24:03.028Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-25T09:24:03.028Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>d2bf52d5-710d-03e6-85a2-f25e4442e007</key>
+	<value>S</value>
+<component id="d2bf52d5-710d-03e6-85a2-f25e4442e007">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d2bf</objectGroupId>
+	<objectId>d2bf52d5-710d-03e6-85a2-f25e4442e007</objectId>
+	<file-name>d2bf52d5-710d-03e6-85a2-f25e4442e007.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app3.jpg</image_s>
+	<createdDate>2021-06-21T09:23:23.018Z</createdDate>
+	<createdDate_dt>2021-06-21T09:23:23.018Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:00:27.406Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:00:27.406Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

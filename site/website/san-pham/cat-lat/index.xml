@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0a48baae</objectGroupId>
+	<objectId>0a48baae-f751-4d71-8223-1abca3eadb1e</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cat-lat</folder-name>
+	<internal-name>Sản phẩm cắt lát</internal-name>
+	<navLabel>Sản phẩm cắt lát</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>b833e13a-b8ff-73ae-8c53-065e857a7429</key>
+	<value>Cắt lát</value>
+<component id="b833e13a-b8ff-73ae-8c53-065e857a7429">
+	<content-type>/component/comnhomsp</content-type>
+	<display-template>/templates/web/components/groupproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b833</objectGroupId>
+	<objectId>b833e13a-b8ff-73ae-8c53-065e857a7429</objectId>
+	<file-name>b833e13a-b8ff-73ae-8c53-065e857a7429.xml</file-name>
+	<internal-name>Cắt lát</internal-name>
+	<image_s>/static-assets/images/san-pham/SP cat lat 1.png</image_s>
+	<groupproduct_o item-list="true">	<item datasource="groupProuduct">	<key>/site/items/7d3c43d2-1647-7f45-1003-7fcb41a7271c.xml</key>
+	<value>Cắt lát</value>
+	<include>/site/items/7d3c43d2-1647-7f45-1003-7fcb41a7271c.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></groupproduct_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Sản phẩm của Mavin được l&amp;agrave;m từ thịt heo sạch, được chọn lọc từ nguồn giống chất lượng cao tr&amp;ecirc;n thế giới v&amp;agrave; nu&amp;ocirc;i an to&amp;agrave;n tại c&amp;aacute;c trang trại của Mavin Farm. Tại đ&amp;acirc;y, heo được ph&amp;ograve;ng dịch bệnh nghi&amp;ecirc;m ngặt v&amp;agrave; được cho ăn bằng thức ăn chất lượng cao, sản xuất tr&amp;ecirc;n d&amp;acirc;y chuyền nhập khẩu ho&amp;agrave;n to&amp;agrave;n từ Thụy Sỹ. Mavin kiểm so&amp;aacute;t kh&amp;acirc;u giết mổ an to&amp;agrave;n, bảo quản v&amp;agrave; chế biến đạt chuẩn ISO 22000 v&amp;agrave; HACCP, đảm bảo mang lại c&amp;aacute;c sản phẩm sạch v&amp;agrave; an to&amp;agrave;n đến tận tay người d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c chuy&amp;ecirc;n gia của Mavin l&amp;agrave; những người đ&amp;atilde; nhiều năm kinh nghiệm trong lĩnh vực thực phẩm tại CHLB Đức, mang b&amp;iacute; quyết ẩm thực của nước Đức tới Việt Nam, với mong muốn cho kh&amp;aacute;ch h&amp;agrave;ng cơ hội thưởng thức c&amp;aacute;c sản phẩm đậm tinh hoa ẩm thực Đức &amp;ndash; đất nước nổi tiếng thế giới về c&amp;aacute;c thực phẩm chế biến.&lt;/p&gt;</content_html>
+	<createdDate>2021-06-16T08:18:06.367Z</createdDate>
+	<createdDate_dt>2021-06-16T08:18:06.367Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T09:03:49.091Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T09:03:49.091Z</lastModifiedDate_dt>
+	<title_s>Cắt lát</title_s>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-16T07:50:56.337Z</createdDate>
+	<createdDate_dt>2021-06-16T07:50:56.337Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T09:03:44.826Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T09:03:44.826Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>65942c2d-8944-ccc5-0e19-34811fb414a1</key>
+	<value>S</value>
+<component id="65942c2d-8944-ccc5-0e19-34811fb414a1">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6594</objectGroupId>
+	<objectId>65942c2d-8944-ccc5-0e19-34811fb414a1</objectId>
+	<file-name>65942c2d-8944-ccc5-0e19-34811fb414a1.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app3.jpg</image_s>
+	<createdDate>2021-06-21T09:21:08.338Z</createdDate>
+	<createdDate_dt>2021-06-21T09:21:08.338Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:00:49.023Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:00:49.023Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>25af</objectGroupId>
+	<objectId>25affa4a-1db5-0c2d-6ee8-67ca8093fa6e</objectId>
+	<internal-name>History</internal-name>
+	<navLabel>History</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>history</folder-name>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>3bcaccfc-5b77-0713-6338-8b28834b9696</key>
+	<value>s</value>
+<component id="3bcaccfc-5b77-0713-6338-8b28834b9696">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3bca</objectGroupId>
+	<objectId>3bcaccfc-5b77-0713-6338-8b28834b9696</objectId>
+	<file-name>3bcaccfc-5b77-0713-6338-8b28834b9696.xml</file-name>
+	<internal-name>s</internal-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-09-30T04:07:39.961Z</createdDate>
+	<createdDate_dt>2021-09-30T04:07:39.961Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:07:39.961Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:07:39.961Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>c6293a26-2203-4ee0-a9b1-43e34192c226</key>
+	<value>History</value>
+<component id="c6293a26-2203-4ee0-a9b1-43e34192c226">
+	<content-type>/component/encomlichsu</content-type>
+	<display-template>/templates/web/components/en/lichsu.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c629</objectGroupId>
+	<objectId>c6293a26-2203-4ee0-a9b1-43e34192c226</objectId>
+	<file-name>c6293a26-2203-4ee0-a9b1-43e34192c226.xml</file-name>
+	<internal-name>History</internal-name>
+	<title_s>History</title_s>
+	<image_s>/static-assets/images/tong-quan/cover1.jpg</image_s>
+	<content_html>&lt;p&gt;Mavin foods joint venture Company is one of few Vietnamese corporations applying &amp;ldquo;From Farm to Table&amp;rdquo; production model, with enclosed value chain, from breeding, veterinary medicine, raising and food processing; ensuring the hygiene and safety to the hand of end customers.&lt;/p&gt;
+&lt;p&gt;The current Mavin plant has a capacity of 10.000 tons per year, is located at Dong Van II Industrial Zone, Duy Tien district, Ha Nam province with 10 000 m2 area. Mavin has been synchronously and modernly invested by a new production system made in Federal Republic of Germany. The modern production line of the company ensures producing high quality products and absolute safety and hygiene of food. With the slogan &amp;ldquo;Exclusive Western expertise. Wholesome Asian taste.&amp;rdquo;, Mavin is going to strongly develop and get the loyalty from customers in Vietnamese market.&lt;/p&gt;
+&lt;p&gt;The materials for Mavin&amp;rsquo;s production are fresh meat provided by its own company&amp;rsquo;s system. This system contains many livestock&amp;rsquo;s production factories in over the country with the capacity of hundreds of thousands tons per year, a large amount of breeding and meaty swine&amp;rsquo;s farm in the North with directly imported swine&amp;rsquo;s breeds from the United Kingdom. Annually, this farm&amp;rsquo;s system provides thousands of tons of high quality and meaty swine with high safety and hygiene for the market. And Mavin is also a link of production&amp;rsquo;s chain &amp;ldquo;From Farm to Table&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Mavin&amp;rsquo;s products are served at many famous hotels in Hanoi and are going to be displayed nationally in many supermarkets, restaurants, hotels and agents.&lt;/p&gt;
+&lt;p&gt;The strategic customer of Mavin currently are Inter Continental Westlake Hanoi Hotel, Crowne Plaza West Hanoi Hotel, Sheraton Hanoi Hotel, Jaspas Hanoi restaurant&amp;rsquo;s system, Papa Joe Hanoi restaurant&amp;lsquo;s system...&lt;/p&gt;</content_html>
+	<createdDate>2021-09-30T04:07:56.485Z</createdDate>
+	<createdDate_dt>2021-09-30T04:07:56.485Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:07:56.485Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:07:56.485Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-09-30T04:05:15.881Z</createdDate>
+	<createdDate_dt>2021-09-30T04:05:15.881Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:05:15.881Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:05:15.881Z</lastModifiedDate_dt>
+</page>

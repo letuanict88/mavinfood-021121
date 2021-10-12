@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/encomlistproduct</content-type>
+	<display-template>/templates/web/components/en/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8646</objectGroupId>
+	<objectId>86461d07-52f5-e11a-4ae3-876b2c6650b7</objectId>
+	<internal-name>Gio cha</internal-name>
+	<listproduct_s>rolls</listproduct_s>
+	<file-name>86461d07-52f5-e11a-4ae3-876b2c6650b7.xml</file-name>
+	<createdDate>2021-09-30T09:12:56.443Z</createdDate>
+	<createdDate_dt>2021-09-30T09:12:56.443Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:12:56.443Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:12:56.443Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a20a</objectGroupId>
+	<objectId>a20a141c-1942-8a84-3432-7809dc972f5e</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>missionvision</folder-name>
+	<internal-name>Mission - Vision</internal-name>
+	<navLabel>Mission - Vision</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>4230b9c2-4100-9444-7c1e-259a2bd16fc0</key>
+	<value>S</value>
+<component id="4230b9c2-4100-9444-7c1e-259a2bd16fc0">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4230</objectGroupId>
+	<objectId>4230b9c2-4100-9444-7c1e-259a2bd16fc0</objectId>
+	<file-name>4230b9c2-4100-9444-7c1e-259a2bd16fc0.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-09-30T04:13:51.865Z</createdDate>
+	<createdDate_dt>2021-09-30T04:13:51.865Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:13:51.865Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:13:51.865Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>82077c97-cd63-d1cb-0ae2-4047fdaad973</key>
+	<value>Mission - Vision</value>
+<component id="82077c97-cd63-d1cb-0ae2-4047fdaad973">
+	<content-type>/component/encomtamnhin</content-type>
+	<display-template>/templates/web/components/en/tamnhin.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8207</objectGroupId>
+	<objectId>82077c97-cd63-d1cb-0ae2-4047fdaad973</objectId>
+	<file-name>82077c97-cd63-d1cb-0ae2-4047fdaad973.xml</file-name>
+	<internal-name>Mission - Vision</internal-name>
+	<visiontitle_s>Vision</visiontitle_s>
+	<missiontitle_s>Mission</missiontitle_s>
+	<visioncontent_html>&lt;p&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;- Become the leading company in providing agriculture goods and services in an effective and professional manner &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;- Create superior goods and services through the continuous process of Research and Development &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;- &lt;/span&gt;&lt;/strong&gt;&lt;strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;"&gt;&lt;span style="color: #ffffff;"&gt;Development and implement the environmental friendly production system&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;- Provide the sustainable benefit for customers, partners, employees and shareholders &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</visioncontent_html>
+	<createdDate>2021-09-30T04:14:20.877Z</createdDate>
+	<createdDate_dt>2021-09-30T04:14:20.877Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T05:05:02.980Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T05:05:02.980Z</lastModifiedDate_dt>
+	<visionimage_s>/static-assets/images/tong-quan/tam-nhin.jpg</visionimage_s>
+	<missionimage_s>/static-assets/images/tong-quan/su-menh.jpg</missionimage_s>
+	<missioncontent_html>&lt;p&gt;&lt;strong&gt;&lt;span style="color: #ffffff;"&gt;Content&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</missioncontent_html>
+</component>
+	</item></section_o>
+	<createdDate>2021-09-30T04:12:53.554Z</createdDate>
+	<createdDate_dt>2021-09-30T04:12:53.554Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T05:04:57.820Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T05:04:57.820Z</lastModifiedDate_dt>
+</page>

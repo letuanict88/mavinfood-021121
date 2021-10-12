@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d04e</objectGroupId>
+	<objectId>d04ec85e-256a-5280-003e-1b9d971a94a8</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tong-quan</folder-name>
+	<internal-name>Tổng quan</internal-name>
+	<navLabel>Tổng quan</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>f870049f-267e-ff5d-c99a-2db579553c9f</key>
+	<value>Tổng quan - Content</value>
+<component id="f870049f-267e-ff5d-c99a-2db579553c9f">
+	<content-type>/component/tongquan</content-type>
+	<display-template>/templates/web/components/tongquan.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f870</objectGroupId>
+	<objectId>f870049f-267e-ff5d-c99a-2db579553c9f</objectId>
+	<file-name>f870049f-267e-ff5d-c99a-2db579553c9f.xml</file-name>
+	<internal-name>Tổng quan - Content</internal-name>
+	<title_s>từ Chủ tịch Tập Đoàn</title_s>
+	<image_s>/static-assets/images/tong-quan/chairman.jpg</image_s>
+	<content_html>&lt;p class="fw-bold text-muted" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: UVF-DINPro; font-size: 16px; background-color: #ffffff; font-weight: 700 !important; color: #636465 !important;"&gt;Xin ch&amp;agrave;o Qu&amp;yacute; vị,&lt;/p&gt;
+&lt;p class="text-muted" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: UVF-DINPro; font-size: 16px; background-color: #ffffff; color: #636465 !important;"&gt;C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin ch&amp;uacute;ng t&amp;ocirc;i l&amp;agrave; C&amp;ocirc;ng ty Li&amp;ecirc;n doanh c&amp;oacute; vốn đầu tư Australia, hoạt động trong lĩnh vực sản xuất thực phẩm chất lượng cao từ thịt, theo ti&amp;ecirc;u chuẩn v&amp;agrave; chất lượng Ch&amp;acirc;u &amp;Acirc;u. L&amp;agrave; một th&amp;agrave;nh vi&amp;ecirc;n của Tập đo&amp;agrave;n Mavin - một Tập đo&amp;agrave;n hoạt động trong chuỗi gi&amp;aacute; trị kh&amp;eacute;p k&amp;iacute;n, từ kh&amp;acirc;u thức ăn chăn nu&amp;ocirc;i, thuốc th&amp;uacute; y, con giống, chăn nu&amp;ocirc;i cho đến chế biến thực phẩm - ch&amp;uacute;ng t&amp;ocirc;i tự h&amp;agrave;o l&amp;agrave; một trong số rất &amp;iacute;t c&amp;aacute;c doanh nghiệp tại Việt Nam hiện đang &amp;aacute;p dụng m&amp;ocirc; h&amp;igrave;nh sản xuất &amp;ldquo;Từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn&amp;rdquo;, c&amp;oacute; khả năng cung cấp đến tận tay người ti&amp;ecirc;u d&amp;ugrave;ng những sản phẩm chất lượng Ch&amp;acirc;u &amp;Acirc;u v&amp;agrave; tuyệt đối đảm bảo vệ sinh an to&amp;agrave;n thực phẩm.&lt;/p&gt;
+&lt;p class="text-muted" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: UVF-DINPro; font-size: 16px; background-color: #ffffff; color: #636465 !important;"&gt;Nh&amp;agrave; m&amp;aacute;y sản xuất của ch&amp;uacute;ng t&amp;ocirc;i đặt tại Khu c&amp;ocirc;ng nghiệp Đồng Văn II, tỉnh H&amp;agrave; Nam, được đầu tư đồng bộ v&amp;agrave; hiện đại, với hệ thống sản xuất ho&amp;agrave;n to&amp;agrave;n theo c&amp;ocirc;ng nghệ của Cộng h&amp;ograve;a Li&amp;ecirc;n bang Đức. D&amp;acirc;y chuyền hiện đại của nh&amp;agrave; m&amp;aacute;y với c&amp;aacute;c thương hiệu m&amp;aacute;y sản xuất nổi tiếng thế giới như: Fessmann, Handtman, Mado&amp;hellip; gi&amp;uacute;p đảm bảo cho ch&amp;uacute;ng t&amp;ocirc;i tạo ra được c&amp;aacute;c sản phẩm chất lượng tốt, ổn định v&amp;agrave; đồng đều. Với kinh nghiệm nhiều năm trong ng&amp;agrave;nh sản xuất thực phẩm từ thịt, ch&amp;uacute;ng t&amp;ocirc;i đang c&amp;ugrave;ng với đội ngũ nh&amp;acirc;n vi&amp;ecirc;n l&amp;agrave;nh nghề v&amp;agrave; nhiều kinh nghiệm của m&amp;igrave;nh quyết t&amp;acirc;m mang đến cho người ti&amp;ecirc;u d&amp;ugrave;ng Việt Nam những sản phẩm mang hương vị đặc trưng của Ch&amp;acirc;u &amp;Acirc;u, nhưng cũng rất ph&amp;ugrave; hợp với khẩu vị của người Việt Nam. Sản phẩm của Mavin hiện đ&amp;atilde; được cung cấp tại c&amp;aacute;c kh&amp;aacute;ch sạn lớn, c&amp;aacute;c hệ thống si&amp;ecirc;u thị nh&amp;agrave; h&amp;agrave;ng v&amp;agrave; c&amp;aacute;c Đại l&amp;yacute;, kh&amp;aacute;ch h&amp;agrave;ng tr&amp;ecirc;n cả nước.&lt;/p&gt;
+&lt;p class="text-muted" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: UVF-DINPro; font-size: 16px; background-color: #ffffff; color: #636465 !important;"&gt;Với khẩu hiệu &amp;ldquo;&lt;strong&gt;B&amp;iacute; quyết Ch&amp;acirc;u &amp;Acirc;u. Đậm s&amp;acirc;u vị &amp;Aacute;&lt;/strong&gt;.&amp;rdquo;, c&amp;ugrave;ng với sự ủng hộ của Qu&amp;yacute; kh&amp;aacute;ch h&amp;agrave;ng v&amp;agrave; c&amp;aacute;c đối t&amp;aacute;c, ch&amp;uacute;ng t&amp;ocirc;i tin chắc sẽ ph&amp;aacute;t triển mạnh mẽ v&amp;agrave; chinh phục được người ti&amp;ecirc;u d&amp;ugrave;ng tại Việt Nam.&lt;/p&gt;
+&lt;p class="text-muted" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: UVF-DINPro; font-size: 16px; background-color: #ffffff; color: #636465 !important;"&gt;&lt;strong&gt;Xin ch&amp;acirc;n th&amp;agrave;nh cảm ơn.&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="text-muted" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: UVF-DINPro; font-size: 16px; background-color: #ffffff; color: #636465 !important;"&gt;&lt;strong&gt;Mr. David John Whitehead&lt;/strong&gt;&lt;br style="box-sizing: border-box;" /&gt;Chủ tịch Tập đo&amp;agrave;n Mavin&lt;/p&gt;</content_html>
+	<createdDate>2021-06-13T04:32:22.192Z</createdDate>
+	<createdDate_dt>2021-06-13T04:32:22.192Z</createdDate_dt>
+	<lastModifiedDate>2021-08-02T10:52:50.166Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-02T10:52:50.166Z</lastModifiedDate_dt>
+	<title1_s>Thư ngỏ</title1_s>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-13T04:31:58.407Z</createdDate>
+	<createdDate_dt>2021-06-13T04:31:58.407Z</createdDate_dt>
+	<lastModifiedDate>2021-08-02T10:52:47.254Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-02T10:52:47.254Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>007b0cad-227e-6ffe-0115-33c87b159993</key>
+	<value>S</value>
+<component id="007b0cad-227e-6ffe-0115-33c87b159993">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>007b</objectGroupId>
+	<objectId>007b0cad-227e-6ffe-0115-33c87b159993</objectId>
+	<file-name>007b0cad-227e-6ffe-0115-33c87b159993.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-06-21T09:36:37.697Z</createdDate>
+	<createdDate_dt>2021-06-21T09:36:37.697Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:13:23.015Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:13:23.015Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e87d</objectGroupId>
+	<objectId>e87dde93-a277-0d07-022e-af5c476b3b69</objectId>
+	<internal-name>Cá viên hương thịt bò</internal-name>
+	<navLabel>Cá viên hương thịt bò</navLabel>
+	<name_s>Cá viên hương thịt bò</name_s>
+	<kl_s>500 g/túi</kl_s>
+	<price_s>30000</price_s>
+	<file-name>index.xml</file-name>
+	<folder-name>ca-vien-huong-bo</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>true</isHot_b>
+	<sptype_o>	<item>	<key>do-vien</key>
+	<value_smv>Đồ viên</value_smv>
+	</item></sptype_o>
+	<image1_s>/static-assets/images/san-pham/Ca vien Thit bo 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/Ca vien 1.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/Ca vien Thit bo 2.jpg</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>4dcb0191-eee8-6d4d-8467-46c31b10d025</key>
+	<value>Slide</value>
+<component id="4dcb0191-eee8-6d4d-8467-46c31b10d025">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4dcb</objectGroupId>
+	<objectId>4dcb0191-eee8-6d4d-8467-46c31b10d025</objectId>
+	<file-name>4dcb0191-eee8-6d4d-8467-46c31b10d025.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<internal-name>Slide</internal-name>
+	<createdDate>2021-08-05T03:12:36.801Z</createdDate>
+	<createdDate_dt>2021-08-05T03:12:36.801Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T03:12:36.801Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T03:12:36.801Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;C&amp;aacute; vi&amp;ecirc;n Thịt b&amp;ograve; với m&amp;agrave;u sắc ruột hơi x&amp;aacute;m nhạt giống như m&amp;agrave;u thịt b&amp;ograve; chế biến ch&amp;iacute;n, sẽ ph&amp;ugrave; hợp cho c&amp;aacute;c T&amp;iacute;n đồ ưa th&amp;iacute;ch ăn cả c&amp;aacute; v&amp;agrave; b&amp;ograve;. Đặc biệt ph&amp;ugrave; hợp v&amp;agrave; tiện lợi với c&amp;aacute;c Gymers khi cần bổ sung protein ngay sau giờ tập. &lt;span style="white-space: pre;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hướng dẫn sử dụng:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- R&amp;atilde; đ&amp;ocirc;ng 20 - 30 ph&amp;uacute;t.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- D&amp;ugrave;ng để chi&amp;ecirc;n r&amp;aacute;n hoặc chế biến m&amp;oacute;n ăn y&amp;ecirc;u th&amp;iacute;ch.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Sử dụng hết sản phẩm trong v&amp;ograve;ng 24 giờ sau khi mở g&amp;oacute;i sản phẩm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-08-05T03:10:04.546Z</createdDate>
+	<createdDate_dt>2021-08-05T03:10:04.546Z</createdDate_dt>
+	<lastModifiedDate>2021-10-09T04:31:10.511Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-09T04:31:10.511Z</lastModifiedDate_dt>
+	<sku_s>8936082676111</sku_s>
+</page>

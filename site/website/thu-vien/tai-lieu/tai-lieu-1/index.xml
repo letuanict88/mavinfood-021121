@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/thuvientailieu</content-type>
+	<display-template>/templates/web/pages/thuvientailieu.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>48f5</objectGroupId>
+	<objectId>48f5cc9e-e4de-6fe2-eb9f-3dda267160b3</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tai-lieu-1</folder-name>
+	<internal-name>Tai lieu 1</internal-name>
+	<navLabel>Tài Liệu</navLabel>
+	<name_s>Tài Liệu</name_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/thu-vien/media-1.jpg</image_s>
+	<pdffile_o item-list="true">	<item datasource="desktopFile">	<key>/static-assets/images/file/BCTC ban nien 2020.pdf</key>
+	<value>/static-assets/images/file/BCTC ban nien 2020.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>8383677</fileSize_s>
+	</item></pdffile_o>
+	<isDisplay_b>true</isDisplay_b>
+	<createdDate>2021-06-28T04:34:47.578Z</createdDate>
+	<createdDate_dt>2021-06-28T04:34:47.578Z</createdDate_dt>
+	<lastModifiedDate>2021-06-28T04:34:47.578Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-28T04:34:47.578Z</lastModifiedDate_dt>
+</page>

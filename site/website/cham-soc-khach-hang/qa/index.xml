@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0c7a</objectGroupId>
+	<objectId>0c7aa3a6-9ba8-608a-1c4f-1afb63115c98</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>qa</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Q&amp;A</internal-name>
+	<navLabel>Q&amp;A</navLabel>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>5face95b-df3e-07a7-eaa1-41d826d31a9a</key>
+	<value>QA</value>
+<component id="5face95b-df3e-07a7-eaa1-41d826d31a9a">
+	<content-type>/component/qa</content-type>
+	<display-template>/templates/web/components/qa.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5fac</objectGroupId>
+	<objectId>5face95b-df3e-07a7-eaa1-41d826d31a9a</objectId>
+	<file-name>5face95b-df3e-07a7-eaa1-41d826d31a9a.xml</file-name>
+	<internal-name>QA</internal-name>
+	<qA_o item-list="true">	<item>	<title_s>Công nghệ sản xuất</title_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify;"&gt;&lt;strong&gt;&lt;em&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt;Mavin Foods sử dụng c&amp;ocirc;ng nghệ sản xuất g&amp;igrave;?&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify;"&gt;&lt;em&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt;Trả lời:&amp;nbsp;&lt;/span&gt;&lt;/em&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt;To&amp;agrave;n bộ d&amp;acirc;y chuyền sản xuất tại nh&amp;agrave; m&amp;aacute;y của Mavin nhập khẩu từ Cộng h&amp;ograve;a Li&amp;ecirc;n bang Đức, với c&amp;aacute;c thương hiệu m&amp;aacute;y sản xuất nổi tiếng như Mado, Bizerbar, Fressmann, Handtman... Với c&amp;ocirc;ng nghệ hiện đại, c&amp;aacute;c sản phẩm của C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh thực phẩm Mavin lu&amp;ocirc;n đảm bảo chất lượng cao, đồng đều v&amp;agrave; ổn định.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<title_s>Sản phẩm Mavin Foods</title_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;strong&gt;&lt;em&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt;1. Quy c&amp;aacute;ch đ&amp;oacute;ng g&amp;oacute;i sản phẩm:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;em&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt;Trả lời:&amp;nbsp;&lt;/span&gt;&lt;/em&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt;Với x&amp;uacute;c x&amp;iacute;ch v&amp;agrave; đồ vi&amp;ecirc;n, quy c&amp;aacute;ch đ&amp;oacute;ng g&amp;oacute;i l&amp;agrave; 500gr/ t&amp;uacute;i.&amp;nbsp;Với gi&amp;ograve; chả, quy c&amp;aacute;ch đ&amp;oacute;ng g&amp;oacute;i l&amp;agrave; 1kg/c&amp;acirc;y .&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;strong&gt;&lt;em&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt;2. Bảo quản v&amp;agrave; hạn sử dụng:&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;em&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt;Trả lời:&lt;/span&gt;&lt;/em&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt; Nếu để ngăn m&amp;aacute;t HSD l&amp;agrave; 40 ng&amp;agrave;y, nếu để ngăn đ&amp;aacute; l&amp;agrave; 3 th&amp;aacute;ng. Với đồ vi&amp;ecirc;n, bảo quản ngăn đ&amp;aacute; v&amp;agrave; sử dụng được trong 1 năm! Với gi&amp;ograve; chả n&amp;ecirc;n để ngăn m&amp;aacute;t sẽ ăn ngon hơn v&amp;agrave; HSD trong 40 ng&amp;agrave;y! Tất cả th&amp;ocirc;ng tin c&amp;oacute; hướng dẫn chi tiết tr&amp;ecirc;n bao b&amp;igrave; sản phẩm.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<title_s>Thông tin chung về Mavin Foods</title_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;strong&gt;&lt;em&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt;T&amp;ocirc;i muốn biết th&amp;ecirc;m về Mavin Foods?&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify;"&gt;&lt;em&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt;Trả lời:&lt;/span&gt;&lt;/em&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt;&amp;nbsp;C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin (Mavin Foods) l&amp;agrave; th&amp;agrave;nh vi&amp;ecirc;n trực thuộc tập đo&amp;agrave;n Mavin - Tập đo&amp;agrave;n trong lĩnh vực N&amp;ocirc;ng nghi&amp;ecirc;p h&amp;agrave;ng đầu Việt Nam, c&amp;oacute; vốn đầu tư nước ngo&amp;agrave;i, hoạt động theo m&amp;ocirc; h&amp;igrave;nh chuỗi gi&amp;aacute; trị kh&amp;eacute;p k&amp;iacute;n "Từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn" sạch từ nguồn.&amp;nbsp; Nh&amp;agrave; m&amp;aacute;y Mavin Foods đ&amp;atilde; đi v&amp;agrave;o hoạt động được 6 năm, c&amp;oacute; năng suất sản xuất đạt tr&amp;ecirc;n 10.000 tấn sản phẩm/năm, được đặt tại Khu C&amp;ocirc;ng nghiệp Đồng Văn II, phường Duy Minh, thị x&amp;atilde; Duy Ti&amp;ecirc;n, tỉnh H&amp;agrave; Nam với diện t&amp;iacute;ch 10.000 m2, được đầu tư đồng bộ v&amp;agrave; hiện đại với hệ thống sản xuất ho&amp;agrave;n to&amp;agrave;n theo c&amp;ocirc;ng nghệ hiện đại của Cộng h&amp;ograve;a Li&amp;ecirc;n bang Đức. Với d&amp;acirc;y chuyền c&amp;ocirc;ng nghệ sản xuất nhập khẩu cao cấp từ Đức, quy tr&amp;igrave;nh kh&amp;eacute;p k&amp;iacute;n đạt ATVSTP theo ti&amp;ecirc;u chuẩn ISO 22000 v&amp;agrave; HACCP được TUV NORD (CHLB Đức) chứng nhận, Mavin Foods tự tin v&amp;agrave; đảm bảo tạo ra c&amp;aacute;c sản phẩm chất lượng cao v&amp;agrave; tuyệt đối an to&amp;agrave;n vệ sinh thực phẩm.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify;"&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt;C&amp;ugrave;ng&amp;nbsp; &amp;ldquo;B&amp;iacute; quyết Ch&amp;acirc;u &amp;Acirc;u, Đậm s&amp;acirc;u vị &amp;Aacute;&amp;rdquo;,&amp;nbsp; Mavin đ&amp;atilde; v&amp;agrave; đang được Người ti&amp;ecirc;u d&amp;ugrave;ng&amp;nbsp; y&amp;ecirc;u th&amp;iacute;ch v&amp;agrave; tin d&amp;ugrave;ng, đặc biệt tại khu vực miền Bắc v&amp;agrave; miền Trung.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<title_s>Vệ sinh an toàn thực phẩm</title_s>
+	<content_html>&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&lt;strong&gt;&lt;em&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt;Sản phẩm Mavin Foods c&amp;oacute; an to&amp;agrave;n kh&amp;ocirc;ng?&lt;/span&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin: 0cm; font-size: 12pt; font-family: Calibri, sans-serif; text-align: justify;"&gt;&lt;em&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt;Trả lời:&amp;nbsp;&lt;/span&gt;&lt;/em&gt;&lt;span style="font-size: 10.5pt; font-family: UVF-DINPro, serif; color: #212529;"&gt;Thực phẩm Mavin với &amp;ldquo;B&amp;iacute; quyết Ch&amp;acirc;u &amp;Acirc;u, Đậm s&amp;acirc;u vị &amp;Aacute;&amp;rdquo; hoạt động theo m&amp;ocirc; h&amp;igrave;nh sản xuất kh&amp;eacute;p k&amp;iacute;n &amp;ldquo;Từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn&amp;rdquo; sạch từ nguồn, c&amp;ugrave;ng d&amp;acirc;y chuyền c&amp;ocirc;ng nghệ sản xuất nhập khẩu cao cấp từ Đức, sản xuất theo quy tr&amp;igrave;nh kh&amp;eacute;p k&amp;iacute;n đạt ATVSTP theo ti&amp;ecirc;u chuẩn ISO 22000 v&amp;agrave; HACCP được TUV NORD (CHLB Đức) chứng nhận, Mavin Foods lu&amp;ocirc;n tự h&amp;agrave;o v&amp;agrave; cam kết chất lượng sản phẩm đảm bảo an to&amp;agrave;n thực phẩm, c&amp;oacute; lợi cho người ti&amp;ecirc;u d&amp;ugrave;ng.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item></qA_o>
+	<createdDate>2021-09-27T08:43:20.880Z</createdDate>
+	<createdDate_dt>2021-09-27T08:43:20.880Z</createdDate_dt>
+	<lastModifiedDate>2021-09-27T08:43:20.880Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-27T08:43:20.880Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-07T08:34:47.459Z</createdDate>
+	<createdDate_dt>2021-06-07T08:34:47.459Z</createdDate_dt>
+	<lastModifiedDate>2021-09-27T08:43:07.032Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-27T08:43:07.032Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>3ee339c7-e69f-e07d-3fb5-f18e492a8316</key>
+	<value>S</value>
+<component id="3ee339c7-e69f-e07d-3fb5-f18e492a8316">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3ee3</objectGroupId>
+	<objectId>3ee339c7-e69f-e07d-3fb5-f18e492a8316</objectId>
+	<internal-name>S</internal-name>
+	<file-name>3ee339c7-e69f-e07d-3fb5-f18e492a8316.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app4.jpg</image_s>
+	<createdDate>2021-06-21T09:16:19.097Z</createdDate>
+	<createdDate_dt>2021-06-21T09:16:19.097Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:15:43.819Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:15:43.819Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

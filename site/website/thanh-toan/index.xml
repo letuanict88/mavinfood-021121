@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5ce8</objectGroupId>
+	<objectId>5ce8aacf-a364-a10f-fbd1-adf991e74584</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thanh-toan</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Thanh toán</internal-name>
+	<navLabel>Thanh toán</navLabel>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>6eb428ba-b6d7-83b9-34e1-3b8618e85cae</key>
+	<value>Slide</value>
+<component id="6eb428ba-b6d7-83b9-34e1-3b8618e85cae">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6eb4</objectGroupId>
+	<objectId>6eb428ba-b6d7-83b9-34e1-3b8618e85cae</objectId>
+	<file-name>6eb428ba-b6d7-83b9-34e1-3b8618e85cae.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-09-24T10:21:30.412Z</createdDate>
+	<createdDate_dt>2021-09-24T10:21:30.412Z</createdDate_dt>
+	<lastModifiedDate>2021-09-24T10:21:30.412Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-24T10:21:30.412Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>f4d4d164-4ee8-837c-9c50-ffebf63a1ad2</key>
+	<value>Thanh toan</value>
+<component id="f4d4d164-4ee8-837c-9c50-ffebf63a1ad2">
+	<content-type>/component/comcheckout</content-type>
+	<display-template>/templates/web/components/checkout.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f4d4</objectGroupId>
+	<objectId>f4d4d164-4ee8-837c-9c50-ffebf63a1ad2</objectId>
+	<internal-name>Thanh toan</internal-name>
+	<file-name>f4d4d164-4ee8-837c-9c50-ffebf63a1ad2.xml</file-name>
+	<createdDate>2021-09-24T10:21:51.573Z</createdDate>
+	<createdDate_dt>2021-09-24T10:21:51.573Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T06:51:48.840Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T06:51:48.840Z</lastModifiedDate_dt>
+	<shippingFee_s>50000</shippingFee_s>
+</component>
+	</item></section_o>
+	<createdDate>2021-09-24T10:21:11.185Z</createdDate>
+	<createdDate_dt>2021-09-24T10:21:11.185Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T06:51:45.720Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T06:51:45.720Z</lastModifiedDate_dt>
+</page>

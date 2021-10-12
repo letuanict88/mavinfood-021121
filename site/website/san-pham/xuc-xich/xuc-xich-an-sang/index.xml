@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>19e9</objectGroupId>
+	<objectId>19e9df40-5ee2-5309-2a34-67c865ad9401</objectId>
+	<internal-name>Pork Breakfast</internal-name>
+	<navLabel>Pork Breakfast</navLabel>
+	<name_s>Pork Breakfast</name_s>
+	<kl_s>500 g/túi</kl_s>
+	<price_s>110000</price_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>false</isHot_b>
+	<sptype_o>	<item>	<key>xuc-xich</key>
+	<value_smv>Xúc xích</value_smv>
+	</item></sptype_o>
+	<file-name>index.xml</file-name>
+	<folder-name>xuc-xich-an-sang</folder-name>
+	<image1_s>/static-assets/images/san-pham/XX Pork Breakfast 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/XX Pork Breakfast 3.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/XX Pork Breakfast 2.png</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>dc1678f5-51d7-d0c2-c25f-580e375ac6b9</key>
+	<value>Slide</value>
+<component id="dc1678f5-51d7-d0c2-c25f-580e375ac6b9">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dc16</objectGroupId>
+	<objectId>dc1678f5-51d7-d0c2-c25f-580e375ac6b9</objectId>
+	<internal-name>Slide</internal-name>
+	<file-name>dc1678f5-51d7-d0c2-c25f-580e375ac6b9.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-08-04T07:33:49.427Z</createdDate>
+	<createdDate_dt>2021-08-04T07:33:49.427Z</createdDate_dt>
+	<lastModifiedDate>2021-08-04T07:33:49.427Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-04T07:33:49.427Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;X&amp;uacute;c x&amp;iacute;ch l&amp;agrave; một sản phẩm thế mạnh của Mavin tr&amp;ecirc;n thị trường Việt Nam. X&amp;uacute;c x&amp;iacute;ch Mavin mang hương vị ri&amp;ecirc;ng, độc đ&amp;aacute;o, được l&amp;agrave;m theo b&amp;iacute; quyết của c&amp;aacute;c chuy&amp;ecirc;n gia ẩm thực h&amp;agrave;ng đầu từ CHLB Đức, mang chuẩn vị ẩm thực ch&amp;acirc;u &amp;Acirc;u.&lt;br /&gt;&lt;br /&gt;X&amp;uacute;c x&amp;iacute;ch Mavin được l&amp;agrave;m từ thịt heo sạch, được chọn lọc từ nguồn giống chất lượng cao tr&amp;ecirc;n thế giới v&amp;agrave; nu&amp;ocirc;i an to&amp;agrave;n tại c&amp;aacute;c trang trại của Mavin Farm. Tại đ&amp;acirc;y, heo được ph&amp;ograve;ng dịch bệnh nghi&amp;ecirc;m ngặt v&amp;agrave; được cho ăn bằng thức ăn chất lượng cao, sản xuất tr&amp;ecirc;n d&amp;acirc;y chuyền nhập khẩu ho&amp;agrave;n to&amp;agrave;n từ Thụy Sỹ. Mavin kiểm so&amp;aacute;t kh&amp;acirc;u giết mổ an to&amp;agrave;n, bảo quản v&amp;agrave; chế biến đạt chuẩn ISO 22000 v&amp;agrave; HACCP, đảm bảo mang lại c&amp;aacute;c sản phẩm sạch v&amp;agrave; an to&amp;agrave;n đến tận tay người d&amp;ugrave;ng.&lt;br /&gt;&lt;br /&gt;Tại kh&amp;acirc;u chế biến, với b&amp;iacute; quyết ẩm thực từ CHLB Đức, thịt sạch được trộn c&amp;ugrave;ng c&amp;aacute;c nguy&amp;ecirc;n liệu nhập khẩu từ Ch&amp;acirc;u &amp;Acirc;u, chế biến tr&amp;ecirc;n d&amp;acirc;y chuyền nhập khẩu ho&amp;agrave;n to&amp;agrave;n từ Đức để giữ nguy&amp;ecirc;n hương vị gốc.&amp;nbsp;&lt;/p&gt;</content_html>
+	<createdDate>2021-08-04T07:27:33.752Z</createdDate>
+	<createdDate_dt>2021-08-04T07:27:33.752Z</createdDate_dt>
+	<lastModifiedDate>2021-10-09T04:27:36.083Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-09T04:27:36.083Z</lastModifiedDate_dt>
+	<sku_s>8936082672304</sku_s>
+</page>

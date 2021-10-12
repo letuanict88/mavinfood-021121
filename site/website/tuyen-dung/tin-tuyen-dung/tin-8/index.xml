@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/tuyendung</content-type>
+	<display-template>/templates/web/pages/tuyendungdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>81d1</objectGroupId>
+	<objectId>81d1b65f-debd-32cb-6863-5b136f64e10e</objectId>
+	<internal-name>KẾ TOÁN TỔNG HỢP (NGÀNH VET)</internal-name>
+	<navLabel>KẾ TOÁN TỔNG HỢP (NGÀNH VET)</navLabel>
+	<title_s>KẾ TOÁN TỔNG HỢP (NGÀNH VET)</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>tin-8</folder-name>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>45487dc1-bd49-63a0-d20c-43f7bfa5900e</key>
+	<value>S</value>
+<component id="45487dc1-bd49-63a0-d20c-43f7bfa5900e">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4548</objectGroupId>
+	<objectId>45487dc1-bd49-63a0-d20c-43f7bfa5900e</objectId>
+	<file-name>45487dc1-bd49-63a0-d20c-43f7bfa5900e.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app6.jpg</image_s>
+	<createdDate>2021-07-12T11:42:06.372Z</createdDate>
+	<createdDate_dt>2021-07-12T11:42:06.372Z</createdDate_dt>
+	<lastModifiedDate>2021-07-12T11:42:06.372Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-07-12T11:42:06.372Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p&gt;&lt;strong&gt;M&amp;ocirc; tả c&amp;ocirc;ng việc:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Quản l&amp;yacute; v&amp;agrave; hướng dẫn nghiệp vụ cho kế to&amp;aacute;n vi&amp;ecirc;n ph&amp;ugrave; hợp với chuẩn mực kế to&amp;aacute;n;&lt;/p&gt;
+&lt;p&gt;- Thực hiện tổng hợp v&amp;agrave; ph&amp;acirc;n t&amp;iacute;ch c&amp;aacute;c b&amp;aacute;o c&amp;aacute;o t&amp;agrave;i ch&amp;iacute;nh, b&amp;aacute;o c&amp;aacute;o nghiệp vụ đ&amp;aacute;p ứng nhu cầu phản &amp;aacute;nh kết quả sản xuất kinh doanh;&lt;/p&gt;
+&lt;p&gt;- Thực hiện c&amp;aacute;c giao dịch về thuế với cơ quan chuy&amp;ecirc;n tr&amp;aacute;ch;&lt;/p&gt;
+&lt;p&gt;-&amp;nbsp; Lưu trữ dữ liệu kế to&amp;aacute;n theo quy định.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Y&amp;ecirc;u cầu:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Giới t&amp;iacute;nh: Nam/ Nữ;&lt;/p&gt;
+&lt;p&gt;-&amp;nbsp; Tốt nghiệp Đại học chuy&amp;ecirc;n ng&amp;agrave;nh Kế to&amp;aacute;n &amp;ndash; Kiểm to&amp;aacute;n;&lt;/p&gt;
+&lt;p&gt;- C&amp;oacute; 2 năm kinh nghiệm tại m&amp;ocirc; h&amp;igrave;nh c&amp;ocirc;ng ty sản xuất;&lt;/p&gt;
+&lt;p&gt;- C&amp;oacute; kỹ năng tổ chức, sắp xếp v&amp;agrave; x&amp;acirc;y dựng kế hoạch c&amp;ocirc;ng việc;&lt;/p&gt;
+&lt;p&gt;- Sử dụng th&amp;agrave;nh thạo m&amp;aacute;y vi t&amp;iacute;nh, phần mềm kế to&amp;aacute;n (ưu ti&amp;ecirc;n ERP)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quyền lợi:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Thu nhập: thỏa thuận;&lt;/p&gt;
+&lt;p&gt;- Hưởng tất c&amp;aacute;c quyền lợi về BHXH,YT,TN, c&amp;aacute;c ng&amp;agrave;y Lễ, Tết theo quy định của Ph&amp;aacute;p luật hiện h&amp;agrave;nh;&lt;/p&gt;
+&lt;p&gt;- Được đ&amp;agrave;o tạo n&amp;acirc;ng cao v&amp;agrave; c&amp;oacute; cơ hội thăng tiến.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;H&amp;igrave;nh thức li&amp;ecirc;n hệ:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;- Ứng vi&amp;ecirc;n nộp hồ sơ qua mail: tuyendung@cailayvetco.com;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;- Li&amp;ecirc;n hệ Ms Chinh &amp;ndash; 0943077647 (giờ h&amp;agrave;nh ch&amp;iacute;nh).&lt;/p&gt;</content_html>
+	<createdDate>2021-07-12T11:41:48.258Z</createdDate>
+	<createdDate_dt>2021-07-12T11:41:48.258Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T10:01:14.221Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T10:01:14.221Z</lastModifiedDate_dt>
+	<date_dt>2021-07-12T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

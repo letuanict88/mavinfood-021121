@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagemarketchitiet</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>39b7</objectGroupId>
+	<objectId>39b70bdc-08f2-143a-ae6b-b3d6d98a1ebe</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test</folder-name>
+	<internal-name>Đại lý Khu vực Ba Đình </internal-name>
+	<navLabel>Đại lý Khu vực Ba Đình </navLabel>
+	<name_s>Đại lý Khu vực Ba Đình - Hà Nội</name_s>
+	<address_s>phố Đội Cấn, quận Ba Đình, TP Hà Nội</address_s>
+	<phone_s>02437221769</phone_s>
+	<latitude_s>21.035084308435493</latitude_s>
+	<longitude_s>105.82390564435339</longitude_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2021-09-13T10:59:08.737Z</createdDate>
+	<createdDate_dt>2021-09-13T10:59:08.737Z</createdDate_dt>
+	<lastModifiedDate>2021-09-14T02:17:13.688Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-14T02:17:13.688Z</lastModifiedDate_dt>
+</page>

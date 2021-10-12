@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d234</objectGroupId>
+	<objectId>d234b376-704b-2502-10d9-6631b483ab87</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ban-tin</folder-name>
+	<internal-name>Bản Tin</internal-name>
+	<navLabel>Bản Tin</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>e0798a4d-a2a7-4f74-7168-523715c8bf97</key>
+	<value>Ban tin</value>
+<component id="e0798a4d-a2a7-4f74-7168-523715c8bf97">
+	<content-type>/component/bantin</content-type>
+	<display-template>/templates/web/components/news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e079</objectGroupId>
+	<objectId>e0798a4d-a2a7-4f74-7168-523715c8bf97</objectId>
+	<file-name>e0798a4d-a2a7-4f74-7168-523715c8bf97.xml</file-name>
+	<internal-name>Ban tin</internal-name>
+	<createdDate>2021-06-17T09:23:39.127Z</createdDate>
+	<createdDate_dt>2021-06-17T09:23:39.127Z</createdDate_dt>
+	<lastModifiedDate>2021-06-17T09:23:39.127Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-17T09:23:39.127Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-02T08:21:04.271Z</createdDate>
+	<createdDate_dt>2021-06-02T08:21:04.271Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T10:36:59.452Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T10:36:59.452Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>977e13c4-259e-d328-15f1-90f9ebaccb93</key>
+	<value>Slide</value>
+<component id="977e13c4-259e-d328-15f1-90f9ebaccb93">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>977e</objectGroupId>
+	<objectId>977e13c4-259e-d328-15f1-90f9ebaccb93</objectId>
+	<file-name>977e13c4-259e-d328-15f1-90f9ebaccb93.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app4.jpg</image_s>
+	<createdDate>2021-06-21T09:11:33.254Z</createdDate>
+	<createdDate_dt>2021-06-21T09:11:33.254Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T10:37:07.624Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T10:37:07.624Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b8d0</objectGroupId>
+	<objectId>b8d05eb0-68b8-ea04-5fb9-f01d9e2dc6e1</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ca-vien-huong-tom</folder-name>
+	<internal-name>Cá viên hương tôm</internal-name>
+	<navLabel>Cá viên hương tôm</navLabel>
+	<name_s>Cá viên hương tôm</name_s>
+	<kl_s>500 g/túi</kl_s>
+	<price_s>30000</price_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>true</isHot_b>
+	<sptype_o>	<item>	<key>do-vien</key>
+	<value_smv>Đồ viên</value_smv>
+	</item></sptype_o>
+	<image1_s>/static-assets/images/san-pham/Ca vien Huong Tom 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/Ca vien Huong Tom 3 (thay tam).png</image2_s>
+	<image3_s>/static-assets/images/san-pham/Ca vien Huong Tom 2.jpg</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>a03f4c8f-5edf-6ca5-bf22-7691dc9aaf49</key>
+	<value>Slide</value>
+<component id="a03f4c8f-5edf-6ca5-bf22-7691dc9aaf49">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a03f</objectGroupId>
+	<objectId>a03f4c8f-5edf-6ca5-bf22-7691dc9aaf49</objectId>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<file-name>a03f4c8f-5edf-6ca5-bf22-7691dc9aaf49.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2021-08-04T08:13:09.669Z</createdDate>
+	<createdDate_dt>2021-08-04T08:13:09.669Z</createdDate_dt>
+	<lastModifiedDate>2021-08-04T08:13:09.669Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-04T08:13:09.669Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;C&amp;aacute; vi&amp;ecirc;n Hương t&amp;ocirc;m cũng với th&amp;agrave;nh phần ch&amp;iacute;nh l&amp;agrave; c&amp;aacute; nhưng lại c&amp;oacute; vị thơm đặc trưng của t&amp;ocirc;m, v&amp;agrave; đặc biệt mang m&amp;agrave;u đỏ cam như m&amp;agrave;u thật của ch&amp;iacute;nh ruột t&amp;ocirc;m ch&amp;iacute;n. Do đ&amp;oacute;, C&amp;aacute; vi&amp;ecirc;n Hương t&amp;ocirc;m sẽ rất bắt mắt với c&amp;aacute;c trẻ nhỏ, v&amp;agrave; ph&amp;ugrave; hợp l&amp;agrave; thực đơn bổ sung dinh dưỡng tổng hợp cho c&amp;aacute;c gia đ&amp;igrave;nh trong bữa ăn h&amp;agrave;ng ng&amp;agrave;y.&lt;span style="white-space: pre;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hướng dẫn sử dụng:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="text-align: justify;"&gt;R&amp;atilde; đ&amp;ocirc;ng 20 - 30 ph&amp;uacute;t.&lt;/li&gt;
+&lt;li style="text-align: justify;"&gt;D&amp;ugrave;ng để chi&amp;ecirc;n r&amp;aacute;n hoặc chế biến m&amp;oacute;n ăn y&amp;ecirc;u th&amp;iacute;ch.&lt;/li&gt;
+&lt;li style="text-align: justify;"&gt;Sử dụng hết sản phẩm trong v&amp;ograve;ng 24 giờ sau khi mở g&amp;oacute;i sản phẩm.&lt;/li&gt;
+&lt;/ul&gt;</content_html>
+	<createdDate>2021-08-04T08:09:41.783Z</createdDate>
+	<createdDate_dt>2021-08-04T08:09:41.783Z</createdDate_dt>
+	<lastModifiedDate>2021-10-09T04:31:30.262Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-09T04:31:30.262Z</lastModifiedDate_dt>
+	<sku_s>8936082676135</sku_s>
+</page>

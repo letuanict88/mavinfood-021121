@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>997b</objectGroupId>
+	<objectId>997be7fd-6c1b-27ea-6591-40fa41ef7d81</objectId>
+	<internal-name>Mavinia</internal-name>
+	<navLabel>Mavinia</navLabel>
+	<name_s>Mavinia</name_s>
+	<kl_s>500g/túi</kl_s>
+	<price_s>82000</price_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>xuc-xich-mavinia</folder-name>
+	<isHot_b>true</isHot_b>
+	<image1_s>/static-assets/images/san-pham/XX Mavinia 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/XX Mavinia 3.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/XX Mavinia 2.png</image3_s>
+	<sptype_o>	<item>	<key>xuc-xich</key>
+	<value_smv>Xúc xích</value_smv>
+	</item></sptype_o>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>8b91fc23-7d3a-5835-9c3b-3cd11065ea64</key>
+	<value>Slide 1</value>
+<component id="8b91fc23-7d3a-5835-9c3b-3cd11065ea64">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8b91</objectGroupId>
+	<objectId>8b91fc23-7d3a-5835-9c3b-3cd11065ea64</objectId>
+	<internal-name>Slide 1</internal-name>
+	<file-name>8b91fc23-7d3a-5835-9c3b-3cd11065ea64.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-08-04T07:38:03.429Z</createdDate>
+	<createdDate_dt>2021-08-04T07:38:03.429Z</createdDate_dt>
+	<lastModifiedDate>2021-08-04T07:38:03.429Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-04T07:38:03.429Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;X&amp;uacute;c x&amp;iacute;ch Mavinia l&amp;agrave; sản phẩm cao cấp của Mavin, sử dụng c&amp;ocirc;ng nghệ sản xuất v&amp;agrave; b&amp;iacute; quyết đặc biệt để mang lại hương vị ẩm thực đậm chất CHLB Đức - quốc gia nổi tiếng về c&amp;aacute;c sản phẩm x&amp;uacute;c x&amp;iacute;ch hảo hạng.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavinia được l&amp;agrave;m chủ yếu từ thịt heo v&amp;agrave; thịt g&amp;agrave; được nu&amp;ocirc;i sạch tại c&amp;aacute;c trang trại Mavin, đặc biệt, vỏ được l&amp;agrave;m ho&amp;agrave;n to&amp;agrave;n từ ruột cừu tự nhi&amp;ecirc;n, kh&amp;ocirc;ng chứa chất phụ gia, chất độc hại. Từ nguy&amp;ecirc;n liệu thịt tươi, sạch, Mavin tẩm ướp theo hương vị đặc trưng của CHLB Đức với c&amp;aacute;c gia vị ho&amp;agrave;n to&amp;agrave;n nhập khẩu,&amp;nbsp; chế biến theo quy tr&amp;igrave;nh đảm bảo vệ sinh an to&amp;agrave;n thực phẩm tr&amp;ecirc;n d&amp;acirc;y chuyền hiện đại ti&amp;ecirc;u chuẩn ch&amp;acirc;u &amp;Acirc;u. Tại kh&amp;acirc;u x&amp;ocirc;ng kh&amp;oacute;i, Mavin sử dụng c&amp;ocirc;ng nghệ hun kh&amp;oacute;i bằng gỗ sồi nhập khẩu để đảm bảo an to&amp;agrave;n cho sức khỏe người d&amp;ugrave;ng cũng như mang lại hương vị x&amp;ocirc;ng kh&amp;oacute;i chuẩn Ch&amp;acirc;u &amp;Acirc;u.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Ưu điểm sản phẩm:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;ocirc;ng nghệ say th&amp;ocirc; giữ nguy&amp;ecirc;n vị thịt tươi, vỏ ruột cừu tự nhi&amp;ecirc;n nhập khẩu, v&amp;agrave; x&amp;ocirc;ng kh&amp;oacute;i bằng c&amp;ocirc;ng nghệ gỗ sồi nhập khẩu từ CHLB Đức;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bao b&amp;igrave; tr&amp;aacute;ng thiếc c&amp;oacute; t&amp;iacute;nh thẩm mỹ cao, bảo vệ tr&amp;aacute;nh &amp;aacute;nh s&amp;aacute;ng chiếu trực tiếp v&amp;agrave; bảo quản sản phẩm trong điều kiện ho&amp;agrave;n hảo nhất;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- H&amp;agrave;m lượng dinh dưỡng cao, đảm bảo an to&amp;agrave;n thực phẩm.&lt;/p&gt;</content_html>
+	<createdDate>2021-08-04T07:34:51.591Z</createdDate>
+	<createdDate_dt>2021-08-04T07:34:51.591Z</createdDate_dt>
+	<lastModifiedDate>2021-09-23T09:59:14.595Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-23T09:59:14.595Z</lastModifiedDate_dt>
+	<sku_s>8936082676005</sku_s>
+</page>

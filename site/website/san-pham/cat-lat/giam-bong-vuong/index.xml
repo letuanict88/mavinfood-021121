@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>93e4</objectGroupId>
+	<objectId>93e4581a-9b45-6b06-67c5-6fd7f94a0417</objectId>
+	<internal-name>Giăm bông vuông</internal-name>
+	<navLabel>Giăm bông vuông</navLabel>
+	<name_s>Giăm bông vuông</name_s>
+	<kl_s>500 g/ túi</kl_s>
+	<price_s>Liên hệ</price_s>
+	<file-name>index.xml</file-name>
+	<folder-name>giam-bong-vuong</folder-name>
+	<isHot_b>false</isHot_b>
+	<sptype_o>	<item>	<key>cat-lat</key>
+	<value_smv>Cắt lát</value_smv>
+	</item></sptype_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image1_s>/static-assets/images/san-pham/Cat lat (Giam bong vuong 1).png</image1_s>
+	<image2_s>/static-assets/images/san-pham/Cat lat (Giam bong vuong 3).png</image2_s>
+	<image3_s>/static-assets/images/san-pham/Cat lat (Giam bong vuong 2).jpg</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>7f705491-2914-e14f-283e-1a37f837685f</key>
+	<value>Slide</value>
+<component id="7f705491-2914-e14f-283e-1a37f837685f">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7f70</objectGroupId>
+	<objectId>7f705491-2914-e14f-283e-1a37f837685f</objectId>
+	<file-name>7f705491-2914-e14f-283e-1a37f837685f.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app7.jpg</image_s>
+	<createdDate>2021-08-04T08:28:39.309Z</createdDate>
+	<createdDate_dt>2021-08-04T08:28:39.309Z</createdDate_dt>
+	<lastModifiedDate>2021-08-04T08:28:39.309Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-04T08:28:39.309Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Sản phẩm Giăm b&amp;ocirc;ng của Mavin được l&amp;agrave;m từ thịt heo sạch, được chọn lọc từ nguồn giống chất lượng cao tr&amp;ecirc;n thế giới v&amp;agrave; nu&amp;ocirc;i an to&amp;agrave;n tại c&amp;aacute;c trang trại của Mavin Farm. Tại đ&amp;acirc;y, heo được ph&amp;ograve;ng dịch bệnh nghi&amp;ecirc;m ngặt v&amp;agrave; được cho ăn bằng thức ăn chất lượng cao, sản xuất tr&amp;ecirc;n d&amp;acirc;y chuyền nhập khẩu ho&amp;agrave;n to&amp;agrave;n từ Thụy Sỹ. Mavin kiểm so&amp;aacute;t kh&amp;acirc;u giết mổ an to&amp;agrave;n, bảo quản v&amp;agrave; chế biến đạt chuẩn ISO 22000 v&amp;agrave; HACCP, đảm bảo mang lại c&amp;aacute;c sản phẩm sạch v&amp;agrave; an to&amp;agrave;n đến tận tay người d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c chuy&amp;ecirc;n gia của Mavin l&amp;agrave; những người đ&amp;atilde; nhiều năm kinh nghiệm trong lĩnh vực thực phẩm tại CHLB Đức, mang b&amp;iacute; quyết ẩm thực của nước Đức tới Việt Nam, với mong muốn cho kh&amp;aacute;ch h&amp;agrave;ng cơ hội thưởng thức c&amp;aacute;c sản phẩm đậm tinh hoa ẩm thực Đức &amp;ndash; đất nước nổi tiếng thế giới về c&amp;aacute;c thực phẩm chế biến.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Đặc điểm sản phẩm:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Th&amp;agrave;nh phần ch&amp;iacute;nh l&amp;agrave; đ&amp;ugrave;i heo chất lượng từ nguồn heo sạch nu&amp;ocirc;i tại c&amp;aacute;c trang trại Mavin theo chuẩn m&amp;ocirc; h&amp;igrave;nh quốc tế&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kh&amp;ocirc;ng sử dụng h&amp;agrave;n the, chất bảo quản, đảm bảo sức khỏe, an to&amp;agrave;n thực phẩm cho NTD&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Đặc trưng vị thơm của thịt, đậm đ&amp;agrave; của c&amp;aacute;c gia vị, ph&amp;ugrave; hợp khẩu vị gia đ&amp;igrave;nh Việt.&lt;/p&gt;</content_html>
+	<createdDate>2021-08-04T08:26:33.752Z</createdDate>
+	<createdDate_dt>2021-08-04T08:26:33.752Z</createdDate_dt>
+	<lastModifiedDate>2021-10-09T04:29:41.286Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-09T04:29:41.286Z</lastModifiedDate_dt>
+	<sku_s>8936082670812</sku_s>
+</page>

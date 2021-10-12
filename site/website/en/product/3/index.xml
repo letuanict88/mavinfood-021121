@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>01f155f1</objectGroupId>
+	<objectId>01f155f1-f2c0-4b38-8b0a-ad0ca3ded2ed</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>3</folder-name>
+	<internal-name>Gio cha</internal-name>
+	<navLabel>Gio cha</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>1020548a-f008-5c09-b83c-8b526615b0b0</key>
+	<value>S</value>
+<component id="1020548a-f008-5c09-b83c-8b526615b0b0">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1020</objectGroupId>
+	<objectId>1020548a-f008-5c09-b83c-8b526615b0b0</objectId>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app3.jpg</image_s>
+	<file-name>1020548a-f008-5c09-b83c-8b526615b0b0.xml</file-name>
+	<createdDate>2021-09-30T09:04:34.462Z</createdDate>
+	<createdDate_dt>2021-09-30T09:04:34.462Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:04:34.462Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:04:34.462Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>a54afd37-f6ed-6c44-4b23-b889eed4a386</key>
+	<value>Gio cha</value>
+<component id="a54afd37-f6ed-6c44-4b23-b889eed4a386">
+	<content-type>/component/encomgroupsp</content-type>
+	<display-template>/templates/web/components/en/groupproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a54a</objectGroupId>
+	<objectId>a54afd37-f6ed-6c44-4b23-b889eed4a386</objectId>
+	<file-name>a54afd37-f6ed-6c44-4b23-b889eed4a386.xml</file-name>
+	<image_s>/static-assets/images/san-pham/Gio cha 1A.png</image_s>
+	<internal-name>Gio cha</internal-name>
+	<title_s>Gio cha</title_s>
+	<groupproduct_o item-list="true">	<item datasource="groupProduct">	<key>/site/items/86461d07-52f5-e11a-4ae3-876b2c6650b7.xml</key>
+	<value>Gio cha</value>
+	<include>/site/items/86461d07-52f5-e11a-4ae3-876b2c6650b7.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></groupproduct_o>
+	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<createdDate>2021-09-30T09:11:17.918Z</createdDate>
+	<createdDate_dt>2021-09-30T09:11:17.918Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:11:17.918Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:11:17.918Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-09-30T09:04:01.967Z</createdDate>
+	<createdDate_dt>2021-09-30T09:04:01.967Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:10:48.387Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:10:48.387Z</lastModifiedDate_dt>
+</page>

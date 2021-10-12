@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagebepmavin</content-type>
+	<display-template>/templates/web/pages/en/bep.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0ce19d45</objectGroupId>
+	<objectId>0ce19d45-59c1-4bb6-a6ce-e32a93761b4c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>2</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/bep/Anh tin bai XX Mavin GD.jpg</image_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>b6116e3d-e988-a7c9-7b5d-95bb0f610654</key>
+	<value>1</value>
+<component id="b6116e3d-e988-a7c9-7b5d-95bb0f610654">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b611</objectGroupId>
+	<objectId>b6116e3d-e988-a7c9-7b5d-95bb0f610654</objectId>
+	<file-name>b6116e3d-e988-a7c9-7b5d-95bb0f610654.xml</file-name>
+	<internal-name>1 5abde9d5</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-10-01T03:59:25.452Z</createdDate>
+	<createdDate_dt>2021-10-01T03:59:25.452Z</createdDate_dt>
+	<lastModifiedDate>2021-10-01T03:59:25.452Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-01T03:59:25.452Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<internal-name>2</internal-name>
+	<navLabel>2</navLabel>
+	<title_s>2</title_s>
+	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<createdDate>2021-10-01T03:59:05.096Z</createdDate>
+	<createdDate_dt>2021-10-01T03:59:05.096Z</createdDate_dt>
+	<lastModifiedDate>2021-10-01T03:59:51.850Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-01T03:59:51.850Z</lastModifiedDate_dt>
+</page>

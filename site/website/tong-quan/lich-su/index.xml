@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c177</objectGroupId>
+	<objectId>c1779554-67b4-b06d-0909-4c810720150d</objectId>
+	<internal-name>Lịch sử hình thành</internal-name>
+	<navLabel>Lịch sử hình thành</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>lich-su</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>95128cca-0e60-9e19-7c61-e5e9cb641756</key>
+	<value>slide</value>
+<component id="95128cca-0e60-9e19-7c61-e5e9cb641756">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9512</objectGroupId>
+	<objectId>95128cca-0e60-9e19-7c61-e5e9cb641756</objectId>
+	<file-name>95128cca-0e60-9e19-7c61-e5e9cb641756.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<internal-name>slide</internal-name>
+	<createdDate>2021-08-03T10:32:16.663Z</createdDate>
+	<createdDate_dt>2021-08-03T10:32:16.663Z</createdDate_dt>
+	<lastModifiedDate>2021-08-03T10:32:16.663Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-03T10:32:16.663Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>b7751590-43da-3ed1-0e6a-8d02f4151820</key>
+	<value>Lịch sử</value>
+<component id="b7751590-43da-3ed1-0e6a-8d02f4151820">
+	<content-type>/component/comlichsu</content-type>
+	<display-template>/templates/web/lichsu.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b775</objectGroupId>
+	<objectId>b7751590-43da-3ed1-0e6a-8d02f4151820</objectId>
+	<file-name>b7751590-43da-3ed1-0e6a-8d02f4151820.xml</file-name>
+	<internal-name>Lịch sử</internal-name>
+	<title_s>Lịch sử hình thành</title_s>
+	<content_s>/static-assets/images/tong-quan/Layer 100.png</content_s>
+	<image_html>&lt;p&gt;C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin l&amp;agrave; một th&amp;agrave;nh vi&amp;ecirc;n của Tập đo&amp;agrave;n Mavin. Ch&amp;uacute;ng t&amp;ocirc;i l&amp;agrave; một trong số rất &amp;iacute;t c&amp;aacute;c doanh nghiệp tại Việt Nam, &amp;aacute;p dụng được m&amp;ocirc; h&amp;igrave;nh sản xuất &amp;ldquo;Từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn&amp;rdquo;, với chuỗi gi&amp;aacute; trị kh&amp;eacute;p k&amp;iacute;n, từ kh&amp;acirc;u thức ăn chăn nu&amp;ocirc;i, con giống, chăn nu&amp;ocirc;i cho đến chế biến v&amp;agrave; cung cấp thực phẩm chất lượng cao, đảm bảo y&amp;ecirc;u cầu vệ sinh an to&amp;agrave;n đến tay người ti&amp;ecirc;u d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p&gt;Nh&amp;agrave; m&amp;aacute;y hiện tại của Mavin c&amp;oacute; quy m&amp;ocirc; gần 10.000 tấn sản phẩm/năm, được đặt tại Khu C&amp;ocirc;ng nghiệp Đồng Văn II, x&amp;atilde; Bạch Thượng, huyện Duy Ti&amp;ecirc;n, tỉnh H&amp;agrave; Nam với diện t&amp;iacute;ch 10.000 m2, được đầu tư đồng bộ v&amp;agrave; hiện đại với hệ thống sản xuất ho&amp;agrave;n to&amp;agrave;n theo c&amp;ocirc;ng nghệ hiện đại của Cộng h&amp;ograve;a Li&amp;ecirc;n bang Đức. D&amp;acirc;y chuyền hiện đại của nh&amp;agrave; m&amp;aacute;y gi&amp;uacute;p đảm bảo tạo ra c&amp;aacute;c sản phẩm chất lượng cao v&amp;agrave; tuyệt đối an to&amp;agrave;n vệ sinh thực phẩm. Với khẩu hiệu &amp;ldquo;B&amp;iacute; quyết Ch&amp;acirc;u &amp;Acirc;u. Đậm s&amp;acirc;u vị &amp;Aacute;.&amp;rdquo; Mavin sẽ mạnh mẽ ph&amp;aacute;t triển v&amp;agrave; chinh phục những người ti&amp;ecirc;u d&amp;ugrave;ng tại thị trường Việt Nam.&lt;/p&gt;
+&lt;p&gt;Nguy&amp;ecirc;n liệu để sản xuất sản phẩm của Mavin l&amp;agrave; thịt sạch được cung cấp bởi ch&amp;iacute;nh hệ thống c&amp;aacute;c C&amp;ocirc;ng ty của Mavin. Hệ thống n&amp;agrave;y sở hữu c&amp;aacute;c nh&amp;agrave; m&amp;aacute;y sản xuất thức ăn chăn nu&amp;ocirc;i lớn tr&amp;ecirc;n cả nước với c&amp;ocirc;ng suất h&amp;agrave;ng trăm ng&amp;agrave;n tấn/năm cũng như sở hữu hệ thống trang trại heo giống v&amp;agrave; heo thịt lớn tại miền Bắc, với c&amp;aacute;c giống heo được nhập trực tiếp từ Vương Quốc Anh. Hằng năm, hệ thống c&amp;aacute;c trang trại n&amp;agrave;y cung cấp h&amp;agrave;ng ng&amp;agrave;n tấn heo thịt, heo th&amp;agrave;nh phẩm, chất lượng cao, đảm bảo vệ sinh an to&amp;agrave;n ra thị trường, V&amp;agrave; Mavin cũng ch&amp;iacute;nh l&amp;agrave; mắt x&amp;iacute;ch ho&amp;agrave;n chỉnh trong chuỗi sản phẩm &amp;ldquo;Từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn&amp;rdquo; của hệ thống.&lt;/p&gt;
+&lt;p&gt;Sản phẩm của Mavin được cung cấp tại c&amp;aacute;c kh&amp;aacute;ch sạn lớn ở H&amp;agrave; Nội v&amp;agrave; cũng đ&amp;atilde; c&amp;oacute; mặt rộng khắp tr&amp;ecirc;n to&amp;agrave;n quốc từ hệ thống si&amp;ecirc;u thị, nh&amp;agrave; h&amp;agrave;ng, kh&amp;aacute;ch sạn đến c&amp;aacute;c đại l&amp;yacute; tr&amp;ecirc;n cả nước.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;C&amp;aacute;c kh&amp;aacute;ch h&amp;agrave;ng lớn hiện tại của Mavin: kh&amp;aacute;ch sạn Inter Continental Westlake Hanoi, kh&amp;aacute;ch sạn Crowne Plaza West Hanoi, kh&amp;aacute;ch sạn Sheraton Hanoi Hotel, tập đo&amp;agrave;n kh&amp;aacute;ch sạn Mường Thanh, chuỗi nh&amp;agrave; h&amp;agrave;ng Jaspas Hanoi, chuỗi nh&amp;agrave; h&amp;agrave;ng Papa Joe Hanoi...&lt;/p&gt;
+&lt;p&gt;Hệ thống si&amp;ecirc;u thị Vinmart, Lottemart, Sapomart, Fivimart, Co.opmart, Lanchimart, Big C, Unimart, Intimex, Metro, Aeon ....&lt;/p&gt;</image_html>
+	<createdDate>2021-08-03T10:45:57.345Z</createdDate>
+	<createdDate_dt>2021-08-03T10:45:57.345Z</createdDate_dt>
+	<lastModifiedDate>2021-08-03T10:50:02.226Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-03T10:50:02.226Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-08-03T10:31:57.698Z</createdDate>
+	<createdDate_dt>2021-08-03T10:31:57.698Z</createdDate_dt>
+	<lastModifiedDate>2021-08-03T10:49:59.135Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-03T10:49:59.135Z</lastModifiedDate_dt>
+</page>

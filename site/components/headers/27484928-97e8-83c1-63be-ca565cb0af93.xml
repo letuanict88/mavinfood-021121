@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/encomheader</content-type>
+	<display-template>/templates/web/components/en/header.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2748</objectGroupId>
+	<objectId>27484928-97e8-83c1-63be-ca565cb0af93</objectId>
+	<file-name>27484928-97e8-83c1-63be-ca565cb0af93.xml</file-name>
+	<internal-name>Header</internal-name>
+	<image_s>/static-assets/images/logo/mavin-logo-sm.jpg</image_s>
+	<createdDate>2021-09-29T07:48:50.795Z</createdDate>
+	<createdDate_dt>2021-09-29T07:48:50.795Z</createdDate_dt>
+	<lastModifiedDate>2021-09-29T07:48:50.795Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-29T07:48:50.795Z</lastModifiedDate_dt>
+</component>

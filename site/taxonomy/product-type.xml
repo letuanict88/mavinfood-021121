@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a0a7</objectGroupId>
+	<objectId>a0a71d6d-4661-8ed8-f3e3-83ca7adf5d45</objectId>
+	<items item-list="true">	<item>	<key> sausage</key>
+	<value> sausage</value>
+	</item>	<item>	<key>rolls</key>
+	<value>rolls</value>
+	</item>	<item>	<key>balls</key>
+	<value>balls</value>
+	</item>	<item>	<key>sliced</key>
+	<value>sliced</value>
+	</item>	<item>	<key>other</key>
+	<value>other</value>
+	</item></items>
+	<file-name>product-type.xml</file-name>
+	<folder-name/>
+	<internal-name>Product Type</internal-name>
+	<createdDate>2021-09-30T07:10:26.816Z</createdDate>
+	<createdDate_dt>2021-09-30T07:10:26.816Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T07:10:26.816Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T07:10:26.816Z</lastModifiedDate_dt>
+</component>

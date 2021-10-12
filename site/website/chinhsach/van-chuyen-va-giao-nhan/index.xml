@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/chinhsachdetail</content-type>
+	<display-template>/templates/web/pages/chinhsachdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>89f4041b</objectGroupId>
+	<objectId>89f4041b-a90c-420c-a5f2-80483cb8491f</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>van-chuyen-va-giao-nhan</folder-name>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>52731ec2-5090-7435-19cb-3c4e17b9c45c</key>
+	<value>Slide</value>
+<component id="52731ec2-5090-7435-19cb-3c4e17b9c45c">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5273</objectGroupId>
+	<objectId>52731ec2-5090-7435-19cb-3c4e17b9c45c</objectId>
+	<file-name>52731ec2-5090-7435-19cb-3c4e17b9c45c.xml</file-name>
+	<internal-name>Slide 84a62c8f</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-08-10T07:35:07.522Z</createdDate>
+	<createdDate_dt>2021-08-10T07:35:07.522Z</createdDate_dt>
+	<lastModifiedDate>2021-08-10T07:35:07.522Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-10T07:35:07.522Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<internal-name>Vận chuyển và giao nhận</internal-name>
+	<navLabel>Vận chuyển và giao nhận</navLabel>
+	<title_s>Vận chuyển và giao nhận</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/tuyen-dung/DSC_2444.JPG</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Sau khi qu&amp;yacute; kh&amp;aacute;ch đ&amp;atilde; đặt h&amp;agrave;ng th&amp;agrave;nh c&amp;ocirc;ng, đội ngũ Chăm s&amp;oacute;c kh&amp;aacute;ch h&amp;agrave;ng của Mavin Foods sẽ li&amp;ecirc;n hệ để x&amp;aacute;c minh đơn h&amp;agrave;ng, đồng thời th&amp;ocirc;ng b&amp;aacute;o về thời gian nhận h&amp;agrave;ng, k&amp;egrave;m theo c&amp;aacute;c th&amp;ocirc;ng tin cần thiết kh&amp;aacute;c.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Lưu &amp;yacute;: Giao h&amp;agrave;ng với đơn h&amp;agrave;ng tối thiểu từ 3kg trở l&amp;ecirc;n, chỉ &amp;aacute;p dụng trong khu vực nội hoặc ngoại th&amp;agrave;nh H&amp;agrave; Nội.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sau khi qu&amp;aacute; tr&amp;igrave;nh x&amp;aacute;c minh th&amp;agrave;nh c&amp;ocirc;ng, đơn h&amp;agrave;ng sẽ được giao đến qu&amp;yacute; kh&amp;aacute;ch trong khoảng thời gian sau đ&amp;acirc;y (C&amp;aacute;c đơn đặt h&amp;agrave;ng ngo&amp;agrave;i giờ h&amp;agrave;nh ch&amp;iacute;nh sẽ t&amp;iacute;nh thời gian bắt đầu từ s&amp;aacute;ng ng&amp;agrave;y h&amp;ocirc;m sau&lt;/p&gt;
+&lt;table style="border-collapse: collapse; width: 61.157%; height: 66px;" border="1"&gt;
+&lt;tbody&gt;
+&lt;tr style="height: 22px;"&gt;
+&lt;td style="width: 40.6599%; height: 22px;"&gt;&lt;strong&gt;Địa chỉ giao h&amp;agrave;ng&lt;/strong&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 55.3457%; height: 22px;"&gt;&lt;strong&gt;Thời gian giao h&amp;agrave;ng&lt;/strong&gt;&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 22px;"&gt;
+&lt;td style="width: 40.6599%; height: 22px;"&gt;Nội th&amp;agrave;nh H&amp;agrave; Nội&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 55.3457%; height: 22px;"&gt;24h-48h sau khi đặt h&amp;agrave;ng&lt;br /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 22px;"&gt;
+&lt;td style="width: 40.6599%; height: 22px;"&gt;Ngoại th&amp;agrave;nh H&amp;agrave; Nội&lt;br /&gt;&lt;/td&gt;
+&lt;td style="width: 55.3457%; height: 22px;"&gt;48h-72h sau khi đặt h&amp;agrave;ng&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-08-10T07:32:56.146Z</createdDate>
+	<createdDate_dt>2021-08-10T07:32:56.146Z</createdDate_dt>
+	<lastModifiedDate>2021-08-12T07:42:19.169Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-12T07:42:19.169Z</lastModifiedDate_dt>
+	<date_dt>2021-08-01T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

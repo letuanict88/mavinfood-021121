@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/pages/tintuc.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3adc</objectGroupId>
+	<objectId>3adc0b20-e94e-f853-6413-f908ec3e429e</objectId>
+	<internal-name>Cùng Mavin Foods - An tâm ở nhà, Covid tránh xa</internal-name>
+	<navLabel>Cùng Mavin Foods - An tâm ở nhà, Covid tránh xa</navLabel>
+	<title_s>Cùng Mavin Foods - An tâm ở nhà, Covid tránh xa</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>ct-ban-hang-online</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/new/Mavinia 2018.jpg</image_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>d2f294c8-d849-07ee-16a7-019e39f99e76</key>
+	<value>Slide</value>
+<component id="d2f294c8-d849-07ee-16a7-019e39f99e76">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d2f2</objectGroupId>
+	<objectId>d2f294c8-d849-07ee-16a7-019e39f99e76</objectId>
+	<file-name>d2f294c8-d849-07ee-16a7-019e39f99e76.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-08-04T08:49:38.734Z</createdDate>
+	<createdDate_dt>2021-08-04T08:49:38.734Z</createdDate_dt>
+	<lastModifiedDate>2021-08-04T08:49:38.734Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-04T08:49:38.734Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Đồng h&amp;agrave;nh với kh&amp;aacute;ch h&amp;agrave;ng trong m&amp;ugrave;a dịch, Mavin Foods giảm ngay 15% v&amp;agrave; miễn ph&amp;iacute; giao h&amp;agrave;ng tận nh&amp;agrave; khi kh&amp;aacute;ch h&amp;agrave;ng mua online c&amp;aacute;c sản phẩm VEALINO, HOTDOG, MAVIN GIA Đ&amp;Igrave;NH, C&amp;Aacute; VI&amp;Ecirc;N.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavin Foods cam kết:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thực phẩm an to&amp;agrave;n, chất lượng, truy xuất nguồn gốc;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gi&amp;aacute; cả ưu đ&amp;atilde;i v&amp;agrave; c&amp;ograve;n freeship cho tất cả c&amp;aacute;c đơn đặt h&amp;agrave;ng online, hỗ trợ đặt h&amp;agrave;ng 24/24 (tại H&amp;agrave; Nội);&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tiết kiệm thời gian đi chợ, chỉ cần comment, gửi tin nhắn cho ch&amp;uacute;ng t&amp;ocirc;i tr&amp;ecirc;n Fanpage;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Hạn chế tiếp x&amp;uacute;c trong m&amp;ugrave;a dịch, chỉ cần ngồi nh&amp;agrave;, ch&amp;uacute;ng t&amp;ocirc;i sẽ hỗ trợ giao h&amp;agrave;ng miễn ph&amp;iacute; 24/24;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trước diễn biến dịch bệnh Covid-19 ng&amp;agrave;y c&amp;agrave;ng phức tạp, Thực phẩm SẠCH TỪ NGUỒN Mavin Foods l&amp;agrave; một trong những giải ph&amp;aacute;p an to&amp;agrave;n v&amp;agrave; thuận tiện gi&amp;uacute;p c&amp;aacute;c gia đ&amp;igrave;nh kh&amp;ocirc;ng cần ra chợ m&amp;agrave; vẫn c&amp;oacute; thể chế biến c&amp;aacute;c m&amp;oacute;n ăn ngon v&amp;agrave; tiện lợi như: b&amp;aacute;nh m&amp;igrave; , pizza, cơm rang, x&amp;uacute;c x&amp;iacute;ch chi&amp;ecirc;n/ hấp, x&amp;uacute;c x&amp;iacute;ch x&amp;agrave;o c&amp;ugrave;ng rau củ, lẩu , BBQ ngo&amp;agrave;i trời,.... đảm đảo đầy đủ dinh dưỡng cho cả gia đ&amp;igrave;nh, tăng cường sức khỏe trong m&amp;ugrave;a dịch.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thực phẩm Mavin với &amp;ldquo;B&amp;iacute; quyết Ch&amp;acirc;u &amp;Acirc;u, Đậm s&amp;acirc;u vị &amp;Aacute;&amp;rdquo; hoạt động theo m&amp;ocirc; h&amp;igrave;nh sản xuất kh&amp;eacute;p k&amp;iacute;n &amp;ldquo;Từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn&amp;rdquo; sạch từ nguồn, c&amp;ugrave;ng d&amp;acirc;y chuyền c&amp;ocirc;ng nghệ sản xuất nhập khẩu cao cấp từ Đức, sản xuất theo quy tr&amp;igrave;nh kh&amp;eacute;p k&amp;iacute;n đạt ATVSTP theo ti&amp;ecirc;u chuẩn ISO 22000 v&amp;agrave; HACCP được TUV NORD (CHLB Đức) chứng nhận, Mavin Foods lu&amp;ocirc;n tự h&amp;agrave;o v&amp;agrave; cam kết chất lượng sản phẩm đảm bảo an to&amp;agrave;n thực phẩm, c&amp;oacute; lợi cho người ti&amp;ecirc;u d&amp;ugrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;(*) Chương tr&amp;igrave;nh &amp;aacute;p dụng cho c&amp;aacute;c đơn đặt h&amp;agrave;ng tại khu vực H&amp;agrave; Nội.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Chi tiết sản phẩm tham khảo tại:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Website: https://mavinfood.com/&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Fanpage: https://www.facebook.com/mavinfood&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hotline đặt h&amp;agrave;ng: 0985 002 255&lt;/p&gt;</content_html>
+	<createdDate>2021-08-04T08:48:02.976Z</createdDate>
+	<createdDate_dt>2021-08-04T08:48:02.976Z</createdDate_dt>
+	<lastModifiedDate>2021-08-09T09:50:33.762Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-09T09:50:33.762Z</lastModifiedDate_dt>
+	<date_dt>2021-08-09T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

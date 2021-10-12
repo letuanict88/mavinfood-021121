@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>93f5</objectGroupId>
+	<objectId>93f5fdb5-8bf7-226d-9fa6-c6114b5951a5</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>chung-nhan-giai-thuong</folder-name>
+	<internal-name>Chứng nhận - Giải thưởng</internal-name>
+	<navLabel>Chứng nhận - Giải thưởng</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>99bb4bbe-444d-1785-f9bc-6fb961d17cef</key>
+	<value>Chứng nhận - Giai thưởng</value>
+<component id="99bb4bbe-444d-1785-f9bc-6fb961d17cef">
+	<content-type>/component/chungnhan</content-type>
+	<display-template>/templates/web/components/chungnhan-giaithuong.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>99bb</objectGroupId>
+	<objectId>99bb4bbe-444d-1785-f9bc-6fb961d17cef</objectId>
+	<file-name>99bb4bbe-444d-1785-f9bc-6fb961d17cef.xml</file-name>
+	<internal-name>Chứng nhận - Giai thưởng</internal-name>
+	<certi_o item-list="true">	<item>	<image_s>/static-assets/images/tong-quan/Chung nhan iso 22000-2018 (song ngu_page-0001.jpg</image_s>
+	<title_s>HỆ THỐNG CHỨNG CHỈ CHO MAVIN FOODS</title_s>
+	<content_html>&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: UVF-DINPro; font-size: 14px; background-color: #ffffff; text-align: justify;"&gt;C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin được Tổ chức đ&amp;aacute;nh gi&amp;aacute; v&amp;agrave; kiểm định nổi tiếng của Cộng h&amp;ograve;a Li&amp;ecirc;n bang Đức &amp;ndash; TUV NORD cấp Chứng chỉ ISO 9001-2008, Chứng chỉ ISO 22000 -2005 v&amp;agrave; Chứng chỉ HACCP.&lt;br /&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #212529; font-family: UVF-DINPro; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"&gt;&amp;nbsp;&lt;/p&gt;</content_html>
+	<content_s>Công ty TNHH Liên doanh Thực phẩm Mavin được Tổ chức đánh giá và kiểm định nổi tiếng của Cộng hòa Liên bang Đức – TUV NORD cấp Chứng chỉ ISO 9001-2008, Chứng chỉ ISO 22000 -2005 và Chứng chỉ HACCP.</content_s>
+	</item>	<item>	<image_s>/static-assets/images/tong-quan/Chứng nhận VSATTP 02.2020_page-0001.jpg</image_s>
+	<title_s>HỆ THỐNG CHỨNG CHỈ CHO MAVIN FOODS 2</title_s>
+	<content_html>&lt;p&gt;&lt;span style="color: #212529; font-family: UVF-DINPro; font-size: 14px; text-align: justify; background-color: #ffffff;"&gt;C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin được Tổ chức đ&amp;aacute;nh gi&amp;aacute; v&amp;agrave; kiểm định nổi tiếng của Cộng h&amp;ograve;a Li&amp;ecirc;n bang Đức &amp;ndash; TUV NORD cấp Chứng chỉ ISO 9001-2008, Chứng chỉ ISO 22000 -2005 v&amp;agrave; Chứng chỉ HACCP.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<content_s>Công ty TNHH Liên doanh Thực phẩm Mavin được Tổ chức đánh giá và kiểm định nổi tiếng của Cộng hòa Liên bang Đức – TUV NORD cấp Chứng chỉ ISO 9001-2008, Chứng chỉ ISO 22000 -2005 và Chứng chỉ HACCP.</content_s>
+	</item>	<item>	<image_s>/static-assets/images/tong-quan/he thong quan li HACCP (song ngu)_page-0001.jpg</image_s>
+	<title_s>HỆ THỐNG CHỨNG CHỈ CHO MAVIN FOODS 3</title_s>
+	<content_html>&lt;p&gt;&lt;span style="color: #212529; font-family: UVF-DINPro; font-size: 14px; text-align: justify; background-color: #ffffff;"&gt;C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin được Tổ chức đ&amp;aacute;nh gi&amp;aacute; v&amp;agrave; kiểm định nổi tiếng của Cộng h&amp;ograve;a Li&amp;ecirc;n bang Đức &amp;ndash; TUV NORD cấp Chứng chỉ ISO 9001-2008, Chứng chỉ ISO 22000 -2005 v&amp;agrave; Chứng chỉ HACCP.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<content_s>Công ty TNHH Liên doanh Thực phẩm Mavin được Tổ chức đánh giá và kiểm định nổi tiếng của Cộng hòa Liên bang Đức – TUV NORD cấp Chứng chỉ ISO 9001-2008, Chứng chỉ ISO 22000 -2005 và Chứng chỉ HACCP.</content_s>
+	</item>	<item>	<image_s>/static-assets/images/tong-quan/Chung nhan iso 9001-2015 (song ngu)_page-0001.jpg</image_s>
+	<title_s>HỆ THỐNG CHỨNG CHỈ CHO MAVIN FOODS 4</title_s>
+	<content_html>&lt;p&gt;&lt;span style="color: #212529; font-family: UVF-DINPro; font-size: 14px; text-align: justify; background-color: #ffffff;"&gt;C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin được Tổ chức đ&amp;aacute;nh gi&amp;aacute; v&amp;agrave; kiểm định nổi tiếng của Cộng h&amp;ograve;a Li&amp;ecirc;n bang Đức &amp;ndash; TUV NORD cấp Chứng chỉ ISO 9001-2008, Chứng chỉ ISO 22000 -2005 v&amp;agrave; Chứng chỉ HACCP.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<content_s>Công ty TNHH Liên doanh Thực phẩm Mavin được Tổ chức đánh giá và kiểm định nổi tiếng của Cộng hòa Liên bang Đức – TUV NORD cấp Chứng chỉ ISO 9001-2008, Chứng chỉ ISO 22000 -2005 và Chứng chỉ HACCP.</content_s>
+	</item></certi_o>
+	<createdDate>2021-06-14T07:20:38.350Z</createdDate>
+	<createdDate_dt>2021-06-14T07:20:38.350Z</createdDate_dt>
+	<lastModifiedDate>2021-08-16T10:46:39.158Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-16T10:46:39.158Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-14T07:20:04.450Z</createdDate>
+	<createdDate_dt>2021-06-14T07:20:04.450Z</createdDate_dt>
+	<lastModifiedDate>2021-08-16T10:46:36.011Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-16T10:46:36.011Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>7f73c6ea-078d-3765-fcb5-399d713ade9c</key>
+	<value>S</value>
+<component id="7f73c6ea-078d-3765-fcb5-399d713ade9c">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7f73</objectGroupId>
+	<objectId>7f73c6ea-078d-3765-fcb5-399d713ade9c</objectId>
+	<internal-name>S</internal-name>
+	<file-name>7f73c6ea-078d-3765-fcb5-399d713ade9c.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-06-21T09:37:09.606Z</createdDate>
+	<createdDate_dt>2021-06-21T09:37:09.606Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:14:01.031Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:14:01.031Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

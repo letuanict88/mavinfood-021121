@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/pages/tintuc.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9ddc</objectGroupId>
+	<objectId>9ddc91db-0baf-b73b-5e11-b006d290ec46</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Thực phẩm sạch giao tận nhà hỗ trợ Hà Nội trong thời gian giãn cách</internal-name>
+	<navLabel>Thực phẩm sạch giao tận nhà hỗ trợ Hà Nội trong thời gian giãn cách</navLabel>
+	<title_s>Thực phẩm sạch giao tận nhà hỗ trợ Hà Nội trong thời gian giãn cách</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>ho-tro-giao-hang-ha-noi</folder-name>
+	<image_s>/static-assets/images/new/QC FB Food 9.2021 NGANG A.jpg</image_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>8286e046-c7c7-3dfd-08f3-9598da30a9ab</key>
+	<value>Slide</value>
+<component id="8286e046-c7c7-3dfd-08f3-9598da30a9ab">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8286</objectGroupId>
+	<objectId>8286e046-c7c7-3dfd-08f3-9598da30a9ab</objectId>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app4.jpg</image_s>
+	<file-name>8286e046-c7c7-3dfd-08f3-9598da30a9ab.xml</file-name>
+	<createdDate>2021-09-14T06:32:17.222Z</createdDate>
+	<createdDate_dt>2021-09-14T06:32:17.222Z</createdDate_dt>
+	<lastModifiedDate>2021-09-14T06:32:17.222Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-14T06:32:17.222Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Thấu hiểu nhu cầu về thực phẩm sạch, an to&amp;agrave;n, bổ dưỡng của kh&amp;aacute;ch h&amp;agrave;ng thủ đ&amp;ocirc; H&amp;agrave; Nội trong những ng&amp;agrave;y ở nh&amp;agrave; &amp;ldquo;chống dịch&amp;rdquo;, Mavin Foods đang nỗ lực vừa duy tr&amp;igrave; sản xuất vừa hỗ trợ ph&amp;acirc;n phối thực phẩm đến tận tay người ti&amp;ecirc;u d&amp;ugrave;ng.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Theo đ&amp;oacute;, kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; nhu cầu c&amp;aacute;c sản phẩm X&amp;uacute;c x&amp;iacute;ch, Đồ vi&amp;ecirc;n, Gi&amp;ograve; chả của Mavin, chỉ cần nhấc m&amp;aacute;y gọi Hotline 0985002255 hoặc b&amp;igrave;nh luật/nhắn tin tr&amp;ecirc;n trang Facebook của Mavin Foods (địa chỉ: &lt;a href="https://www.facebook.com/mavinfood"&gt;https://www.facebook.com/mavinfood&lt;/a&gt;), nh&amp;acirc;n vi&amp;ecirc;n kinh doanh Mavin Foods sẽ mang tận nh&amp;agrave; cho kh&amp;aacute;ch h&amp;agrave;ng những sản phẩm &amp;ldquo;Sạch từ nguồn&amp;rdquo;, ngon l&amp;agrave;nh, bổ dưỡng.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c lựa chọn ngon l&amp;agrave;nh, chất lượng, gi&amp;aacute; cả ph&amp;ugrave; hợp cho kh&amp;aacute;ch h&amp;agrave;ng an t&amp;acirc;m ở nh&amp;agrave; gi&amp;atilde;n c&amp;aacute;ch gồm:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- X&amp;uacute;c x&amp;iacute;ch chuẩn hương vị Ch&amp;acirc;u &amp;Acirc;u: x&amp;uacute;c x&amp;iacute;ch Đức cao cấp Mavinia, x&amp;uacute;c x&amp;iacute;ch chuẩn vị ch&amp;acirc;u &amp;Acirc;u Hotdog, Berliner, x&amp;uacute;c x&amp;iacute;ch &amp;ldquo;cả nh&amp;agrave; đều m&amp;ecirc;&amp;rdquo; Mavin Gia Đ&amp;igrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Đồ vi&amp;ecirc;n thanh m&amp;aacute;t từ c&amp;aacute;: Vi&amp;ecirc;n c&amp;aacute;, Vi&amp;ecirc;n b&amp;ograve;, Vi&amp;ecirc;n t&amp;ocirc;m, Vi&amp;ecirc;n rau củ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gi&amp;ograve; chả truyền thống: Gi&amp;ograve; lụa, Chả lụa, Gi&amp;ograve; g&amp;agrave;, Chả g&amp;agrave;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavin Foods l&amp;agrave; 1 th&amp;agrave;nh vi&amp;ecirc;n của Tập đo&amp;agrave;n Mavin &amp;ndash; 1 trong những c&amp;ocirc;ng ty h&amp;agrave;ng đầu trong lĩnh vực n&amp;ocirc;ng nghiệp tại Việt Nam, hoạt động kh&amp;eacute;p k&amp;iacute;n chuỗi gi&amp;aacute; trị &amp;ldquo;Từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn&amp;rdquo;. Sản phẩm được sản xuất tại Nh&amp;agrave; m&amp;aacute;y Mavin Foods tai H&amp;agrave; Nam rộng 10.000 m2, đ&amp;aacute;p ứng đầy đủ c&amp;aacute;c ti&amp;ecirc;u chuẩn khắt khe nhất về an to&amp;agrave;n vệ sinh thực phẩm, ti&amp;ecirc;u chuẩn HACCP, ISO 22000. Nh&amp;agrave; m&amp;aacute;y được đầu tư d&amp;acirc;y chuyền sản xuất hiện đại nhập khẩu ho&amp;agrave;n to&amp;agrave;n từ CHLB Đức, c&amp;ugrave;ng với b&amp;iacute; quyết từ c&amp;aacute;c chuy&amp;ecirc;n gia ẩm thực gi&amp;agrave;u kinh nghiệm, sản phẩm Mavin Foods kh&amp;ocirc;ng những sạch sẽ, an to&amp;agrave;n m&amp;agrave; c&amp;ograve;n c&amp;oacute; hương vị nguy&amp;ecirc;n bản của Ch&amp;acirc;u &amp;Acirc;u.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thực phẩm sạch Mavin Foods cũng đang đồng h&amp;agrave;nh chống dịch với Thủ đ&amp;ocirc; H&amp;agrave; Nội v&amp;agrave; TP Hồ Ch&amp;iacute; Minh, lan tỏa y&amp;ecirc;u thương qua những sản phẩm sạch từ nguồn t&amp;agrave;i trợ cho Chương tr&amp;igrave;nh 1 triệu suất ăn cho người ngh&amp;egrave;o, hệ thống Si&amp;ecirc;u thị mini 0 đồng, Tiếp sức sinh vi&amp;ecirc;n ngh&amp;egrave;o,&amp;hellip; qua đ&amp;oacute; đ&amp;atilde; hỗ trợ được h&amp;agrave;ng trăm ngh&amp;igrave;n người lao động kh&amp;oacute; khăn, c&amp;ocirc;ng nh&amp;acirc;n mất việc l&amp;agrave;m, sinh vi&amp;ecirc;n ngh&amp;egrave;o trong c&amp;aacute;c khu nh&amp;agrave; trọ trong thời gian gi&amp;atilde;n c&amp;aacute;ch.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Xem th&amp;ecirc;m th&amp;ocirc;ng tin tại link sau: &lt;a href="https://bit.ly/3CdLmMf"&gt;https://bit.ly/3CdLmMf&lt;/a&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-09-14T06:30:47.662Z</createdDate>
+	<createdDate_dt>2021-09-14T06:30:47.662Z</createdDate_dt>
+	<lastModifiedDate>2021-09-14T06:30:47.662Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-14T06:30:47.662Z</lastModifiedDate_dt>
+	<date_dt>2021-09-14T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/components/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d5fd</objectGroupId>
+	<objectId>d5fdac74-e36b-38b4-1a16-95081514a6a9</objectId>
+	<file-name>d5fdac74-e36b-38b4-1a16-95081514a6a9.xml</file-name>
+	<internal-name>SP khác</internal-name>
+	<listproduct_s>sp-khác</listproduct_s>
+	<createdDate>2021-06-16T08:41:45.570Z</createdDate>
+	<createdDate_dt>2021-06-16T08:41:45.570Z</createdDate_dt>
+	<lastModifiedDate>2021-06-16T08:41:45.570Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-16T08:41:45.570Z</lastModifiedDate_dt>
+</component>

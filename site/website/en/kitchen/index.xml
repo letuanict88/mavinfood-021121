@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0bc0</objectGroupId>
+	<objectId>0bc08f12-5432-3f27-a6d5-ad55d7ca2bce</objectId>
+	<internal-name>Kitchen</internal-name>
+	<navLabel>Kitchen</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>kitchen</folder-name>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>91e35836-1cac-11a5-2d22-43739b6c9c3f</key>
+	<value>S</value>
+<component id="91e35836-1cac-11a5-2d22-43739b6c9c3f">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>91e3</objectGroupId>
+	<objectId>91e35836-1cac-11a5-2d22-43739b6c9c3f</objectId>
+	<file-name>91e35836-1cac-11a5-2d22-43739b6c9c3f.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app4.jpg</image_s>
+	<createdDate>2021-10-01T02:52:46.569Z</createdDate>
+	<createdDate_dt>2021-10-01T02:52:46.569Z</createdDate_dt>
+	<lastModifiedDate>2021-10-01T02:52:46.569Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-01T02:52:46.569Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>3d127647-19cc-72f5-110d-eae4ff18db61</key>
+	<value>Kitchen</value>
+<component id="3d127647-19cc-72f5-110d-eae4ff18db61">
+	<content-type>/component/encombep</content-type>
+	<display-template>/templates/web/components/en/bep.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3d12</objectGroupId>
+	<objectId>3d127647-19cc-72f5-110d-eae4ff18db61</objectId>
+	<file-name>3d127647-19cc-72f5-110d-eae4ff18db61.xml</file-name>
+	<internal-name>Kitchen</internal-name>
+	<createdDate>2021-10-01T02:53:13.597Z</createdDate>
+	<createdDate_dt>2021-10-01T02:53:13.597Z</createdDate_dt>
+	<lastModifiedDate>2021-10-01T02:53:13.597Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-01T02:53:13.597Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2021-10-01T02:52:13.081Z</createdDate>
+	<createdDate_dt>2021-10-01T02:52:13.081Z</createdDate_dt>
+	<lastModifiedDate>2021-10-01T02:52:13.081Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-01T02:52:13.081Z</lastModifiedDate_dt>
+</page>

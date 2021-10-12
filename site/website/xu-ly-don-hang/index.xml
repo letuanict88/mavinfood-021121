@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>616d</objectGroupId>
+	<objectId>616d5753-9032-650c-3e97-4463558e1564</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>xu-ly-don-hang</folder-name>
+	<internal-name>Xử lý đơn hàng</internal-name>
+	<navLabel>Xử lý đơn hàng</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>2d77735c-7bf9-541b-0498-10b7eb111e31</key>
+	<value>Slide</value>
+<component id="2d77735c-7bf9-541b-0498-10b7eb111e31">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2d77</objectGroupId>
+	<objectId>2d77735c-7bf9-541b-0498-10b7eb111e31</objectId>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app5.jpg</image_s>
+	<file-name>2d77735c-7bf9-541b-0498-10b7eb111e31.xml</file-name>
+	<createdDate>2021-09-27T04:24:08.931Z</createdDate>
+	<createdDate_dt>2021-09-27T04:24:08.931Z</createdDate_dt>
+	<lastModifiedDate>2021-09-27T04:24:08.931Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-27T04:24:08.931Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>913d8c21-d223-d554-69c0-3729bf49ff7a</key>
+	<value>Ty</value>
+<component id="913d8c21-d223-d554-69c0-3729bf49ff7a">
+	<content-type>/component/thankyou</content-type>
+	<display-template>/templates/web/components/thankyou.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>913d</objectGroupId>
+	<objectId>913d8c21-d223-d554-69c0-3729bf49ff7a</objectId>
+	<file-name>913d8c21-d223-d554-69c0-3729bf49ff7a.xml</file-name>
+	<internal-name>Ty</internal-name>
+	<createdDate>2021-09-27T04:26:09.018Z</createdDate>
+	<createdDate_dt>2021-09-27T04:26:09.018Z</createdDate_dt>
+	<lastModifiedDate>2021-09-27T04:26:09.018Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-27T04:26:09.018Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-09-27T04:23:14.575Z</createdDate>
+	<createdDate_dt>2021-09-27T04:23:14.575Z</createdDate_dt>
+	<lastModifiedDate>2021-09-27T04:26:00.771Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-27T04:26:00.771Z</lastModifiedDate_dt>
+</page>

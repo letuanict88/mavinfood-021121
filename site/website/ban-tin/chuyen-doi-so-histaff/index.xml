@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/pages/tintuc.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5467</objectGroupId>
+	<objectId>5467e76d-c5c7-4862-fdb0-330be10d18a3</objectId>
+	<internal-name>Mavin tiến hành chuyển đổi số cùng giải pháp nhân sự HiStaff</internal-name>
+	<navLabel>Mavin tiến hành chuyển đổi số cùng giải pháp nhân sự HiStaff</navLabel>
+	<title_s>Mavin tiến hành chuyển đổi số cùng giải pháp nhân sự HiStaff</title_s>
+	<image_s>/static-assets/images/new/IMG_0064_Fotor.jpg</image_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>ed877fcc-02a6-175e-654a-019d75c9ece5</key>
+	<value>Slide</value>
+<component id="ed877fcc-02a6-175e-654a-019d75c9ece5">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ed87</objectGroupId>
+	<objectId>ed877fcc-02a6-175e-654a-019d75c9ece5</objectId>
+	<file-name>ed877fcc-02a6-175e-654a-019d75c9ece5.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app5.jpg</image_s>
+	<createdDate>2021-08-04T08:46:59.505Z</createdDate>
+	<createdDate_dt>2021-08-04T08:46:59.505Z</createdDate_dt>
+	<lastModifiedDate>2021-08-04T08:46:59.505Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-04T08:46:59.505Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>chuyen-doi-so-histaff</folder-name>
+	<content_html>&lt;p style="text-align: justify;"&gt;H&amp;agrave; Nội - Ng&amp;agrave;y 05.04.2021, Tập đo&amp;agrave;n Mavin v&amp;agrave; Tinhvan Consulting đ&amp;atilde; c&amp;ugrave;ng nhau tổ chức Lễ khởi động dự &amp;aacute;n triển khai Hệ thống quản trị nguồn nh&amp;acirc;n lực HiStaff . Đ&amp;acirc;y l&amp;agrave; một trong những bước đi quan trọng tr&amp;ecirc;n h&amp;agrave;nh tr&amp;igrave;nh chuyển đổi số của Mavin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;aacute;t biểu trong buổi lễ khởi động dự &amp;aacute;n, Chủ tịch HĐQT Tập đo&amp;agrave;n Mavin, &amp;ocirc;ng David John Whitehead cho biết: &amp;ldquo;Triển khai hệ thống quản trị nguồn nh&amp;acirc;n lực l&amp;agrave; một trong những dự &amp;aacute;n trọng điểm trong chương tr&amp;igrave;nh chuyển đổi số của Tập đo&amp;agrave;n Mavin giai đoạn 2019 - 2023 với tầm nh&amp;igrave;n x&amp;acirc;y dựng Mavin trở th&amp;agrave;nh doanh nghiệp số s&amp;aacute;ng tạo nhất trong lĩnh vực n&amp;ocirc;ng nghiệp tại Việt Nam.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong chương tr&amp;igrave;nh chuyển đổi số, Mavin đ&amp;atilde; v&amp;agrave; đang rất quyết liệt số h&amp;oacute;a c&amp;aacute;c ng&amp;agrave;nh sản xuất với việc triển khai hệ thống quản trị nguồn lực doanh nghiệp ERP, phần mềm quản l&amp;yacute; sản xuất trại heo Porcitec, c&amp;aacute;c phần mềm E-learning, E-Office&amp;hellip; để hướng tới số h&amp;oacute;a to&amp;agrave;n bộ hoạt động của Tập đo&amp;agrave;n v&amp;agrave;o năm 2023.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hiện nay, Mavin c&amp;oacute; hơn 2.000 c&amp;aacute;n bộ nh&amp;acirc;n vi&amp;ecirc;n, hoạt động rải r&amp;aacute;c tr&amp;ecirc;n to&amp;agrave;n quốc tại c&amp;aacute;c nh&amp;agrave; m&amp;aacute;y, trang trại chăn nu&amp;ocirc;i. Theo chiến lược ph&amp;aacute;t triển, dự kiến quy m&amp;ocirc; nh&amp;acirc;n sự của Mavin sẽ tăng l&amp;ecirc;n gấp đ&amp;ocirc;i trong v&amp;agrave;i năm tới.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;V&amp;igrave; vậy, số h&amp;oacute;a hoạt động quản l&amp;yacute; nh&amp;acirc;n sự sẽ c&amp;oacute; vai tr&amp;ograve; to lớn trong việc giảm chi ph&amp;iacute; h&amp;agrave;nh ch&amp;iacute;nh, giảm thời gian tương t&amp;aacute;c giữa c&amp;aacute;c bộ phận, gi&amp;uacute;p quản l&amp;yacute; nh&amp;acirc;n sự c&amp;oacute; thể tiếp cận nguồn th&amp;ocirc;ng tin kịp thời&amp;hellip; qua đ&amp;oacute; sẽ gi&amp;uacute;p Mavin tăng cường chất lượng c&amp;ocirc;ng t&amp;aacute;c quản trị, điều h&amp;agrave;nh, tăng hiệu quả sản xuất kinh doanh&amp;rdquo;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sau khi c&amp;acirc;n nhắc nhiều giải ph&amp;aacute;p phần mềm nh&amp;acirc;n sự kh&amp;aacute;c nhau tr&amp;ecirc;n thị trường hiện nay, Giải ph&amp;aacute;p quản trị tổng thể nguồn nh&amp;acirc;n lực HiStaff của Tinhvan Consulting đ&amp;atilde; được Mavin tin tưởng lựa chọn v&amp;agrave; kỳ vọng đem lại nhiều lợi &amp;iacute;ch như:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;● Thiết lập một kho dữ liệu tập trung về hệ thống quản trị nguồn nh&amp;acirc;n lực của Mavin&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;● Cho ph&amp;eacute;p người lao động sử dụng 24/7 c&amp;aacute;c dịch vụ nh&amp;acirc;n sự c&amp;aacute; nh&amp;acirc;n được số h&amp;oacute;a tr&amp;ecirc;n m&amp;aacute;y t&amp;iacute;nh, điện thoại smartphone để thực hiện c&amp;aacute;c y&amp;ecirc;u cầu, quy tr&amp;igrave;nh nh&amp;acirc;n sự&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;● Hỗ trợ bộ phận nh&amp;acirc;n sự cung cấp c&amp;aacute;c dịch vụ nh&amp;acirc;n sự được số h&amp;oacute;a cho người lao động&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;● Chuẩn h&amp;oacute;a ch&amp;iacute;nh s&amp;aacute;ch, bộ dữ liệu gốc v&amp;agrave; quy tr&amp;igrave;nh quản l&amp;yacute; nguồn nh&amp;acirc;n lực&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;● Tiết kiệm chi ph&amp;iacute; v&amp;agrave; nh&amp;acirc;n lực, loại bỏ c&amp;aacute;c thao t&amp;aacute;c thủ c&amp;ocirc;ng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;● Tăng cường t&amp;iacute;nh minh bạch, tu&amp;acirc;n thủ, li&amp;ecirc;m ch&amp;iacute;nh v&amp;agrave; đạo đức&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hệ thống sau khi được x&amp;acirc;y dựng hướng đến l&amp;agrave; một hệ thống quản trị nguồn nh&amp;acirc;n lực tập trung, hiện đại, hướng tới tương lai.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chuyển đổi số c&amp;ugrave;ng HiStaff l&amp;agrave; Dự &amp;aacute;n v&amp;ocirc; c&amp;ugrave;ng quan trọng trong lộ tr&amp;igrave;nh chuyển đổi số hoạt động của to&amp;agrave;n hệ thống Mavin, được kỳ vọng sẽ th&amp;uacute;c đẩy sự kết nối những con người Mavin, thay đổi mang t&amp;iacute;nh c&amp;aacute;ch mạng c&amp;aacute;ch thức thực hiện đối với c&amp;ocirc;ng t&amp;aacute;c nh&amp;acirc;n sự, quản trị con người của Mavin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chia sẻ về qu&amp;aacute; tr&amp;igrave;nh triển khai giải ph&amp;aacute;p phần mềm HiStaff tại Mavin, Chủ tịch HĐQT Tinhvan Consulting, &amp;ocirc;ng Nguyễn Huy Cương cho biết: &amp;ldquo;Triển khai giải ph&amp;aacute;p phần mềm nh&amp;acirc;n sự l&amp;agrave; một trong những bước quan trọng của chuyển đổi số của doanh nghiệp. V&amp;igrave; yếu tố cần chuyển đổi số đầu ti&amp;ecirc;n l&amp;agrave; yếu tố con người của tổ chức. Dự &amp;aacute;n triển khai HiStaff tại Mavin l&amp;agrave; bước bắt đầu quan trọng của một h&amp;agrave;nh tr&amp;igrave;nh l&amp;acirc;u d&amp;agrave;i. Giải ph&amp;aacute;p sau khi được triển khai th&amp;agrave;nh c&amp;ocirc;ng sẽ g&amp;oacute;p phần gi&amp;uacute;p Mavin c&amp;oacute; thể quản trị tổng thể nguồn nh&amp;acirc;n lực, giảm thiểu được c&amp;ocirc;ng việc thủ c&amp;ocirc;ng để d&amp;agrave;nh thời gian cho những nỗ lực đổi mới, s&amp;aacute;ng tạo, ph&amp;aacute;t triển&amp;rdquo;.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;HiStaff l&amp;agrave; giải ph&amp;aacute;p phần mềm quản l&amp;yacute; tổng thể nguồn nh&amp;acirc;n lực đ&amp;atilde; được Tinhvan Consulting ph&amp;aacute;t triển từ 2004 đến nay. Với hơn 16 năm kinh nghiệm triển khai tr&amp;ecirc;n thị trường, HiStaff tự h&amp;agrave;o đ&amp;atilde; đồng h&amp;agrave;nh c&amp;ugrave;ng hơn 200 doanh nghiệp h&amp;agrave;ng đầu tại nhiều lĩnh vực, ng&amp;agrave;nh nghề kh&amp;aacute;c nhau. Hiện, HiStaff đang g&amp;oacute;p phần gi&amp;uacute;p c&amp;aacute;c doanh nghiệp quản l&amp;yacute; hơn 300.000 nh&amp;acirc;n sự một c&amp;aacute;ch tổng thể, xuy&amp;ecirc;n suốt v&amp;agrave; th&amp;ocirc;ng minh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Việc Mavin tin tưởng lựa chọn giải ph&amp;aacute;p HiStaff của Tinhvan Consulting th&amp;ecirc;m một lần nữa khẳng định sự th&amp;agrave;nh c&amp;ocirc;ng, ph&amp;ugrave; hợp m&amp;agrave; giải ph&amp;aacute;p đem lại cho c&amp;aacute;c doanh nghiệp tr&amp;ecirc;n tinh thần &amp;ldquo;Chuy&amp;ecirc;n nghiệp &amp;amp; Bản địa&amp;rdquo;. Đội ngũ triển khai HiStaff sẽ nỗ lực đẩy nhanh tiến độ triển khai tr&amp;ecirc;n cơ sở đảm bảo chất lượng tốt nhất cho dự &amp;aacute;n. Tinhvan Consulting rất vinh dự, rất mong được đ&amp;oacute;ng g&amp;oacute;p một phần c&amp;ocirc;ng sức c&amp;ugrave;ng Mavin chuyển đổi số. Tinhvan Consulting cam kết tập trung nguồn lực để triển khai giải ph&amp;aacute;p HiStaff th&amp;agrave;nh c&amp;ocirc;ng tại Mavin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tập đo&amp;agrave;n Mavin đ&amp;atilde; c&amp;oacute; hơn 16 năm hoạt động tại Việt Nam v&amp;agrave; l&amp;agrave; một trong số &amp;iacute;t doanh nghiệp sở hữu trọn vẹn chuỗi gi&amp;aacute; trị &amp;ldquo;Từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn&amp;rdquo;, hoạt động kh&amp;eacute;p k&amp;iacute;n trong c&amp;aacute;c lĩnh vực: sản xuất con giống &amp;amp; trang trại chăn nu&amp;ocirc;i, thức ăn chăn nu&amp;ocirc;i, dược th&amp;uacute; y v&amp;agrave; thực phẩm chế biến. Hiện nay Mavin c&amp;oacute; hơn 2.000 c&amp;aacute;n bộ nh&amp;acirc;n vi&amp;ecirc;n, hoạt động tại 7 nh&amp;agrave; m&amp;aacute;y v&amp;agrave; gần 20 c&amp;ocirc;ng ty th&amp;agrave;nh vi&amp;ecirc;n tr&amp;ecirc;n cả nước. Mavin l&amp;agrave; một trong những doanh nghiệp đi đầu trong việc ứng dụng c&amp;ocirc;ng nghệ cao, tự động h&amp;oacute;a v&amp;agrave; số h&amp;oacute;a hoạt động sản xuất kinh doanh.&lt;/p&gt;</content_html>
+	<createdDate>2021-08-04T08:44:13.042Z</createdDate>
+	<createdDate_dt>2021-08-04T08:44:13.042Z</createdDate_dt>
+	<lastModifiedDate>2021-08-09T08:13:00.818Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-09T08:13:00.818Z</lastModifiedDate_dt>
+	<date_dt>2021-08-01T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

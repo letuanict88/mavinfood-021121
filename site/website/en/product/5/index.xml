@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>99e6</objectGroupId>
+	<objectId>99e69498-34b4-7fd9-bcf3-36f359e81785</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>5</folder-name>
+	<internal-name>SP khac</internal-name>
+	<navLabel>SP khac</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>3abce609-dd3f-cb4a-571b-7c24de146018</key>
+	<value>S</value>
+<component id="3abce609-dd3f-cb4a-571b-7c24de146018">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3abc</objectGroupId>
+	<objectId>3abce609-dd3f-cb4a-571b-7c24de146018</objectId>
+	<file-name>3abce609-dd3f-cb4a-571b-7c24de146018.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app3.jpg</image_s>
+	<createdDate>2021-09-30T09:21:50.761Z</createdDate>
+	<createdDate_dt>2021-09-30T09:21:50.761Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:21:50.761Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:21:50.761Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>0d3c8613-7c5e-98f6-0176-1f97eaeadf7a</key>
+	<value>SP khac</value>
+<component id="0d3c8613-7c5e-98f6-0176-1f97eaeadf7a">
+	<content-type>/component/encomgroupsp</content-type>
+	<display-template>/templates/web/components/en/groupproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0d3c</objectGroupId>
+	<objectId>0d3c8613-7c5e-98f6-0176-1f97eaeadf7a</objectId>
+	<internal-name>SP khac</internal-name>
+	<title_s>SP khac</title_s>
+	<groupproduct_o item-list="true">	<item datasource="groupProduct">	<key>/site/items/c011ab49-3f31-6743-4a8b-f6d7ce3d4832.xml</key>
+	<value>SP khac</value>
+	<include>/site/items/c011ab49-3f31-6743-4a8b-f6d7ce3d4832.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></groupproduct_o>
+	<file-name>0d3c8613-7c5e-98f6-0176-1f97eaeadf7a.xml</file-name>
+	<image_s>/static-assets/images/san-pham/SP khac.png</image_s>
+	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<createdDate>2021-09-30T09:22:25.445Z</createdDate>
+	<createdDate_dt>2021-09-30T09:22:25.445Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:22:25.445Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:22:25.445Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-09-30T09:21:28.090Z</createdDate>
+	<createdDate_dt>2021-09-30T09:21:28.090Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:21:28.090Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:21:28.090Z</lastModifiedDate_dt>
+</page>

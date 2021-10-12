@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>03ff</objectGroupId>
+	<objectId>03fffc79-eb12-64ad-838f-e70470008c6e</objectId>
+	<internal-name>Tuyển dụng</internal-name>
+	<navLabel>Tuyển dụng</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>tuyen-dung</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>69a0f42b-5073-068c-bc53-9ccbc2ac1423</key>
+	<value>Tuyển dụng</value>
+<component id="69a0f42b-5073-068c-bc53-9ccbc2ac1423">
+	<content-type>/component/comtuyendung</content-type>
+	<display-template>/templates/web/components/comtuyendung.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>69a0</objectGroupId>
+	<objectId>69a0f42b-5073-068c-bc53-9ccbc2ac1423</objectId>
+	<file-name>69a0f42b-5073-068c-bc53-9ccbc2ac1423.xml</file-name>
+	<internal-name>Tuyển dụng</internal-name>
+	<createdDate>2021-06-17T04:01:27.265Z</createdDate>
+	<createdDate_dt>2021-06-17T04:01:27.265Z</createdDate_dt>
+	<lastModifiedDate>2021-06-17T04:01:27.265Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-17T04:01:27.265Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-17T04:01:07.696Z</createdDate>
+	<createdDate_dt>2021-06-17T04:01:07.696Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:09:51.212Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:09:51.212Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>24732057-4f3c-dc14-729c-ec31e05e267d</key>
+	<value>S</value>
+<component id="24732057-4f3c-dc14-729c-ec31e05e267d">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2473</objectGroupId>
+	<objectId>24732057-4f3c-dc14-729c-ec31e05e267d</objectId>
+	<file-name>24732057-4f3c-dc14-729c-ec31e05e267d.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app5.jpg</image_s>
+	<createdDate>2021-06-21T09:34:40.466Z</createdDate>
+	<createdDate_dt>2021-06-21T09:34:40.466Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:09:55.695Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:09:55.695Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

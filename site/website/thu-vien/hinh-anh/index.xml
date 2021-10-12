@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/thuvienanh</content-type>
+	<display-template>/templates/web/pages/thuvienanh.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a424</objectGroupId>
+	<objectId>a42482f6-cb0a-bebc-7279-c84d3f2f7ea4</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>hinh-anh</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Thư viện hình ảnh</internal-name>
+	<navLabel>Thư viện hình ảnh</navLabel>
+	<title_s>Thư viện hình ảnh</title_s>
+	<lib_o item-list="true">	<item>	<name_s>Quốc tế Phụ nữ 8*3</name_s>
+	<image_s>/static-assets/images/thu-vien/IMG_1225.jpg</image_s>
+	<date_dt>2020-01-04T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Teambuilding Mavin Foods</name_s>
+	<image_s>/static-assets/images/thu-vien/DSC_2444.JPG</image_s>
+	<date_dt>2020-01-04T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Chào xuân tại Nhà máy Mavin Foods</name_s>
+	<image_s>/static-assets/images/thu-vien/MFO_Du thi trang tri van phong_Tet2020_2.jpg</image_s>
+	<date_dt>2020-01-04T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Đại hội Công Đoàn Mavin Foods</name_s>
+	<image_s>/static-assets/images/thu-vien/Mavin Foods_DHCD lan II (1).jpg</image_s>
+	<date_dt>2020-01-04T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Gala Chào Xuân 2021</name_s>
+	<image_s>/static-assets/images/thu-vien/VIT03599.jpg</image_s>
+	<date_dt>2020-01-04T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Hội chợ Xuân 2021 tại Nhà máy</name_s>
+	<image_s>/static-assets/images/thu-vien/IMG_5447.jpg</image_s>
+	<date_dt>2020-01-04T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item></lib_o>
+	<createdDate>2021-06-28T04:28:20.852Z</createdDate>
+	<createdDate_dt>2021-06-28T04:28:20.852Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T09:13:17.578Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T09:13:17.578Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>603a76f4-d83f-2b50-b098-db6f4518e980</key>
+	<value>Slide</value>
+<component id="603a76f4-d83f-2b50-b098-db6f4518e980">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>603a</objectGroupId>
+	<objectId>603a76f4-d83f-2b50-b098-db6f4518e980</objectId>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app6.jpg</image_s>
+	<file-name>603a76f4-d83f-2b50-b098-db6f4518e980.xml</file-name>
+	<createdDate>2021-06-28T04:41:36.079Z</createdDate>
+	<createdDate_dt>2021-06-28T04:41:36.079Z</createdDate_dt>
+	<lastModifiedDate>2021-06-28T04:41:36.079Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-28T04:41:36.079Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

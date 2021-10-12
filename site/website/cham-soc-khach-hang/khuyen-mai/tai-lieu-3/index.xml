@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagetailieukm</content-type>
+	<display-template>/templates/web/tailieukm.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ec8849bc</objectGroupId>
+	<objectId>ec8849bc-7616-4f21-98e3-f3554b319557</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tai-lieu-3</folder-name>
+	<internal-name>TB triển khai gói combo KH online</internal-name>
+	<navLabel>TB triển khai gói combo KH online</navLabel>
+	<name_s>TB triển khai gói combo KH online</name_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<pdffile_o item-list="true">	<item datasource="desktopFile">	<key>/static-assets/images/file/TB trien khai combo ban online.pdf</key>
+	<value>/static-assets/images/file/TB trien khai combo ban online.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>561922</fileSize_s>
+	</item></pdffile_o>
+	<createdDate>2021-08-16T08:06:00.105Z</createdDate>
+	<createdDate_dt>2021-08-16T08:06:00.105Z</createdDate_dt>
+	<lastModifiedDate>2021-09-13T09:29:35.193Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-13T09:29:35.193Z</lastModifiedDate_dt>
+</page>

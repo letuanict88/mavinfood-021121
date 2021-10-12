@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9b58</objectGroupId>
+	<objectId>9b58ba22-d5cc-c6cc-4440-a0f487969818</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cham-soc-khach-hang</folder-name>
+	<internal-name>Chăm sóc khách hàng</internal-name>
+	<navLabel>Chăm sóc khách hàng</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>d0aea41a-9ee9-f7a2-4669-9eb38a8270a7</key>
+	<value>Content - CSKH</value>
+<component id="d0aea41a-9ee9-f7a2-4669-9eb38a8270a7">
+	<content-type>/component/cskh</content-type>
+	<display-template>/templates/web/components/cskh.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d0ae</objectGroupId>
+	<objectId>d0aea41a-9ee9-f7a2-4669-9eb38a8270a7</objectId>
+	<file-name>d0aea41a-9ee9-f7a2-4669-9eb38a8270a7.xml</file-name>
+	<internal-name>Content - CSKH</internal-name>
+	<cskh_o item-list="true">	<item>	<name_s>Thông tin Điểm bán</name_s>
+	<link_s>/he-thong-ban-hang</link_s>
+	</item>	<item>	<name_s>Thông tin Khuyến mại</name_s>
+	<link_s>/cham-soc-khach-hang/khuyen-mai</link_s>
+	</item>	<item>	<name_s>Q&amp;A</name_s>
+	<link_s>/cham-soc-khach-hang/qa</link_s>
+	</item></cskh_o>
+	<createdDate>2021-06-07T08:31:04.230Z</createdDate>
+	<createdDate_dt>2021-06-07T08:31:04.230Z</createdDate_dt>
+	<lastModifiedDate>2021-08-11T10:47:01.961Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-11T10:47:01.961Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-07T08:30:24.589Z</createdDate>
+	<createdDate_dt>2021-06-07T08:30:24.589Z</createdDate_dt>
+	<lastModifiedDate>2021-08-11T10:46:58.730Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-11T10:46:58.730Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>c874f5b5-d94f-8d3d-33c1-2c1440ecd624</key>
+	<value>S</value>
+<component id="c874f5b5-d94f-8d3d-33c1-2c1440ecd624">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c874</objectGroupId>
+	<objectId>c874f5b5-d94f-8d3d-33c1-2c1440ecd624</objectId>
+	<file-name>c874f5b5-d94f-8d3d-33c1-2c1440ecd624.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app4.jpg</image_s>
+	<createdDate>2021-06-21T09:16:01.192Z</createdDate>
+	<createdDate_dt>2021-06-21T09:16:01.192Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T10:39:52.433Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T10:39:52.433Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

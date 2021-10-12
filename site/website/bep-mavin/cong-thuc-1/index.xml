@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/recipedetail</content-type>
+	<display-template>/templates/web/pages/bepmavin.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7019</objectGroupId>
+	<objectId>7019ff5f-ba79-e808-f587-1b0d4617ac7c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cong-thuc-1</folder-name>
+	<internal-name>Mavin Gia đình "Cả nhà đều mê"</internal-name>
+	<navLabel>Mavin Gia đình "Cả nhà đều mê"</navLabel>
+	<title_s>Mavin Gia đình "Cả nhà đều mê"</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/bep/Anh tin bai XX Mavin GD.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin (Mavin Food) &amp;ndash; một th&amp;agrave;nh vi&amp;ecirc;n của Tập đo&amp;agrave;n Mavin ch&amp;iacute;nh thức cung cấp sản phẩm &amp;ldquo;X&amp;uacute;c x&amp;iacute;ch Mavin Gia đ&amp;igrave;nh&amp;rdquo;. Sản phẩm được định vị l&amp;agrave; sạch, an to&amp;agrave;n, chất lượng dẫn đầu, hương vị thơm ngon sẽ l&amp;agrave;m cho &amp;ldquo;Cả nh&amp;agrave; đều m&amp;ecirc;&amp;rdquo;, với gi&amp;aacute; th&amp;agrave;nh hợp l&amp;yacute;.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavin Gia đ&amp;igrave;nh được sản xuất theo c&amp;ocirc;ng nghệ sản xuất chuẩn x&amp;uacute;c x&amp;iacute;ch Đức cao cấp, giữ nguy&amp;ecirc;n hương vị tự nhi&amp;ecirc;n của nguy&amp;ecirc;n liệu, kh&amp;ocirc;ng phụ gia, đảm bảo sạch, an to&amp;agrave;n theo m&amp;ocirc; h&amp;igrave;nh sản xuất kh&amp;eacute;p k&amp;iacute;n &amp;ldquo;từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn&amp;rdquo; của Tập đo&amp;agrave;n Mavin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sản phẩm được l&amp;agrave;m phần lớn từ thịt heo, được nu&amp;ocirc;i sạch theo quy tr&amp;igrave;nh chặt chẽ v&amp;agrave; kh&amp;eacute;p k&amp;iacute;n của Tập đo&amp;agrave;n Mavin, bao gồm: heo giống chất lượng tuyển chọn, thức ăn chăn nu&amp;ocirc;i chất lượng đến từ Australia, thuốc th&amp;uacute; y đạt chuẩn, kiểm so&amp;aacute;t giết mổ an to&amp;agrave;n, chế biến đảm bảo vệ sinh an to&amp;agrave;n thực phẩm. Tập đo&amp;agrave;n Mavin l&amp;agrave; doanh nghiệp duy nhất hiện nay, sở hữu trọn vẹn chuỗi gi&amp;aacute; trị &amp;ldquo;từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn&amp;rdquo;, nhờ đ&amp;oacute; đảm bảo sản phẩm đến tay người d&amp;ugrave;ng sạch từ nguồn v&amp;agrave; c&amp;oacute; thể truy xuất được nguồn gốc.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Th&amp;agrave;nh lập từ năm 2013, C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh Thực phẩm Mavin hiện l&amp;agrave; doanh nghiệp c&amp;oacute; thị phần đứng thứ 3 tại miền Bắc, nổi tiếng nhờ c&amp;aacute;c sản phẩm thực phẩm chế biến mang &amp;ldquo;B&amp;iacute; quyết Ch&amp;acirc;u &amp;Acirc;u, đậm s&amp;acirc;u vị &amp;Aacute;&amp;rdquo;. Mavin Foods sở hữu Nh&amp;agrave; m&amp;aacute;y c&amp;oacute; quy m&amp;ocirc; 10.000 tấn sản phẩm/năm tại tỉnh H&amp;agrave; Nam, được đầu tư đồng bộ v&amp;agrave; hiện đại theo c&amp;ocirc;ng nghệ sản xuất của Cộng h&amp;ograve;a Li&amp;ecirc;n bang Đức. Mavin Food đ&amp;atilde; được Tổ chức đ&amp;aacute;nh gi&amp;aacute; v&amp;agrave; kiểm định nổi tiếng của Cộng h&amp;ograve;a Li&amp;ecirc;n bang Đức &amp;ndash; TUV NORD cấp Chứng chỉ ISO 22000 v&amp;agrave; Chứng chỉ HACCP, c&amp;ocirc;ng nhận quy tr&amp;igrave;nh sản xuất sạch v&amp;agrave; đảm bảo vệ sinh an to&amp;agrave;n thực phẩm.&lt;/p&gt;</content_html>
+	<createdDate>2021-06-01T10:30:53.471Z</createdDate>
+	<createdDate_dt>2021-06-01T10:30:53.471Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T02:37:37.575Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T02:37:37.575Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>4aa26b5a-7b22-c1a4-ebb4-7043ab0e5b3b</key>
+	<value>S</value>
+<component id="4aa26b5a-7b22-c1a4-ebb4-7043ab0e5b3b">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4aa2</objectGroupId>
+	<objectId>4aa26b5a-7b22-c1a4-ebb4-7043ab0e5b3b</objectId>
+	<file-name>4aa26b5a-7b22-c1a4-ebb4-7043ab0e5b3b.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app5.jpg</image_s>
+	<createdDate>2021-06-21T09:15:15.745Z</createdDate>
+	<createdDate_dt>2021-06-21T09:15:15.745Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T10:38:27.968Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T10:38:27.968Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

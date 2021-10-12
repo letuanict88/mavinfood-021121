@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagemarketchitiet</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>95b0e47e</objectGroupId>
+	<objectId>95b0e47e-3a2d-4f62-a9e5-801e255a8508</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test-e0fb719c-b706550e</folder-name>
+	<internal-name>Đại lý Khu vực Sa Pa</internal-name>
+	<navLabel>Đại lý Khu vực Sa Pa</navLabel>
+	<name_s>Đại lý Khu vực Sa Pa</name_s>
+	<address_s>Điện Biên, Phường Duyên Hải, TP. Lào Cai, tỉnh Lào</address_s>
+	<phone_s>0969143668</phone_s>
+	<latitude_s>22.497079930785</latitude_s>
+	<longitude_s>103.95491934514577</longitude_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2021-09-13T10:59:08.737Z</createdDate>
+	<createdDate_dt>2021-09-13T10:59:08.737Z</createdDate_dt>
+	<lastModifiedDate>2021-09-14T02:27:52.699Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-14T02:27:52.699Z</lastModifiedDate_dt>
+</page>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagetailieukm</content-type>
+	<display-template>/templates/web/tailieukm.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4f209397</objectGroupId>
+	<objectId>4f209397-5c01-425d-8179-34502a4042b3</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tai-lieu-2</folder-name>
+	<internal-name>TB hỗ trợ khách hàng HN giãn cách</internal-name>
+	<navLabel>TB hỗ trợ khách hàng HN giãn cách</navLabel>
+	<name_s>TB hỗ trợ khách hàng HN giãn cách</name_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<pdffile_o item-list="true">	<item datasource="desktopFile">	<key>/static-assets/images/file/TB CT giao hang tan nha T9 Mavin Foods.pdf</key>
+	<value>/static-assets/images/file/TB CT giao hang tan nha T9 Mavin Foods.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>415359</fileSize_s>
+	</item></pdffile_o>
+	<createdDate>2021-08-16T08:06:00.105Z</createdDate>
+	<createdDate_dt>2021-08-16T08:06:00.105Z</createdDate_dt>
+	<lastModifiedDate>2021-09-13T09:25:34.478Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-13T09:25:34.478Z</lastModifiedDate_dt>
+</page>

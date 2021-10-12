@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/encomlistproduct</content-type>
+	<display-template>/templates/web/components/en/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c011</objectGroupId>
+	<objectId>c011ab49-3f31-6743-4a8b-f6d7ce3d4832</objectId>
+	<file-name>c011ab49-3f31-6743-4a8b-f6d7ce3d4832.xml</file-name>
+	<internal-name>SP khac</internal-name>
+	<listproduct_s>other</listproduct_s>
+	<createdDate>2021-09-30T09:23:18.741Z</createdDate>
+	<createdDate_dt>2021-09-30T09:23:18.741Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:23:18.741Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:23:18.741Z</lastModifiedDate_dt>
+</component>

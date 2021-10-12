@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4fb6</objectGroupId>
+	<objectId>4fb68398-ea5c-3e24-61a6-7ada166d5c0d</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ca-vien</folder-name>
+	<internal-name>Cá viên</internal-name>
+	<navLabel>Cá viên</navLabel>
+	<name_s>Cá viên</name_s>
+	<kl_s>500 g/túi</kl_s>
+	<price_s>30000</price_s>
+	<sptype_o>	<item>	<key>do-vien</key>
+	<value_smv>Đồ viên</value_smv>
+	</item></sptype_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<isHot_b>true</isHot_b>
+	<image1_s>/static-assets/images/san-pham/Ca vien Mavin 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/do-vien.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/Ca vien Mavin 2.jpg</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>ae3b5962-020d-21b2-b2a6-904824e1fd13</key>
+	<value>Slide</value>
+<component id="ae3b5962-020d-21b2-b2a6-904824e1fd13">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ae3b</objectGroupId>
+	<objectId>ae3b5962-020d-21b2-b2a6-904824e1fd13</objectId>
+	<file-name>ae3b5962-020d-21b2-b2a6-904824e1fd13.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<internal-name>Slide</internal-name>
+	<createdDate>2021-08-04T08:08:51.839Z</createdDate>
+	<createdDate_dt>2021-08-04T08:08:51.839Z</createdDate_dt>
+	<lastModifiedDate>2021-08-04T08:08:51.839Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-04T08:08:51.839Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;C&amp;aacute; vi&amp;ecirc;n Mavin c&amp;oacute; th&amp;agrave;nh phần ch&amp;iacute;nh l&amp;agrave; c&amp;aacute; chiếm tr&amp;ecirc;n 70% c&amp;ugrave;ng c&amp;aacute;c gia vị tạo hương thơm đặc trưng. Với m&amp;agrave;u sắc trắng tự nhi&amp;ecirc;n của thịt c&amp;aacute; tươi ch&amp;iacute;n, C&amp;aacute; vi&amp;ecirc;n Mavin l&amp;agrave; d&amp;ograve;ng sản phẩm chủ lực v&amp;agrave; đảm bảo chất lượng c&amp;aacute; thật nhất, tiện lợi nhất cho mọi gia đ&amp;igrave;nh chế biến v&amp;agrave; sử dụng ăn h&amp;agrave;ng ng&amp;agrave;y. &lt;span style="white-space: pre;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hướng dẫn sử dụng: &lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;R&amp;atilde; đ&amp;ocirc;ng 20 - 30 ph&amp;uacute;t.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;D&amp;ugrave;ng để chi&amp;ecirc;n r&amp;aacute;n hoặc chế biến m&amp;oacute;n ăn y&amp;ecirc;u th&amp;iacute;ch.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sử dụng hết sản phẩm trong v&amp;ograve;ng 24 giờ sau khi mở g&amp;oacute;i sản phẩm.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-08-04T08:03:06.843Z</createdDate>
+	<createdDate_dt>2021-08-04T08:03:06.843Z</createdDate_dt>
+	<lastModifiedDate>2021-10-09T04:30:50.488Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-09T04:30:50.488Z</lastModifiedDate_dt>
+	<sku_s>8936082676104</sku_s>
+</page>

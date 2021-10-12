@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ade6</objectGroupId>
+	<objectId>ade64bd9-e6a1-006e-5d2d-bbf12d8d9d96</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>production</folder-name>
+	<internal-name>Production Technology</internal-name>
+	<navLabel>Production Technology</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>ffad2c52-ab0e-02a1-c57d-55acb49fa102</key>
+	<value>S</value>
+<component id="ffad2c52-ab0e-02a1-c57d-55acb49fa102">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ffad</objectGroupId>
+	<objectId>ffad2c52-ab0e-02a1-c57d-55acb49fa102</objectId>
+	<file-name>ffad2c52-ab0e-02a1-c57d-55acb49fa102.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-09-30T04:09:54.628Z</createdDate>
+	<createdDate_dt>2021-09-30T04:09:54.628Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:09:54.628Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:09:54.628Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>22e3d4cf-194e-e816-1236-08c6dfbded62</key>
+	<value>Production Technology</value>
+<component id="22e3d4cf-194e-e816-1236-08c6dfbded62">
+	<content-type>/component/encomquytrinh</content-type>
+	<display-template>/templates/web/components/en/quytrinhss.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>22e3</objectGroupId>
+	<objectId>22e3d4cf-194e-e816-1236-08c6dfbded62</objectId>
+	<file-name>22e3d4cf-194e-e816-1236-08c6dfbded62.xml</file-name>
+	<image_s>/static-assets/images/tong-quan/tq-qtsx1.jpg</image_s>
+	<internal-name>Production Technology</internal-name>
+	<content_html>&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #636465; font-family: UVF-DINPro; font-size: 15px;"&gt;All of the production lines at Mavin are imported from Germany with well-known brands as Mado, Bizerbar, Fressmann, Handtman... .&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #636465; font-family: UVF-DINPro; font-size: 15px;"&gt;With the state of the art equipments, all products of Mavin are always good and constant in quality.&lt;/p&gt;</content_html>
+	<createdDate>2021-09-30T04:10:33.112Z</createdDate>
+	<createdDate_dt>2021-09-30T04:10:33.112Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:10:33.112Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:10:33.112Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-09-30T04:09:25.019Z</createdDate>
+	<createdDate_dt>2021-09-30T04:09:25.019Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:09:25.019Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:09:25.019Z</lastModifiedDate_dt>
+</page>

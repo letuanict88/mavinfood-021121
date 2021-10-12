@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f55e</objectGroupId>
+	<objectId>f55eb8e5-ef3c-68b2-c720-41811e30c872</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>production-announcement</folder-name>
+	<internal-name>Production Announcement</internal-name>
+	<navLabel>Production Announcement</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>ce073773-e711-2a27-2174-651f266d00c1</key>
+	<value>S</value>
+<component id="ce073773-e711-2a27-2174-651f266d00c1">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ce07</objectGroupId>
+	<objectId>ce073773-e711-2a27-2174-651f266d00c1</objectId>
+	<file-name>ce073773-e711-2a27-2174-651f266d00c1.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-09-30T04:20:54.586Z</createdDate>
+	<createdDate_dt>2021-09-30T04:20:54.586Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:20:54.586Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:20:54.586Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>c9150caa-69c4-64b0-5b07-cf559e977d78</key>
+	<value>Production Announcement</value>
+<component id="c9150caa-69c4-64b0-5b07-cf559e977d78">
+	<content-type>/component/encomcongbosp</content-type>
+	<display-template>/templates/web/components/en/congbosp.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c915</objectGroupId>
+	<objectId>c9150caa-69c4-64b0-5b07-cf559e977d78</objectId>
+	<cer_o item-list="true">	<item>	<image_s>/static-assets/images/tong-quan/cbsp.jpg</image_s>
+	<title_s>Mavinia Sausage</title_s>
+	</item></cer_o>
+	<file-name>c9150caa-69c4-64b0-5b07-cf559e977d78.xml</file-name>
+	<internal-name>Production Announcement</internal-name>
+	<title_s>Production Announcement</title_s>
+	<createdDate>2021-09-30T04:21:20.245Z</createdDate>
+	<createdDate_dt>2021-09-30T04:21:20.245Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:22:31.677Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:22:31.677Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-09-30T04:19:22.586Z</createdDate>
+	<createdDate_dt>2021-09-30T04:19:22.586Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:19:22.586Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:19:22.586Z</lastModifiedDate_dt>
+</page>

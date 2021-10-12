@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagetintuc</content-type>
+	<display-template>/templates/web/pages/en/tintuc.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d6337d93</objectGroupId>
+	<objectId>d6337d93-e777-4380-bbc1-0b07004b9b54</objectId>
+	<internal-name>3</internal-name>
+	<navLabel>3</navLabel>
+	<title_s>3</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>3</folder-name>
+	<image_s>/static-assets/images/new/7.jpg</image_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>accf517c-92a5-9bc9-b604-f66062be409a</key>
+	<value>S</value>
+<component id="accf517c-92a5-9bc9-b604-f66062be409a">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>accf</objectGroupId>
+	<objectId>accf517c-92a5-9bc9-b604-f66062be409a</objectId>
+	<file-name>accf517c-92a5-9bc9-b604-f66062be409a.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-10-01T03:14:44.121Z</createdDate>
+	<createdDate_dt>2021-10-01T03:14:44.121Z</createdDate_dt>
+	<lastModifiedDate>2021-10-01T03:14:44.121Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-01T03:14:44.121Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p&gt;content&lt;/p&gt;</content_html>
+	<createdDate>2021-10-01T03:12:24.948Z</createdDate>
+	<createdDate_dt>2021-10-01T03:12:24.948Z</createdDate_dt>
+	<lastModifiedDate>2021-10-01T04:02:04.138Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-01T04:02:04.138Z</lastModifiedDate_dt>
+	<date_dt>2021-09-30T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b32d</objectGroupId>
+	<objectId>b32d9069-e99f-3e83-cfb8-aaf6c4cb6c9e</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>cong-bo-san-pham</folder-name>
+	<internal-name>Công bố sản phẩm</internal-name>
+	<navLabel>Công bố sản phẩm</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>0a75ee17-4d96-f5b4-2665-ce39e98c5a93</key>
+	<value>Công bố sản phẩm - content</value>
+<component id="0a75ee17-4d96-f5b4-2665-ce39e98c5a93">
+	<content-type>/component/congbo</content-type>
+	<display-template>/templates/web/components/congbosp.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0a75</objectGroupId>
+	<objectId>0a75ee17-4d96-f5b4-2665-ce39e98c5a93</objectId>
+	<file-name>0a75ee17-4d96-f5b4-2665-ce39e98c5a93.xml</file-name>
+	<internal-name>Công bố sản phẩm - content</internal-name>
+	<title_s>CÔNG BỐ SẢN PHẨM</title_s>
+	<cer_o item-list="true">	<item>	<name_s>Xúc xích Berliner</name_s>
+	<image_s>/static-assets/images/tong-quan/XAC NHAN CONG BO BERLINER_page-0001.jpg</image_s>
+	</item>	<item>	<image_s>/static-assets/images/tong-quan/XAC NHAN CONG BO HOTDOG_page-0001.jpg</image_s>
+	<name_s>Xúc xíchHotdog</name_s>
+	</item>	<item>	<image_s>/static-assets/images/tong-quan/XAC NHAN CONG BO XX MAVINA_page-0001.jpg</image_s>
+	<name_s>Xúc xích Mavinia</name_s>
+	</item>	<item>	<image_s>/static-assets/images/tong-quan/cbsp.jpg</image_s>
+	<name_s>Xúc xích Gà</name_s>
+	</item></cer_o>
+	<createdDate>2021-06-13T16:50:15.356Z</createdDate>
+	<createdDate_dt>2021-06-13T16:50:15.356Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T08:31:45.306Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T08:31:45.306Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-13T16:49:48.099Z</createdDate>
+	<createdDate_dt>2021-06-13T16:49:48.099Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T08:31:40.852Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T08:31:40.852Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>be74a83a-9921-aa9e-ce34-d16c2b4b97c1</key>
+	<value>S</value>
+<component id="be74a83a-9921-aa9e-ce34-d16c2b4b97c1">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>be74</objectGroupId>
+	<objectId>be74a83a-9921-aa9e-ce34-d16c2b4b97c1</objectId>
+	<file-name>be74a83a-9921-aa9e-ce34-d16c2b4b97c1.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-06-21T09:37:25.656Z</createdDate>
+	<createdDate_dt>2021-06-21T09:37:25.656Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:14:19.073Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:14:19.073Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

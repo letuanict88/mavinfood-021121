@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6610eb0b</objectGroupId>
+	<objectId>6610eb0b-89b8-45cc-bdf1-a56303e263a0</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>2</folder-name>
+	<internal-name>Cat lat</internal-name>
+	<navLabel>Cat lat</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>1020548a-f008-5c09-b83c-8b526615b0b0</key>
+	<value>S</value>
+<component id="1020548a-f008-5c09-b83c-8b526615b0b0">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1020</objectGroupId>
+	<objectId>1020548a-f008-5c09-b83c-8b526615b0b0</objectId>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app3.jpg</image_s>
+	<file-name>1020548a-f008-5c09-b83c-8b526615b0b0.xml</file-name>
+	<createdDate>2021-09-30T09:04:34.462Z</createdDate>
+	<createdDate_dt>2021-09-30T09:04:34.462Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:04:34.462Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:04:34.462Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>77e4fcc9-c58c-73fc-837e-eb8a8403034e</key>
+	<value>Cat lat</value>
+<component id="77e4fcc9-c58c-73fc-837e-eb8a8403034e">
+	<content-type>/component/encomgroupsp</content-type>
+	<display-template>/templates/web/components/en/groupproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>77e4</objectGroupId>
+	<objectId>77e4fcc9-c58c-73fc-837e-eb8a8403034e</objectId>
+	<file-name>77e4fcc9-c58c-73fc-837e-eb8a8403034e.xml</file-name>
+	<internal-name>Cat lat</internal-name>
+	<title_s>Cat lat</title_s>
+	<image_s>/static-assets/images/san-pham/SP cat lat 1.png</image_s>
+	<groupproduct_o item-list="true">	<item datasource="groupProduct">	<key>/site/items/d6e7a64d-9a33-8c51-a61c-a2a79641744b.xml</key>
+	<value>Cat lat</value>
+	<include>/site/items/d6e7a64d-9a33-8c51-a61c-a2a79641744b.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></groupproduct_o>
+	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<createdDate>2021-09-30T09:15:43.459Z</createdDate>
+	<createdDate_dt>2021-09-30T09:15:43.459Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:15:43.459Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:15:43.459Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-09-30T09:04:01.967Z</createdDate>
+	<createdDate_dt>2021-09-30T09:04:01.967Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:13:41.817Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:13:41.817Z</lastModifiedDate_dt>
+</page>

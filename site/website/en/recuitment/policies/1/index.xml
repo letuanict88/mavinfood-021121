@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechinhsach</content-type>
+	<display-template>/templates/web/pages/en/chinhsach.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3241</objectGroupId>
+	<objectId>3241986d-4abe-8883-d1da-ae67453989c2</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>1</folder-name>
+	<internal-name>1</internal-name>
+	<navLabel>1</navLabel>
+	<title_s>1</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/tuyen-dung/5O6A7027.JPG</image_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>4712d73f-e76b-eb2b-db99-908ef3c59174</key>
+	<value>S</value>
+<component id="4712d73f-e76b-eb2b-db99-908ef3c59174">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4712</objectGroupId>
+	<objectId>4712d73f-e76b-eb2b-db99-908ef3c59174</objectId>
+	<file-name>4712d73f-e76b-eb2b-db99-908ef3c59174.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-10-06T07:52:40.092Z</createdDate>
+	<createdDate_dt>2021-10-06T07:52:40.092Z</createdDate_dt>
+	<lastModifiedDate>2021-10-06T07:52:40.092Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-06T07:52:40.092Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<createdDate>2021-10-06T07:52:19.547Z</createdDate>
+	<createdDate_dt>2021-10-06T07:52:19.547Z</createdDate_dt>
+	<lastModifiedDate>2021-10-06T07:52:19.547Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-06T07:52:19.547Z</lastModifiedDate_dt>
+	<date_dt>2021-10-06T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

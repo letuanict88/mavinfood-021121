@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ef1a</objectGroupId>
+	<objectId>ef1a5dde-51cc-1e45-e9d3-9fbb87c0c631</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>gio-hang</folder-name>
+	<internal-name>Giỏ hàng</internal-name>
+	<navLabel>Giỏ hàng</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>627c08f9-3cb0-acdb-62e0-e5c2a03ad540</key>
+	<value>Slide</value>
+<component id="627c08f9-3cb0-acdb-62e0-e5c2a03ad540">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>627c</objectGroupId>
+	<objectId>627c08f9-3cb0-acdb-62e0-e5c2a03ad540</objectId>
+	<file-name>627c08f9-3cb0-acdb-62e0-e5c2a03ad540.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<internal-name>Slide</internal-name>
+	<createdDate>2021-09-21T10:15:59.663Z</createdDate>
+	<createdDate_dt>2021-09-21T10:15:59.663Z</createdDate_dt>
+	<lastModifiedDate>2021-09-21T10:15:59.663Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-21T10:15:59.663Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>1788d804-9676-04e9-4a0f-59b4e1177dbc</key>
+	<value>Gio hang</value>
+<component id="1788d804-9676-04e9-4a0f-59b4e1177dbc">
+	<content-type>/component/giohang</content-type>
+	<display-template>/templates/web/components/giohang.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1788</objectGroupId>
+	<objectId>1788d804-9676-04e9-4a0f-59b4e1177dbc</objectId>
+	<internal-name>Gio hang</internal-name>
+	<file-name>1788d804-9676-04e9-4a0f-59b4e1177dbc.xml</file-name>
+	<createdDate>2021-09-21T10:16:22.657Z</createdDate>
+	<createdDate_dt>2021-09-21T10:16:22.657Z</createdDate_dt>
+	<lastModifiedDate>2021-09-21T10:16:22.657Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-21T10:16:22.657Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-09-21T10:15:27.995Z</createdDate>
+	<createdDate_dt>2021-09-21T10:15:27.995Z</createdDate_dt>
+	<lastModifiedDate>2021-09-21T10:15:27.995Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-21T10:15:27.995Z</lastModifiedDate_dt>
+</page>

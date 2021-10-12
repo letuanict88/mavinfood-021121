@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/components/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e208</objectGroupId>
+	<objectId>e2082058-e44a-120d-5a25-63203067503f</objectId>
+	<file-name>e2082058-e44a-120d-5a25-63203067503f.xml</file-name>
+	<listproduct_s>gio-cha</listproduct_s>
+	<internal-name>Sản phẩm giò chả</internal-name>
+	<createdDate>2021-08-25T09:24:16.719Z</createdDate>
+	<createdDate_dt>2021-08-25T09:24:16.719Z</createdDate_dt>
+	<lastModifiedDate>2021-08-25T09:24:16.719Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-25T09:24:16.719Z</lastModifiedDate_dt>
+</component>

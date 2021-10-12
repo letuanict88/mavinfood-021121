@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagemarketchitiet</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>71506037</objectGroupId>
+	<objectId>71506037-a539-4c46-9a11-2bb1b4412a28</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test-e0fb719c-378a2d9a</folder-name>
+	<internal-name>Đại lý Khu vực Hà Nam</internal-name>
+	<navLabel>Đại lý Khu vực Hà Nam</navLabel>
+	<name_s>Đại lý Khu vực Hà Nam</name_s>
+	<address_s>Phường Quang Trung, Thành Phố Phủ Lý, Tỉnh Hà Nam</address_s>
+	<phone_s>0845246888</phone_s>
+	<latitude_s>20.560572394621136</latitude_s>
+	<longitude_s>105.91911485909904</longitude_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2021-09-13T10:59:08.737Z</createdDate>
+	<createdDate_dt>2021-09-13T10:59:08.737Z</createdDate_dt>
+	<lastModifiedDate>2021-09-14T02:40:48.477Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-14T02:40:48.477Z</lastModifiedDate_dt>
+</page>

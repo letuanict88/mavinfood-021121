@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/tuyendung</content-type>
+	<display-template>/templates/web/pages/tuyendungdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ecd79cad</objectGroupId>
+	<objectId>ecd79cad-c4c8-4f44-9ce3-406e3b455be6</objectId>
+	<internal-name>Nhân viên Kinh doanh Mavin Food (Văn phòng HCM)</internal-name>
+	<navLabel>Nhân viên Kinh doanh Mavin Food (Văn phòng HCM)</navLabel>
+	<title_s>GIÁM SÁT KINH DOANH NGÀNH THỰC PHẨM CHẾ BIẾN</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>tin-2</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;SỐ LƯỢNG: 02&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;KHU VỰC:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;V&amp;ugrave;ng 1: Th&amp;aacute;i Nguy&amp;ecirc;n Bắc Giang, Bắc Ninh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;V&amp;ugrave;ng 2: L&amp;agrave;o Cai, Y&amp;ecirc;n B&amp;aacute;i, Tuy&amp;ecirc;n Quang, H&amp;agrave; Giang&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;M&amp;Ocirc; TẢ C&amp;Ocirc;NG VIỆC:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thực hiện c&amp;ocirc;ng việc theo sự chỉ đạo của gi&amp;aacute;m s&amp;aacute;t&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- B&amp;aacute;o c&amp;aacute;o kết quả c&amp;ocirc;ng việc thực hiện v&amp;agrave; số liệu khu vực m&amp;igrave;nh phụ tr&amp;aacute;ch&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Triển khai c&amp;aacute;c chương tr&amp;igrave;nh marketing ra b&amp;ecirc;n ngo&amp;agrave;i&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Phục vụ, giao nhận h&amp;agrave;ng h&amp;oacute;a đến kh&amp;aacute;ch h&amp;agrave;ng theo chức năng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Mở điểm b&amp;aacute;n v&amp;agrave; ph&amp;acirc;n phối tr&amp;ecirc;n địa b&amp;agrave;n&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Kinh nghiệm/Kỹ năng chi tiết&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Trung thực, c&amp;oacute; tr&amp;aacute;ch nhiệm trong c&amp;ocirc;ng việc, c&amp;oacute; định hướng l&amp;agrave;m việc v&amp;agrave; gắn b&amp;oacute; l&amp;acirc;u d&amp;agrave;i với c&amp;ocirc;ng ty&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;oacute; tinh thần tr&amp;aacute;ch nhiệm cao trong c&amp;ocirc;ng việc&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Chịu được &amp;aacute;p lực c&amp;ocirc;ng việc&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;oacute; kỹ năng sale trong lĩnh vực Thực phẩm đ&amp;ocirc;ng lạnh l&amp;agrave; 1 lợi thế&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;M&amp;ocirc; tả&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tr&amp;igrave;nh độ học vấn: Chuy&amp;ecirc;n ng&amp;agrave;nh Marketing, QTKD...&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Mức kinh nghiệm: từ 1 năm trở l&amp;ecirc;n&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Loại c&amp;ocirc;ng việc: To&amp;agrave;n thời gian cố định&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tuổi: 25-35&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Giới t&amp;iacute;nh: Nam/Nữ&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Th&amp;ocirc;ng tin li&amp;ecirc;n hệ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gửi CV về địa chỉ mail: tuyendung@mavinfood.com&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Địa chỉ: Tầng 4,T&amp;ograve;a nh&amp;agrave; Hudland, số 6, Nguyễn Hữu Thọ, Ho&amp;agrave;ng Mai, H&amp;agrave; Nội&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Hotline: 0912.038.862 ( Ms Hường)&lt;/p&gt;</content_html>
+	<createdDate>2021-06-17T04:26:07.346Z</createdDate>
+	<createdDate_dt>2021-06-17T04:26:07.346Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T09:59:22.470Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T09:59:22.470Z</lastModifiedDate_dt>
+	<date_dt>2021-06-17T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>728fc45e-3ea2-2d1f-15ce-1d66055b52d4</key>
+	<value>S</value>
+<component id="728fc45e-3ea2-2d1f-15ce-1d66055b52d4">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>728f</objectGroupId>
+	<objectId>728fc45e-3ea2-2d1f-15ce-1d66055b52d4</objectId>
+	<file-name>728fc45e-3ea2-2d1f-15ce-1d66055b52d4.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app6.jpg</image_s>
+	<createdDate>2021-06-21T09:35:53.329Z</createdDate>
+	<createdDate_dt>2021-06-21T09:35:53.329Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:10:44.119Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:10:44.119Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

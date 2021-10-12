@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0451</objectGroupId>
+	<objectId>04515430-34e9-7dca-cbcc-e620791928cd</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>bep-mavin</folder-name>
+	<internal-name>Bếp Mavin</internal-name>
+	<navLabel>Bếp Mavin</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>f331d916-b52b-b6f6-8376-afd46206dc70</key>
+	<value>Bếp Mavin</value>
+<component id="f331d916-b52b-b6f6-8376-afd46206dc70">
+	<content-type>/component/comkitchen</content-type>
+	<display-template>/templates/web/components/kitchen.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f331</objectGroupId>
+	<objectId>f331d916-b52b-b6f6-8376-afd46206dc70</objectId>
+	<file-name>f331d916-b52b-b6f6-8376-afd46206dc70.xml</file-name>
+	<internal-name>Bếp Mavin</internal-name>
+	<createdDate>2021-06-04T07:41:43.538Z</createdDate>
+	<createdDate_dt>2021-06-04T07:41:43.538Z</createdDate_dt>
+	<lastModifiedDate>2021-06-04T07:41:43.538Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-04T07:41:43.538Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-04T06:51:17.396Z</createdDate>
+	<createdDate_dt>2021-06-04T06:51:17.396Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T10:39:07.914Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T10:39:07.914Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>af7d1773-c1fe-9a26-b94d-bba0ded79767</key>
+	<value>S</value>
+<component id="af7d1773-c1fe-9a26-b94d-bba0ded79767">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>af7d</objectGroupId>
+	<objectId>af7d1773-c1fe-9a26-b94d-bba0ded79767</objectId>
+	<file-name>af7d1773-c1fe-9a26-b94d-bba0ded79767.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app5.jpg</image_s>
+	<createdDate>2021-06-21T09:14:34.805Z</createdDate>
+	<createdDate_dt>2021-06-21T09:14:34.805Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T10:39:13.538Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T10:39:13.538Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagetailieukm</content-type>
+	<display-template>/templates/web/tailieukm.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b3b9</objectGroupId>
+	<objectId>b3b9319f-bc01-9ec6-4479-c595150fb85b</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tai-lieu-1</folder-name>
+	<internal-name>TB triển khai CT hỗ trợ giao hàng cho KH Hà Nội</internal-name>
+	<navLabel>TB triển khai CT hỗ trợ giao hàng cho KH Hà Nội</navLabel>
+	<name_s>TB triển khai CT hỗ trợ giao hàng cho KH Hà Nội</name_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<pdffile_o item-list="true">	<item datasource="desktopFile">	<key>/static-assets/images/file/Ho tro giao hang tan nha T9 Mavin Foods.pdf</key>
+	<value>/static-assets/images/file/Ho tro giao hang tan nha T9 Mavin Foods.pdf</value>
+	<fileType_mvs>pdf</fileType_mvs>
+	<fileSize_s>399638</fileSize_s>
+	</item></pdffile_o>
+	<createdDate>2021-08-16T08:06:00.105Z</createdDate>
+	<createdDate_dt>2021-08-16T08:06:00.105Z</createdDate_dt>
+	<lastModifiedDate>2021-09-13T09:24:23.918Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-13T09:24:23.918Z</lastModifiedDate_dt>
+</page>

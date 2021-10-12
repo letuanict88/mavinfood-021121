@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagemarketchitiet</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6ba31415</objectGroupId>
+	<objectId>6ba31415-d69b-4d44-8bb5-9f3ffd78fcce</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>test-e0fb719c-7986f86d</folder-name>
+	<internal-name>Đại lý Khu vực Hải Phòng</internal-name>
+	<navLabel>Đại lý Khu vực Hải Phòng</navLabel>
+	<name_s>Đại lý Khu vực Hải Phòng</name_s>
+	<address_s>P. Cầu Tre, Quận Ngô Quyền, TP Hải Phòng</address_s>
+	<phone_s>0906195499</phone_s>
+	<latitude_s>20.860210126685512</latitude_s>
+	<longitude_s>106.7051678926583</longitude_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2021-09-13T10:59:08.737Z</createdDate>
+	<createdDate_dt>2021-09-13T10:59:08.737Z</createdDate_dt>
+	<lastModifiedDate>2021-09-14T02:42:04.661Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-14T02:42:04.661Z</lastModifiedDate_dt>
+</page>

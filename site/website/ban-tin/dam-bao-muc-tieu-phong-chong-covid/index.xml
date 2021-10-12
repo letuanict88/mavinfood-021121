@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/pages/tintuc.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f18d</objectGroupId>
+	<objectId>f18d437a-587f-cedb-fb63-5b360adcd2a0</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>dam-bao-muc-tieu-phong-chong-covid</folder-name>
+	<internal-name>Mavin đảm bảo mục tiêu kép trong phòng chống Covid-19</internal-name>
+	<navLabel>Mavin đảm bảo mục tiêu kép trong phòng chống Covid-19</navLabel>
+	<title_s>Mavin đảm bảo mục tiêu kép trong phòng chống Covid-19</title_s>
+	<image_s>/static-assets/images/new/Test Covid MDT (2).jpg</image_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>44d12cfd-6480-6a7a-ffec-777f9ae1f696</key>
+	<value>Slide</value>
+<component id="44d12cfd-6480-6a7a-ffec-777f9ae1f696">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>44d1</objectGroupId>
+	<objectId>44d12cfd-6480-6a7a-ffec-777f9ae1f696</objectId>
+	<file-name>44d12cfd-6480-6a7a-ffec-777f9ae1f696.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<internal-name>Slide</internal-name>
+	<createdDate>2021-08-04T08:52:46.645Z</createdDate>
+	<createdDate_dt>2021-08-04T08:52:46.645Z</createdDate_dt>
+	<lastModifiedDate>2021-08-04T08:52:46.645Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-04T08:52:46.645Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Hiện nay dịch Covid-19 diễn biến ng&amp;agrave;y c&amp;agrave;ng căng thẳng v&amp;agrave; phức tạp, đ&amp;ograve;i hỏi mỗi c&amp;aacute; nh&amp;acirc;n, tổ chức cần n&amp;acirc;ng cao &amp;yacute; thức ph&amp;ograve;ng chống, đẩy l&amp;ugrave;i dịch bệnh. Chung tay c&amp;ugrave;ng Ch&amp;iacute;nh phủ, c&amp;ugrave;ng cộng đồng, Tập đo&amp;agrave;n Mavin đ&amp;atilde; v&amp;agrave; đang &amp;aacute;p dụng chặt chẽ v&amp;agrave; nghi&amp;ecirc;m ngặt c&amp;aacute;c giải ph&amp;aacute;p n&amp;acirc;ng cao ph&amp;ograve;ng chống dịch, đảm bảo thực hiện &amp;ldquo;mục ti&amp;ecirc;u k&amp;eacute;p&amp;rdquo; vừa ph&amp;ograve;ng chống dịch hiệu quả, vừa ph&amp;aacute;t triển hoạt động sản xuất kinh doanh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;ecirc;n cạnh tu&amp;acirc;n thủ nghi&amp;ecirc;m ngặt c&amp;aacute;c quy định, hướng dẫn ph&amp;ograve;ng, chống dịch của c&amp;aacute;c cơ quan chức năng đối với tất cả c&amp;aacute;c đơn vị, nh&amp;agrave; m&amp;aacute;y trong hệ thống, Mavin cũng li&amp;ecirc;n tục r&amp;agrave; so&amp;aacute;t, cập nhật c&amp;aacute;c phương &amp;aacute;n ph&amp;ograve;ng chống dịch linh hoạt v&amp;agrave; kịp thời theo diễn biến dịch bệnh. C&amp;aacute;c kịch bản khi xuất hiện F0, F1&amp;hellip; cũng được x&amp;acirc;y dựng thống nhất trong hệ thống để chủ động đưa ra phương &amp;aacute;n ứng ph&amp;oacute; kịp thời.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Về hoạt động sản xuất kinh doanh, với quyết t&amp;acirc;m đảm bảo m&amp;ocirc;i trường l&amp;agrave;m việc an to&amp;agrave;n, kh&amp;ocirc;ng l&amp;agrave;m gi&amp;aacute;n đoạn hoạt động, Mavin đ&amp;atilde; triển khai đồng bộ v&amp;agrave; quyết liệt c&amp;aacute;c giải ph&amp;aacute;p như: truyền th&amp;ocirc;ng về dịch bệnh cho người lao động, thực hiện &amp;ldquo;3 tại chỗ&amp;rdquo; tại một số Nh&amp;agrave; m&amp;aacute;y trong v&amp;ugrave;ng dịch, &amp;aacute;p dụng đi l&amp;agrave;m lu&amp;acirc;n phi&amp;ecirc;n, l&amp;agrave;m việc từ xa, hạn chế số người đến Văn ph&amp;ograve;ng&amp;hellip;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với c&amp;aacute;c điểm tiếp x&amp;uacute;c với đối t&amp;aacute;c, kh&amp;aacute;ch h&amp;agrave;ng, Mavin đ&amp;atilde; thiết lập c&amp;aacute;c bước kiểm so&amp;aacute;t chặt chẽ, nghi&amp;ecirc;m ngặt, bố tr&amp;iacute; v&amp;ugrave;ng đệm an to&amp;agrave;n để hạn chế tiếp x&amp;uacute;c trực tiếp (l&amp;aacute;i xe chở h&amp;agrave;ng v&amp;agrave;o Nh&amp;agrave; m&amp;aacute;y được y&amp;ecirc;u cầu ngồi tr&amp;ecirc;n xe 100% thời gian). Đối với c&amp;aacute;c đơn vị sản xuất &amp;aacute;p dụng &amp;ldquo;3 tại chỗ&amp;rdquo; cũng ph&amp;acirc;n t&amp;aacute;ch khu vực ri&amp;ecirc;ng biệt, hạn chế tiếp x&amp;uacute;c giữa những c&amp;aacute;n bộ ở lại nh&amp;agrave; m&amp;aacute;y v&amp;agrave; những c&amp;aacute;n bộ l&amp;agrave;m lu&amp;acirc;n phi&amp;ecirc;n.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavin cũng đặc biệt ch&amp;uacute; trọng đưa ra c&amp;aacute;c cơ chế hỗ trợ c&amp;aacute;n bộ nh&amp;acirc;n vi&amp;ecirc;n v&amp;agrave; người lao động trong khi thực hiện giải ph&amp;aacute;p &amp;ldquo;3 tại chỗ&amp;rdquo; nhằm chia sẻ v&amp;agrave; động vi&amp;ecirc;n tinh thần người lao động. Một số hoạt động giải tr&amp;iacute; sau giờ l&amp;agrave;m việc d&amp;agrave;nh cho c&amp;aacute;n bộ c&amp;ocirc;ng nh&amp;acirc;n ở lại Nh&amp;agrave; m&amp;aacute;y như: thể dục thể thao, trồng rau, văn nghệ,&amp;hellip; cũng được quan t&amp;acirc;m l&amp;ecirc;n kế hoạch tổ chức để n&amp;acirc;ng cao đời sống tinh thần, tiếp th&amp;ecirc;m sức mạnh đo&amp;agrave;n kết cho người lao động. Mavin cũng phối hợp với CDC ở c&amp;aacute;c địa phương tiến h&amp;agrave;nh kiểm tra test tầm so&amp;aacute;t Covid-19, test PCR cho c&amp;aacute;c c&amp;aacute;n bộ thực hiện &amp;ldquo;3 tại chỗ&amp;rdquo;. Cho đến nay, c&amp;ocirc;ng t&amp;aacute;c x&amp;eacute;t nghiệm đối với c&amp;aacute;c nh&amp;agrave; m&amp;aacute;y của Mavin đều đảm bảo 100% c&amp;aacute;n bộ c&amp;oacute; kết quả &amp;acirc;m t&amp;iacute;nh với Covid-19, đảm bảo sức khỏe v&amp;agrave; an to&amp;agrave;n dịch bệnh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tại c&amp;aacute;c Văn ph&amp;ograve;ng l&amp;agrave;m việc, c&amp;aacute;c thiết bị y tế, chăm s&amp;oacute;c sức khỏe như khẩu trang, dung dịch s&amp;aacute;t tr&amp;ugrave;ng, nước muối x&amp;uacute;c miệng, vi&amp;ecirc;n C sủi tăng sức đề kh&amp;aacute;ng,&amp;hellip; được trang bị đầy đủ v&amp;agrave; khuyến kh&amp;iacute;ch c&amp;aacute;n bộ sử dụng thường xuy&amp;ecirc;n, thực hiện nghi&amp;ecirc;m t&amp;uacute;c theo th&amp;ocirc;ng điệp 5K để đảm bảo m&amp;ocirc;i trường l&amp;agrave;m việc an to&amp;agrave;n.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đồng thời, để đảm bảo hoạt động kinh doanh li&amp;ecirc;n tục, c&amp;aacute;c giải ph&amp;aacute;p c&amp;ocirc;ng nghệ 4.0 được Mavin sử dụng rộng r&amp;atilde;i trong hoạt động sản xuất, kinh doanh, ứng dụng c&amp;aacute;c nền tảng online trong hoạt động hội nghị, hội thảo, đ&amp;agrave;o tạo (Zoom, Microsoft Teams, Google Meeting,&amp;hellip;).&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong c&amp;ocirc;ng t&amp;aacute;c truyền th&amp;ocirc;ng cho người lao động, b&amp;ecirc;n cạnh th&amp;ocirc;ng điệp 5K được phổ biến rộng r&amp;atilde;i trong hệ thống, Mavin cũng thường xuy&amp;ecirc;n cập nhật c&amp;aacute;c th&amp;ocirc;ng tin v&amp;agrave; giải ph&amp;aacute;p ph&amp;ograve;ng chống Covid-19 để người lao động hiểu đ&amp;uacute;ng về dịch bệnh, kh&amp;ocirc;ng qu&amp;aacute; hoang mang lo lắng, thực hiện c&amp;aacute;c biện ph&amp;aacute;p tự bảo vệ bản th&amp;acirc;n, an t&amp;acirc;m l&amp;agrave;m việc.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Với c&amp;aacute;c giải ph&amp;aacute;p đồng bộ trong ph&amp;ograve;ng chống Covid-19, Mavin quyết t&amp;acirc;m chung tay c&amp;ugrave;ng Ch&amp;iacute;nh phủ v&amp;agrave; Nh&amp;acirc;n d&amp;acirc;n cả nước nhanh ch&amp;oacute;ng đẩy l&amp;ugrave;i đại dịch, v&amp;igrave; mục ti&amp;ecirc;u cao nhất l&amp;agrave; giữ m&amp;ocirc;i trường an to&amp;agrave;n, duy tr&amp;igrave; sản xuất, g&amp;oacute;p phần thực hiện &amp;ldquo;mục ti&amp;ecirc;u k&amp;eacute;p&amp;rdquo;: kiểm so&amp;aacute;t tốt dịch bệnh, ph&amp;aacute;t triển hoạt động sản xuất kinh doanh.&lt;/p&gt;</content_html>
+	<createdDate>2021-08-04T08:50:30.104Z</createdDate>
+	<createdDate_dt>2021-08-04T08:50:30.104Z</createdDate_dt>
+	<lastModifiedDate>2021-08-09T09:54:44.439Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-09T09:54:44.439Z</lastModifiedDate_dt>
+	<date_dt>2021-08-02T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

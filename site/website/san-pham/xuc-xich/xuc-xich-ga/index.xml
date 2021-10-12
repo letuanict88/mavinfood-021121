@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dba5</objectGroupId>
+	<objectId>dba51bda-cbd2-d1a2-0284-13fb080b3edd</objectId>
+	<internal-name>Xúc xích Gà</internal-name>
+	<navLabel>Xúc xích Gà</navLabel>
+	<name_s>Xúc xích Gà</name_s>
+	<kl_s>500 g/túi</kl_s>
+	<price_s>34000</price_s>
+	<file-name>index.xml</file-name>
+	<folder-name>xuc-xich-ga</folder-name>
+	<isHot_b>true</isHot_b>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<sptype_o>	<item>	<key>xuc-xich</key>
+	<value_smv>Xúc xích</value_smv>
+	</item></sptype_o>
+	<image1_s>/static-assets/images/san-pham/xuc-xich-ga.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/XX Ga 3.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/XX Ga 2.png</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>7dcbd097-61ae-c250-1b6d-720124645474</key>
+	<value>Slide</value>
+<component id="7dcbd097-61ae-c250-1b6d-720124645474">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7dcb</objectGroupId>
+	<objectId>7dcbd097-61ae-c250-1b6d-720124645474</objectId>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<file-name>7dcbd097-61ae-c250-1b6d-720124645474.xml</file-name>
+	<createdDate>2021-08-05T04:49:44.101Z</createdDate>
+	<createdDate_dt>2021-08-05T04:49:44.101Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T04:49:44.101Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T04:49:44.101Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Với th&amp;agrave;nh phần ch&amp;iacute;nh 100% thịt g&amp;agrave;, X&amp;uacute;c x&amp;iacute;ch G&amp;agrave; Mavin c&amp;oacute; nhiều điểm kh&amp;aacute;c biệt v&amp;agrave; mới lạ so với c&amp;aacute;c d&amp;ograve;ng x&amp;uacute;c x&amp;iacute;ch truyền thống trước đ&amp;acirc;y của Mavin Food. M&amp;agrave;u X&amp;uacute;c x&amp;iacute;ch hơi ngả v&amp;agrave;ng tự nhi&amp;ecirc;n của mỡ g&amp;agrave;, đặc biệt khi ăn, vị g&amp;agrave; thơm tự nhi&amp;ecirc;n nhưng kh&amp;ocirc;ng tạo cảm gi&amp;aacute;c ngấy cho người ăn. Tỷ lệ ức g&amp;agrave; trong nguy&amp;ecirc;n liệu chiếm kh&amp;aacute; cao, n&amp;ecirc;n người ti&amp;ecirc;u d&amp;ugrave;ng kh&amp;ocirc;ng lo sợ bị tăng k&amp;yacute; như một số d&amp;ograve;ng x&amp;uacute;c x&amp;iacute;ch heo truyền thống.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sản phẩm l&amp;agrave; một nỗ lực của Mavin Foods nhằm đ&amp;aacute;p ứng nhu cầu về một sản phẩm x&amp;uacute;c x&amp;iacute;ch bổ dưỡng cho mọi người, đặc biệt l&amp;agrave; chị em v&amp;agrave; c&amp;aacute;c em nhỏ c&amp;oacute; thể ăn bất cứ l&amp;uacute;c n&amp;agrave;o m&amp;agrave; kh&amp;ocirc;ng cần lo ngại thừa calo hay tăng k&amp;yacute;.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Đặc điểm sản phẩm:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Th&amp;agrave;nh phần: 100% từ thịt g&amp;agrave;, tỷ lệ ức g&amp;agrave; chiếm kh&amp;aacute; cao n&amp;ecirc;n kh&amp;ocirc;ng g&amp;acirc;y b&amp;eacute;o.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- M&amp;agrave;u sắc: hơi ngả v&amp;agrave;ng tự nhi&amp;ecirc;n như m&amp;agrave;u của mỡ g&amp;agrave;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Hương vị: vị g&amp;agrave; thơm tự nhi&amp;ecirc;n, thanh v&amp;agrave; kh&amp;ocirc;ng tạo cảm gi&amp;aacute;c ngấy cho người ăn.&lt;/p&gt;</content_html>
+	<createdDate>2021-08-05T04:44:11.568Z</createdDate>
+	<createdDate_dt>2021-08-05T04:44:11.568Z</createdDate_dt>
+	<lastModifiedDate>2021-09-23T09:59:47.546Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-23T09:59:47.546Z</lastModifiedDate_dt>
+	<sku_s>8936082672441</sku_s>
+</page>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>49b6</objectGroupId>
+	<objectId>49b6021d-c513-126f-e673-cc0d97f767b0</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>xuc-xich-thit-trau</folder-name>
+	<internal-name>Vealino Plus</internal-name>
+	<navLabel>Vealino Plus</navLabel>
+	<name_s>Vealino Plus</name_s>
+	<kl_s>500 g/túi</kl_s>
+	<price_s>43000</price_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<sptype_o>	<item>	<key>xuc-xich</key>
+	<value_smv>Xúc xích</value_smv>
+	</item></sptype_o>
+	<isHot_b>true</isHot_b>
+	<image1_s>/static-assets/images/san-pham/XX Vealino Plus 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/XX Vealino Plus 3.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/XX Vealino Plus 2.png</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>d6060c28-80c9-0b44-7884-df72126e576e</key>
+	<value>Slide</value>
+<component id="d6060c28-80c9-0b44-7884-df72126e576e">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d606</objectGroupId>
+	<objectId>d6060c28-80c9-0b44-7884-df72126e576e</objectId>
+	<internal-name>Slide</internal-name>
+	<file-name>d6060c28-80c9-0b44-7884-df72126e576e.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-08-05T04:29:42.249Z</createdDate>
+	<createdDate_dt>2021-08-05T04:29:42.249Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T04:29:42.249Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T04:29:42.249Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Bắt nguồn từ ẩm thực Việt với c&amp;aacute;c m&amp;oacute;n ăn chế biến từ thịt b&amp;ograve;, thịt tr&amp;acirc;u, Chuy&amp;ecirc;n gia ẩm thực Đức đ&amp;atilde; kỳ c&amp;ocirc;ng x&amp;acirc;y dựng c&amp;ocirc;ng thức d&amp;agrave;nh ri&amp;ecirc;ng cho x&amp;uacute;c x&amp;iacute;ch Vealino với th&amp;agrave;nh phần chủ đạo l&amp;agrave; thịt heo v&amp;agrave; thịt tr&amp;acirc;u/ thịt b&amp;ograve;. Khi ăn Vealino, sẽ cảm nhận thấy r&amp;otilde; vị tr&amp;acirc;u quyện trong vị heo, rất thơm, rất đặc trưng, rất ri&amp;ecirc;ng biệt chỉ c&amp;oacute; ở Mavin. Đ&amp;acirc;y l&amp;agrave; d&amp;ograve;ng x&amp;uacute;c x&amp;iacute;ch ph&amp;acirc;n kh&amp;uacute;c tầm trung của Mavin, n&amp;ecirc;n ph&amp;acirc;n kh&amp;uacute;c gi&amp;aacute; cũng ph&amp;ugrave; hợp với đại đa số c&amp;aacute;c Gia đ&amp;igrave;nh hơn.&lt;span style="white-space: pre;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Đặc điểm sản phẩm:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Th&amp;agrave;nh phần ch&amp;iacute;nh l&amp;agrave; thịt heo v&amp;agrave; thịt tr&amp;acirc;u/thịt b&amp;ograve;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Vị tr&amp;acirc;u/ b&amp;ograve; quyện trong vị heo rất thơm, đặc trưng, ri&amp;ecirc;ng biệt chỉ c&amp;oacute; ở Mavin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ph&amp;acirc;n kh&amp;uacute;c gi&amp;aacute; ph&amp;ugrave; hợp hơn với đại đa số Gia đ&amp;igrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-&amp;nbsp; H&amp;agrave;m lượng dinh dưỡng cao, đảm bảo an to&amp;agrave;n thực phẩm.&lt;/p&gt;</content_html>
+	<createdDate>2021-08-05T04:27:17.325Z</createdDate>
+	<createdDate_dt>2021-08-05T04:27:17.325Z</createdDate_dt>
+	<lastModifiedDate>2021-10-09T04:27:59.294Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-09T04:27:59.294Z</lastModifiedDate_dt>
+	<sku_s>8936082673875</sku_s>
+</page>

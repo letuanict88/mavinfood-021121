@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ab8b</objectGroupId>
+	<objectId>ab8b78bf-4766-d8a9-ae77-a1981c2449e9</objectId>
+	<internal-name>Xúc xích Xông Khói</internal-name>
+	<navLabel>Xúc xích Xông Khói</navLabel>
+	<name_s>Xúc xích Xông Khói</name_s>
+	<kl_s>500 g/túi</kl_s>
+	<price_s>90000</price_s>
+	<file-name>index.xml</file-name>
+	<folder-name>xuc-xich-xong-khoi</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<sptype_o>	<item>	<key>xuc-xich</key>
+	<value_smv>Xúc xích</value_smv>
+	</item></sptype_o>
+	<isHot_b>true</isHot_b>
+	<image1_s>/static-assets/images/san-pham/XX Hong khoi 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/XX Hong khoi 3.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/XX Hong khoi 2.png</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>065e47cf-9a56-6b31-52e1-b35b06513390</key>
+	<value>Slide</value>
+<component id="065e47cf-9a56-6b31-52e1-b35b06513390">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>065e</objectGroupId>
+	<objectId>065e47cf-9a56-6b31-52e1-b35b06513390</objectId>
+	<internal-name>Slide</internal-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<file-name>065e47cf-9a56-6b31-52e1-b35b06513390.xml</file-name>
+	<createdDate>2021-08-05T05:02:50.899Z</createdDate>
+	<createdDate_dt>2021-08-05T05:02:50.899Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T05:02:50.899Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T05:02:50.899Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Thuộc d&amp;ograve;ng x&amp;uacute;c x&amp;iacute;ch cao cấp, với h&amp;agrave;m lượng thịt heo tr&amp;ecirc;n 80%, khi ăn x&amp;uacute;c x&amp;iacute;ch H&amp;ocirc;ng kh&amp;oacute;i cảm nhận như đang thưởng thức miếng thịt heo đ&amp;atilde; được gi&amp;atilde; nhỏ thẩm thẩu c&amp;aacute;c gia vị đặc trưng của Mavin. Đặc biệt vị kh&amp;oacute;i cho cảm gi&amp;aacute;c như đang thưởng thức c&amp;aacute;c m&amp;oacute;n ăn T&amp;acirc;y Bắc đặc trưng của người Việt. &lt;span style="white-space: pre;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Đặc điểm sản phẩm:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Th&amp;agrave;nh phần ch&amp;iacute;nh l&amp;agrave; thịt heo (tr&amp;ecirc;n 80%) c&amp;ugrave;ng c&amp;aacute;c gia vị đặc trưng của Mavin&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Đặc trưng vị kh&amp;oacute;i&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- H&amp;agrave;m lượng dinh dưỡng cao, đảm bảo an to&amp;agrave;n thực phẩm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-08-05T04:59:21.692Z</createdDate>
+	<createdDate_dt>2021-08-05T04:59:21.692Z</createdDate_dt>
+	<lastModifiedDate>2021-10-09T04:28:49.255Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-09T04:28:49.255Z</lastModifiedDate_dt>
+	<sku_s>8936082674100</sku_s>
+</page>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>79e1</objectGroupId>
+	<objectId>79e13643-4d19-b308-f9ac-bb912a75b4c3</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>valuechain</folder-name>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>389fa504-df13-5078-b800-5df8f2fc0294</key>
+	<value>S</value>
+<component id="389fa504-df13-5078-b800-5df8f2fc0294">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>389f</objectGroupId>
+	<objectId>389fa504-df13-5078-b800-5df8f2fc0294</objectId>
+	<file-name>389fa504-df13-5078-b800-5df8f2fc0294.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-09-30T03:47:26.904Z</createdDate>
+	<createdDate_dt>2021-09-30T03:47:26.904Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T03:47:26.904Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T03:47:26.904Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>150402e5-a67f-8f36-6aa0-dc8e0326ff39</key>
+	<value>Chain of Values - Con</value>
+<component id="150402e5-a67f-8f36-6aa0-dc8e0326ff39">
+	<content-type>/component/encomchuoi</content-type>
+	<display-template>/templates/web/components/en/chuoigtri.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1504</objectGroupId>
+	<objectId>150402e5-a67f-8f36-6aa0-dc8e0326ff39</objectId>
+	<file-name>150402e5-a67f-8f36-6aa0-dc8e0326ff39.xml</file-name>
+	<internal-name>Chain of Values - Con</internal-name>
+	<title_s>Title</title_s>
+	<image_s>/static-assets/images/tong-quan/cover1.jpg</image_s>
+	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<createdDate>2021-09-30T03:48:24.852Z</createdDate>
+	<createdDate_dt>2021-09-30T03:48:24.852Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:23:05.182Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:23:05.182Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<internal-name>Chain of Values</internal-name>
+	<navLabel>Chain of Values</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2021-09-30T03:45:19.794Z</createdDate>
+	<createdDate_dt>2021-09-30T03:45:19.794Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:22:59.161Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:22:59.161Z</lastModifiedDate_dt>
+</page>

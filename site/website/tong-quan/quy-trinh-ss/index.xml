@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fd56</objectGroupId>
+	<objectId>fd568ca8-e92c-2d2d-9081-92357f96acde</objectId>
+	<internal-name>Quy trình sản xuất</internal-name>
+	<navLabel>Quy trình sản xuất</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>quy-trinh-ss</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>9ed65101-b883-5140-2fb7-bb8b74d779db</key>
+	<value>Quy trình sản xuất</value>
+<component id="9ed65101-b883-5140-2fb7-bb8b74d779db">
+	<content-type>/component/quytrinh</content-type>
+	<display-template>/templates/web/components/quytrinhss.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9ed6</objectGroupId>
+	<objectId>9ed65101-b883-5140-2fb7-bb8b74d779db</objectId>
+	<file-name>9ed65101-b883-5140-2fb7-bb8b74d779db.xml</file-name>
+	<internal-name>Quy trình sản xuất</internal-name>
+	<image_s>/static-assets/images/tong-quan/tq-qtsx1.jpg</image_s>
+	<content_html>&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #636465; font-family: UVF-DINPro; font-size: 15px;"&gt;C&amp;ocirc;ng nghệ v&amp;agrave; quy tr&amp;igrave;nh sản xuất tại nh&amp;agrave; m&amp;aacute;y của Mavin ho&amp;agrave;n to&amp;agrave;n đạt chuẩn của Cộng h&amp;ograve;a Li&amp;ecirc;n bang Đức. To&amp;agrave;n bộ d&amp;acirc;y chuyền sản xuất tại nh&amp;agrave; m&amp;aacute;y của Mavin nhập khẩu Cộng h&amp;ograve;a Li&amp;ecirc;n bang Đức từ c&amp;aacute;c thương hiệu m&amp;aacute;y sản xuất nổi tiếng như Mado, Bizerbar, Fressmann, Handtman...&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #636465; font-family: UVF-DINPro; font-size: 15px;"&gt;Với c&amp;ocirc;ng nghệ hiện đại, quy tr&amp;igrave;nh chuy&amp;ecirc;n nghiệp, c&amp;aacute;c sản phẩm của C&amp;ocirc;ng ty TNHH Li&amp;ecirc;n doanh thực phẩm Mavin lu&amp;ocirc;n đảm bảo chất lượng cao, đồng đều, ổn định v&amp;agrave; tuyệt đối an to&amp;agrave;n vệ sinh thực phẩm.&lt;/p&gt;</content_html>
+	<createdDate>2021-06-15T08:56:36.217Z</createdDate>
+	<createdDate_dt>2021-06-15T08:56:36.217Z</createdDate_dt>
+	<lastModifiedDate>2021-08-02T10:54:13.403Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-02T10:54:13.403Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-15T08:56:15.580Z</createdDate>
+	<createdDate_dt>2021-06-15T08:56:15.580Z</createdDate_dt>
+	<lastModifiedDate>2021-08-02T10:54:10.731Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-02T10:54:10.731Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>081b4a16-275e-32a8-ebe8-7fc5a7579ca6</key>
+	<value>S</value>
+<component id="081b4a16-275e-32a8-ebe8-7fc5a7579ca6">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>081b</objectGroupId>
+	<objectId>081b4a16-275e-32a8-ebe8-7fc5a7579ca6</objectId>
+	<file-name>081b4a16-275e-32a8-ebe8-7fc5a7579ca6.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-06-21T09:37:41.385Z</createdDate>
+	<createdDate_dt>2021-06-21T09:37:41.385Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:14:36.375Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:14:36.375Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

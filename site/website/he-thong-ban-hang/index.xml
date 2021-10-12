@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8c76</objectGroupId>
+	<objectId>8c7695e6-abca-fd3c-163d-fe3c9406b413</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>he-thong-ban-hang</folder-name>
+	<internal-name>Hệ thống bán hàng</internal-name>
+	<navLabel>Hệ thống bán hàng</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>8692f544-a36a-dcc3-3482-6eb5008e7053</key>
+	<value>Content - Hệ thống bán hàng</value>
+<component id="8692f544-a36a-dcc3-3482-6eb5008e7053">
+	<content-type>/component/hethongbanhang</content-type>
+	<display-template>/templates/web/components/hethongbanhang.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8692</objectGroupId>
+	<objectId>8692f544-a36a-dcc3-3482-6eb5008e7053</objectId>
+	<file-name>8692f544-a36a-dcc3-3482-6eb5008e7053.xml</file-name>
+	<internal-name>Content - Hệ thống bán hàng</internal-name>
+	<createdDate>2021-06-07T07:54:48.003Z</createdDate>
+	<createdDate_dt>2021-06-07T07:54:48.003Z</createdDate_dt>
+	<lastModifiedDate>2021-08-23T13:12:50.259Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-23T13:12:50.259Z</lastModifiedDate_dt>
+	<content_o item-list="true">	<item>	<iamge_s>/static-assets/images/logo-partner.jpg</iamge_s>
+	</item>	<item>	<iamge_s>/static-assets/images/logo-partner.jpg</iamge_s>
+	</item>	<item>	<iamge_s>/static-assets/images/logo-partner.jpg</iamge_s>
+	</item>	<item>	<iamge_s>/static-assets/images/logo-partner.jpg</iamge_s>
+	</item>	<item>	<iamge_s>/static-assets/images/logo-partner.jpg</iamge_s>
+	</item>	<item>	<iamge_s>/static-assets/images/logo-partner.jpg</iamge_s>
+	</item>	<item>	<iamge_s>/static-assets/images/logo-partner.jpg</iamge_s>
+	</item>	<item>	<iamge_s>/static-assets/images/logo-partner.jpg</iamge_s>
+	</item>	<item>	<iamge_s>/static-assets/images/logo-partner.jpg</iamge_s>
+	</item>	<item>	<iamge_s>/static-assets/images/logo-partner.jpg</iamge_s>
+	</item>	<item>	<iamge_s>/static-assets/images/logo-partner.jpg</iamge_s>
+	</item>	<item>	<iamge_s>/static-assets/images/logo-partner.jpg</iamge_s>
+	</item>	<item>	<iamge_s>/static-assets/images/logo-partner.jpg</iamge_s>
+	</item>	<item>	<iamge_s>/static-assets/images/logo-partner.jpg</iamge_s>
+	</item></content_o>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-07T07:40:54.834Z</createdDate>
+	<createdDate_dt>2021-06-07T07:40:54.834Z</createdDate_dt>
+	<lastModifiedDate>2021-08-23T13:12:47.791Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-23T13:12:47.791Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>a91f4aec-8ed1-21a9-3d96-16fb37b71e8d</key>
+	<value>S</value>
+<component id="a91f4aec-8ed1-21a9-3d96-16fb37b71e8d">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a91f</objectGroupId>
+	<objectId>a91f4aec-8ed1-21a9-3d96-16fb37b71e8d</objectId>
+	<file-name>a91f4aec-8ed1-21a9-3d96-16fb37b71e8d.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app6.jpg</image_s>
+	<createdDate>2021-06-21T09:19:43.247Z</createdDate>
+	<createdDate_dt>2021-06-21T09:19:43.247Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T10:40:33.051Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T10:40:33.051Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9184</objectGroupId>
+	<objectId>918410a4-a6a1-9f75-4377-32ab3a96ad21</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tai-lieu</folder-name>
+	<internal-name>Thư viện tài Liệu</internal-name>
+	<navLabel>Tài Liệu</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>84c12b40-819d-e094-2136-d3fbf3b3a121</key>
+	<value>Background</value>
+<component id="84c12b40-819d-e094-2136-d3fbf3b3a121">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>84c1</objectGroupId>
+	<objectId>84c12b40-819d-e094-2136-d3fbf3b3a121</objectId>
+	<file-name>84c12b40-819d-e094-2136-d3fbf3b3a121.xml</file-name>
+	<internal-name>Background</internal-name>
+	<image_s>/static-assets/images/header/bg-app7.jpg</image_s>
+	<createdDate>2021-06-28T04:28:08.017Z</createdDate>
+	<createdDate_dt>2021-06-28T04:28:08.017Z</createdDate_dt>
+	<lastModifiedDate>2021-06-28T06:46:38.451Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-28T06:46:38.451Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>e710ae0e-8207-d8bf-1d69-f3448202c95d</key>
+	<value>DS Tai lieu</value>
+<component id="e710ae0e-8207-d8bf-1d69-f3448202c95d">
+	<content-type>/component/comlisttailieu</content-type>
+	<display-template>/templates/web/components/listtailieu.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e710</objectGroupId>
+	<objectId>e710ae0e-8207-d8bf-1d69-f3448202c95d</objectId>
+	<internal-name>DS Tai lieu</internal-name>
+	<file-name>e710ae0e-8207-d8bf-1d69-f3448202c95d.xml</file-name>
+	<createdDate>2021-06-28T04:55:26.339Z</createdDate>
+	<createdDate_dt>2021-06-28T04:55:26.339Z</createdDate_dt>
+	<lastModifiedDate>2021-06-28T04:55:26.339Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-28T04:55:26.339Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-28T04:27:26.523Z</createdDate>
+	<createdDate_dt>2021-06-28T04:27:26.523Z</createdDate_dt>
+	<lastModifiedDate>2021-06-28T06:46:29.311Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-28T06:46:29.311Z</lastModifiedDate_dt>
+</page>

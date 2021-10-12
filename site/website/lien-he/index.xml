@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b9d8</objectGroupId>
+	<objectId>b9d86050-c59b-b759-a25a-661d89cd6236</objectId>
+	<internal-name>Liên hệ </internal-name>
+	<navLabel>Liên hệ </navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>lien-he</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>f902fbc5-9612-d7b2-b313-46fcda012099</key>
+	<value>Lien he</value>
+<component id="f902fbc5-9612-d7b2-b313-46fcda012099">
+	<content-type>/component/lienhe</content-type>
+	<display-template>/templates/web/components/lienhe.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f902</objectGroupId>
+	<objectId>f902fbc5-9612-d7b2-b313-46fcda012099</objectId>
+	<file-name>f902fbc5-9612-d7b2-b313-46fcda012099.xml</file-name>
+	<internal-name>Lien he</internal-name>
+	<name_s>Công ty TNHH Liên doanh Thực phẩm Mavin</name_s>
+	<bank_s/>
+	<tax_s/>
+	<place_o item-list="true">	<item>	<title_s>Nhà máy chế biến</title_s>
+	<map_s>&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d477832.9060310964!2d105.64901593281252!3d20.666748100000017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135c8fb8468cd55%3A0x6063492f0d41f425!2zQ8O0bmcgdHkgVE5ISCBMacOqbiBkb2FuaCBUaOG7sWMgcGjhuqltIE1hdmlu!5e0!3m2!1svi!2s!4v1628148774169!5m2!1svi!2s" width="514" height="338" style="border:0;" allowfullscreen="" loading="lazy"&gt;&lt;/iframe&gt;</map_s>
+	<image_s>/static-assets/images/lien-he/NM Mavin Foods 1.jpg</image_s>
+	<content_html>&lt;p&gt;Địa chỉ: L&amp;ocirc; E6 - khu CN Đồng Văn II - Duy Ti&amp;ecirc;n - H&amp;agrave; Nam&lt;/p&gt;
+&lt;p&gt;Điện thoại: 0226 3 582 889 Fax: 0226 3 582 669&lt;/p&gt;
+&lt;p&gt;Email: contact@mavinfood.com&lt;/p&gt;
+&lt;p&gt;Website: mavinfood.com&lt;/p&gt;</content_html>
+	</item>	<item>	<image_s>/static-assets/images/lien-he/VP Tap doan 2.jpg</image_s>
+	<title_s>Văn phòng Hà Nội</title_s>
+	<content_html>&lt;p&gt;Địa chỉ: Tầng 4, t&amp;ograve;a nh&amp;agrave; Hudland - số 6 Nguyễn Hữu Thọ, Ho&amp;agrave;ng Liệt, Ho&amp;agrave;ng Mai, H&amp;agrave; Nội&lt;/p&gt;
+&lt;p&gt;Điện thoại: 0243 2033 666&lt;/p&gt;
+&lt;p&gt;Email: contact@mavinfood.com&lt;/p&gt;
+&lt;p&gt;Website: mavinfood.com&lt;/p&gt;</content_html>
+	<map_s>&lt;iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238676.41826440088!2d105.74440443923444!3d20.818819666172075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135adc96b676a81%3A0xd035f99cd62c64b4!2zQ8O0bmcgdHkgQ-G7lSBwaOG6p24gVOG6rXAgxJFvw6BuIE1hdmlu!5e0!3m2!1svi!2s!4v1628148859389!5m2!1svi!2s" width="514" height="338" style="border:0;" allowfullscreen="" loading="lazy"&gt;&lt;/iframe&gt;</map_s>
+	</item></place_o>
+	<createdDate>2021-06-17T10:06:01.345Z</createdDate>
+	<createdDate_dt>2021-06-17T10:06:01.345Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T07:34:51.349Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T07:34:51.349Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-17T10:02:36.949Z</createdDate>
+	<createdDate_dt>2021-06-17T10:02:36.949Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T07:34:46.880Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T07:34:46.880Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>3109b6f9-fbe8-f6d0-98dc-fd0ee039af94</key>
+	<value>S</value>
+<component id="3109b6f9-fbe8-f6d0-98dc-fd0ee039af94">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3109</objectGroupId>
+	<objectId>3109b6f9-fbe8-f6d0-98dc-fd0ee039af94</objectId>
+	<file-name>3109b6f9-fbe8-f6d0-98dc-fd0ee039af94.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app9.jpg</image_s>
+	<createdDate>2021-06-21T09:20:25.952Z</createdDate>
+	<createdDate_dt>2021-06-21T09:20:25.952Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T10:56:08.565Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T10:56:08.565Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

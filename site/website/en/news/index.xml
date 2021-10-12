@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>349c</objectGroupId>
+	<objectId>349c55ab-3419-3a5e-c840-642096775783</objectId>
+	<internal-name>News</internal-name>
+	<navLabel>News</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>news</folder-name>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>0ee9a6f6-55b6-d1e8-bc17-f74f11460ef1</key>
+	<value>S</value>
+<component id="0ee9a6f6-55b6-d1e8-bc17-f74f11460ef1">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0ee9</objectGroupId>
+	<objectId>0ee9a6f6-55b6-d1e8-bc17-f74f11460ef1</objectId>
+	<file-name>0ee9a6f6-55b6-d1e8-bc17-f74f11460ef1.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app4.jpg</image_s>
+	<createdDate>2021-10-01T02:51:11.123Z</createdDate>
+	<createdDate_dt>2021-10-01T02:51:11.123Z</createdDate_dt>
+	<lastModifiedDate>2021-10-01T02:51:11.123Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-01T02:51:11.123Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>21a67ac5-e418-ad02-0586-2bc9de8d5007</key>
+	<value>News</value>
+<component id="21a67ac5-e418-ad02-0586-2bc9de8d5007">
+	<content-type>/component/encombantin</content-type>
+	<display-template>/templates/web/components/en/bantin.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>21a6</objectGroupId>
+	<objectId>21a67ac5-e418-ad02-0586-2bc9de8d5007</objectId>
+	<file-name>21a67ac5-e418-ad02-0586-2bc9de8d5007.xml</file-name>
+	<internal-name>News</internal-name>
+	<createdDate>2021-10-01T02:51:38.059Z</createdDate>
+	<createdDate_dt>2021-10-01T02:51:38.059Z</createdDate_dt>
+	<lastModifiedDate>2021-10-01T02:51:38.059Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-01T02:51:38.059Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-10-01T02:50:56.194Z</createdDate>
+	<createdDate_dt>2021-10-01T02:50:56.194Z</createdDate_dt>
+	<lastModifiedDate>2021-10-01T02:50:56.194Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-01T02:50:56.194Z</lastModifiedDate_dt>
+</page>

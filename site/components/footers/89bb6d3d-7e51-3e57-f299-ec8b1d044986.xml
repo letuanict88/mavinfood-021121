@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/footer</content-type>
+	<display-template>/templates/web/footer.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>89bb</objectGroupId>
+	<objectId>89bb6d3d-7e51-3e57-f299-ec8b1d044986</objectId>
+	<socialMedia_o item-list="true">	<item>	<name_s>Maiil</name_s>
+	<link_s>contact@mavinfood.com</link_s>
+	<logo_s>/static-assets/images/footer/mail-icon.png</logo_s>
+	</item>	<item>	<name_s>Facebook</name_s>
+	<link_s>https://www.facebook.com/mavinfood</link_s>
+	<logo_s>/static-assets/images/footer/facebook-icon.png</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/footer/youtube-icon.png</logo_s>
+	<name_s>Youtube</name_s>
+	<link_s>wwww.yotube.com</link_s>
+	</item></socialMedia_o>
+	<policies_o item-list="true">	<item>	<content_s>Chính sách website</content_s>
+	<link_s>/chinhsach/chinh-sach-website</link_s>
+	</item>	<item>	<content_s>Quy ước sử dụng website</content_s>
+	<link_s>/chinhsach/quy-uoc-su-dung</link_s>
+	</item>	<item>	<content_s>Chính sách bảo mật thông tin</content_s>
+	<link_s>/chinhsach/chinh-sach-bao-mat</link_s>
+	</item>	<item>	<content_s>Điều kiện giao dịch chung</content_s>
+	<link_s>/chinhsach/dieu-kien-giao-dich</link_s>
+	</item>	<item>	<content_s>Vận chuyển và giao nhận</content_s>
+	<link_s>/chinhsach/van-chuyen-va-giao-nhan</link_s>
+	</item>	<item>	<content_s>Phương thức thanh toán</content_s>
+	<link_s>/chinhsach/phuong-thuc-thanh-toan</link_s>
+	</item></policies_o>
+	<file-name>89bb6d3d-7e51-3e57-f299-ec8b1d044986.xml</file-name>
+	<internal-name>Footer</internal-name>
+	<name_s>CÔNG TY TNHH LIÊN DOANH THỰC PHẨM MAVIN </name_s>
+	<address_s>VP: Tầng 4, tòa nhà Hudland - số 6 Nguyễn Hữu Thọ - Hoàng Liệt - Hoàng Mai - Hà Nội</address_s>
+	<cerDate_s>26/11/2012</cerDate_s>
+	<cerPlace_s>Sở KHĐT tỉnh Hà Nam</cerPlace_s>
+	<email_s>contact@mavinfood.com</email_s>
+	<web_s>mavinfood.com</web_s>
+	<carephone_s>024 3558 5666</carephone_s>
+	<desPoli_s>MavinFoods - Thực phẩm Sạch từ nguồn</desPoli_s>
+	<copyright_s>Bản quyền thuộc về </copyright_s>
+	<tick_s>/static-assets/images/footer/sweater.png</tick_s>
+	<createdDate>2021-05-31T09:34:03.704Z</createdDate>
+	<createdDate_dt>2021-05-31T09:34:03.704Z</createdDate_dt>
+	<lastModifiedDate>2021-08-10T08:22:20.580Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-10T08:22:20.580Z</lastModifiedDate_dt>
+	<factorysAdd_s>Lô E6 - KCN Đồng Văn II - Duy Minh - Duy Tiên - Hà Nam</factorysAdd_s>
+	<phone_s>0226 3 582 889</phone_s>
+	<fax_s>0226 3 582 669</fax_s>
+	<cerId_s>0700631628</cerId_s>
+</component>

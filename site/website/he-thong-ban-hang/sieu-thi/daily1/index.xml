@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pageagency</content-type>
+	<display-template>/templates/web/pageagency.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>716c</objectGroupId>
+	<objectId>716cf3c1-96ac-c0ef-1a20-1f5ffa5e4a77</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>daily1</folder-name>
+	<internal-name>BigC Hải Phòng</internal-name>
+	<navLabel>BigC Hải Phòng</navLabel>
+	<name_s>BigC Hải Phòng</name_s>
+	<address_s>KĐTM ngã năm sân bay Cát Bi, Ngô Quyền, Hải Phòng</address_s>
+	<phone_s>0949 286 285</phone_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2021-07-28T14:50:59.398Z</createdDate>
+	<createdDate_dt>2021-07-28T14:50:59.398Z</createdDate_dt>
+	<lastModifiedDate>2021-08-23T06:51:09.425Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-23T06:51:09.425Z</lastModifiedDate_dt>
+	<latitude_s>21.036880647940606</latitude_s>
+	<longitude_s>105.80455288499478</longitude_s>
+</page>

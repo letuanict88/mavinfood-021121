@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/tuyendung</content-type>
+	<display-template>/templates/web/pages/tuyendungdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5b5c</objectGroupId>
+	<objectId>5b5c135b-9582-a3b0-2fb5-0485c730ce15</objectId>
+	<internal-name>PHÓ PHÒNG CÔNG NGHỆ CHĂN NUÔI</internal-name>
+	<navLabel>PHÓ PHÒNG CÔNG NGHỆ CHĂN NUÔI</navLabel>
+	<title_s>PHÓ PHÒNG CÔNG NGHỆ CHĂN NUÔI</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>tin-1</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<content_html>&lt;p style="text-align: justify;"&gt;Vị tr&amp;iacute; tuyển dụng: Ph&amp;oacute; Ph&amp;ograve;ng C&amp;ocirc;ng Nghệ Chăn Nu&amp;ocirc;i Mavin Pigfarm&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Số lượng nh&amp;acirc;n sự: 02&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Địa điểm l&amp;agrave;m việc: Văn ph&amp;ograve;ng H&amp;agrave; Nội hoặc Hưng Y&amp;ecirc;n&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;M&amp;Ocirc; TẢ C&amp;Ocirc;NG VIỆC&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Lập kế hoạch tổ chức thực hiện v&amp;agrave; gi&amp;aacute;m s&amp;aacute;t c&amp;ocirc;ng t&amp;aacute;c bảo tr&amp;igrave;, bảo dưỡng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kiểm tra đ&amp;aacute;nh gi&amp;aacute; thiết bị cơ sở vật chất của trang trại trước khi tiếp nhận&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Lập kế hoạch, lập dự to&amp;aacute;n cải tạo/ho&amp;aacute;n cải/n&amp;acirc;ng cấp trại v&amp;agrave; tổ chức thực hiện&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tổ chức lập v&amp;agrave; điều chỉnh c&amp;aacute;c định mức ti&amp;ecirc;u thụ năng lượng, nhi&amp;ecirc;n liệu&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kiểm tra gi&amp;aacute;m s&amp;aacute;t v&amp;agrave; kiểm so&amp;aacute;t ti&amp;ecirc;u thụ năng lượng, nhi&amp;ecirc;n liệu&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Hướng dẫn vận h&amp;agrave;nh, sửa chữa, v&amp;agrave; bảo dưỡng m&amp;aacute;y m&amp;oacute;c thiết bị,&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Hỗ trợ v&amp;agrave; hướng dẫn khắc phục sự cố hư hỏng của m&amp;aacute;y m&amp;oacute;c thiết bị&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gi&amp;aacute;m s&amp;aacute;t quản l&amp;yacute; vật tư thiết bị phục vụ c&amp;ocirc;ng t&amp;aacute;c sửa chữa bảo dưỡng&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Huấn luyện, đ&amp;agrave;o tạo, kiểm tra gi&amp;aacute;m s&amp;aacute;t, nh&amp;acirc;n vi&amp;ecirc;n bảo tr&amp;igrave; của c&amp;aacute;c trại&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tham gia lập v&amp;agrave; gi&amp;aacute;m s&amp;aacute;t c&amp;aacute;c dự &amp;aacute;n đầu tư x&amp;acirc;y lắp mới&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tiếp nhận chuyển giao c&amp;ocirc;ng nghệ x&amp;acirc;y dựng chuồng trại c&amp;ocirc;ng nghệ cao, đưa thiết bị c&amp;ocirc;ng nghệ chăn nu&amp;ocirc;i mới v&amp;agrave;o &amp;aacute;p dụng tại trang trại&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thực hiện c&amp;ocirc;ng việc kh&amp;aacute;c theo y&amp;ecirc;u cầu của Ban gi&amp;aacute;m đốc&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Y&amp;Ecirc;U CẦU C&amp;Ocirc;NG VIỆC&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tốt nghiệp từ Trung cấp trở l&amp;ecirc;n chuy&amp;ecirc;n ng&amp;agrave;nh cơ kh&amp;iacute;, điện nước&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kinh nghiệm đi l&amp;agrave;m từ 5 năm trở l&amp;ecirc;n v&amp;agrave; kinh nghiệm vị tr&amp;iacute; tương đương từ 2 năm&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;oacute; thể đi c&amp;ocirc;ng t&amp;aacute;c tại c&amp;aacute;c trang trại&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Sức khỏe tốt, khả năng quản l&amp;yacute; đội nh&amp;oacute;m&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;QUYỀN LỢI:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thu nhập thỏa thuận theo năng lực&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-&amp;nbsp; Được tham gia c&amp;aacute;c kh&amp;oacute;a đ&amp;agrave;o tạo về nghiệp vụ tại C&amp;ocirc;ng ty.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-&amp;nbsp; Được trang bị đầy đủ về bảo hộ lao động phục vụ c&amp;ocirc;ng việc.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-&amp;nbsp; Ph&amp;uacute;c lợi: theo quy định của Bộ luật lao động v&amp;agrave; ch&amp;iacute;nh s&amp;aacute;ch đ&amp;atilde;i ngộ kh&amp;aacute;c của c&amp;ocirc;ng ty ( tiền điện thoại, tiền gởi xe, thưởng lễ, Tết&amp;hellip;)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-&amp;nbsp; Ng&amp;agrave;y nghỉ: Theo quy định Bộ Luật Lao động hiện h&amp;agrave;nh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;TH&amp;Ocirc;NG TIN LI&amp;Ecirc;N HỆ:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-&amp;nbsp; Ứng vi&amp;ecirc;n quan t&amp;acirc;m vui l&amp;ograve;ng gửi CV qua Email: tuyendung@mavinfarm.com&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;-&amp;nbsp; Hoặc li&amp;ecirc;n hệ trực tiếp Ms Tuyền, SĐT: 0989.539.856.&lt;/p&gt;</content_html>
+	<createdDate>2021-06-17T04:26:07.346Z</createdDate>
+	<createdDate_dt>2021-06-17T04:26:07.346Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T10:02:58.884Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T10:02:58.884Z</lastModifiedDate_dt>
+	<date_dt>2021-06-17T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>d4f741b5-865a-5219-bcf4-e1404c91e2fa</key>
+	<value>S</value>
+<component id="d4f741b5-865a-5219-bcf4-e1404c91e2fa">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d4f7</objectGroupId>
+	<objectId>d4f741b5-865a-5219-bcf4-e1404c91e2fa</objectId>
+	<file-name>d4f741b5-865a-5219-bcf4-e1404c91e2fa.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app6.jpg</image_s>
+	<createdDate>2021-06-21T09:36:10.779Z</createdDate>
+	<createdDate_dt>2021-06-21T09:36:10.779Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:11:06.395Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:11:06.395Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/encomlistproduct</content-type>
+	<display-template>/templates/web/components/en/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1f99</objectGroupId>
+	<objectId>1f995aee-4e5f-b8ed-0b90-891143f98166</objectId>
+	<file-name>1f995aee-4e5f-b8ed-0b90-891143f98166.xml</file-name>
+	<internal-name>xuc xich</internal-name>
+	<listproduct_s> sausage</listproduct_s>
+	<createdDate>2021-09-30T09:06:47.320Z</createdDate>
+	<createdDate_dt>2021-09-30T09:06:47.320Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:06:47.320Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:06:47.320Z</lastModifiedDate_dt>
+</component>

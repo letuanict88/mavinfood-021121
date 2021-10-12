@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9072</objectGroupId>
+	<objectId>9072040f-8f82-9f44-01fc-2bbb44df2bfc</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>customer-service</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>d4c1e6f2-65c2-ec3e-f793-80960346ad01</key>
+	<value>S</value>
+<component id="d4c1e6f2-65c2-ec3e-f793-80960346ad01">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d4c1</objectGroupId>
+	<objectId>d4c1e6f2-65c2-ec3e-f793-80960346ad01</objectId>
+	<file-name>d4c1e6f2-65c2-ec3e-f793-80960346ad01.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app4.jpg</image_s>
+	<createdDate>2021-09-30T04:35:41.506Z</createdDate>
+	<createdDate_dt>2021-09-30T04:35:41.506Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:35:41.506Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:35:41.506Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>c2c2bf04-7581-eaf8-a9e4-b6e9c6d841b6</key>
+	<value>CS - Con</value>
+<component id="c2c2bf04-7581-eaf8-a9e4-b6e9c6d841b6">
+	<content-type>/component/encomcs</content-type>
+	<display-template>/templates/web/components/en/cskh.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c2c2</objectGroupId>
+	<objectId>c2c2bf04-7581-eaf8-a9e4-b6e9c6d841b6</objectId>
+	<file-name>c2c2bf04-7581-eaf8-a9e4-b6e9c6d841b6.xml</file-name>
+	<internal-name>CS - Con</internal-name>
+	<cskh_o item-list="true">	<item>	<name_s>Distribution network</name_s>
+	<link_s>/en/distribution-network</link_s>
+	</item>	<item>	<name_s>Promotion</name_s>
+	<link_s>/en/promotion</link_s>
+	</item>	<item>	<name_s>Q&amp;A</name_s>
+	<link_s>/en/qa</link_s>
+	</item></cskh_o>
+	<createdDate>2021-09-30T04:36:20.802Z</createdDate>
+	<createdDate_dt>2021-09-30T04:36:20.802Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:36:20.802Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:36:20.802Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<internal-name>Customer Service</internal-name>
+	<navLabel>Customer Service</navLabel>
+	<createdDate>2021-09-30T04:35:09.974Z</createdDate>
+	<createdDate_dt>2021-09-30T04:35:09.974Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T04:35:09.974Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T04:35:09.974Z</lastModifiedDate_dt>
+</page>

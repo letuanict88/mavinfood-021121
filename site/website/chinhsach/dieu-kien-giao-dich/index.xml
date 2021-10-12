@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/chinhsachdetail</content-type>
+	<display-template>/templates/web/pages/chinhsachdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>914d7bcf</objectGroupId>
+	<objectId>914d7bcf-96c7-42a0-a0de-7271b3b5bcc0</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>dieu-kien-giao-dich</folder-name>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>52731ec2-5090-7435-19cb-3c4e17b9c45c</key>
+	<value>Slide</value>
+<component id="52731ec2-5090-7435-19cb-3c4e17b9c45c">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5273</objectGroupId>
+	<objectId>52731ec2-5090-7435-19cb-3c4e17b9c45c</objectId>
+	<file-name>52731ec2-5090-7435-19cb-3c4e17b9c45c.xml</file-name>
+	<internal-name>Slide 1ab1653d 82b24c53</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-08-10T07:35:07.522Z</createdDate>
+	<createdDate_dt>2021-08-10T07:35:07.522Z</createdDate_dt>
+	<lastModifiedDate>2021-08-10T07:35:07.522Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-10T07:35:07.522Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<internal-name>Điều kiện giao dịch chung</internal-name>
+	<navLabel>Điều kiện giao dịch chung</navLabel>
+	<title_s>Điều kiện giao dịch chung</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/tuyen-dung/DSC_1267.JPG</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;Aacute;CH ĐẶT H&amp;Agrave;NG&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Qu&amp;yacute; kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; thể lựa chọn một trong những c&amp;aacute;ch mua h&amp;agrave;ng sau:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;ch 1: Gọi điện thoại đến 0243 2033 666 từ 8g00-17g00 (Thứ 2&amp;nbsp; Đến thứ 6, thứ 7 từ 8h00 - 12g00) nh&amp;acirc;n vi&amp;ecirc;n ch&amp;uacute;ng t&amp;ocirc;i lu&amp;ocirc;n sẵn s&amp;agrave;ng phục vụ Qu&amp;yacute; kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;ch 2: Đặt mua h&amp;agrave;ng tr&amp;ecirc;n website&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bước 1: T&amp;igrave;m sản phẩm trong mục Sản phẩm&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Bước 2: Sau khi xem th&amp;ocirc;ng tin chi tiết sản phẩm, Qu&amp;yacute; kh&amp;aacute;ch gọi điện thoại đến 0243 2033 666 để trao đổi c&amp;aacute;c th&amp;ocirc;ng tin sản phẩm, điều kiện đặt mua.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;CH&amp;Iacute;NH S&amp;Aacute;CH THANH TO&amp;Aacute;N&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Xem chi tiết tại mục Ch&amp;iacute;nh s&amp;aacute;ch thanh to&amp;aacute;n&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;CH&amp;Iacute;NH S&amp;Aacute;CH ĐỔI TRẢ&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với c&amp;aacute;c trường hợp sau, Qu&amp;yacute; kh&amp;aacute;ch c&amp;oacute; thể tiến h&amp;agrave;nh đổi trả sản phẩm:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;bull; Sản phẩm kh&amp;ocirc;ng đạt chất lượng về m&amp;agrave;u sắc, m&amp;ugrave;i vị&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;bull; Sản phẩm xuất hiện dị vật lạ kh&amp;ocirc;ng nằm trong th&amp;agrave;nh phần nguy&amp;ecirc;n liệu&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;bull; Sản phẩm bị bong ch&amp;acirc;n kh&amp;ocirc;ng trước khi giao nhận h&amp;agrave;ng v.v....&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;C&amp;aacute;ch thức đổi trả sản phẩm:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nếu mua sản phẩm tại c&amp;ocirc;ng ty, Qu&amp;yacute; kh&amp;aacute;ch vui l&amp;ograve;ng mang sản phẩm đổi trả v&amp;agrave; h&amp;oacute;a đơn tới c&amp;ocirc;ng ty đ&amp;atilde; mua để thực hiện đổi trả v&amp;agrave; ho&amp;agrave;n tiền.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Nếu đặt mua qua hotline 0243 2033 666, Qu&amp;yacute; kh&amp;aacute;ch vui l&amp;ograve;ng li&amp;ecirc;n hệ hotline để được tiến h&amp;agrave;nh đổi trả.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;CH&amp;Iacute;NH S&amp;Aacute;CH VẬN CHUYỂN&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;Xem chi tiết tại mục Ch&amp;iacute;nh s&amp;aacute;ch vận chuyển&lt;/em&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-08-10T07:32:56.146Z</createdDate>
+	<createdDate_dt>2021-08-10T07:32:56.146Z</createdDate_dt>
+	<lastModifiedDate>2021-08-12T07:42:31.215Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-12T07:42:31.215Z</lastModifiedDate_dt>
+	<date_dt>2021-08-01T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

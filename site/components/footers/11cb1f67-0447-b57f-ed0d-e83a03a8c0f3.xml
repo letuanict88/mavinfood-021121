@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/encomfooter</content-type>
+	<display-template>/templates/web/components/en/footer.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>11cb</objectGroupId>
+	<objectId>11cb1f67-0447-b57f-ed0d-e83a03a8c0f3</objectId>
+	<socialMedia_o item-list="true">	<item>	<name_s>Mail</name_s>
+	<link_s>contact@mavinfood.com</link_s>
+	<logo_s>/static-assets/images/footer/mail-icon.png</logo_s>
+	</item>	<item>	<logo_s>/static-assets/images/footer/facebook-icon.png</logo_s>
+	<name_s>Facebook</name_s>
+	<link_s>https://www.facebook.com/mavinfood</link_s>
+	</item>	<item>	<logo_s>/static-assets/images/footer/youtube-icon.png</logo_s>
+	<name_s>Youtube</name_s>
+	<link_s>wwww.yotube.com</link_s>
+	</item></socialMedia_o>
+	<policies_o item-list="true">	<item>	<content_s>Site's policies</content_s>
+	<link_s>/chinhsach/chinh-sach-website</link_s>
+	</item>	<item>	<content_s>Quy ước sử dụng website</content_s>
+	<link_s>/chinhsach/chinh-sach-website</link_s>
+	</item>	<item>	<content_s>Chính sách bảo mật thông tin</content_s>
+	<link_s>/chinhsach/chinh-sach-website</link_s>
+	</item>	<item>	<content_s>Điều kiện giao dịch chung</content_s>
+	<link_s>/chinhsach/chinh-sach-website</link_s>
+	</item>	<item>	<content_s>Vận chuyển và giao nhận</content_s>
+	<link_s>/chinhsach/van-chuyen-va-giao-nhan</link_s>
+	</item>	<item>	<content_s>Phương thức thanh toán</content_s>
+	<link_s>/chinhsach/phuong-thuc-thanh-toan</link_s>
+	</item></policies_o>
+	<file-name>11cb1f67-0447-b57f-ed0d-e83a03a8c0f3.xml</file-name>
+	<internal-name>Footer</internal-name>
+	<name_s>MAVIN FOODS JOINT VENTURE CO., LTD</name_s>
+	<address_s>4st Floor, Hudland Building, No. 6 Nguyen Huu Tho, Hoang Liet Ward, Hoang Mai District, Ha Noi</address_s>
+	<factorysAddr_s>E6 - Dong Van II Industrial Park - Duy Tien - Ha Nam</factorysAddr_s>
+	<phone_s>0243.5585 666</phone_s>
+	<fax_s>0243 5586 555</fax_s>
+	<cerId_s>0700631628</cerId_s>
+	<cerDate_s>26/11/2012</cerDate_s>
+	<cerPlace_s/>
+	<email_s>contact@mavinfood.com</email_s>
+	<web_s>mavinfood.com</web_s>
+	<carephone_s>024 3558 5666</carephone_s>
+	<desPoli_s>MavinFoods - Thực phẩm Sạch từ nguồn</desPoli_s>
+	<copyright_s/>
+	<tick_s/>
+	<createdDate>2021-09-29T07:51:00.023Z</createdDate>
+	<createdDate_dt>2021-09-29T07:51:00.023Z</createdDate_dt>
+	<lastModifiedDate>2021-09-29T07:51:00.023Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-29T07:51:00.023Z</lastModifiedDate_dt>
+</component>

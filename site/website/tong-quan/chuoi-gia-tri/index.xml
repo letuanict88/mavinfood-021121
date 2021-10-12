@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>88b9</objectGroupId>
+	<objectId>88b9de70-e739-8ec4-3d2b-0d68c899b16d</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>chuoi-gia-tri</folder-name>
+	<internal-name>Chuỗi giá trị</internal-name>
+	<navLabel>Chuỗi giá trị</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>35265d0f-6f55-7f1e-5ee7-383bc9e43f3d</key>
+	<value>Tổng quan chuỗi giá trị</value>
+<component id="35265d0f-6f55-7f1e-5ee7-383bc9e43f3d">
+	<content-type>/component/chuoigtri</content-type>
+	<display-template>/templates/web/components/chuoigtri.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3526</objectGroupId>
+	<objectId>35265d0f-6f55-7f1e-5ee7-383bc9e43f3d</objectId>
+	<internal-name>Tổng quan chuỗi giá trị</internal-name>
+	<title_s>Mô hình “Từ Nông trại tới Bàn ăn”</title_s>
+	<file-name>35265d0f-6f55-7f1e-5ee7-383bc9e43f3d.xml</file-name>
+	<image_s>/static-assets/images/tong-quan/cover1.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;span style="color: #6e6e6e;"&gt;&lt;span style="font-family: UVF-DINPro; font-size: 15px;"&gt;Tập đo&amp;agrave;n Mavin l&amp;agrave; C&amp;ocirc;ng ty được tin cậy nhất về chuỗi gi&amp;aacute; trị &amp;ldquo;Từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn&amp;rdquo;. Trong mỗi mắt x&amp;iacute;ch của chuỗi gi&amp;aacute; trị, Mavin lu&amp;ocirc;n h&amp;agrave;nh động v&amp;igrave; sức khỏe người ti&amp;ecirc;u d&amp;ugrave;ng v&amp;agrave; v&amp;igrave; sự ph&amp;aacute;t triển bền vững của ng&amp;agrave;nh N&amp;ocirc;ng nghiệp Việt Nam.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #6e6e6e;"&gt;&lt;span style="font-family: UVF-DINPro; font-size: 15px;"&gt;Định nghĩa của Ng&amp;acirc;n h&amp;agrave;ng Thế giới - World Bank về chuỗi gi&amp;aacute; trị: &amp;ldquo;Chuỗi gi&amp;aacute; trị bao gồm một chuỗi c&amp;aacute;c hoạt động để mang đến một sản phẩm hoặc dịch vụ th&amp;ocirc;ng qua c&amp;aacute;c giai đoạn của sản xuất, bao gồm cả nguy&amp;ecirc;n liệu th&amp;ocirc; v&amp;agrave; c&amp;aacute;c đầu v&amp;agrave;o&amp;rdquo;. C&amp;aacute;c hoạt động trong chuỗi gi&amp;aacute; trị ho&amp;agrave;n chỉnh của Mavin bao gồm:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h4 class="fw-bold fs-6 base-color"&gt;&lt;span style="font-size: 18pt; font-family: UVF-DINPro, serif;"&gt;Mắt x&amp;iacute;ch 1: Con giống chất lượng cao &amp;ndash; Nhập khẩu từ Vương quốc Anh&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class="mb-4"&gt;&lt;img class="col-md-6 img-fluid float-md-end mb-3 ms-md-3" src="/static-assets/dist/temp/tq-cgts1.jpg" alt="" /&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: UVF-DINPro; color: #6e6e6e; font-size: 15px;"&gt;Tập đo&amp;agrave;n Mavin l&amp;agrave; C&amp;ocirc;ng ty đầu ti&amp;ecirc;n tr&amp;ecirc;n thị trường nhập trực tiếp heo giống từ JSR, Vương Quốc Anh. Con giống được tuyển chọn, cho chất lượng thịt tốt nhất, tăng hiệu quả chăn nu&amp;ocirc;i, ph&amp;ugrave; hợp với thị hiếu của người ti&amp;ecirc;u d&amp;ugrave;ng Việt Nam.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: UVF-DINPro; color: #6e6e6e; font-size: 15px;"&gt;Mavin cũng đ&amp;atilde; sở hữu nguồn giống thuần chủng nhập từ c&amp;aacute;c nước Mỹ, Bỉ, Đan Mạch, Anh... như Duroc, Pietrain, Landrace, Yorkshire.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: UVF-DINPro, serif; color: #6e6e6e; font-size: 15px;"&gt;Mavin sở hữu 5 trung t&amp;acirc;m heo giống hạt nh&amp;acirc;n c&amp;ocirc;ng nghệ cao tại Hưng Y&amp;ecirc;n, Nghệ An, B&amp;igrave;nh Định, Đồng Th&amp;aacute;p. Tại đ&amp;acirc;y, c&amp;aacute;c thế hệ F1, F2, khỏe mạnh được Mavin lai tạo v&amp;agrave; ph&amp;aacute;t triển, th&amp;iacute;ch nghi với kh&amp;iacute; hậu Việt Nam, sinh trường tốt v&amp;agrave; cho chất lượng thịt ngon sạch&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="mb-4" style="text-align: justify;"&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h4 class="fw-bold fs-6 base-color" style="text-align: justify;"&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 18pt;"&gt;Mắt x&amp;iacute;ch 2: Chăn nu&amp;ocirc;i sạch &amp;ndash; Thức ăn chất lượng cao &amp;ndash; Ph&amp;ograve;ng dịch bệnh nghi&amp;ecirc;m ngặt&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class="mb-4" style="text-align: justify;"&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 15px; color: #6e6e6e;"&gt;&lt;img class="col-md-6 img-fluid float-md-start mb-3 me-md-3" src="/static-assets/dist/temp/tq-cgts2.jpg" alt="" width="580" height="294" /&gt;&lt;/span&gt;
+&lt;p&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 15px; color: #6e6e6e;"&gt;Tập đo&amp;agrave;n Mavin l&amp;agrave; C&amp;ocirc;ng ty đầu ti&amp;ecirc;n tr&amp;ecirc;n thị trường nhập trực tiếp heo giống từ JSR, Vương Quốc Anh. Con giống được tuyển chọn, cho chất lượng thịt tốt nhất, tăng hiệu quả chăn nu&amp;ocirc;i, ph&amp;ugrave; hợp với thị hiếu của người ti&amp;ecirc;u d&amp;ugrave;ng Việt Nam.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 15px; color: #6e6e6e;"&gt;Mavin cũng đ&amp;atilde; sở hữu nguồn giống thuần chủng nhập từ c&amp;aacute;c nước Mỹ, Bỉ, Đan Mạch, Anh... như Duroc, Pietrain, Landrace, Yorkshire.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 15px; color: #6e6e6e;"&gt;Mavin sở hữu 5 trung t&amp;acirc;m heo giống hạt nh&amp;acirc;n c&amp;ocirc;ng nghệ cao tại Hưng Y&amp;ecirc;n, Nghệ An, B&amp;igrave;nh Định, Đồng Th&amp;aacute;p. Tại đ&amp;acirc;y, c&amp;aacute;c thế hệ F1, F2, khỏe mạnh được Mavin lai tạo v&amp;agrave; ph&amp;aacute;t triển, th&amp;iacute;ch nghi với kh&amp;iacute; hậu Việt Nam, sinh trường tốt v&amp;agrave; cho chất lượng thịt ngon sạch&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h4 class="fw-bold fs-6 base-color"&gt;&lt;br /&gt;&lt;/h4&gt;
+&lt;h4 class="fw-bold fs-6 base-color"&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 18pt;"&gt;Mắt x&amp;iacute;ch 3: Quy tr&amp;igrave;nh giết mổ an to&amp;agrave;n &amp;ndash; V&amp;igrave; sức khỏe cộng đồng&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class="mb-4"&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 15px; color: #6e6e6e;"&gt;&lt;img class="col-md-6 img-fluid float-md-end mb-3 ms-md-3" src="/static-assets/dist/temp/tq-cgts3.jpg" alt="" width="579" height="293" /&gt;&lt;/span&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 15px; color: #6e6e6e;"&gt;Tập đo&amp;agrave;n Mavin l&amp;agrave; C&amp;ocirc;ng ty đầu ti&amp;ecirc;n tr&amp;ecirc;n thị trường nhập trực tiếp heo giống từ JSR, Vương Quốc Anh. Con giống được tuyển chọn, cho chất lượng thịt tốt nhất, tăng hiệu quả chăn nu&amp;ocirc;i, ph&amp;ugrave; hợp với thị hiếu của người ti&amp;ecirc;u d&amp;ugrave;ng Việt Nam.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 15px; color: #6e6e6e;"&gt;Mavin cũng đ&amp;atilde; sở hữu nguồn giống thuần chủng nhập từ c&amp;aacute;c nước Mỹ, Bỉ, Đan Mạch, Anh... như Duroc, Pietrain, Landrace, Yorkshire.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 15px; color: #6e6e6e;"&gt;Mavin sở hữu 5 trung t&amp;acirc;m heo giống hạt nh&amp;acirc;n c&amp;ocirc;ng nghệ cao tại Hưng Y&amp;ecirc;n, Nghệ An, B&amp;igrave;nh Định, Đồng Th&amp;aacute;p. Tại đ&amp;acirc;y, c&amp;aacute;c thế hệ F1, F2, khỏe mạnh được Mavin lai tạo v&amp;agrave; ph&amp;aacute;t triển, th&amp;iacute;ch nghi với kh&amp;iacute; hậu Việt Nam, sinh trường tốt v&amp;agrave; cho chất lượng thịt ngon sạch&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h4 class="fw-bold fs-6 base-color"&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 18pt;"&gt;Mắt x&amp;iacute;ch 4: Chế biến sạch &amp;ndash; đảm bảo ti&amp;ecirc;u chuẩn ISO 22000 v&amp;agrave; HACCP&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class="mb-4"&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 15px; color: #6e6e6e;"&gt;&lt;img class="col-md-6 img-fluid float-md-start mb-3 me-md-3" src="/static-assets/dist/temp/tq-cgts4.jpg" alt="" width="581" height="294" /&gt;&lt;/span&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 15px; color: #6e6e6e;"&gt;Tập đo&amp;agrave;n Mavin l&amp;agrave; C&amp;ocirc;ng ty đầu ti&amp;ecirc;n tr&amp;ecirc;n thị trường nhập trực tiếp heo giống từ JSR, Vương Quốc Anh. Con giống được tuyển chọn, cho chất lượng thịt tốt nhất, tăng hiệu quả chăn nu&amp;ocirc;i, ph&amp;ugrave; hợp với thị hiếu của người ti&amp;ecirc;u d&amp;ugrave;ng Việt Nam.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 15px; color: #6e6e6e;"&gt;Mavin cũng đ&amp;atilde; sở hữu nguồn giống thuần chủng nhập từ c&amp;aacute;c nước Mỹ, Bỉ, Đan Mạch, Anh... như Duroc, Pietrain, Landrace, Yorkshire.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 15px; color: #6e6e6e;"&gt;Mavin sở hữu 5 trung t&amp;acirc;m heo giống hạt nh&amp;acirc;n c&amp;ocirc;ng nghệ cao tại Hưng Y&amp;ecirc;n, Nghệ An, B&amp;igrave;nh Định, Đồng Th&amp;aacute;p. Tại đ&amp;acirc;y, c&amp;aacute;c thế hệ F1, F2, khỏe mạnh được Mavin lai tạo v&amp;agrave; ph&amp;aacute;t triển, th&amp;iacute;ch nghi với kh&amp;iacute; hậu Việt Nam, sinh trường tốt v&amp;agrave; cho chất lượng thịt ngon sạch&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;span style="color: #e03e2d; font-family: UVF-DINPro, serif; font-size: 18pt;"&gt;4 mắt x&amp;iacute;ch kh&amp;eacute;p k&amp;iacute;n chuỗi gi&amp;aacute; trị của Mavin, &lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;span style="font-family: UVF-DINPro, serif; font-size: 18pt; color: #e03e2d;"&gt;tạo n&amp;ecirc;n c&amp;aacute;c sản phẩm Sạch - An to&amp;agrave;n cho sức khỏe Người Ti&amp;ecirc;u d&amp;ugrave;ng.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;</content_html>
+	<createdDate>2021-06-13T16:24:57.662Z</createdDate>
+	<createdDate_dt>2021-06-13T16:24:57.662Z</createdDate_dt>
+	<lastModifiedDate>2021-09-28T08:27:20.511Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-28T08:27:20.511Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-13T16:24:35.686Z</createdDate>
+	<createdDate_dt>2021-06-13T16:24:35.686Z</createdDate_dt>
+	<lastModifiedDate>2021-09-28T08:27:17.126Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-28T08:27:17.126Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>7272c9c6-8dc0-a626-6b47-6d15b6c2ff77</key>
+	<value>S</value>
+<component id="7272c9c6-8dc0-a626-6b47-6d15b6c2ff77">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7272</objectGroupId>
+	<objectId>7272c9c6-8dc0-a626-6b47-6d15b6c2ff77</objectId>
+	<file-name>7272c9c6-8dc0-a626-6b47-6d15b6c2ff77.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-06-21T09:36:54.054Z</createdDate>
+	<createdDate_dt>2021-06-21T09:36:54.054Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:13:42.900Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:13:42.900Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

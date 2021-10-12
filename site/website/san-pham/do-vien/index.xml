@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5dddbd5d</objectGroupId>
+	<objectId>5dddbd5d-3891-401d-bd45-a8c7fc6f1204</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>do-vien</folder-name>
+	<internal-name>Sản phẩm đồ viên</internal-name>
+	<navLabel>Sản phẩm đồ viên</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>b833e13a-b8ff-73ae-8c53-065e857a7429</key>
+	<value>Sản phẩm đồ viên</value>
+<component id="b833e13a-b8ff-73ae-8c53-065e857a7429">
+	<content-type>/component/comnhomsp</content-type>
+	<display-template>/templates/web/components/groupproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b833</objectGroupId>
+	<objectId>b833e13a-b8ff-73ae-8c53-065e857a7429</objectId>
+	<file-name>b833e13a-b8ff-73ae-8c53-065e857a7429.xml</file-name>
+	<internal-name>Sản phẩm đồ viên</internal-name>
+	<image_s>/static-assets/images/san-pham/Ca vien 1.png</image_s>
+	<groupproduct_o item-list="true">	<item datasource="groupProuduct">	<key>/site/items/7bf0d10a-ea25-46ee-f65d-5936a28eda16.xml</key>
+	<value>Sản phẩm đồ viên</value>
+	<include>/site/items/7bf0d10a-ea25-46ee-f65d-5936a28eda16.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></groupproduct_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;C&amp;aacute; l&amp;agrave; thực phẩm &amp;iacute;t chất b&amp;eacute;o, gi&amp;agrave;u axit omega-3, protein, vitamin v&amp;agrave; kho&amp;aacute;ng chất. Dầu c&amp;aacute; rất tốt cho sức khỏe v&amp;agrave; qu&amp;aacute; tr&amp;igrave;nh ph&amp;aacute;t triển của trẻ nhỏ. C&amp;aacute; cũng l&amp;agrave; thực phẩm ăn ki&amp;ecirc;ng l&amp;yacute; tưởng cho người b&amp;eacute;o. Với người cao tuổi, ăn nhiều c&amp;aacute; gi&amp;uacute;p giảm nguy cơ đột ngụy, tim mạch, đau khớp, ngăn chặn chứng Alzheimer v&amp;agrave; chứng mất tr&amp;iacute; nhớ do tuổi t&amp;aacute;c. C&amp;aacute; cũng gi&amp;uacute;p giảm c&amp;aacute;c vi&amp;ecirc;m nhiễm, giảm nồng độ cholesterol, giảm nguy cơ ung thư, giảm nguy cơ mắc bệnh tự miễn, ngăn ngừa v&amp;agrave; điều trị trầm cảm. Ăn c&amp;aacute; nhiều c&amp;ograve;n gi&amp;uacute;p tăng chất lượng tinh tr&amp;ugrave;ng, bổ sung vitamin D v&amp;agrave; cải thiện l&amp;agrave;n da khỏe đẹp hơn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ch&amp;iacute;nh v&amp;igrave; những lợi &amp;iacute;ch từ c&amp;aacute; cho mọi lứa tuổi ở tr&amp;ecirc;n, Mavin đ&amp;atilde; ph&amp;aacute;t triển 4 d&amp;ograve;ng sản phẩm C&amp;aacute; vi&amp;ecirc;n mới với nguy&amp;ecirc;n liệu ch&amp;iacute;nh từ c&amp;aacute;.&lt;/p&gt;</content_html>
+	<createdDate>2021-06-16T08:18:06.367Z</createdDate>
+	<createdDate_dt>2021-06-16T08:18:06.367Z</createdDate_dt>
+	<lastModifiedDate>2021-08-25T07:41:38.114Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-25T07:41:38.114Z</lastModifiedDate_dt>
+	<title_s>Đồ viên</title_s>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-16T07:50:56.337Z</createdDate>
+	<createdDate_dt>2021-06-16T07:50:56.337Z</createdDate_dt>
+	<lastModifiedDate>2021-08-25T07:41:35.244Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-25T07:41:35.244Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>ab247a5e-a611-ec57-a4a9-e8f5bad33c99</key>
+	<value>S</value>
+<component id="ab247a5e-a611-ec57-a4a9-e8f5bad33c99">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ab24</objectGroupId>
+	<objectId>ab247a5e-a611-ec57-a4a9-e8f5bad33c99</objectId>
+	<internal-name>S</internal-name>
+	<file-name>ab247a5e-a611-ec57-a4a9-e8f5bad33c99.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app3.jpg</image_s>
+	<createdDate>2021-06-21T09:24:28.934Z</createdDate>
+	<createdDate_dt>2021-06-21T09:24:28.934Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T10:57:05.154Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T10:57:05.154Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

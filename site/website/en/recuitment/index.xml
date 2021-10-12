@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8a53</objectGroupId>
+	<objectId>8a533246-25e0-25d6-c772-5a2479f620e7</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>recuitment</folder-name>
+	<internal-name>Recuitment</internal-name>
+	<navLabel>Recuitment</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>c2c785b0-b67e-defe-dcfd-f5032bf37c4a</key>
+	<value>S</value>
+<component id="c2c785b0-b67e-defe-dcfd-f5032bf37c4a">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c2c7</objectGroupId>
+	<objectId>c2c785b0-b67e-defe-dcfd-f5032bf37c4a</objectId>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<file-name>c2c785b0-b67e-defe-dcfd-f5032bf37c4a.xml</file-name>
+	<createdDate>2021-10-06T07:49:51.290Z</createdDate>
+	<createdDate_dt>2021-10-06T07:49:51.290Z</createdDate_dt>
+	<lastModifiedDate>2021-10-06T07:49:51.290Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-06T07:49:51.290Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>8ceb715e-fb3e-588d-624e-5384a2c63072</key>
+	<value>Recuitment</value>
+<component id="8ceb715e-fb3e-588d-624e-5384a2c63072">
+	<content-type>/component/encomtuyendung</content-type>
+	<display-template>/templates/web/components/en/tuyendung.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8ceb</objectGroupId>
+	<objectId>8ceb715e-fb3e-588d-624e-5384a2c63072</objectId>
+	<internal-name>Recuitment</internal-name>
+	<file-name>8ceb715e-fb3e-588d-624e-5384a2c63072.xml</file-name>
+	<createdDate>2021-10-06T07:50:35.606Z</createdDate>
+	<createdDate_dt>2021-10-06T07:50:35.606Z</createdDate_dt>
+	<lastModifiedDate>2021-10-06T07:50:35.606Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-06T07:50:35.606Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<createdDate>2021-10-06T07:49:28.211Z</createdDate>
+	<createdDate_dt>2021-10-06T07:49:28.211Z</createdDate_dt>
+	<lastModifiedDate>2021-10-06T07:49:28.211Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-06T07:49:28.211Z</lastModifiedDate_dt>
+</page>

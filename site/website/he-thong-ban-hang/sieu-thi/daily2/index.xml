@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pageagency</content-type>
+	<display-template>/templates/web/pageagency.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4ad4e4cf</objectGroupId>
+	<objectId>4ad4e4cf-0205-413a-8470-43f9e67518c1</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>daily2</folder-name>
+	<internal-name>BigC Hồ Gươm</internal-name>
+	<navLabel>BigC Hồ Gươm</navLabel>
+	<name_s>BigC Hồ Gươm</name_s>
+	<address_s>Số 110 Đường Trần Phú, P. Mộ Lao, Hà Đông, Hà Nội</address_s>
+	<phone_s>024 3352 5888</phone_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2021-07-28T14:50:59.398Z</createdDate>
+	<createdDate_dt>2021-07-28T14:50:59.398Z</createdDate_dt>
+	<lastModifiedDate>2021-08-23T04:51:38.559Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-23T04:51:38.559Z</lastModifiedDate_dt>
+	<latitude_s>21.035063705550623</latitude_s>
+	<longitude_s>105.79613556021464</longitude_s>
+</page>

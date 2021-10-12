@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagetuyendung</content-type>
+	<display-template>/templates/web/pages/en/tuyendung.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b6de</objectGroupId>
+	<objectId>b6de0f05-5d50-1509-0895-d20cbe618753</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>1</folder-name>
+	<internal-name>1</internal-name>
+	<navLabel>1</navLabel>
+	<title_s>1</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>422baa78-84a0-ed14-dfbf-c1590a4dcd9a</key>
+	<value>S</value>
+<component id="422baa78-84a0-ed14-dfbf-c1590a4dcd9a">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>422b</objectGroupId>
+	<objectId>422baa78-84a0-ed14-dfbf-c1590a4dcd9a</objectId>
+	<file-name>422baa78-84a0-ed14-dfbf-c1590a4dcd9a.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-10-06T07:54:30.452Z</createdDate>
+	<createdDate_dt>2021-10-06T07:54:30.452Z</createdDate_dt>
+	<lastModifiedDate>2021-10-06T07:54:30.452Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-06T07:54:30.452Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<createdDate>2021-10-06T07:54:14.162Z</createdDate>
+	<createdDate_dt>2021-10-06T07:54:14.162Z</createdDate_dt>
+	<lastModifiedDate>2021-10-06T07:54:14.162Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-06T07:54:14.162Z</lastModifiedDate_dt>
+	<date_dt>2021-10-06T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

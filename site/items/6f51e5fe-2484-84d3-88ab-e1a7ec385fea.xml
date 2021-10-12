@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/components/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6f51</objectGroupId>
+	<objectId>6f51e5fe-2484-84d3-88ab-e1a7ec385fea</objectId>
+	<file-name>6f51e5fe-2484-84d3-88ab-e1a7ec385fea.xml</file-name>
+	<internal-name>Sản phẩm xúc xích</internal-name>
+	<listproduct_s>xuc-xich</listproduct_s>
+	<createdDate>2021-06-16T07:52:40.826Z</createdDate>
+	<createdDate_dt>2021-06-16T07:52:40.826Z</createdDate_dt>
+	<lastModifiedDate>2021-06-16T07:54:18.103Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-16T07:54:18.103Z</lastModifiedDate_dt>
+</component>

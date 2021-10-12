@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1e2f</objectGroupId>
+	<objectId>1e2f95da-bc84-2443-5282-4249a80fba52</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>xuc-xich</folder-name>
+	<internal-name>Sản phẩm xúc xích</internal-name>
+	<navLabel>Sản phẩm xúc xích</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>740ca86a-6d49-3e1f-351e-f4b0d30fc36a</key>
+	<value>Xúc xích</value>
+<component id="740ca86a-6d49-3e1f-351e-f4b0d30fc36a">
+	<content-type>/component/comnhomsp</content-type>
+	<display-template>/templates/web/components/groupproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>740c</objectGroupId>
+	<objectId>740ca86a-6d49-3e1f-351e-f4b0d30fc36a</objectId>
+	<file-name>740ca86a-6d49-3e1f-351e-f4b0d30fc36a.xml</file-name>
+	<internal-name>Xúc xích</internal-name>
+	<image_s>/static-assets/images/san-pham/xuc-xich1.png</image_s>
+	<groupproduct_o item-list="true">	<item datasource="groupProuduct">	<key>/site/items/6f51e5fe-2484-84d3-88ab-e1a7ec385fea.xml</key>
+	<value>Sản phẩm xúc xích</value>
+	<include>/site/items/6f51e5fe-2484-84d3-88ab-e1a7ec385fea.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></groupproduct_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;X&amp;uacute;c x&amp;iacute;ch l&amp;agrave; một sản phẩm thế mạnh của Mavin tr&amp;ecirc;n thị trường Việt Nam. X&amp;uacute;c x&amp;iacute;ch Mavin mang hương vị ri&amp;ecirc;ng, độc đ&amp;aacute;o, được l&amp;agrave;m theo b&amp;iacute; quyết của c&amp;aacute;c chuy&amp;ecirc;n gia ẩm thực h&amp;agrave;ng đầu từ CHLB Đức, mang chuẩn vị ẩm thực ch&amp;acirc;u &amp;Acirc;u.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;X&amp;uacute;c x&amp;iacute;ch Mavin được l&amp;agrave;m từ thịt heo sạch, được chọn lọc từ nguồn giống chất lượng cao tr&amp;ecirc;n thế giới v&amp;agrave; nu&amp;ocirc;i an to&amp;agrave;n tại c&amp;aacute;c trang trại của Mavin Farm. Tại đ&amp;acirc;y, heo được ph&amp;ograve;ng dịch bệnh nghi&amp;ecirc;m ngặt v&amp;agrave; được cho ăn bằng thức ăn chất lượng cao, sản xuất tr&amp;ecirc;n d&amp;acirc;y chuyền nhập khẩu ho&amp;agrave;n to&amp;agrave;n từ Thụy Sỹ. Mavin kiểm so&amp;aacute;t kh&amp;acirc;u giết mổ an to&amp;agrave;n, bảo quản v&amp;agrave; chế biến đạt chuẩn ISO 22000 v&amp;agrave; HACCP, đảm bảo mang lại c&amp;aacute;c sản phẩm x&amp;uacute;c x&amp;iacute;ch sạch v&amp;agrave; an to&amp;agrave;n đến tận tay người d&amp;ugrave;ng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tại kh&amp;acirc;u chế biến, với b&amp;iacute; quyết ẩm thực từ CHLB Đức, thịt sạch được trộn c&amp;ugrave;ng c&amp;aacute;c nguy&amp;ecirc;n liệu nhập khẩu từ Ch&amp;acirc;u &amp;Acirc;u, chế biến tr&amp;ecirc;n d&amp;acirc;y chuyền nhập khẩu ho&amp;agrave;n to&amp;agrave;n từ Đức để giữ nguy&amp;ecirc;n hương vị gốc. Đặc biệt tại kh&amp;acirc;u x&amp;ocirc;ng kh&amp;oacute;i, Mavin sử dụng c&amp;ocirc;ng nghệ x&amp;ocirc;ng kh&amp;oacute;i bằng gỗ sồi nhập khẩu, đảm bảo an to&amp;agrave;n cho người ti&amp;ecirc;u d&amp;ugrave;ng v&amp;agrave; chuẩn vị Ch&amp;acirc;u &amp;Acirc;u.&lt;/p&gt;</content_html>
+	<createdDate>2021-06-16T07:51:39.364Z</createdDate>
+	<createdDate_dt>2021-06-16T07:51:39.364Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T04:14:57.616Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T04:14:57.616Z</lastModifiedDate_dt>
+	<title_s>Xúc xích</title_s>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-16T07:50:56.337Z</createdDate>
+	<createdDate_dt>2021-06-16T07:50:56.337Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T04:14:49.824Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T04:14:49.824Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>506b262d-4ce6-67bd-ba5d-aafa37e98b84</key>
+	<value>S</value>
+<component id="506b262d-4ce6-67bd-ba5d-aafa37e98b84">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>506b</objectGroupId>
+	<objectId>506b262d-4ce6-67bd-ba5d-aafa37e98b84</objectId>
+	<internal-name>S</internal-name>
+	<file-name>506b262d-4ce6-67bd-ba5d-aafa37e98b84.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app3.jpg</image_s>
+	<createdDate>2021-06-21T09:24:11.883Z</createdDate>
+	<createdDate_dt>2021-06-21T09:24:11.883Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T10:59:48.334Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T10:59:48.334Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

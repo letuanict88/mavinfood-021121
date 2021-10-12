@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/tuyendung</content-type>
+	<display-template>/templates/web/pages/tuyendungdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ec8dbb02</objectGroupId>
+	<objectId>ec8dbb02-1444-4d18-936b-450c3c6bbac6</objectId>
+	<internal-name>TRƯỞNG PHÒNG XÉT NGHIỆM</internal-name>
+	<navLabel>TRƯỞNG PHÒNG XÉT NGHIỆM</navLabel>
+	<title_s>TRƯỞNG PHÒNG XÉT NGHIỆM</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>tin-3</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<content_html>&lt;p style="text-align: justify;"&gt;Vị tr&amp;iacute;: Trưởng Ph&amp;ograve;ng X&amp;eacute;t Nghiệm&lt;span style="white-space: pre;"&gt; &lt;/span&gt;Đơn vị: C&amp;ocirc;ng ty cổ phần Chăn nu&amp;ocirc;i Mavin&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Địa chỉ: Thị Tứ B&amp;ocirc; Thời, Hồng Tiến, Kho&amp;aacute;i Ch&amp;acirc;u, Hưng Y&amp;ecirc;n&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;M&amp;Ocirc; TẢ C&amp;Ocirc;NG VIỆC&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thực hiện hoặc gi&amp;aacute;m s&amp;aacute;t thực hiện c&amp;aacute;c ph&amp;acirc;n t&amp;iacute;ch, x&amp;eacute;t nghiệm,&amp;hellip; c&amp;aacute;c chỉ ti&amp;ecirc;u x&amp;eacute;t nghiệm thuộc chức năng của ph&amp;ograve;ng x&amp;eacute;t nghiệm;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Hướng dẫn, huấn luyện nh&amp;acirc;n vi&amp;ecirc;n c&amp;aacute;c quy tr&amp;igrave;nh kỹ thuật li&amp;ecirc;n quan;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Đ&amp;aacute;nh gi&amp;aacute; để n&amp;acirc;ng cao chất lượng x&amp;eacute;t nghiệm, gồm mở rộng năng lực v&amp;agrave; tăng t&amp;iacute;nh ch&amp;iacute;nh x&amp;aacute;c;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Quản l&amp;yacute; số liệu ph&amp;acirc;n t&amp;iacute;ch v&amp;agrave; bảo mật số liệu theo qui định;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bố tr&amp;iacute;, sắp xếp c&amp;ocirc;ng việc cho c&amp;aacute;c kỹ thuật vi&amp;ecirc;n;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thực hiện c&amp;aacute;c b&amp;aacute;o c&amp;aacute;o, kế hoạch, chương tr&amp;igrave;nh;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thực hiện c&amp;aacute;c c&amp;ocirc;ng việc kh&amp;aacute;c theo y&amp;ecirc;u cầu của cấp tr&amp;ecirc;n trực tiếp v&amp;agrave; gi&amp;aacute;n tiếp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Y&amp;Ecirc;U CẦU C&amp;Ocirc;NG VIỆC&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Bằng cấp chuy&amp;ecirc;n m&amp;ocirc;n: c&amp;ocirc;ng nghệ sinh học, sinh học ph&amp;acirc;n tử, th&amp;uacute; y, h&amp;oacute;a học từ đại học trở l&amp;ecirc;n;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ngoại ngữ v&amp;agrave; tin học: sẽ ph&amp;aacute;t triển nghệ nghiệp thuận lợi hơn nếu th&amp;ocirc;ng thạo tiếng Anh giao tiếp v&amp;agrave; tiếng Anh chuy&amp;ecirc;n ng&amp;agrave;nh;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kinh nghiệm: c&amp;oacute; &amp;iacute;t nhất 02 năm kinh nghiệm về (i) Sinh học ph&amp;acirc;n tử (PCR, real time PCR,&amp;hellip;); (ii) Huyết thanh học; (iii) vi sinh, (iv) kh&amp;aacute;ng sinh đồ, V&amp;Agrave;/HOẶC (v) h&amp;oacute;a ph&amp;acirc;n t&amp;iacute;ch;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Kỹ năng lập kế hoạch, ph&amp;acirc;n t&amp;iacute;ch-tổng hợp-đ&amp;aacute;nh gi&amp;aacute;, viết b&amp;aacute;o c&amp;aacute;o, l&amp;agrave;m việc nh&amp;oacute;m-phối hợp, thuyết tr&amp;igrave;nh-thuyết phục, l&amp;agrave;m việc chủ động-độc lập, giao tiếp: tốt.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;* QUYỀN LỢI:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thu nhập thỏa thuận theo năng lực&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Được tham gia c&amp;aacute;c kh&amp;oacute;a đ&amp;agrave;o tạo về nghiệp vụ tại C&amp;ocirc;ng ty.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Được trang bị đầy đủ về bảo hộ lao động phục vụ c&amp;ocirc;ng việc.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ph&amp;uacute;c lợi: theo quy định của Bộ luật lao động v&amp;agrave; ch&amp;iacute;nh s&amp;aacute;ch đ&amp;atilde;i ngộ kh&amp;aacute;c của c&amp;ocirc;ng ty ( tiền điện thoại, tiền gởi xe, thưởng lễ, Tết&amp;hellip;)&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ng&amp;agrave;y nghỉ: Theo quy định Bộ Luật Lao động hiện h&amp;agrave;nh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;* TH&amp;Ocirc;NG TIN LI&amp;Ecirc;N HỆ:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Ứng vi&amp;ecirc;n quan t&amp;acirc;m vui l&amp;ograve;ng gửi CV qua mail: tuyendung@mavinfarm.com&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Hoặc li&amp;ecirc;n hệ trực tiếp Ms Tuyền, SĐT: 0989.539.856.&lt;/p&gt;</content_html>
+	<createdDate>2021-06-17T04:26:07.346Z</createdDate>
+	<createdDate_dt>2021-06-17T04:26:07.346Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T10:05:17.399Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T10:05:17.399Z</lastModifiedDate_dt>
+	<date_dt>2021-06-17T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>06356356-492f-f1c5-c31b-03a8d3da8595</key>
+	<value>S</value>
+<component id="06356356-492f-f1c5-c31b-03a8d3da8595">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0635</objectGroupId>
+	<objectId>06356356-492f-f1c5-c31b-03a8d3da8595</objectId>
+	<file-name>06356356-492f-f1c5-c31b-03a8d3da8595.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app6.jpg</image_s>
+	<internal-name>S</internal-name>
+	<createdDate>2021-06-21T09:38:13.823Z</createdDate>
+	<createdDate_dt>2021-06-21T09:38:13.823Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:11:27.737Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:11:27.737Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

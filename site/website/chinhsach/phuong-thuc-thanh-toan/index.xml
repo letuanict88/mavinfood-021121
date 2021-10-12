@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/chinhsachdetail</content-type>
+	<display-template>/templates/web/pages/chinhsachdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7dce6447</objectGroupId>
+	<objectId>7dce6447-96c3-454b-857e-c89bae9bd970</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>phuong-thuc-thanh-toan</folder-name>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>52731ec2-5090-7435-19cb-3c4e17b9c45c</key>
+	<value>Slide</value>
+<component id="52731ec2-5090-7435-19cb-3c4e17b9c45c">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5273</objectGroupId>
+	<objectId>52731ec2-5090-7435-19cb-3c4e17b9c45c</objectId>
+	<file-name>52731ec2-5090-7435-19cb-3c4e17b9c45c.xml</file-name>
+	<internal-name>Slide 84a62c8f a9862191</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-08-10T07:35:07.522Z</createdDate>
+	<createdDate_dt>2021-08-10T07:35:07.522Z</createdDate_dt>
+	<lastModifiedDate>2021-08-10T07:35:07.522Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-10T07:35:07.522Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<internal-name>Phương thức thanh toán</internal-name>
+	<navLabel>Phương thức thanh toán</navLabel>
+	<title_s>Phương thức thanh toán</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/tuyen-dung/5O6A7027.JPG</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;(*) Kh&amp;aacute;ch h&amp;agrave;ng c&amp;aacute; nh&amp;acirc;n: Thanh to&amp;aacute;n bằng tiền mặt khi nhận h&amp;agrave;ng hoặc chuyển khoản sau khi đặt h&amp;agrave;ng v&amp;agrave;o t&amp;agrave;i khoản c&amp;ocirc;ng ty theo th&amp;ocirc;ng tin:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- C&amp;Ocirc;NG TY TNHH LI&amp;Ecirc;N DOANH THỰC PHẨM MAVIN&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Số T&amp;agrave;i khoản: 0451000060686 - Ng&amp;acirc;n h&amp;agrave;ng TMCP Ngoại Thương Việt Nam, Chi nh&amp;aacute;nh Th&amp;agrave;nh C&amp;ocirc;ng, H&amp;agrave; Nội.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;(*) Đối với kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; nhu cầu mua số lượng lớn để kinh doanh hoặc b&amp;aacute;n bu&amp;ocirc;n vui l&amp;ograve;ng li&amp;ecirc;n hệ trực tiếp với ch&amp;uacute;ng t&amp;ocirc;i để c&amp;oacute; ch&amp;iacute;nh s&amp;aacute;ch gi&amp;aacute; cả hợp l&amp;yacute;. V&amp;agrave; việc thanh to&amp;aacute;n sẽ được thực hiện theo ch&amp;iacute;nh s&amp;aacute;ch b&amp;aacute;n sỉ của Mavin Foods.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-08-10T07:32:56.146Z</createdDate>
+	<createdDate_dt>2021-08-10T07:32:56.146Z</createdDate_dt>
+	<lastModifiedDate>2021-08-12T07:41:59.824Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-12T07:41:59.824Z</lastModifiedDate_dt>
+	<date_dt>2021-08-01T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f9b1</objectGroupId>
+	<objectId>f9b1b52d-d854-d912-6be7-baaa4c4fbcb7</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>khuyen-mai</folder-name>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>05743418-80b2-3bdc-ffb7-e487487d69f4</key>
+	<value>Thông tin Khuyến Mại</value>
+<component id="05743418-80b2-3bdc-ffb7-e487487d69f4">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0574</objectGroupId>
+	<objectId>05743418-80b2-3bdc-ffb7-e487487d69f4</objectId>
+	<file-name>05743418-80b2-3bdc-ffb7-e487487d69f4.xml</file-name>
+	<internal-name>Thông tin Khuyến Mại</internal-name>
+	<image_s>/static-assets/images/header/bg-app4.jpg</image_s>
+	<createdDate>2021-08-16T07:56:04.552Z</createdDate>
+	<createdDate_dt>2021-08-16T07:56:04.552Z</createdDate_dt>
+	<lastModifiedDate>2021-08-16T07:56:04.552Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-16T07:56:04.552Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>1925d454-4056-55d8-13bb-c93241d57797</key>
+	<value>TTKM - Content</value>
+<component id="1925d454-4056-55d8-13bb-c93241d57797">
+	<content-type>/component/componentttkm</content-type>
+	<display-template>/templates/web/ttkm.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1925</objectGroupId>
+	<objectId>1925d454-4056-55d8-13bb-c93241d57797</objectId>
+	<file-name>1925d454-4056-55d8-13bb-c93241d57797.xml</file-name>
+	<internal-name>TTKM - Content</internal-name>
+	<createdDate>2021-08-16T08:01:47.352Z</createdDate>
+	<createdDate_dt>2021-08-16T08:01:47.352Z</createdDate_dt>
+	<lastModifiedDate>2021-08-16T08:01:47.352Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-16T08:01:47.352Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<internal-name>Thông tin khuyến mại</internal-name>
+	<navLabel>Thông tin khuyến mại</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2021-08-16T07:54:58.889Z</createdDate>
+	<createdDate_dt>2021-08-16T07:54:58.889Z</createdDate_dt>
+	<lastModifiedDate>2021-08-16T09:09:54.684Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-16T09:09:54.684Z</lastModifiedDate_dt>
+</page>

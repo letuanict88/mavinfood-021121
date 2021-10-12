@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/thuvienvideo</content-type>
+	<display-template>/templates/web/pages/thuvienvideo.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f430</objectGroupId>
+	<objectId>f430ab43-0fae-a9cc-c2d3-ba01bc8b95dc</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>video</folder-name>
+	<internal-name>Thư viện Video</internal-name>
+	<navLabel>Thư viện Video</navLabel>
+	<title_s>Thư viện Video</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<videos_o item-list="true">	<item>	<name_s>Mavin Corporate video</name_s>
+	<url_s>https://youtu.be/xL2MVFJzmCs</url_s>
+	<image_s>/static-assets/images/thu-vien/Mavin Corporate video.jpg</image_s>
+	<date_dt>2021-08-05T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Mavin Foudation</name_s>
+	<image_s>/static-assets/images/thu-vien/Tang ga Nhu Xuan Thanh Hoa (13).jpg</image_s>
+	<url_s>https://www.youtube.com/watch?v=Mijbc9UBP90&amp;t=9s&amp;p</url_s>
+	<date_dt>2021-08-05T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Tập đoàn Mavin xuất khẩu thịt heo</name_s>
+	<image_s>/static-assets/images/thu-vien/Xuat khau thit heo Mavin (2).jpg</image_s>
+	<url_s>https://www.youtube.com/watch?v=C3IvIzTJEE4&amp;pp=sAQ</url_s>
+	<date_dt>2021-08-05T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Doanh nghiệp đầu tiên xuất khẩu thịt heo</name_s>
+	<image_s>/static-assets/images/thu-vien/Xuat khau thit heo Mavin (3).jpg</image_s>
+	<url_s>https://www.youtube.com/watch?v=oqNBznIK6d0&amp;t=11s&amp;</url_s>
+	<date_dt>2021-08-05T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>Chuỗi giá trị Từ Nông trại tới Bàn ăn của Mavin</name_s>
+	<image_s>/static-assets/images/thu-vien/Chuoi gia tri.jpg</image_s>
+	<url_s>https://www.youtube.com/watch?v=6ryIZcNjJQA&amp;pp=sAQ</url_s>
+	<date_dt>2021-08-05T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item>	<item>	<name_s>6 Giá trị cốt lõi của Mavin</name_s>
+	<image_s>/static-assets/images/thu-vien/Poster Gia tri - Tam nhin - Su menh 3.2021 C.jpg</image_s>
+	<url_s>https://www.youtube.com/watch?v=Y5FYGnzoojY&amp;t=3s&amp;p</url_s>
+	<date_dt>2021-08-05T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item></videos_o>
+	<createdDate>2021-06-16T11:21:53.605Z</createdDate>
+	<createdDate_dt>2021-06-16T11:21:53.605Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T09:19:54.373Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T09:19:54.373Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>6a711bd1-8797-2301-6164-c4b323db04a7</key>
+	<value>S</value>
+<component id="6a711bd1-8797-2301-6164-c4b323db04a7">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6a71</objectGroupId>
+	<objectId>6a711bd1-8797-2301-6164-c4b323db04a7</objectId>
+	<file-name>6a711bd1-8797-2301-6164-c4b323db04a7.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app6.jpg</image_s>
+	<createdDate>2021-06-21T09:26:22.711Z</createdDate>
+	<createdDate_dt>2021-06-21T09:26:22.711Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:04:48.288Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:04:48.288Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

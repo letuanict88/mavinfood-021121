@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/spchitiet</content-type>
+	<display-template>/templates/web/pages/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b062</objectGroupId>
+	<objectId>b062c8a2-d67b-c8f0-55cd-71def52859ed</objectId>
+	<isHot_b>true</isHot_b>
+	<sptype_o>	<item>	<key>do-vien</key>
+	<value_smv>Đồ viên</value_smv>
+	</item></sptype_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>ca-vien-rau-cu</folder-name>
+	<image1_s>/static-assets/images/san-pham/Ca vien Rau cu 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/do-vien.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/Ca vien Rau cu 2.jpg</image3_s>
+	<internal-name>Cá viên rau củ</internal-name>
+	<navLabel>Cá viên rau củ</navLabel>
+	<name_s>Cá viên rau củ</name_s>
+	<kl_s>500 g/túi</kl_s>
+	<price_s>30000</price_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>6fe6ef8f-c1fe-4224-0076-63d1cf708996</key>
+	<value>Slide</value>
+<component id="6fe6ef8f-c1fe-4224-0076-63d1cf708996">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6fe6</objectGroupId>
+	<objectId>6fe6ef8f-c1fe-4224-0076-63d1cf708996</objectId>
+	<internal-name>Slide</internal-name>
+	<file-name>6fe6ef8f-c1fe-4224-0076-63d1cf708996.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-08-05T03:17:23.427Z</createdDate>
+	<createdDate_dt>2021-08-05T03:17:23.427Z</createdDate_dt>
+	<lastModifiedDate>2021-08-05T03:17:23.427Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-05T03:17:23.427Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;D&amp;ograve;ng C&amp;aacute; vi&amp;ecirc;n Rau củ với m&amp;agrave;u sắc ruột trắng đặc trưng của thịt c&amp;aacute; ch&amp;iacute;n trộn lẫn m&amp;agrave;u xanh, v&amp;agrave;ng v&amp;agrave; đỏ của rau củ quả thực sự bắt mắt thu h&amp;uacute;t con trẻ. Kh&amp;ocirc;ng chỉ vậy, C&amp;aacute; vi&amp;ecirc;n Rau củ c&amp;ograve;n đảm bảo đầy đủ chất lượng cho trẻ nhỏ v&amp;agrave; những người th&amp;acirc;n trong gia đ&amp;igrave;nh. C&amp;aacute; vi&amp;ecirc;n Rau củ l&amp;agrave; lựa chọn ho&amp;agrave;n hảo cho c&amp;aacute;c B&amp;agrave; Nội trợ th&amp;ocirc;ng th&amp;aacute;i.&lt;span style="white-space: pre;"&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Hướng dẫn sử dụng:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;R&amp;atilde; đ&amp;ocirc;ng 20 - 30 ph&amp;uacute;t.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;D&amp;ugrave;ng để chi&amp;ecirc;n r&amp;aacute;n hoặc chế biến m&amp;oacute;n ăn y&amp;ecirc;u th&amp;iacute;ch.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Sử dụng hết sản phẩm trong v&amp;ograve;ng 24 giờ sau khi mở g&amp;oacute;i sản phẩm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2021-08-05T03:15:57.665Z</createdDate>
+	<createdDate_dt>2021-08-05T03:15:57.665Z</createdDate_dt>
+	<lastModifiedDate>2021-10-09T04:31:49.082Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-09T04:31:49.082Z</lastModifiedDate_dt>
+	<sku_s>8936082676128</sku_s>
+</page>

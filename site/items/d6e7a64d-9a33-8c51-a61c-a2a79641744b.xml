@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/encomlistproduct</content-type>
+	<display-template>/templates/web/components/en/listproduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d6e7</objectGroupId>
+	<objectId>d6e7a64d-9a33-8c51-a61c-a2a79641744b</objectId>
+	<listproduct_s>sliced</listproduct_s>
+	<file-name>d6e7a64d-9a33-8c51-a61c-a2a79641744b.xml</file-name>
+	<internal-name>Cat lat</internal-name>
+	<createdDate>2021-09-30T09:16:58.368Z</createdDate>
+	<createdDate_dt>2021-09-30T09:16:58.368Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T09:16:58.368Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T09:16:58.368Z</lastModifiedDate_dt>
+</component>

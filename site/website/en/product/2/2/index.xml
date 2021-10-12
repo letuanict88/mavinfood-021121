@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagespchitiet</content-type>
+	<display-template>/templates/web/pages/en/spchitiet.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>494119cc</objectGroupId>
+	<objectId>494119cc-dcfd-4bee-b353-898b57a69945</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>2</folder-name>
+	<internal-name>2</internal-name>
+	<navLabel>2</navLabel>
+	<name_s>2</name_s>
+	<kl_s>500g</kl_s>
+	<price_s>10000</price_s>
+	<sku_s>123</sku_s>
+	<isHot_b>true</isHot_b>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<sptype_o>	<item>	<key>sliced</key>
+	<value_smv>sliced</value_smv>
+	</item></sptype_o>
+	<image1_s>/static-assets/images/san-pham/Ca vien Huong Tom 1.png</image1_s>
+	<image2_s>/static-assets/images/san-pham/Ca vien 1.png</image2_s>
+	<image3_s>/static-assets/images/san-pham/Ca vien Huong Tom 3 (thay tam).png</image3_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>b8a43efc-6578-012b-5eed-8db454ffe7b0</key>
+	<value>S</value>
+<component id="b8a43efc-6578-012b-5eed-8db454ffe7b0">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b8a4</objectGroupId>
+	<objectId>b8a43efc-6578-012b-5eed-8db454ffe7b0</objectId>
+	<file-name>b8a43efc-6578-012b-5eed-8db454ffe7b0.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<createdDate>2021-10-01T04:07:35.126Z</createdDate>
+	<createdDate_dt>2021-10-01T04:07:35.126Z</createdDate_dt>
+	<lastModifiedDate>2021-10-01T04:07:35.126Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-01T04:07:35.126Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<createdDate>2021-10-01T04:06:09.632Z</createdDate>
+	<createdDate_dt>2021-10-01T04:06:09.632Z</createdDate_dt>
+	<lastModifiedDate>2021-10-04T08:55:51.293Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-04T08:55:51.293Z</lastModifiedDate_dt>
+</page>

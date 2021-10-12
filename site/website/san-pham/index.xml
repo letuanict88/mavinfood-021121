@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagechild</content-type>
+	<display-template>/templates/web/pages/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1258</objectGroupId>
+	<objectId>1258650e-38ea-f94d-6acd-5cec466f957e</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>san-pham</folder-name>
+	<internal-name>Sản phẩm</internal-name>
+	<navLabel>Sản phẩm</navLabel>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>5c741852-84b6-4d11-05c6-8039b0dab956</key>
+	<value>Sản phẩm</value>
+<component id="5c741852-84b6-4d11-05c6-8039b0dab956">
+	<content-type>/component/sp</content-type>
+	<display-template>/templates/web/components/sanpham.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5c74</objectGroupId>
+	<objectId>5c741852-84b6-4d11-05c6-8039b0dab956</objectId>
+	<internal-name>Sản phẩm</internal-name>
+	<file-name>5c741852-84b6-4d11-05c6-8039b0dab956.xml</file-name>
+	<createdDate>2021-06-15T09:35:27.173Z</createdDate>
+	<createdDate_dt>2021-06-15T09:35:27.173Z</createdDate_dt>
+	<lastModifiedDate>2021-08-02T10:27:38.728Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-02T10:27:38.728Z</lastModifiedDate_dt>
+	<image_s>/static-assets/images/san-pham/1.png</image_s>
+	<content_html>&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #404244; font-family: UVF-DINPro; font-size: 14px; background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #6c757d; font-size: 12pt;"&gt;Thịt nguy&amp;ecirc;n liệu để sản xuất c&amp;aacute;c sản phẩm của Mavin l&amp;agrave; thịt sạch, được cung cấp bởi ch&amp;iacute;nh hệ thống c&amp;aacute;c C&amp;ocirc;ng ty của Mavin.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #404244; font-family: UVF-DINPro; font-size: 14px; background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #6c757d; font-size: 12pt;"&gt;Hệ thống n&amp;agrave;y sở hữu c&amp;aacute;c nh&amp;agrave; m&amp;aacute;y sản xuất thức ăn chăn nu&amp;ocirc;i lớn tr&amp;ecirc;n cả nước với c&amp;ocirc;ng suất h&amp;agrave;ng trăm ngh&amp;igrave;n tấn/năm, cũng như sở hữu hệ thống trang trại heo giống v&amp;agrave; heo thịt lớn tại miền Bắc, với c&amp;aacute;c giống heo được nhập trực tiếp từ Vương quốc Anh. H&amp;agrave;ng năm, hệ thống c&amp;aacute;c trại heo n&amp;agrave;y cung cấp h&amp;agrave;ng ngh&amp;igrave;n tấn thịt heo th&amp;agrave;nh phẩm, chất lượng cao, đảm bảo vệ sinh an to&amp;agrave;n ra thị trường. Mavin ch&amp;iacute;nh l&amp;agrave; mắt x&amp;iacute;ch ho&amp;agrave;n chỉnh trong chuỗi sản phẩm &amp;ldquo;Từ N&amp;ocirc;ng trại tới B&amp;agrave;n ăn&amp;rdquo; của hệ thống.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</content_html>
+	<groupProduct_o item-list="true">	<item>	<name_s>Xúc xích</name_s>
+	<image_s>/static-assets/images/san-pham/xuc-xich.png</image_s>
+	<url_s>/san-pham/xuc-xich</url_s>
+	</item>	<item>	<name_s>Đồ viên</name_s>
+	<image_s>/static-assets/images/san-pham/do-vien.png</image_s>
+	<url_s>/san-pham/do-vien</url_s>
+	</item>	<item>	<name_s>Giò chả</name_s>
+	<image_s>/static-assets/images/san-pham/gio-cha.png</image_s>
+	<url_s>/san-pham/gio-cha</url_s>
+	</item>	<item>	<name_s>Cắt lát</name_s>
+	<image_s>/static-assets/images/san-pham/cat-lat.png</image_s>
+	<url_s>/san-pham/cat-lat</url_s>
+	</item>	<item>	<name_s>Sản phẩm khác</name_s>
+	<image_s>/static-assets/images/san-pham/sp-khac.png</image_s>
+	<url_s>/san-pham/sp-khac</url_s>
+	</item>	<item>	<name_s>Xúc xích</name_s>
+	<image_s>/static-assets/images/san-pham/cat-lat.png</image_s>
+	<url_s>/san-pham/cat-lat</url_s>
+	</item>	<item>	<name_s>Xúc xích</name_s>
+	<image_s>/static-assets/images/san-pham/sp-khac.png</image_s>
+	<url_s>/san-pham/sp-khac</url_s>
+	</item></groupProduct_o>
+</component>
+	</item></section_o>
+	<createdDate>2021-06-15T09:35:05.640Z</createdDate>
+	<createdDate_dt>2021-06-15T09:35:05.640Z</createdDate_dt>
+	<lastModifiedDate>2021-08-02T10:27:36.092Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-08-02T10:27:36.092Z</lastModifiedDate_dt>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>fe2990a8-3428-5a74-b4b8-2ed2c8752518</key>
+	<value>S</value>
+<component id="fe2990a8-3428-5a74-b4b8-2ed2c8752518">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fe29</objectGroupId>
+	<objectId>fe2990a8-3428-5a74-b4b8-2ed2c8752518</objectId>
+	<internal-name>S</internal-name>
+	<file-name>fe2990a8-3428-5a74-b4b8-2ed2c8752518.xml</file-name>
+	<image_s>/static-assets/images/header/bg-app3.jpg</image_s>
+	<createdDate>2021-06-21T09:20:43.313Z</createdDate>
+	<createdDate_dt>2021-06-21T09:20:43.313Z</createdDate_dt>
+	<lastModifiedDate>2021-06-21T11:03:40.128Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-06-21T11:03:40.128Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+</page>

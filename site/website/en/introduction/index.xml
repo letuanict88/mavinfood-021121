@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>25f7</objectGroupId>
+	<objectId>25f736dd-25cc-133b-08d6-f61e258a96b9</objectId>
+	<internal-name>Introduction</internal-name>
+	<navLabel>Introduction</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>introduction</folder-name>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>195ad495-2589-1cf3-2585-0d200cf8582f</key>
+	<value>s</value>
+<component id="195ad495-2589-1cf3-2585-0d200cf8582f">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>195a</objectGroupId>
+	<objectId>195ad495-2589-1cf3-2585-0d200cf8582f</objectId>
+	<file-name>195ad495-2589-1cf3-2585-0d200cf8582f.xml</file-name>
+	<internal-name>s</internal-name>
+	<image_s>/static-assets/images/header/bg-app2.jpg</image_s>
+	<createdDate>2021-09-29T08:15:42.879Z</createdDate>
+	<createdDate_dt>2021-09-29T08:15:42.879Z</createdDate_dt>
+	<lastModifiedDate>2021-09-29T08:15:42.879Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-29T08:15:42.879Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>7fd61a77-17d2-2f50-1258-92df37142574</key>
+	<value>Introduction - Con</value>
+<component id="7fd61a77-17d2-2f50-1258-92df37142574">
+	<content-type>/component/encomtongquan</content-type>
+	<display-template>/templates/web/components/en/tongquan.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7fd6</objectGroupId>
+	<objectId>7fd61a77-17d2-2f50-1258-92df37142574</objectId>
+	<file-name>7fd61a77-17d2-2f50-1258-92df37142574.xml</file-name>
+	<internal-name>Introduction - Con</internal-name>
+	<title_s>from the Chairman</title_s>
+	<title1_s>Message</title1_s>
+	<image_s>/static-assets/images/tong-quan/chairman.jpg</image_s>
+	<content_html>&lt;p class="fw-bold text-muted" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: UVF-DINPro; font-size: 16px; background-color: #ffffff; font-weight: 700 !important; color: #636465 !important;"&gt;Dear Valued Guests,&lt;/p&gt;
+&lt;p class="text-muted" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: UVF-DINPro; font-size: 16px; background-color: #ffffff; color: #636465 !important;"&gt;Mavin Foods is a foreign invested joint venture company, operating in meat food production that meets European standards. Being a member of Mavin Group, a business capable to provide a full range of animal feed, veterinary pharmacy, genetics and food, we are proud to be one of very few business in Vietnam now, able to apply the business model "From Farm to Table", providing the local consumers European quality products with highest level of food safety.&lt;/p&gt;
+&lt;p class="text-muted" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: UVF-DINPro; font-size: 16px; background-color: #ffffff; color: #636465 !important;"&gt;Our production plant, located at Dong Van II Industrial Area, Ha Nam province, is comprehensively and modernly invested, with the production line, imported from Germany. With state of the art brands such as Fessmann, Handtman, Mado..., the line produces good, stable and consistent food products. With over many years of experience in this business, together with skillfull staff here, we will definitely bring Vietnamese consumers with European style meat products but suitable to the local taste. Products of Mavin is now widely consumed at big hotels and in the market from supermarkets, restaurant and retails.&lt;/p&gt;
+&lt;p class="text-muted" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: UVF-DINPro; font-size: 16px; background-color: #ffffff; color: #636465 !important;"&gt;With the slogan &lt;strong&gt;"Exclusive Western expertise. Wholesome Asian taste"&lt;/strong&gt;, together with the supports from the valued customers and partners, production of Mavin will strongly develop and soon conquer the Vietnamese consumers.&lt;/p&gt;
+&lt;p class="text-muted" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: UVF-DINPro; font-size: 16px; background-color: #ffffff; color: #636465 !important;"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p class="text-muted" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: UVF-DINPro; font-size: 16px; background-color: #ffffff; color: #636465 !important;"&gt;&lt;strong&gt;Mr. David John Whitehead&lt;/strong&gt;&lt;br style="box-sizing: border-box;" /&gt;Chairman of Mavin Group&lt;/p&gt;</content_html>
+	<createdDate>2021-09-29T08:16:00.032Z</createdDate>
+	<createdDate_dt>2021-09-29T08:16:00.032Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T03:40:41.388Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T03:40:41.388Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2021-09-29T08:15:27.922Z</createdDate>
+	<createdDate_dt>2021-09-29T08:15:27.922Z</createdDate_dt>
+	<lastModifiedDate>2021-09-30T03:40:32.543Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-09-30T03:40:32.543Z</lastModifiedDate_dt>
+</page>
