@@ -15,8 +15,8 @@ function mySendEmail(e){
             + '    <td>' + data.quantity * data.price + '</td>'
             + '</tr>'
         });
+    console.log(name, email, address, phone, note, tableItems, sumPrice)
     sendEmail(name, email, address, phone, note, tableItems, sumPrice)
-    window.location.href = "/xu-ly-don-hang"
     localStorage.removeItem("listItems");
     localStorage.removeItem("sumPrice");
     localStorage.removeItem("sum");
@@ -40,6 +40,11 @@ function sendEmail(name, email, address, phone, note, tableItems, sumPrice){
          + `Tổng giá trị (chưa tính ship): ${sumPrice} <br/>`         
          
 }).then(
-  
+    function(respond){
+        if(respond){
+            window.location.href = "/xu-ly-don-hang"
+        }
+    }
+   
 );
 }
