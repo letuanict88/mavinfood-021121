@@ -9,7 +9,7 @@
 	<file-name>index.xml</file-name>
 	<folder-name>ban-tin</folder-name>
 	<internal-name>Bản Tin</internal-name>
-	<navLabel>Bản Tin</navLabel>
+	<navLabel>Bản Tin Mavin</navLabel>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>e0798a4d-a2a7-4f74-7168-523715c8bf97</key>
@@ -31,8 +31,8 @@
 	</item></section_o>
 	<createdDate>2021-06-02T08:21:04.271Z</createdDate>
 	<createdDate_dt>2021-06-02T08:21:04.271Z</createdDate_dt>
-	<lastModifiedDate>2021-06-21T10:36:59.452Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-21T10:36:59.452Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-15T07:33:10.668Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-15T07:33:10.668Z</lastModifiedDate_dt>
 	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>977e13c4-259e-d328-15f1-90f9ebaccb93</key>
 	<value>Slide</value>
 <component id="977e13c4-259e-d328-15f1-90f9ebaccb93">
