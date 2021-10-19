@@ -13,8 +13,8 @@
     <link rel="stylesheet" href="/static-assets/vendor/slick-1-8-1/slick/slick.css">
     <link rel="stylesheet" href="/static-assets/vendor/slick-1-8-1/slick/slick-theme.css"> 
     <link rel="apple-touch-icon" sizes="180x180" href="/static-assets/dist/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/static-assets/dist/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/static-assets/dist/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/static-assets/images/Logomavinfood.jpg">
+    <link rel="icon" type="image/png" sizes="16x16" href="/static-assets/images/Logomavinfood.jpg">
     <link rel="manifest" href="/static-assets/dist/site.webmanifest">
     <title>Trang chủ</title>
   </head>
