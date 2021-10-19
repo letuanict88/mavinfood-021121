@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="/static-assets/vendor/jquery/map/style.css" />
 
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCYdkPWr0YS7bZxbh_h6KJJVag8RgkcrTY&callback=initMap"></script>
-    <link rel="shortcut icon" href="/static-assets/vendor/jquery/map/google-maps-icon.png" type="image/x-icon"/>
+    <link rel="shortcut icon" href="/static-assets/images/Logomavinfood.jpg" type="image/x-icon"/>
     <title>Mavin Food</title>
   </head>
   <body>
