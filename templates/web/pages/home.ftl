@@ -24,6 +24,15 @@
     <script src="/static-assets/vendor/jquery/map/app.js"></script>
     <script src="/static-assets/vendor/jquery/map/index.js"></script>
     <link rel="stylesheet" href="/static-assets/vendor/jquery/map/style.css" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1GNL6KEFX8"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-1GNL6KEFX8');
+    </script>
 
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCYdkPWr0YS7bZxbh_h6KJJVag8RgkcrTY&callback=initMap"></script>
     <link rel="shortcut icon" href="/static-assets/images/Logomavinfood.jpg" type="image/x-icon"/>
