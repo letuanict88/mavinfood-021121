@@ -22,6 +22,15 @@
     <script src="/static-assets/js/handlebars.min-latest.js"></script>
     <script src="/static-assets/vendor/jquery/map/store-data.js"></script>
     <script src="/static-assets/vendor/jquery/map/app.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1GNL6KEFX8"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-1GNL6KEFX8');
+    </script>
     <script src="/static-assets/vendor/jquery/map/index.js"></script>
     <link rel="stylesheet" href="/static-assets/vendor/jquery/map/style.css" />
 
