@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/pages/tintuc.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3fa5</objectGroupId>
+	<objectId>3fa55755-1379-6318-25bc-451aa6e09709</objectId>
+	<internal-name>Chủ tịch HĐQT Mavin tham gia thảo luận tại Vietnam AgriTech 2021</internal-name>
+	<navLabel>Chủ tịch HĐQT Mavin tham gia thảo luận tại Vietnam AgriTech 2021</navLabel>
+	<title_s>Chủ tịch HĐQT Mavin tham gia thảo luận tại Vietnam AgriTech 2021</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>chu-tich-mavin-thao-luan-tai-agritech</folder-name>
+	<image_s>/static-assets/images/new/David 1.png</image_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>5c832db8-35c8-7aff-9ba9-c5b7aa8eafa8</key>
+	<value>Slide</value>
+<component id="5c832db8-35c8-7aff-9ba9-c5b7aa8eafa8">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5c83</objectGroupId>
+	<objectId>5c832db8-35c8-7aff-9ba9-c5b7aa8eafa8</objectId>
+	<file-name>5c832db8-35c8-7aff-9ba9-c5b7aa8eafa8.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<image_s/>
+	<createdDate>2021-10-21T09:21:30.499Z</createdDate>
+	<createdDate_dt>2021-10-21T09:21:30.499Z</createdDate_dt>
+	<lastModifiedDate>2021-10-21T09:21:30.499Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-21T09:21:30.499Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Vừa qua, Chủ tịch HĐQT Tập đo&amp;agrave;n Mavin, &amp;ocirc;ng David John Whitehead đ&amp;atilde; tham dự Diễn đ&amp;agrave;n quốc tế chuyển đổi số N&amp;ocirc;ng nghiệp Việt Nam 2021 với vai tr&amp;ograve; l&amp;agrave; đại diện của Hiệp hội doanh nghiệp Australia tại Việt Nam.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Diễn đ&amp;agrave;n quốc tế chuyển đổi số N&amp;ocirc;ng nghiệp Việt Nam 2021 do Bộ Ngoại giao phối hợp với VnExpress v&amp;agrave; Hiệp hội N&amp;ocirc;ng nghiệp số Việt Nam (VIDA) tổ chức c&amp;oacute; chủ đề &amp;ldquo;Bắt kịp c&amp;aacute;c xu thế thị trường, ph&amp;aacute;t huy vai tr&amp;ograve; trụ đỡ của nền kinh tế trong bối cảnh đại dịch v&amp;agrave; hậu đại dịch Covid-19&amp;rdquo;.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong h&amp;igrave;nh: &amp;ocirc;ng David John Whitehead trong phi&amp;ecirc;n thảo luận về C&amp;aacute;c cơ hội cho n&amp;ocirc;ng nghiệp Việt Nam bứt ph&amp;aacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chủ tịch Mavin đ&amp;atilde; tham gia phi&amp;ecirc;n thảo luận &amp;ldquo;Định h&amp;igrave;nh N&amp;ocirc;ng nghiệp số Việt Nam đến năm 2035&amp;rdquo;, trong phần tham luận về vấn đề C&amp;aacute;c cơ hội cho n&amp;ocirc;ng nghiệp Việt Nam bứt ph&amp;aacute;, &amp;ocirc;ng David chia sẻ trong số c&amp;aacute;c doanh nghiệp Australia hoạt động tại Việt Nam, c&amp;oacute; rất &amp;iacute;t c&amp;ocirc;ng ty hoạt động trong lĩnh vực N&amp;ocirc;ng nghiệp, trong đ&amp;oacute; c&amp;oacute; Tập đo&amp;agrave;n Mavin. Chủ tịch Mavin cho rằng c&amp;aacute;c cơ hội cho c&amp;aacute;c doanh nghiệp xuất khẩu sang Australia rất lớn v&amp;agrave; người d&amp;acirc;n Australia rất cởi mở với c&amp;aacute;c sản phẩm Việt Nam. Vấn đề lớn nhất đ&amp;oacute; l&amp;agrave; doanh nghiệp Việt Nam n&amp;ecirc;n t&amp;igrave;m hiểu, nghi&amp;ecirc;n cứu thị trường, quy định về chất lượng, vệ sinh, đ&amp;oacute;ng g&amp;oacute;i trước khi xuất khẩu sang nước ngo&amp;agrave;i n&amp;oacute;i chung v&amp;agrave; Australia n&amp;oacute;i ri&amp;ecirc;ng. Hiện tại, c&amp;aacute;c thị trường Việt Nam đang xuất khẩu đều l&amp;agrave; những thị trường rất kh&amp;oacute; t&amp;iacute;nh v&amp;agrave; Australia cũng tương tự. C&amp;aacute;c y&amp;ecirc;u cầu về xuất khẩu rất nghi&amp;ecirc;m ngặt, doanh nghiệp phải đảm bảo tu&amp;acirc;n thủ. Tuy nhi&amp;ecirc;n, với người ti&amp;ecirc;u d&amp;ugrave;ng ở Australia hoặc l&amp;agrave; ở bất cứ đ&amp;acirc;u, nh&amp;agrave; sản xuất ở Việt Nam cần x&amp;acirc;y dựng thương hiệu r&amp;otilde; r&amp;agrave;ng, đảm bảo chất lượng ổn định, để người ti&amp;ecirc;u d&amp;ugrave;ng tin sản phẩm Việt Nam an to&amp;agrave;n, chất lượng cao&amp;rdquo;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Diễn đ&amp;agrave;n quốc tế chuyển đổi số N&amp;ocirc;ng nghiệp Việt Nam 2021 l&amp;agrave; nơi diễn ra c&amp;aacute;c hoạt động đối thoại ch&amp;iacute;nh s&amp;aacute;ch c&amp;ocirc;ng - tư giữa Ch&amp;iacute;nh phủ, khu vực tư nh&amp;acirc;n c&amp;ugrave;ng c&amp;aacute;c b&amp;ecirc;n li&amp;ecirc;n quan, nhằm thảo luận những vấn đề then chốt, chiến lược cho n&amp;ocirc;ng nghiệp Việt Nam trong bối cảnh khu vực v&amp;agrave; thế giới; qua đ&amp;oacute; gợi mở những nghi&amp;ecirc;n cứu v&amp;agrave; đề xuất giải ph&amp;aacute;p đột ph&amp;aacute; để th&amp;uacute;c đẩy qu&amp;aacute; tr&amp;igrave;nh chuyển đổi số của n&amp;ocirc;ng nghiệp Việt Nam, tiếp cận th&amp;agrave;nh c&amp;ocirc;ng c&amp;aacute;c thị trường tiềm năng. Diễn đ&amp;agrave;n c&amp;oacute; sự tham gia của l&amp;atilde;nh đạo c&amp;aacute;c Bộ Ngoại giao, Bộ N&amp;ocirc;ng nghiệp, Bộ th&amp;ocirc;ng tin truyền th&amp;ocirc;ng, l&amp;atilde;nh đạo v&amp;agrave; đại diện của 63 tỉnh/th&amp;agrave;nh tr&amp;ecirc;n cả nước; đại diện Bộ/ng&amp;agrave;nh trung ương v&amp;agrave; c&amp;aacute;c chuy&amp;ecirc;n gia trong nước.&lt;/p&gt;</content_html>
+	<date_dt>2021-09-25T04:00:00.000Z</date_dt>
+	<createdDate>2021-10-21T09:19:03.226Z</createdDate>
+	<createdDate_dt>2021-10-21T09:19:03.226Z</createdDate_dt>
+	<lastModifiedDate>2021-10-21T09:19:03.226Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-21T09:19:03.226Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>
