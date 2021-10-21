@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/pages/tintuc.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6617</objectGroupId>
+	<objectId>6617f82e-c366-bece-88c7-76e34413b60d</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Mavin chung tay cùng TP. Hồ Chí Minh đẩy lùi đại dịch Covid-19</internal-name>
+	<navLabel>Mavin chung tay cùng TP. Hồ Chí Minh đẩy lùi đại dịch Covid-19</navLabel>
+	<title_s>Mavin chung tay cùng TP. Hồ Chí Minh đẩy lùi đại dịch Covid-19</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>chung-tay-cung-hcm-day-lui-covid</folder-name>
+	<image_s>/static-assets/images/new/Anh trao qua TP HCM 1.jpg</image_s>
+	<slide_o item-list="true"/>
+	<content_html>&lt;p style="text-align: justify;"&gt;Chung tay c&amp;ugrave;ng S&amp;agrave;i G&amp;ograve;n vượt qua dịch bệnh, với t&amp;ocirc;n chỉ lan tỏa những gi&amp;aacute; trị tốt đẹp v&amp;agrave; t&amp;igrave;nh y&amp;ecirc;u thương tới cộng đồng, Quỹ Nh&amp;acirc;n &amp;Aacute;i Tập đo&amp;agrave;n Mavin đ&amp;atilde; ủng hộ 5.000 kg sản phẩm thực phẩm sạch từ nguồn cho Chương tr&amp;igrave;nh &amp;ldquo;&lt;strong&gt;1 triệu suất ăn cho người d&amp;acirc;n gặp kh&amp;oacute; khăn&lt;/strong&gt;&amp;rdquo; do ảnh hưởng của Covid-19 của TP.Hồ Ch&amp;iacute; Minh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;To&amp;agrave;n bộ 5.000 kg sản phẩm của Mavin gồm: x&amp;uacute;c x&amp;iacute;ch, đồ vi&amp;ecirc;n, gi&amp;ograve; chả sẽ được Chương tr&amp;igrave;nh tiếp nhận trong tuần đầu ti&amp;ecirc;n của th&amp;aacute;ng 9/2021 v&amp;agrave; sử dụng để tăng cường dinh dưỡng, phục vụ c&amp;aacute;c b&amp;aacute;c sỹ tuyến đầu, bệnh viện d&amp;atilde; chiến v&amp;agrave; c&amp;aacute;c bếp ăn từ thiện. Một phần sản phẩm cũng sẽ được sử dụng để hỗ trợ trực tiếp cho c&amp;aacute;c gia đ&amp;igrave;nh ngh&amp;egrave;o tại c&amp;aacute;c khu phong tỏa của TP. HCM.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chương tr&amp;igrave;nh &amp;ldquo;&lt;strong&gt;1 triệu suất ăn cho người d&amp;acirc;n c&amp;oacute; ho&amp;agrave;n cảnh kh&amp;oacute; khăn&lt;/strong&gt;&amp;rdquo;, th&amp;ocirc;ng qua Trung t&amp;acirc;m an sinh TP.HCM (Ủy Ban Mặt trận Tổ quốc VN) v&amp;agrave; sự phối hợp của c&amp;aacute;c đơn vị: Th&amp;agrave;nh đo&amp;agrave;n TP.HCM, Sở C&amp;ocirc;ng thương TP. HCM, Hội Doanh nghiệp h&amp;agrave;ng Việt Nam chất lượng cao&amp;hellip; sẽ hỗ trợ trực tiếp cho c&amp;aacute;c hộ gia đ&amp;igrave;nh ngh&amp;egrave;o trong hơn 4.000 khu phong tỏa tại TP.HCM hiện nay, c&amp;ocirc;ng nh&amp;acirc;n mất việc, người lao động mất thu nhập do t&amp;igrave;nh h&amp;igrave;nh gi&amp;atilde;n c&amp;aacute;ch. Chương tr&amp;igrave;nh cũng hỗ trợ suất ăn cho c&amp;aacute;c nh&amp;acirc;n vi&amp;ecirc;n y tế tuyến đầu nếu c&amp;aacute;c bệnh viện v&amp;agrave; tổ chức y tế c&amp;oacute; nhu cầu. Chương tr&amp;igrave;nh dự kiến k&amp;eacute;o d&amp;agrave;i từ nay đến giữa th&amp;aacute;ng 9-2021. C&amp;aacute;c suất ăn được thể hiện qua hai h&amp;igrave;nh thức gồm phần qu&amp;agrave; nhu yếu phẩm v&amp;agrave; suất ăn đ&amp;atilde; chế biến.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/new/Anh trao qua TP HCM 1.jpg" alt="" width="600" height="419" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/new/Anh trao qua TP HCM 2.jpg" alt="" width="600" height="427" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;H&amp;igrave;nh ảnh: S&amp;aacute;ng nay, 31/8/2021, hơn 1 tấn sản phẩm đầu ti&amp;ecirc;n đ&amp;atilde; được Ban Tổ chức tiếp nhận v&amp;agrave; chuyển đến phục vụ c&amp;aacute;c bếp ăn thiện nguyện phục vụ người ngh&amp;egrave;o của TP. HCM.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đồng h&amp;agrave;nh với cuộc chiến chống Covid-19, b&amp;ecirc;n cạnh giữ vững sản xuất, đảm bảo m&amp;ocirc;i trường an to&amp;agrave;n, Tập đo&amp;agrave;n Mavin cũng đ&amp;atilde; tham gia rất nhiều hoạt động an sinh x&amp;atilde; hội, thiện nguyện, chung tay chia sẻ với kh&amp;oacute; khăn của cộng đồng tại c&amp;aacute;c địa b&amp;agrave;n c&amp;oacute; t&amp;igrave;nh h&amp;igrave;nh dịch bệnh diễn biến phức tạp.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tại H&amp;agrave; Nội, Mavin đ&amp;atilde; t&amp;agrave;i trợ 3.500 kg thực phẩm sạch từ nguồn cho chuỗi Si&amp;ecirc;u thị mini 0 đồng được tổ chức tại c&amp;aacute;c Quận, Huyện của Thủ đ&amp;ocirc; trong thời gian gi&amp;atilde;n c&amp;aacute;ch, chung tay hỗ trợ h&amp;agrave;ng chục ngh&amp;igrave;n ho&amp;agrave;n cảnh người lao động v&amp;agrave; sinh vi&amp;ecirc;n ngh&amp;egrave;o kh&amp;oacute; khăn. B&amp;ecirc;n cạnh đ&amp;oacute;, Mavin cũng đ&amp;atilde; phối hợp với Th&amp;agrave;nh đo&amp;agrave;n H&amp;agrave; Nội tham gia chương tr&amp;igrave;nh Tiếp sức sinh vi&amp;ecirc;n Thủ đ&amp;ocirc; vượt qua Covid-19, t&amp;agrave;i trợ 1.000 g&amp;oacute;i x&amp;uacute;c x&amp;iacute;ch v&amp;agrave; 500 g&amp;oacute;i c&amp;aacute; vi&amp;ecirc;n cho sinh vi&amp;ecirc;n ngh&amp;egrave;o mắc kẹt trong c&amp;aacute;c khu nh&amp;agrave; trọ, k&amp;yacute; t&amp;uacute;c x&amp;aacute; trong thời gian gi&amp;atilde;n c&amp;aacute;ch x&amp;atilde; hội. (Xem chi tiết c&amp;aacute;c Chương tr&amp;igrave;nh chung tay đẩy l&amp;ugrave;i Covid-19 của Mavin&lt;em&gt;&lt;strong&gt;&lt;a href="https://mavin-group.com/vi/mavin-voi-cong-dong/chung-tay-cung-cong-dong-day-lui-covid-19.html"&gt; tại đ&amp;acirc;y&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;)&amp;nbsp;&lt;/p&gt;</content_html>
+	<date_dt>2021-09-01T04:00:00.000Z</date_dt>
+	<createdDate>2021-10-21T09:12:21.138Z</createdDate>
+	<createdDate_dt>2021-10-21T09:12:21.138Z</createdDate_dt>
+	<lastModifiedDate>2021-10-21T09:12:21.138Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-21T09:12:21.138Z</lastModifiedDate_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>
