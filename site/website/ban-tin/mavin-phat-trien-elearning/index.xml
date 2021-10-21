@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/pages/tintuc.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6125</objectGroupId>
+	<objectId>612562f7-6894-029c-83dd-5171fade3144</objectId>
+	<internal-name>Mavin phát triển hệ thống đào tạo trực tuyến (E-learning)</internal-name>
+	<navLabel>Mavin phát triển hệ thống đào tạo trực tuyến (E-learning)</navLabel>
+	<title_s>Mavin phát triển hệ thống đào tạo trực tuyến (E-learning)</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>mavin-phat-trien-elearning</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/new/Kick off E-learning.png</image_s>
+	<slide_o item-list="true"/>
+	<content_html>&lt;p style="text-align: justify;"&gt;Ng&amp;agrave;y 06/10/2021, Tập đo&amp;agrave;n Mavin đ&amp;atilde; khởi động (kick-off) Dự &amp;aacute;n Ph&amp;aacute;t triển hệ thống Đ&amp;agrave;o tạo trực tuyến (Mavin E-learning). Buổi lễ kick-off được tổ chức tr&amp;ecirc;n nền tảng trực tuyến (Zoom) với sự tham dự của &amp;ocirc;ng David John Whitehead &amp;ndash; Chủ tịch HĐQT, &amp;ocirc;ng Nguyễn Anh Tuấn &amp;ndash; Ph&amp;oacute; Tổng Gi&amp;aacute;m Gi&amp;aacute;m đốc Tập đo&amp;agrave;n Mavin v&amp;agrave; to&amp;agrave;n thể Ban triển khai Dự &amp;aacute;n, đối t&amp;aacute;c cung cấp giải ph&amp;aacute;p DES - đơn vị gi&amp;agrave;u kinh nghiệm trong việc cung cấp c&amp;aacute;c giải ph&amp;aacute;p v&amp;agrave; dịch vụ đ&amp;agrave;o tạo trực tuyến tại Việt Nam.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/new/Kick off E-learning.png" alt="" width="600" height="422" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;C&amp;aacute;n bộ Dự &amp;aacute;n tham dự qua nền tảng trực tuyến Zoom&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;&lt;img src="/static-assets/images/new/Mavin Elearning 2021 (2).JPG" alt="" width="600" height="400" /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;C&amp;aacute;n bộ tham dự Lễ Kick-off tại Văn ph&amp;ograve;ng H&amp;agrave; Nội&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong thời đại c&amp;ocirc;ng nghệ 4.0, E-learning đ&amp;atilde; trở th&amp;agrave;nh một phương ph&amp;aacute;p học tập hiệu quả nhất d&amp;agrave;nh cho doanh nghiệp. Khi c&amp;aacute;c nội dung đ&amp;agrave;o tạo đ&amp;atilde; được số h&amp;oacute;a th&amp;agrave;nh b&amp;agrave;i giảng điện tử th&amp;igrave; việc quản l&amp;yacute; học tập, tham gia học tập trở n&amp;ecirc;n đơn giản v&amp;agrave; tối ưu. Đối với Mavin, E-learning đ&amp;oacute;ng vai tr&amp;ograve; thiết kế nền m&amp;oacute;ng cho hoạt động học hỏi v&amp;agrave; ph&amp;aacute;t triển gi&amp;uacute;p c&amp;aacute;n bộ ho&amp;agrave;n thiện năng lực chuy&amp;ecirc;n m&amp;ocirc;n v&amp;agrave; năng lực ph&amp;aacute;t triển tại Mavin, g&amp;oacute;p phần x&amp;acirc;y dựng đội ngũ nh&amp;acirc;n sự mang đặc trưng Mavin, ph&amp;ugrave; hợp với tầm nh&amp;igrave;n, sứ mệnh v&amp;agrave; gi&amp;aacute; trị cốt l&amp;otilde;i c&amp;ocirc;ng ty.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dự &amp;aacute;n Mavin E-learning được triển khai trong gần 90 ng&amp;agrave;y với 2 giai đoạn ch&amp;iacute;nh gồm: Khảo s&amp;aacute;t, c&amp;agrave;i đặt v&amp;agrave; Ph&amp;aacute;t triển, t&amp;iacute;ch hợp Hệ thống. Th&amp;agrave;nh vi&amp;ecirc;n triển khai Dự &amp;aacute;n gồm Ph&amp;ograve;ng Học hỏi v&amp;agrave; Ph&amp;aacute;t triển Mavin (L&amp;D), đại diện H&amp;agrave;nh ch&amp;iacute;nh Nh&amp;acirc;n sự c&amp;aacute;c đơn vị v&amp;agrave; c&amp;aacute;c bộ phận chuy&amp;ecirc;n m&amp;ocirc;n li&amp;ecirc;n quan đến c&amp;ocirc;ng t&amp;aacute;c giảng dạy tr&amp;ecirc;n to&amp;agrave;n hệ thống.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavin E-learning sẽ hỗ trợ c&amp;aacute;n bộ học tập mọi l&amp;uacute;c, mọi nơi v&amp;agrave; 24/7, với những lợi &amp;iacute;ch:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;- T&amp;iacute;ch hợp với Hệ thống quản trị nh&amp;acirc;n sự HiStaff, giảm thao t&amp;aacute;c thủ c&amp;ocirc;ng, số h&amp;oacute;a c&amp;ocirc;ng t&amp;aacute;c quản l&amp;yacute; đ&amp;agrave;o tạo to&amp;agrave;n hệ thống;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;- X&amp;acirc;y dựng thư viện số tập trung gi&amp;uacute;p c&amp;aacute;n bộ Mavin lưu trữ tri thức v&amp;agrave; sử dụng h&amp;agrave;ng ng&amp;agrave;y;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;- Từng bước x&amp;acirc;y dựng b&amp;agrave;i giảng điện tử phục vụ nhu cầu học hỏi li&amp;ecirc;n tục của c&amp;aacute;n bộ;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;- X&amp;acirc;y dựng hệ thống đo lường kh&amp;aacute;ch quan, minh bạch kết quả đ&amp;agrave;o tạo;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;em&gt;- Tiết kiệm chi ph&amp;iacute;, sử dụng hiệu quả ng&amp;acirc;n s&amp;aacute;ch đ&amp;agrave;o tạo;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;aacute;t biểu tại buổi lễ kick-off Dự &amp;aacute;n, &amp;ocirc;ng David John Whitehead khẳng định đầu tư cho con người được x&amp;aacute;c định sẽ l&amp;agrave; ch&amp;igrave;a kh&amp;oacute;a gi&amp;uacute;p Mavin đạt được những mục ti&amp;ecirc;u ph&amp;aacute;t triển.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;ldquo;Ph&amp;aacute;t triển E-learning l&amp;agrave; một xu hướng ph&amp;ugrave; hợp với với xu hướng ph&amp;aacute;t triển của c&amp;aacute;c Tập đo&amp;agrave;n lớn tại Việt Nam v&amp;agrave; tr&amp;ecirc;n thế giới. T&amp;ocirc;i tin rằng khi hệ thống E-learning được ho&amp;agrave;n thiện v&amp;agrave; &amp;aacute;p dụng ch&amp;iacute;nh thức sẽ tạo động lực cho c&amp;aacute;c s&amp;aacute;ng kiến, &amp;yacute; tưởng cải tiến mới, tư duy mới trong tập thể, th&amp;uacute;c đẩy hệ thống Mavin ph&amp;aacute;t triển kh&amp;ocirc;ng ngừng.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Đối với mỗi c&amp;aacute;n bộ nh&amp;acirc;n vi&amp;ecirc;n, E-learning sẽ cung cấp ch&amp;uacute;ng ta một hệ thống hỗ trợ tuyệt vời gi&amp;uacute;p c&amp;aacute; nh&amp;acirc;n học hỏi v&amp;agrave; ph&amp;aacute;t triển mọi l&amp;uacute;c, mọi nơi, 24/7. V&amp;igrave; vậy, t&amp;ocirc;i mong rằng mỗi c&amp;aacute; nh&amp;acirc;n h&amp;atilde;y tận dụng E-learning, khai th&amp;aacute;c tối đa những lợi &amp;iacute;ch của Hệ thống để vừa phục vụ ph&amp;aacute;t triển c&amp;ocirc;ng việc của m&amp;igrave;nh tại Mavin m&amp;agrave; c&amp;ograve;n ho&amp;agrave;n thiện, tăng gi&amp;aacute; trị cho mỗi người th&amp;ocirc;ng qua học tập&amp;rdquo;, Chủ tịch Mavin chia sẻ tại Buổi lễ.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chủ tịch cũng đ&amp;atilde; gửi lời ch&amp;uacute;c c&amp;aacute;c th&amp;agrave;nh vi&amp;ecirc;n Ban triển khai Dự &amp;aacute;n sẽ c&amp;oacute; những trải nghiệm tuyệt vời c&amp;ugrave;ng Dự &amp;aacute;n v&amp;agrave; mong c&amp;aacute;c th&amp;agrave;nh vi&amp;ecirc;n d&amp;agrave;nh t&amp;acirc;m huyết cho E-learning bởi những đ&amp;oacute;ng g&amp;oacute;p để ph&amp;aacute;t triển con người lu&amp;ocirc;n l&amp;agrave; v&amp;ocirc; gi&amp;aacute; v&amp;agrave; đ&amp;aacute;ng tr&amp;acirc;n qu&amp;yacute; nhất.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ph&amp;aacute;t triển Mavin E-learning l&amp;agrave; một th&amp;agrave;nh phần trong kế hoạch x&amp;acirc;y dựng Kh&amp;ocirc;ng gian l&amp;agrave;m việc số (Digital Workspace) của Tập đo&amp;agrave;n Mavin, v&amp;agrave; l&amp;agrave; một Dự &amp;aacute;n quan trọng trong Chương tr&amp;igrave;nh chuyển đổi số giai đoạn 5 năm 2019 &amp;ndash; 2023.&amp;nbsp;&lt;/p&gt;</content_html>
+	<createdDate>2021-10-21T09:22:57.734Z</createdDate>
+	<createdDate_dt>2021-10-21T09:22:57.734Z</createdDate_dt>
+	<lastModifiedDate>2021-10-21T09:22:57.734Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-21T09:22:57.734Z</lastModifiedDate_dt>
+	<date_dt>2021-10-21T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</page>
