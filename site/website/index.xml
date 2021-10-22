@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2021-09-29T02:33:31.752Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-29T02:33:31.752Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-22T09:47:01.966Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-22T09:47:01.966Z</lastModifiedDate_dt>
 	<title_t>Mavin-Food</title_t>
 	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>eae80de2-40f3-601d-7236-b66d34d383a1</key>
 	<value>Giới thiệu - Home</value>
@@ -124,11 +124,11 @@
 	<objectId>27ad99b8-4ae2-b982-aaec-b15b4d56e8d1</objectId>
 	<file-name>27ad99b8-4ae2-b982-aaec-b15b4d56e8d1.xml</file-name>
 	<internal-name>Slide</internal-name>
-	<image_s>/static-assets/images/header/bg-app1.jpg</image_s>
+	<image_s>/static-assets/images/header/Website Mavin Food slide (1).jpg</image_s>
 	<createdDate>2021-06-21T08:57:03.479Z</createdDate>
 	<createdDate_dt>2021-06-21T08:57:03.479Z</createdDate_dt>
-	<lastModifiedDate>2021-06-21T08:57:03.479Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-06-21T08:57:03.479Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-22T09:47:13.602Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-22T09:47:13.602Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
 </page>
