@@ -220,7 +220,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>desktop,repo</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -390,7 +390,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>desktop,repo</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
