@@ -39,13 +39,13 @@
               <a href="/thu-vien" style="height: 55px;">
                 <ul class="nav nav-pills nav-fill nav-tab-news mb-3 mt-2" id="pills-tab" role="tablist" >
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link text-uppercase fw-bold" id="pills-gallery-tab" data-bs-toggle="pill" data-bs-target="#pills-gallery" type="button" role="tab" aria-controls="pills-gallery" aria-selected="true">Thư viện <br>ảnh</button>
+                    <button class="nav-link text-uppercase fw-bold" id="pills-gallery-tab" data-bs-toggle="pill" data-bs-target="#pills-gallery" type="button" role="tab" aria-controls="pills-gallery" aria-selected="true">Library <br>Images</button>
                   </li>
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link active text-uppercase fw-bold" id="pills-video-tab" data-bs-toggle="pill" data-bs-target="#pills-video" type="button" role="tab" aria-controls="pills-video" aria-selected="false">Thư viện <br>video</button>
+                    <button class="nav-link active text-uppercase fw-bold" id="pills-video-tab" data-bs-toggle="pill" data-bs-target="#pills-video" type="button" role="tab" aria-controls="pills-video" aria-selected="false">Library <br>Videos</button>
                   </li>
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link text-uppercase fw-bold" id="pills-document-tab" data-bs-toggle="pill" data-bs-target="#pills-document" type="button" role="tab" aria-controls="pills-document" aria-selected="false">Thư viện <br>tài liệu</button>
+                    <button class="nav-link text-uppercase fw-bold" id="pills-document-tab" data-bs-toggle="pill" data-bs-target="#pills-document" type="button" role="tab" aria-controls="pills-document" aria-selected="false">Library <br>Docs</button>
                   </li>
                 </ul>
               </a>
