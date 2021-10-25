@@ -7,7 +7,7 @@
             <a class="u-logo d-block" href="#"><img src="${contentModel.image_s}" alt="Logo" height="100"></a></a>
             <div class="d-flex justify-content-between align-items-center" style="padding-top: 1.5rem; padding-bottom: .5rem;">
               <a class="text-white" href="/"><i class="fas fa-home"></i></a>
-              <a href="#"><img src="/static-assets/dist/images/United-Kingdom.png" alt=""></a>
+              <a href="/en/home/"><img src="/static-assets/dist/images/United-Kingdom.png" alt=""></a>
               <a class="text-white" href="/"><i class="fas fa-search"></i></a>
             </div>
             <button class="toggle-mega-nav-btn btn d-block border-0 p-0 text-white w-100">
