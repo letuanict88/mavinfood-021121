@@ -43,24 +43,84 @@
 	<content_html>&lt;p&gt;&lt;em&gt;&lt;span style="font-size: 12pt; color: #485056; font-weight: 500; font-family: UVF-DINPro;"&gt; The materials for Mavin&amp;rsquo;s production are fresh meat provided by its own company&amp;rsquo;s system. This system contains many livestock&amp;rsquo;s production factories in over the country with the capacity of hundreds of thousands tons per year, a large amount of breeding and meaty swine&amp;rsquo;s farm in the North with directly imported swine&amp;rsquo;s breeds from the United Kingdom. Annually, this farm&amp;rsquo;s system provides thousands of tons of high quality and meaty swine with high safety and hygiene for the market. And Mavin is also a link of production&amp;rsquo;s chain&amp;nbsp;&amp;ldquo;From Farm to Table&amp;rdquo; &lt;/span&gt;&lt;/em&gt;&lt;/p&gt;</content_html>
 	<createdDate>2021-10-25T03:15:06.695Z</createdDate>
 	<createdDate_dt>2021-10-25T03:15:06.695Z</createdDate_dt>
-	<lastModifiedDate>2021-10-25T03:17:17.669Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-25T03:17:17.669Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-25T03:19:27.232Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-25T03:19:27.232Z</lastModifiedDate_dt>
 	<product_o item-list="true">	<item>	<name_s>Animal Feed </name_s>
 	<name2_s/>
-	<image_s/>
+	<image_s>/static-assets/images/1-1.png</image_s>
 	</item>	<item>	<name_s>Farm</name_s>
-	<image_s/>
+	<image_s>/static-assets/images/1-2.png</image_s>
 	<name2_s/>
 	</item>	<item>	<name_s>Veterinary Pharmacy</name_s>
-	<image_s/>
+	<image_s>/static-assets/images/1-3.png</image_s>
 	<name2_s/>
 	</item></product_o>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>36cd354d-36d3-39de-f27b-a6c1888c2028</key>
+	<value>Product</value>
+<component id="36cd354d-36d3-39de-f27b-a6c1888c2028">
+	<content-type>/component/encomsphome</content-type>
+	<display-template>/templates/web/components/en/sp-home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>36cd</objectGroupId>
+	<objectId>36cd354d-36d3-39de-f27b-a6c1888c2028</objectId>
+	<file-name>36cd354d-36d3-39de-f27b-a6c1888c2028.xml</file-name>
+	<internal-name>Product</internal-name>
+	<products_o item-list="true">	<item>	<name_s>Sausage</name_s>
+	<link_s>/</link_s>
+	<image_s>/static-assets/images/home/xuc-xich.png</image_s>
+	</item>	<item>	<name_s>Fish ball</name_s>
+	<image_s>/static-assets/images/home/do-vien.png</image_s>
+	<link_s>/</link_s>
+	</item>	<item>	<name_s>Spring rolls </name_s>
+	<image_s>/static-assets/images/home/Dia Gio cha (Home).png</image_s>
+	<link_s>/</link_s>
+	</item>	<item>	<name_s>Cold Cut </name_s>
+	<image_s>/static-assets/images/home/cat-lat.png</image_s>
+	<link_s>/</link_s>
+	</item>	<item>	<name_s>Other</name_s>
+	<image_s>/static-assets/images/home/sp-khac.png</image_s>
+	<link_s>/</link_s>
+	</item></products_o>
+	<featPro_o item-list="true">	<item>	<link_s>/</link_s>
+	<image_s>/static-assets/images/home/XX Hong khoi.png</image_s>
+	</item>	<item>	<link_s>/</link_s>
+	<image_s>/static-assets/images/home/XX Ga.png</image_s>
+	</item>	<item>	<link_s>/</link_s>
+	<image_s>/static-assets/images/home/XX Mavin Gia dinh.png</image_s>
+	</item>	<item>	<link_s>/</link_s>
+	<image_s>/static-assets/images/home/XX Mavinia.png</image_s>
+	</item>	<item>	<link_s>/</link_s>
+	<image_s>/static-assets/images/home/XX Vealino Plus.png</image_s>
+	</item></featPro_o>
+	<createdDate>2021-10-25T03:21:31.302Z</createdDate>
+	<createdDate_dt>2021-10-25T03:21:31.302Z</createdDate_dt>
+	<lastModifiedDate>2021-10-25T03:21:31.302Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-25T03:21:31.302Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>01a02c9d-79c0-07b9-2578-2b6c74519c87</key>
+	<value>News</value>
+<component id="01a02c9d-79c0-07b9-2578-2b6c74519c87">
+	<content-type>/component/encombantinhome</content-type>
+	<display-template>/templates/web/components/bantin-home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>01a0</objectGroupId>
+	<objectId>01a02c9d-79c0-07b9-2578-2b6c74519c87</objectId>
+	<file-name>01a02c9d-79c0-07b9-2578-2b6c74519c87.xml</file-name>
+	<internal-name>News</internal-name>
+	<image_s>/static-assets/images/home/Anh tin bai XX Mavin GD.jpg</image_s>
+	<createdDate>2021-10-25T03:27:10.464Z</createdDate>
+	<createdDate_dt>2021-10-25T03:27:10.464Z</createdDate_dt>
+	<lastModifiedDate>2021-10-25T03:27:10.464Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-25T03:27:10.464Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<file-name>index.xml</file-name>
 	<folder-name>home</folder-name>
 	<createdDate>2021-10-25T03:14:27.579Z</createdDate>
 	<createdDate_dt>2021-10-25T03:14:27.579Z</createdDate_dt>
-	<lastModifiedDate>2021-10-25T03:14:27.579Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-25T03:14:27.579Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-25T03:19:21.893Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-25T03:19:21.893Z</lastModifiedDate_dt>
 </page>
