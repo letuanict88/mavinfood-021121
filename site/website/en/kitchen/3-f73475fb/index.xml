@@ -7,9 +7,9 @@
 	<objectGroupId>ee98fdde</objectGroupId>
 	<objectId>ee98fdde-5d42-4646-8014-ad52c97d8fae</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>3-f73475fb</folder-name>
+	<folder-name>4</folder-name>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<image_s>/static-assets/images/bep/Anh tin bai XX Mavin GD.jpg</image_s>
 	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>b6116e3d-e988-a7c9-7b5d-95bb0f610654</key>
 	<value>1</value>
@@ -29,12 +29,12 @@
 	<lastModifiedDate_dt>2021-10-01T03:59:25.452Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
-	<internal-name>3</internal-name>
-	<navLabel>3</navLabel>
-	<title_s>3</title_s>
+	<internal-name>4</internal-name>
+	<navLabel>4</navLabel>
+	<title_s>4</title_s>
 	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
 	<createdDate>2021-10-01T03:59:05.096Z</createdDate>
 	<createdDate_dt>2021-10-01T03:59:05.096Z</createdDate_dt>
-	<lastModifiedDate>2021-10-01T04:00:25.311Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-01T04:00:25.311Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-25T03:42:44.495Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-25T03:42:44.495Z</lastModifiedDate_dt>
 </page>
