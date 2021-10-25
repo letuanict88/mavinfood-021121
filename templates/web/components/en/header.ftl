@@ -28,13 +28,13 @@
         <div id="megaNavContentTop" class="mega-nav__content row">
           <ul class="list-unstyled col-custom">
             <a href="/en/introduction"><p class="fw-bold text-white mb-2" >Introduction</p></a>
-            <li class="mb-2"><a class="text-white" href="/tong-quan">Thư ngỏ từ Chủ tịch Tập đoàn</a></li>
-            <li class="mb-2"><a class="text-white" href="/tong-quan/chuoi-gia-tri">Chuỗi giá trị Sạch từ nguồn của Mavin</a></li>
-            <li class="mb-2"><a class="text-white" href="/tong-quan/lich-su">Lịch sử hình thành</a></li>
-            <li class="mb-2"><a class="text-white" href="/tong-quan/quy-trinh-ss">Quy trình Sản xuất</a></li>
-            <li class="mb-2"><a class="text-white" href="/tong-quan/chung-nhan-giai-thuong">Chứng chỉ - Giải thưởng</a></li>
-            <li class="mb-2"><a class="text-white" href="/tong-quan/cong-bo-san-pham">Công bố Sản phẩm</a></li>
-            <li class="mb-2"><a class="text-white" href="/tong-quan/tam-nhin-su-menh">Tầm nhìn - Sứ mệnh</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/introduction">Message from Chairman</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/introduction/valuechain">The supply chain from Farm to Table</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/introduction/history">History</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/introduction/production">Processing</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/introduction/award">Recognition & Awards</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/introduction/production-announcement">Product Announcement</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/introduction/award">Mission – Vission</a></li>
           </ul>
 
           <ul class="list-unstyled d-flex flex-column justify-content-end col-custom">
@@ -44,15 +44,15 @@
 
           <ul class="list-unstyled d-flex flex-column justify-content-end col-custom">
             <a href="/en/recuitment"><p class="fw-bold text-white mb-2">Recuitment</p></a>
-            <li class="mb-2"><a class="text-white" href="/tuyen-dung">Tin tuyển dụng</a></li>
-            <li class="mb-2"><a class="text-white" href="#">Chính sách Nhân sự</a></li>          
+            <li class="mb-2"><a class="text-white" href="/en/recuitment">Recuitment News</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/recuitment">Personnel Policy</a></li>          
           </ul>
 
           <ul class="list-unstyled d-flex flex-column justify-content-end col-custom">
             
             <li class="fw-bold mb-2"><a class="text-white" href="/en/contact-us">Contact Us</a></li>
             <li class="fw-bold mb-2"><a class="text-white" href="/en/kitchen">Mavin Kitchen</a></li>
-            <li class="fw-bold mb-2"><a class="text-white" href="/en/product">Truy suat nguon goc</a></li>
+            <li class="fw-bold mb-2"><a class="text-white" href="/en/product">Tracibility</a></li>
           </ul>
         </div>
         <!-- /nav 1 -->
@@ -60,36 +60,36 @@
         <!-- nav 2 -->
         <div id="megaNavContentBottom" class="mega-nav__content row pt-3">
           <ul class="list-unstyled col-custom">
-            <a href="/san-pham"><p class="fw-bold text-white mb-2">Sản phẩm</p></a>
-            <li class="mb-2"><a class="text-white" href="/san-pham/xuc-xich">Xúc xích</a></li>
-            <li class="mb-2"><a class="text-white" href="/san-pham/do-vien">Đồ viên</a></li>
-            <li class="mb-2"><a class="text-white" href="/san-pham/gio-cha">Giò chả</a></li>
-            <li class="mb-2"><a class="text-white" href="/san-pham/cat-lat">Cắt lát</a></li>
-            <li class="mb-2"><a class="text-white" href="/san-pham/sp-khac">Sản phẩm khác</a></li>
-            <li class="mb-2"><a class="text-white" href="/san-pham">Sản phẩm tiêu biểu</a></li>
+            <a href="/en/product"><p class="fw-bold text-white mb-2">Products</p></a>
+            <li class="mb-2"><a class="text-white" href="/en/product/1">Sausage</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/product/4">Fish Ball</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/product/3">Spring Rolls</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/product/2">Cold Cut</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/product/5">Other</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/product">Typical Products</a></li>
           </ul>
 
           <ul class="list-unstyled d-flex flex-column col-custom">
-            <a href="/cham-soc-khach-hang"><p class="fw-bold text-white mb-2">Chăm sóc khách hàng</p></a>
-            <li class="mb-2"><a class="text-white" href="/he-thong-ban-hang">Thông tin Điểm bán</a></li>
-            <li class="mb-2"><a class="text-white" href="/cham-soc-khach-hang/khuyen-mai">Thông tin Khuyến mại</a></li>
-            <li class="mb-2"><a class="text-white" href="/cham-soc-khach-hang/qa">Q & A</a></li>
+            <a href="/en/customer-service"><p class="fw-bold text-white mb-2">Customer Service</p></a>
+            <li class="mb-2"><a class="text-white" href="/en/distribution-network">Distribution network</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/distribution-network/promotion">Promotion</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/distribution-network/qa">Q & A</a></li>
           </ul>
           
           <ul class="list-unstyled d-flex flex-column col-custom">
-            <a href="/thu-vien"><p class="fw-bold text-white mb-2">Thư viện Tư liệu</p></a>
-            <li class="mb-2"><a class="text-white" href="/thu-vien/hinh-anh">Thư viện Hình ảnh</a></li>
-            <li class="mb-2"><a class="text-white" href="/thu-vien/video">Thư viện Video</a></li>
-            <li class="mb-2"><a class="text-white" href="/thu-vien/tai-lieu">Thư viện Tài liệu</a></li>
+            <a href="/en/library"><p class="fw-bold text-white mb-2">Library</p></a>
+            <li class="mb-2"><a class="text-white" href="/en/library/images">Images</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/library/video">Videos</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/library/doc">Documents</a></li>
           </ul>
 
           <ul class="list-unstyled d-flex flex-column col-custom">
-            <a href="/chinhsach/chinh-sach-website"><p class="fw-bold text-white mb-2">Chính sách Website</p></a>
-            <li class="mb-2"><a class="text-white" href="/chinhsach/chinh-sach-website">Quy ước sử dụng Website</a></li>
-            <li class="mb-2"><a class="text-white" href="/chinhsach/chinh-sach-bao-mat">Chính sách bảo mật thông tin</a></li>
-            <li class="mb-2"><a class="text-white" href="/chinhsach/dieu-kien-giao-dich">Điều kiện giao dịch chung</a></li>
-            <li class="mb-2"><a class="text-white" href="/chinhsach/van-chuyen-va-giao-nhan">Vận chuyển và giao nhận</a></li>
-            <li class="mb-2"><a class="text-white" href="/chinhsach/phuong-thuc-thanh-toan">Phương thức thanh toán</a></li>
+            <a href="/en/policy"><p class="fw-bold text-white mb-2">Website Policy</p></a>
+            <li class="mb-2"><a class="text-white" href="/en/policy">Terms of use of the Website</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/policy">Information privacy policy</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/policy">General trading conditions</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/policy">Shipping and forwarding</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/policy">Payment methods</a></li>
           </ul>
         </div>
         <!-- /nav 2 -->
@@ -108,54 +108,54 @@
         <div class="collapse navbar-collapse justify-content-center" id="navbar-mf">
           <ul class="navbar-nav mb-2 mb-lg-0">
             <li class="nav-item menu-item">
-              <a class="nav-link active" aria-current="page" href="/">Trang chủ</a>
+              <a class="nav-link active" aria-current="page" href="/en/home">Home</a>
             </li>
             <li class="nav-item btn-group menu-item">
-              <a id="dropdownExample" class="nav-link active" href="/tong-quan">Tổng quan</a>
+              <a id="dropdownExample" class="nav-link active" href="/en/introduction">Introduction</a>
               <button type="button" class="border-0 bg-transparent dropdown-toggle dropdown-toggle-split" style=" color: #505050; " id="tongquan" data-bs-toggle="dropdown" aria-expanded="false" data-bs-reference="parent">
                 <span class="visually-hidden" >Toggle Dropdown</span>
               </button>            
               <ul class="dropdown-menu" aria-labelledby="tongquan">
-                <li><a class="dropdown-item" href="/tong-quan/chuoi-gia-tri">Chuỗi giá trị Sạch từ Nông trại tới Bàn ăn</a></li>
-                <li><a class="dropdown-item" href="/tong-quan/lich-su">Lịch sử hình thành</a></li>
-                <li><a class="dropdown-item" href="/tong-quan/quy-trinh-ss">Quy trình sản xuất</a></li>
-                <li><a class="dropdown-item" href="/tong-quan/chung-nhan-giai-thuong">Chứng chỉ - Giải thưởng</a></li>
-                <li><a class="dropdown-item" href="/tong-quan/cong-bo-san-pham">Công bố sản phẩm</a></li>
-                <li><a class="dropdown-item" href="/tong-quan/tam-nhin-su-menh">Tầm nhìn - Sứ mệnh</a></li>
+                <li><a class="dropdown-item" href="/en/introduction">Message from Chairman</a></li>
+                <li><a class="dropdown-item" href="/en/introduction/valuechain">The supply chain from Farm to Table</a></li>
+                <li><a class="dropdown-item" href="/en/introduction/history">History</a></li>
+                <li><a class="dropdown-item" href="/en/introduction/production">Processing</a></li>
+                <li><a class="dropdown-item" href="/en/introduction/award">Recognition & Awards</a></li>
+                <li><a class="dropdown-item" href="/en/introduction/award">Mission – Vission</a></li>
               </ul>
             </li>
             <li class="nav-item menu-item btn-group">
-              <a id="dropdownExample" class="nav-link active" href="/san-pham">Sản phẩm</a>
+              <a id="dropdownExample" class="nav-link active" href="/en/product">Products</a>
               <button type="button" class="border-0 bg-transparent dropdown-toggle dropdown-toggle-split" style=" color: #505050; " id="sanpham" data-bs-toggle="dropdown" aria-expanded="false" data-bs-reference="parent">
                 <span class="visually-hidden">Toggle Dropdown</span>
               </button>   
               <ul class="dropdown-menu" aria-labelledby="sanpham">
-                <li><a class="dropdown-item" href="/san-pham/xuc-xich">Xúc xích</a></li>
-                <li><a class="dropdown-item" href="/san-pham/do-vien">Đồ viên</a></li>
-                <li><a class="dropdown-item" href="/san-pham/gio-cha">Giò chả</a></li>
-                <li><a class="dropdown-item" href="/san-pham/cat-lat">Cắt lát</a></li>
-                <li><a class="dropdown-item" href="/san-pham/sp-khac">Sản phẩm khác</a></li>
+                <li><a class="dropdown-item" href="/en/product/1">Sausage</a></li>
+                <li><a class="dropdown-item" href="/en/product/4">Fish Ball</a></li>
+                <li><a class="dropdown-item" href="/en/product/3">Spring Rolls</a></li>
+                <li><a class="dropdown-item" href="/en/product/2">Cold Cut</a></li>
+                <li><a class="dropdown-item" href="/en/product/5">Other</a></li>
               </ul>
             </li>
             <li class="nav-item menu-item">
-              <a class="nav-link" href="/ban-tin">Tin tức</a>
+              <a class="nav-link" href="/en/news">News</a>
             </li>
             <li class="nav-item menu-item btn-group">
-             <a id="dropdownExample" class="nav-link active" href="/cham-soc-khach-hang">Chăm sóc khách hàng</a>
+             <a id="dropdownExample" class="nav-link active" href="/en/customer-service">Customeer Service</a>
               <button type="button" class="border-0 bg-transparent dropdown-toggle dropdown-toggle-split" style=" color: #505050; " id="cskh" data-bs-toggle="dropdown" aria-expanded="false" data-bs-reference="parent">
                 <span class="visually-hidden">Toggle Dropdown</span>
               </button>   
               <ul class="dropdown-menu" aria-labelledby="cskh">
-                <li><a class="dropdown-item" href="/he-thong-ban-hang">Thông tin điểm bán</a></li>
-                <li><a class="dropdown-item" href="/cham-soc-khach-hang/khuyen-mai">Thông tin khuyến mại</a></li>
-                <li><a class="dropdown-item" href="/cham-soc-khach-hang/qa">Q&A</a></li>
+                <li><a class="dropdown-item" href="/en/distribution-network">Distribution Network</a></li>
+                <li><a class="dropdown-item" href="/en/distribution-network/promotion">Promotion</a></li>
+                <li><a class="dropdown-item" href="/en/distribution-network/qa">Q&A</a></li>
               </ul>
             </li>
             <li class="nav-item menu-item">
-              <a class="nav-link" href="/tuyen-dung">Tuyển dụng</a>
+              <a class="nav-link" href="/en/recuitment">Recuitment</a>
             </li>
             <li class="nav-item menu-item">
-              <a class="nav-link" href="/lien-he">Liên hệ</a>
+              <a class="nav-link" href="/en/contact-us">Contact Us</a>
             </li>
           </ul>
         </div>
