@@ -101,28 +101,28 @@
 	<lastModifiedDate>2021-10-25T03:29:12.613Z</lastModifiedDate>
 	<lastModifiedDate_dt>2021-10-25T03:29:12.613Z</lastModifiedDate_dt>
 </component>
-	</item>	<item datasource="sections" inline="true">	<key>01a02c9d-79c0-07b9-2578-2b6c74519c87</key>
+	</item>	<item datasource="sections" inline="true">	<key>792236c4-6611-c7d1-f762-1f42edf3bd53</key>
 	<value>News</value>
-<component id="01a02c9d-79c0-07b9-2578-2b6c74519c87">
+<component id="792236c4-6611-c7d1-f762-1f42edf3bd53">
 	<content-type>/component/encombantinhome</content-type>
-	<display-template>/templates/web/components/bantin-home.ftl</display-template>
+	<display-template>/templates/web/components/en/bantin-home.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>01a0</objectGroupId>
-	<objectId>01a02c9d-79c0-07b9-2578-2b6c74519c87</objectId>
-	<file-name>01a02c9d-79c0-07b9-2578-2b6c74519c87.xml</file-name>
+	<objectGroupId>7922</objectGroupId>
+	<objectId>792236c4-6611-c7d1-f762-1f42edf3bd53</objectId>
+	<file-name>792236c4-6611-c7d1-f762-1f42edf3bd53.xml</file-name>
 	<internal-name>News</internal-name>
 	<image_s>/static-assets/images/home/Anh tin bai XX Mavin GD.jpg</image_s>
-	<createdDate>2021-10-25T03:27:10.464Z</createdDate>
-	<createdDate_dt>2021-10-25T03:27:10.464Z</createdDate_dt>
-	<lastModifiedDate>2021-10-25T03:27:10.464Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-25T03:27:10.464Z</lastModifiedDate_dt>
+	<createdDate>2021-10-25T04:35:06.917Z</createdDate>
+	<createdDate_dt>2021-10-25T04:35:06.917Z</createdDate_dt>
+	<lastModifiedDate>2021-10-25T04:35:06.917Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-25T04:35:06.917Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<file-name>index.xml</file-name>
 	<folder-name>home</folder-name>
 	<createdDate>2021-10-25T03:14:27.579Z</createdDate>
 	<createdDate_dt>2021-10-25T03:14:27.579Z</createdDate_dt>
-	<lastModifiedDate>2021-10-25T03:29:03.979Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-25T03:29:03.979Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-25T04:34:54.070Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-25T04:34:54.070Z</lastModifiedDate_dt>
 </page>
