@@ -16,18 +16,18 @@
 	<name_s>Youtube</name_s>
 	<link_s>wwww.yotube.com</link_s>
 	</item></socialMedia_o>
-	<policies_o item-list="true">	<item>	<content_s>Site's policies</content_s>
-	<link_s>/chinhsach/chinh-sach-website</link_s>
-	</item>	<item>	<content_s>Quy ước sử dụng website</content_s>
-	<link_s>/chinhsach/chinh-sach-website</link_s>
-	</item>	<item>	<content_s>Chính sách bảo mật thông tin</content_s>
-	<link_s>/chinhsach/chinh-sach-website</link_s>
-	</item>	<item>	<content_s>Điều kiện giao dịch chung</content_s>
-	<link_s>/chinhsach/chinh-sach-website</link_s>
-	</item>	<item>	<content_s>Vận chuyển và giao nhận</content_s>
-	<link_s>/chinhsach/van-chuyen-va-giao-nhan</link_s>
-	</item>	<item>	<content_s>Phương thức thanh toán</content_s>
-	<link_s>/chinhsach/phuong-thuc-thanh-toan</link_s>
+	<policies_o item-list="true">	<item>	<content_s>Website Policy</content_s>
+	<link_s>/en/policy</link_s>
+	</item>	<item>	<content_s>Terms of use of the Website</content_s>
+	<link_s>/en/policy</link_s>
+	</item>	<item>	<content_s>Information privacy policy</content_s>
+	<link_s>/en/policy</link_s>
+	</item>	<item>	<content_s>General trading conditions</content_s>
+	<link_s>/en/policy</link_s>
+	</item>	<item>	<content_s>Shipping and forwarding</content_s>
+	<link_s>/en/policy</link_s>
+	</item>	<item>	<content_s>Payment methods</content_s>
+	<link_s>/en/policy</link_s>
 	</item></policies_o>
 	<file-name>11cb1f67-0447-b57f-ed0d-e83a03a8c0f3.xml</file-name>
 	<internal-name>Footer</internal-name>
@@ -42,11 +42,11 @@
 	<email_s>contact@mavinfood.com</email_s>
 	<web_s>mavinfood.com</web_s>
 	<carephone_s>024 3558 5666</carephone_s>
-	<desPoli_s>MavinFoods - Thực phẩm Sạch từ nguồn</desPoli_s>
+	<desPoli_s>Mavin’s supply chain “From Farm to Table”</desPoli_s>
 	<copyright_s/>
 	<tick_s/>
 	<createdDate>2021-09-29T07:51:00.023Z</createdDate>
 	<createdDate_dt>2021-09-29T07:51:00.023Z</createdDate_dt>
-	<lastModifiedDate>2021-09-29T07:51:00.023Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-29T07:51:00.023Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-25T04:21:26.841Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-25T04:21:26.841Z</lastModifiedDate_dt>
 </component>
