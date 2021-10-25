@@ -93,11 +93,13 @@
 	<image_s>/static-assets/images/home/XX Mavinia.png</image_s>
 	</item>	<item>	<link_s>/</link_s>
 	<image_s>/static-assets/images/home/XX Vealino Plus.png</image_s>
+	</item>	<item>	<link_s>/</link_s>
+	<image_s>/static-assets/images/home/XX HotDog.png</image_s>
 	</item></featPro_o>
 	<createdDate>2021-10-25T03:21:31.302Z</createdDate>
 	<createdDate_dt>2021-10-25T03:21:31.302Z</createdDate_dt>
-	<lastModifiedDate>2021-10-25T03:21:31.302Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-25T03:21:31.302Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-25T03:29:12.613Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-25T03:29:12.613Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>01a02c9d-79c0-07b9-2578-2b6c74519c87</key>
 	<value>News</value>
@@ -121,6 +123,6 @@
 	<folder-name>home</folder-name>
 	<createdDate>2021-10-25T03:14:27.579Z</createdDate>
 	<createdDate_dt>2021-10-25T03:14:27.579Z</createdDate_dt>
-	<lastModifiedDate>2021-10-25T03:19:21.893Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-25T03:19:21.893Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-25T03:29:03.979Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-25T03:29:03.979Z</lastModifiedDate_dt>
 </page>
