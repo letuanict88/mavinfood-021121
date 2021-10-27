@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagechild</content-type>
+	<display-template>/templates/web/pages/en/childpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f895</objectGroupId>
+	<objectId>f8951877-91c0-a101-53af-1e7d4f605844</objectId>
+	<internal-name>Library</internal-name>
+	<navLabel>Library</navLabel>
+	<file-name>index.xml</file-name>
+	<folder-name>library</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="sections" inline="true">	<key>205b4c9f-4aa3-16fc-442c-dc76083bb9cf</key>
+	<value>S</value>
+<component id="205b4c9f-4aa3-16fc-442c-dc76083bb9cf">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>205b</objectGroupId>
+	<objectId>205b4c9f-4aa3-16fc-442c-dc76083bb9cf</objectId>
+	<file-name>205b4c9f-4aa3-16fc-442c-dc76083bb9cf.xml</file-name>
+	<internal-name>S</internal-name>
+	<image_s/>
+	<createdDate>2021-10-27T10:31:14.817Z</createdDate>
+	<createdDate_dt>2021-10-27T10:31:14.817Z</createdDate_dt>
+	<lastModifiedDate>2021-10-27T10:31:14.817Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-27T10:31:14.817Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<section_o item-list="true"/>
+	<createdDate>2021-10-27T10:30:55.442Z</createdDate>
+	<createdDate_dt>2021-10-27T10:30:55.442Z</createdDate_dt>
+	<lastModifiedDate>2021-10-27T10:30:55.442Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-27T10:30:55.442Z</lastModifiedDate_dt>
+</page>
