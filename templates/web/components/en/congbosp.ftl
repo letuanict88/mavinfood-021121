@@ -8,7 +8,7 @@
             <div class="col-md-6 col-lg-4 mb-5 fields">
               <div class="d-flex flex-wrap flex-column text-center">
                 <a class="mb-3" href="#"><img class="img-fluid shadow" src="${cer.image_s}" alt=""></a>
-                <a class="fs-5 base-color fw-bold" href="#">${cer.name_s}</a>
+                <a class="fs-5 base-color fw-bold">${cer.title_s}</a>
               </div>
             </div>
             </#list>
