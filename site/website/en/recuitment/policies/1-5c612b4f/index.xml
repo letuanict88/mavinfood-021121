@@ -7,12 +7,12 @@
 	<objectGroupId>51eca327</objectGroupId>
 	<objectId>51eca327-7929-4bb3-ba66-b951b15678cd</objectId>
 	<file-name>index.xml</file-name>
-	<folder-name>1-5c612b4f</folder-name>
-	<internal-name>1 5c612b4f</internal-name>
-	<navLabel>1</navLabel>
-	<title_s>1</title_s>
+	<folder-name>2</folder-name>
+	<internal-name>2</internal-name>
+	<navLabel>2</navLabel>
+	<title_s>2</title_s>
 	<placeInNav>false</placeInNav>
-	<orderDefault_f>0.0</orderDefault_f>
+	<orderDefault_f>-1</orderDefault_f>
 	<image_s>/static-assets/images/tuyen-dung/5O6A7027.JPG</image_s>
 	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>4712d73f-e76b-eb2b-db99-908ef3c59174</key>
 	<value>S</value>
@@ -35,8 +35,8 @@
 	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
 	<createdDate>2021-10-06T07:52:19.547Z</createdDate>
 	<createdDate_dt>2021-10-06T07:52:19.547Z</createdDate_dt>
-	<lastModifiedDate>2021-10-06T07:52:19.547Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-06T07:52:19.547Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-27T09:45:59.254Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-27T09:45:59.254Z</lastModifiedDate_dt>
 	<date_dt>2021-10-06T04:00:00.000Z</date_dt>
 	<date_dt_tz>EST5EDT</date_dt_tz>
 </page>
