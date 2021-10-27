@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/enpagethuvienanh</content-type>
+	<display-template>/templates/web/pages/en/thuvienanh.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>330b</objectGroupId>
+	<objectId>330b8847-82bc-8e3e-4eaf-9b6ae21a7051</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>images</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Library Images</internal-name>
+	<navLabel>Library Images</navLabel>
+	<title_s>Library Images</title_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>2c371302-8d70-cd6b-486f-964e2bea6521</key>
+	<value>S</value>
+<component id="2c371302-8d70-cd6b-486f-964e2bea6521">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/components/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2c37</objectGroupId>
+	<objectId>2c371302-8d70-cd6b-486f-964e2bea6521</objectId>
+	<file-name>2c371302-8d70-cd6b-486f-964e2bea6521.xml</file-name>
+	<image_s/>
+	<internal-name>S</internal-name>
+	<createdDate>2021-10-27T11:00:51.201Z</createdDate>
+	<createdDate_dt>2021-10-27T11:00:51.201Z</createdDate_dt>
+	<lastModifiedDate>2021-10-27T11:00:51.201Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-27T11:00:51.201Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<lib_o item-list="true">	<item>	<name_s>1</name_s>
+	<image_s>/static-assets/images/thu-vien/DSC_2444.JPG</image_s>
+	<date_dt>2021-10-27T04:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+	</item></lib_o>
+	<createdDate>2021-10-27T10:59:51.156Z</createdDate>
+	<createdDate_dt>2021-10-27T10:59:51.156Z</createdDate_dt>
+	<lastModifiedDate>2021-10-27T10:59:51.156Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-27T10:59:51.156Z</lastModifiedDate_dt>
+</page>
