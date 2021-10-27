@@ -71,7 +71,7 @@
               <a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0 p-3" href="/en/introduction/award">Recognition & Awards</a>
             </div>
             <div class="col-md-4">
-              <a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0 p-3" href="/en/introduction/announcement">Production Announcement</a>
+              <a class="btn btn-lg w-100 text-white rounded-0 base-bg-color text-uppercase fw-bold mb-4 mb-md-0 p-3" href="/en/introduction/production-announcement">Production Announcement</a>
             </div>
           </div>
         </div>
