@@ -30,9 +30,36 @@
 	<lastModifiedDate_dt>2021-10-27T10:31:14.817Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
-	<section_o item-list="true"/>
+	<section_o item-list="true">	<item datasource="sections" inline="true">	<key>58b0319e-9c1a-06fc-dcde-99a4f9f6eae8</key>
+	<value>Library</value>
+<component id="58b0319e-9c1a-06fc-dcde-99a4f9f6eae8">
+	<content-type>/component/encomthuvien</content-type>
+	<display-template>/templates/web/components/en/tulieu.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>58b0</objectGroupId>
+	<objectId>58b0319e-9c1a-06fc-dcde-99a4f9f6eae8</objectId>
+	<file-name>58b0319e-9c1a-06fc-dcde-99a4f9f6eae8.xml</file-name>
+	<internal-name>Library</internal-name>
+	<p1title_s>1</p1title_s>
+	<p2title_s>1</p2title_s>
+	<v1title_s>1</v1title_s>
+	<v2title_s>2</v2title_s>
+	<d1title_s>1</d1title_s>
+	<d2title_s>2</d2title_s>
+	<p1image_s>/static-assets/images/tai-lieu/DSC_2386.JPG</p1image_s>
+	<p2image_s>/static-assets/images/tai-lieu/DSC_2389.JPG</p2image_s>
+	<v1image_s>/static-assets/images/tai-lieu/DSC_2386.JPG</v1image_s>
+	<d2Image_s>/static-assets/images/tai-lieu/DSC_2389.JPG</d2Image_s>
+	<d1image_s>/static-assets/images/tai-lieu/DSC_2386.JPG</d1image_s>
+	<createdDate>2021-10-27T10:35:20.754Z</createdDate>
+	<createdDate_dt>2021-10-27T10:35:20.754Z</createdDate_dt>
+	<lastModifiedDate>2021-10-27T10:35:20.754Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-27T10:35:20.754Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
 	<createdDate>2021-10-27T10:30:55.442Z</createdDate>
 	<createdDate_dt>2021-10-27T10:30:55.442Z</createdDate_dt>
-	<lastModifiedDate>2021-10-27T10:30:55.442Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-27T10:30:55.442Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-27T10:35:06.718Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-27T10:35:06.718Z</lastModifiedDate_dt>
 </page>
