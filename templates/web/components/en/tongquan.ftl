@@ -78,12 +78,12 @@
         <div class="py-3 pt-md-5">
           <div class="row">
             <div class="col-md-6 mb-4 mb-md-0">
-              <h3 class="h4"><a class="text-uppercase fw-bold base-color" href="/en/introduction/vission">Vission</a></h3>
-              <a href="/en/introduction/vission-mission"><img src="/static-assets/dist/temp/tam-nhin.jpg" alt="" class="img-thumbnail shadow-sm"></a>
+              <h3 class="h4"><a class="text-uppercase fw-bold base-color" href="/en/introduction/missionvision">Vission</a></h3>
+              <a href="/en/introduction/missionvision"><img src="/static-assets/dist/temp/tam-nhin.jpg" alt="" class="img-thumbnail shadow-sm"></a>
             </div>
             <div class="col-md-6 mb-4 mb-md-0">
-              <h3 class="h4"><a class="text-uppercase fw-bold base-color" href="/en/introduction/mission">Mission</a></h3>
-              <a href="//en/introduction/vission-mission"><img src="/static-assets/dist/temp/su-menh.jpg" alt="" class="img-thumbnail shadow-sm"></a>
+              <h3 class="h4"><a class="text-uppercase fw-bold base-color" href="/en/introduction/missionvision">Mission</a></h3>
+              <a href="//en/introduction/missionvision"><img src="/static-assets/dist/temp/su-menh.jpg" alt="" class="img-thumbnail shadow-sm"></a>
             </div>
           </div>
         </div>
