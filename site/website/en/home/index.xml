@@ -68,20 +68,20 @@
 	<file-name>36cd354d-36d3-39de-f27b-a6c1888c2028.xml</file-name>
 	<internal-name>Product</internal-name>
 	<products_o item-list="true">	<item>	<name_s>Sausage</name_s>
-	<link_s>/</link_s>
+	<link_s>/en/product/1</link_s>
 	<image_s>/static-assets/images/home/xuc-xich.png</image_s>
 	</item>	<item>	<name_s>Fish ball</name_s>
 	<image_s>/static-assets/images/home/do-vien.png</image_s>
-	<link_s>/</link_s>
+	<link_s>/en/product/4</link_s>
 	</item>	<item>	<name_s>Spring rolls </name_s>
 	<image_s>/static-assets/images/home/Dia Gio cha (Home).png</image_s>
-	<link_s>/</link_s>
+	<link_s>/en/product/3</link_s>
 	</item>	<item>	<name_s>Cold Cut </name_s>
 	<image_s>/static-assets/images/home/cat-lat.png</image_s>
-	<link_s>/</link_s>
+	<link_s>/en/product/2</link_s>
 	</item>	<item>	<name_s>Other</name_s>
 	<image_s>/static-assets/images/home/sp-khac.png</image_s>
-	<link_s>/</link_s>
+	<link_s>/en/product/5</link_s>
 	</item></products_o>
 	<featPro_o item-list="true">	<item>	<link_s>/</link_s>
 	<image_s>/static-assets/images/home/XX Hong khoi.png</image_s>
@@ -98,8 +98,8 @@
 	</item></featPro_o>
 	<createdDate>2021-10-25T03:21:31.302Z</createdDate>
 	<createdDate_dt>2021-10-25T03:21:31.302Z</createdDate_dt>
-	<lastModifiedDate>2021-10-25T03:29:12.613Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-25T03:29:12.613Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-29T07:34:48.627Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-29T07:34:48.627Z</lastModifiedDate_dt>
 </component>
 	</item>	<item datasource="sections" inline="true">	<key>792236c4-6611-c7d1-f762-1f42edf3bd53</key>
 	<value>News</value>
@@ -123,6 +123,6 @@
 	<folder-name>home</folder-name>
 	<createdDate>2021-10-25T03:14:27.579Z</createdDate>
 	<createdDate_dt>2021-10-25T03:14:27.579Z</createdDate_dt>
-	<lastModifiedDate>2021-10-25T04:34:54.070Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-25T04:34:54.070Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-29T07:31:06.875Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-29T07:31:06.875Z</lastModifiedDate_dt>
 </page>
