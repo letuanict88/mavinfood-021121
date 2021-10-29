@@ -12,7 +12,7 @@
                 <h2 class="h5 base-color fw-bold mb-3">Our distribution partners</h2>
                 <div class="d-flex  mb-4">
                   <div class="me-4">
-                    <label for="" class="form-label fw-bold" style="margin-top:10px;">Find by City - Province</label>
+                    <label for="" class="form-label fw-bold" style="margin-top:10px;">Search by City/Province</label>
                   </div>
                   <!--<div class="me-2 flex-fill">
                     <label for="" class="form-label fw-bold">Quận / Huyện</label>
@@ -38,7 +38,7 @@
                 <h2 class="h5 base-color fw-bold mb-3">Our supermarket partners</h2>
                 <div class="d-flex  mb-4">
                   <div class="me-4">
-                    <label for="" class="form-label fw-bold" style="margin-top:10px;">Find by City - Province</label>
+                    <label for="" class="form-label fw-bold" style="margin-top:10px;">Search by City/Province</label>
                   </div>
                   <!--<div class="me-2 flex-fill">
                     <label for="" class="form-label fw-bold">Quận / Huyện</label>
