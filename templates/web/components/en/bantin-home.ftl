@@ -34,18 +34,18 @@
           </div>
           <div class="col">
             <div class="bg-white p-3 p-md-5 mb-4 shadow">
-              <h3 class="text-uppercase fw-bold fs-5 base-color">Document Library</h3>
+              <h3 class="text-uppercase fw-bold fs-5 base-color">Library</h3>
               <div class="d-flex flex-column-reverse">
               <a href="/thu-vien" style="height: 55px;">
                 <ul class="nav nav-pills nav-fill nav-tab-news mb-3 mt-2" id="pills-tab" role="tablist" >
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link text-uppercase fw-bold" id="pills-gallery-tab" data-bs-toggle="pill" data-bs-target="#pills-gallery" type="button" role="tab" aria-controls="pills-gallery" aria-selected="true">Library <br>Images</button>
+                    <button class="nav-link text-uppercase fw-bold" id="pills-gallery-tab" data-bs-toggle="pill" data-bs-target="#pills-gallery" type="button" role="tab" aria-controls="pills-gallery" aria-selected="true">Images</button>
                   </li>
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link active text-uppercase fw-bold" id="pills-video-tab" data-bs-toggle="pill" data-bs-target="#pills-video" type="button" role="tab" aria-controls="pills-video" aria-selected="false">Library <br>Videos</button>
+                    <button class="nav-link active text-uppercase fw-bold" id="pills-video-tab" data-bs-toggle="pill" data-bs-target="#pills-video" type="button" role="tab" aria-controls="pills-video" aria-selected="false">Videos</button>
                   </li>
                   <li class="nav-item" role="presentation">
-                    <button class="nav-link text-uppercase fw-bold" id="pills-document-tab" data-bs-toggle="pill" data-bs-target="#pills-document" type="button" role="tab" aria-controls="pills-document" aria-selected="false">Library <br>Docs</button>
+                    <button class="nav-link text-uppercase fw-bold" id="pills-document-tab" data-bs-toggle="pill" data-bs-target="#pills-document" type="button" role="tab" aria-controls="pills-document" aria-selected="false">Documents</button>
                   </li>
                 </ul>
               </a>
