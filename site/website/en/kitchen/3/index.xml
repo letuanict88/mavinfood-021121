@@ -10,7 +10,7 @@
 	<folder-name>3</folder-name>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
-	<image_s>/static-assets/images/bep/Anh tin bai XX Mavin GD.jpg</image_s>
+	<image_s>/static-assets/images/bep/Anh bai 24h A.jpg</image_s>
 	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>b6116e3d-e988-a7c9-7b5d-95bb0f610654</key>
 	<value>1</value>
 <component id="b6116e3d-e988-a7c9-7b5d-95bb0f610654">
@@ -29,12 +29,15 @@
 	<lastModifiedDate_dt>2021-10-01T03:59:25.452Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
-	<internal-name>3</internal-name>
-	<navLabel>3</navLabel>
-	<title_s>3</title_s>
-	<content_html>&lt;p&gt;Content&lt;/p&gt;</content_html>
+	<internal-name>Mavin Foods launch chicken sausage product</internal-name>
+	<navLabel>Mavin Foods launch chicken sausage product</navLabel>
+	<title_s>Mavin Foods launch chicken sausage product</title_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;On 13 May 2019, in Hanoi - Mavin Foods officially provide chicken sausage products.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;With the main ingredients of mostly chicken, Mavin's Chicken Sausage has many differences and novelty compared to the previous traditional sausage products of Mavin Foods. The color is slightly naturally yellow of chicken fat, when eaten, the flavor of chicken create a sense of appetite. The percentage of chicken breast in raw materials is quite high, so consumers are not afraid of weight gain.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chicken sausage is an effort of Mavin Foods to meet the demand for a nutritious product for everyone, especially women and children, who can eat at any time without fear of excess calories or increase of weight. The product has been officially distributed at supermarkets and the Company&amp;rsquo;s agencies in some northern provinces.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
 	<createdDate>2021-10-01T03:59:05.096Z</createdDate>
 	<createdDate_dt>2021-10-01T03:59:05.096Z</createdDate_dt>
-	<lastModifiedDate>2021-10-01T04:00:25.311Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-01T04:00:25.311Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-29T10:01:32.232Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-29T10:01:32.232Z</lastModifiedDate_dt>
 </page>
