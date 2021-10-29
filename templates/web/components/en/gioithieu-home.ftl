@@ -5,8 +5,8 @@
           <div class="col-lg-4">
             <h1 class="base-color fst-italic">
               <span class="fw-light d-block" style="font-size: 2.2rem!important;">The supply chain</span>
-              <span style="font-size: 3.1rem!important;">“From Farm to Table”</span>
-              <span class="fw-light d-block mb-4" style="font-size: 2.2rem!important;">of Mavin</span>
+              <span style="font-size: 3.1rem!important;">“From Farm to Table” of Mavin</span>
+              <!-- <span class="fw-light d-block mb-4" style="font-size: 2.2rem!important;">of Mavin</span> -->
             </h1>
             <p class="fst-italic text-muted text-recommend">
               ${contentModel.content_html}
