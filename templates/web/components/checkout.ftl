@@ -11,25 +11,25 @@
                 <div class="row mb-3">
                   <!--<label for="" class="col-sm-2 col-form-label">Họ tên</label>-->
                   <div class="col-sm-12">
-                    <input type="text" class="form-control" id="name" placeholder="Họ tên">
+                    <input type="text" class="form-control" id="name" placeholder="Họ tên" required>
                   </div>
                 </div>
                 <div class="row mb-3">
 
                   <div class="col-sm-12">
-                    <input type="tel" class="form-control" id="phone" placeholder="Số điện thoại">
+                    <input type="tel" class="form-control" id="phone" placeholder="Số điện thoại" required>
                   </div>
                 </div>
                 <div class="row mb-3">
 
                   <div class="col-sm-12">
-                    <input type="address" class="form-control" id="address" placeholder="Địa chỉ giao hàng">
+                    <input type="address" class="form-control" id="address" placeholder="Địa chỉ giao hàng" required>
                   </div>
                 </div>
                 <div class="row mb-3">
                   
                   <div class="col-sm-12">
-                    <input type="email" class="form-control" id="email" placeholder="Email">
+                    <input type="email" class="form-control" id="email" placeholder="Email" required>
                   </div>
                 </div>  
                 <div class="row mb-3">
