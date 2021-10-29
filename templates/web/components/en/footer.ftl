@@ -39,7 +39,7 @@
                 <div class="mb-3"><a href="https://www.facebook.com/mavinfood"><img class="img-fluid" src="/static-assets/dist/images/like-page.jpg"></a></div>
                 <div class="d-flex justify-content-between">
                   <div class="flex-shrink-0">
-                    <img class="img-fluid" src="/static-assets/dist/images/dathongbao.png" width="110" alt="">
+                    <img class="img-fluid" src="#" width="110" alt="">
                   </div>
                   <div class="text-right small" style="text-align: end;">
                     All rights reserved. <br>Mavin Foods 2021
