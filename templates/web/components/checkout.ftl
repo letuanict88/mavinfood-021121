@@ -7,7 +7,7 @@
         <div class="row">
           <div class="col-lg-9">
             <div class="shadow p-3 p-lg-5 mb-4 mb-lg-0">
-              <form method="POST" id="payment-form">
+              <form method="POST" id="payment-form" >
                 <div class="row mb-3">
                   <!--<label for="" class="col-sm-2 col-form-label">Họ tên</label>-->
                   <div class="col-sm-12">
