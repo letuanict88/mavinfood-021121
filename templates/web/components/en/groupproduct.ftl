@@ -23,11 +23,11 @@
 
         
         <div class="category-circle d-flex flex-wrap flex-md-nowrap justify-content-center align-items-center py-3 py-md-5" style="margin: 4rem 0rem;">
-          <a class="item d-flex justify-content-center align-items-center" href="/en/product/">xúc<br>xích</a>
-          <a class="item d-flex justify-content-center align-items-center" href="/en/product/">đồ<br>viên</a>
-          <a class="item d-flex justify-content-center align-items-center" href="/en/product/">giò<br>chả</a>
-          <a class="item d-flex justify-content-center align-items-center" href="/en/product/">cắt<br>lát</a>
-          <a class="item d-flex justify-content-center align-items-center" href="/en/product/">sản<br>phẩm<br>khác</a>
+          <a class="item d-flex justify-content-center align-items-center" href="/en/product/1">xúc<br>xích</a>
+          <a class="item d-flex justify-content-center align-items-center" href="/en/product/4">đồ<br>viên</a>
+          <a class="item d-flex justify-content-center align-items-center" href="/en/product/3">giò<br>chả</a>
+          <a class="item d-flex justify-content-center align-items-center" href="/en/product/2">cắt<br>lát</a>
+          <a class="item d-flex justify-content-center align-items-center" href="/en/product/5">sản<br>phẩm<br>khác</a>
         </div>
       </div>
     </section>
