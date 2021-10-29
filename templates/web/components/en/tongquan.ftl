@@ -23,8 +23,8 @@
           <div class="row justify-content-center">
             <div class="col-md-11">
               <div class="d-flex flex-column fw-bold mb-4" style="margin-left: 3rem;">
-                <div class="fs-5">Chain of Values</div>
-                <div class="fs-1"><h1 style="font-size: 3rem;">“Clean From Source” <span class="fs-3">of Mavin</span> </h1></div>
+                <div class="fs-5">The supply chain</div>
+                <div class="fs-1"><h1 style="font-size: 3rem;">“From Farm to Table”<span class="fs-3">of Mavin</span> </h1></div>
               </div>
               <div class="row row-cols-2 row-cols-md-auto gx-0 justify-content-center">
                 <div class="col text-center">
