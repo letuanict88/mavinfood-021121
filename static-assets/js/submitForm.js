@@ -1,4 +1,4 @@
-function mySendEmail(e){
+function mySendEmail(){
     let name = $("#name").val();
     let email = $("#email").val();
     let address = $("#address").val();
