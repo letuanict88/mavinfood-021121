@@ -119,9 +119,9 @@
                 <li><a class="dropdown-item" href="/en/introduction">Message from Chairman</a></li>
                 <li><a class="dropdown-item" href="/en/introduction/valuechain">The supply chain from Farm to Table</a></li>
                 <li><a class="dropdown-item" href="/en/introduction/history">History</a></li>
-                <li><a class="dropdown-item" href="/en/introduction/production">Processing</a></li>
+                <li><a class="dropdown-item" href="/en/introduction/production">Production Technology</a></li>
                 <li><a class="dropdown-item" href="/en/introduction/award">Recognition & Awards</a></li>
-                <li><a class="dropdown-item" href="/en/introduction/award">Mission – Vission</a></li>
+                <li><a class="dropdown-item" href="/en/introduction/missionvision">Mission – Vission</a></li>
               </ul>
             </li>
             <li class="nav-item menu-item btn-group">
