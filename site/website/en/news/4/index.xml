@@ -6,14 +6,14 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>64ea3441</objectGroupId>
 	<objectId>64ea3441-ac82-4aa5-8362-c7d7a6d872d1</objectId>
-	<internal-name>4</internal-name>
-	<navLabel>4</navLabel>
-	<title_s>4</title_s>
+	<internal-name>Mavin sponsors the “Mini Supermarket 0 dong” </internal-name>
+	<navLabel>Mavin sponsors the “Mini Supermarket 0 dong”</navLabel>
+	<title_s>Mavin sponsors the “Mini Supermarket 0 dong"</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<file-name>index.xml</file-name>
 	<folder-name>4</folder-name>
-	<image_s>/static-assets/images/new/7.jpg</image_s>
+	<image_s>/static-assets/images/new/Sieu thi 0 dong Dai Kim 4.jpg</image_s>
 	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>accf517c-92a5-9bc9-b604-f66062be409a</key>
 	<value>S</value>
 <component id="accf517c-92a5-9bc9-b604-f66062be409a">
@@ -32,11 +32,13 @@
 	<lastModifiedDate_dt>2021-10-01T03:14:44.121Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
-	<content_html>&lt;p&gt;content&lt;/p&gt;</content_html>
+	<content_html>&lt;p style="text-align: justify;"&gt;Accompanying with the capital Hanoi during the quarantine period, Mavin Group cooperates with the "Hanoi pink heart" Program to sponsor clean processed food for the &amp;ldquo;Mini Supermarket 0 dong&amp;rdquo;. The total value of Mavin's participation is equivalent to 2,000 kg of sausages, 1,000 kg of fish balls and tens of thousands of clean duck eggs.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;"Mini supermarket 0 dong" in Hanoi is an activity in the campaign "Hanoi Pink Heart" to support difficult people during the quarantine period. It is expected that more than 20 supermarkets will be opened in all districts of Hanoi capital during the quarantine period. Through the local government, each household affected by the epidemic will receive a "gift certificate" worth 400,000 VND, representatives of each household will go to the &amp;ldquo;supermarket 0 dong&amp;rdquo; at different specified time frames to buy foods ensure strict compliance with epidemic prevention regulations.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For each supermarket that is opened, the Organizing Committee will support nearly 1,000 poor workers and students with difficult circumstance during the complicated development of the epidemic.&lt;/p&gt;</content_html>
 	<createdDate>2021-10-01T03:12:24.948Z</createdDate>
 	<createdDate_dt>2021-10-01T03:12:24.948Z</createdDate_dt>
-	<lastModifiedDate>2021-10-25T03:44:33.526Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-25T03:44:33.526Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-29T09:53:19.453Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-29T09:53:19.453Z</lastModifiedDate_dt>
 	<date_dt>2021-09-30T04:00:00.000Z</date_dt>
 	<date_dt_tz>EST5EDT</date_dt_tz>
 </page>
