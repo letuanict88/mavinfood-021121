@@ -44,30 +44,30 @@
 	<internal-name>Product</internal-name>
 	<content_html>&lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #404244; font-family: UVF-DINPro; font-size: 14px; background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #6c757d; font-size: 12pt;"&gt;The materials for Mavin&amp;rsquo;s production are fresh meat provided by its own company&amp;rsquo;s system.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: #404244; font-family: UVF-DINPro; font-size: 14px; background-color: #ffffff;"&gt;&lt;strong&gt;&lt;span style="color: #6c757d; font-size: 12pt;"&gt;This system contains many livestock&amp;rsquo;s production factories in over the country with the capacity of hundreds of thousands tons per year, a large amount of breeding and meaty swine&amp;rsquo;s farm in the North with directly imported swine&amp;rsquo;s breeds from the United Kingdom. Annually, this farm&amp;rsquo;s system provides thousands of tons of high quality and meaty swine with high safety and hygiene for the market. And Mavin is also a link of production&amp;rsquo;s chain&amp;nbsp;&amp;ldquo;From Farm to Table&amp;rdquo;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</content_html>
-	<groupProduct_o item-list="true">	<item>	<name_s>1</name_s>
+	<groupProduct_o item-list="true">	<item>	<name_s>Sausage</name_s>
 	<image_s>/static-assets/images/san-pham/xuc-xich.png</image_s>
-	<url_s>/en/product/</url_s>
-	</item>	<item>	<name_s>2</name_s>
+	<url_s>/en/product/1</url_s>
+	</item>	<item>	<name_s>Fish ball</name_s>
 	<image_s>/static-assets/images/san-pham/Ca vien 1.png</image_s>
-	<url_s>/en/product/</url_s>
-	</item>	<item>	<name_s>3</name_s>
+	<url_s>/en/product/4</url_s>
+	</item>	<item>	<name_s>Spring rolls</name_s>
 	<image_s>/static-assets/images/san-pham/gio-cha.png</image_s>
-	<url_s>/en/product/</url_s>
-	</item>	<item>	<name_s>4</name_s>
+	<url_s>/en/product/3</url_s>
+	</item>	<item>	<name_s>Cold Cut</name_s>
 	<image_s>/static-assets/images/san-pham/sp-khac.png</image_s>
-	<url_s>/en/product/</url_s>
-	</item>	<item>	<name_s>5</name_s>
+	<url_s>/en/product/2</url_s>
+	</item>	<item>	<name_s>Other</name_s>
 	<image_s>/static-assets/images/san-pham/cat-lat.png</image_s>
-	<url_s>/en/product/</url_s>
+	<url_s>/en/product/5</url_s>
 	</item></groupProduct_o>
 	<createdDate>2021-09-30T08:42:45.104Z</createdDate>
 	<createdDate_dt>2021-09-30T08:42:45.104Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T08:43:48.940Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T08:43:48.940Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-29T08:03:07.926Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-29T08:03:07.926Z</lastModifiedDate_dt>
 </component>
 	</item></section_o>
 	<createdDate>2021-09-30T08:36:35.953Z</createdDate>
 	<createdDate_dt>2021-09-30T08:36:35.953Z</createdDate_dt>
-	<lastModifiedDate>2021-09-30T08:42:30.882Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-09-30T08:42:30.882Z</lastModifiedDate_dt>
+	<lastModifiedDate>2021-10-29T08:03:01.682Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-29T08:03:01.682Z</lastModifiedDate_dt>
 </page>
