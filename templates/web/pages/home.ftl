@@ -5,6 +5,7 @@
     <!-- Site Meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:image" content="/static-assets/dist/images/bg-app1.jpg" />
 
     <!-- Site Stylesheet -->
     <link rel="stylesheet" href="/static-assets/vendor/bootstrap-5-0-1/dist/css/bootstrap.min.css">
