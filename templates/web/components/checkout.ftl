@@ -66,7 +66,7 @@
                 </div>
                 <div class="small text-end">Đã bao gồm VAT</div>
               </div>
-              <button type="submit" form="payment-form" onclick="mySendEmail()" class="btn btn-danger w-100 text-uppercase">mua hàng</button>
+              <button type="submit" form="payment-form" onsubmit="mySendEmail()" class="btn btn-danger w-100 text-uppercase">mua hàng</button>
             </div>
           </div>
       </div>
