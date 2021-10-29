@@ -141,7 +141,7 @@
               <a class="nav-link" href="/en/news">News</a>
             </li>
             <li class="nav-item menu-item btn-group">
-             <a id="dropdownExample" class="nav-link active" href="/en/customer-service">Customeer Service</a>
+             <a id="dropdownExample" class="nav-link active" href="/en/customer-service">Customer Service</a>
               <button type="button" class="border-0 bg-transparent dropdown-toggle dropdown-toggle-split" style=" color: #505050; " id="cskh" data-bs-toggle="dropdown" aria-expanded="false" data-bs-reference="parent">
                 <span class="visually-hidden">Toggle Dropdown</span>
               </button>   
