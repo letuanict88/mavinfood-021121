@@ -15,7 +15,7 @@
             </ul>
           </nav>
           <div style="margin-top: 3rem;">
-            <h2 class="h4 base-color fw-bold text-uppercase mb-3">Personel Policy</h2>
+            <h2 class="h4 base-color fw-bold text-uppercase mb-3">PERSONNEL POLICY</h2>
             <div class="row row-cols-1 row-cols-md-2 gx-5">
               <#list policies as policy>
               <div class="col">
