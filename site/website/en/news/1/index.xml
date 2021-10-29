@@ -6,14 +6,14 @@
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>0ca6</objectGroupId>
 	<objectId>0ca63a0c-79a8-83bd-44fb-70bcba8e6e4d</objectId>
-	<internal-name>1</internal-name>
-	<navLabel>1</navLabel>
-	<title_s>1</title_s>
+	<internal-name>Mavin develops E-learning system</internal-name>
+	<navLabel>Mavin develops E-learning system</navLabel>
+	<title_s>Mavin develops E-learning system</title_s>
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<file-name>index.xml</file-name>
 	<folder-name>1</folder-name>
-	<image_s>/static-assets/images/new/7.jpg</image_s>
+	<image_s>/static-assets/images/new/Background Kickoff Elearning 6.10.2021.jpg</image_s>
 	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>accf517c-92a5-9bc9-b604-f66062be409a</key>
 	<value>S</value>
 <component id="accf517c-92a5-9bc9-b604-f66062be409a">
@@ -32,11 +32,24 @@
 	<lastModifiedDate_dt>2021-10-01T03:14:44.121Z</lastModifiedDate_dt>
 </component>
 	</item></slide_o>
-	<content_html>&lt;p&gt;content&lt;/p&gt;</content_html>
+	<content_html>&lt;p style="text-align: justify;"&gt;On 6th October, 2021, Mavin Group kicked-off the Project of Developing E-learning system. The kick-off ceremony was held on the online platform (Zoom) with the participation of Mr. David John Whitehead - Chairman, Mr. Nguyen Anh Tuan - Deputy General Director of Mavin Group and the entire Project Implementation Board, the solution provider DES - an experienced company in providing solutions and online training services in Vietnam.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;In the era of technology 4.0, E-learning has become the most effective learning method for businesses. When the training content has been digitized into electronic lectures, the management of learning and learning participation becomes simple and optimal.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For Mavin, E-learning plays the role of designing the foundation for learning and development activities to help staff perfect their professional and development capabilities, contributing to building a team in line with the company's vision, mission and core values.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Mavin E-learning will support learning staff anytime, anywhere and 24/7, with the following benefits:&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Integrating with HiStaff Human Resource Management System, reducing manual operations, digitizing training management of the whole system;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Building a centralized digital library to help Mavin staff store knowledge and use it daily;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Gradually build e-lectures to serve the staff's continuous learning needs;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Building an objective and transparent measurement system of training results;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Cost saving, effective use of training budget;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Speaking at the project kick-off ceremony, Mr. David John Whitehead affirmed that investing in people is determined to be the key to helping Mavin achieve its development goals.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;ldquo;Developing E-learning is a trend in line with large corporations in Vietnam and around the world. I believe that when the E-learning system is completed and officially applied, it will create motivation for new initiatives, innovative ideas, new thinking, and promote the continuous development of Mavin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;For each employee, E-learning will provide us with a great support system to help individuals learn and grow anytime, anywhere, 24/7. Therefore, I hope that each individual will take advantage of E-learning, make the most of the benefits of the System to both develop their work at Mavin but also improve and increase the value for each person through learning&amp;rdquo;, shared Mavin&amp;rsquo;s Chairman at the ceremony.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;The Chairman also wished all members of the Project will have great experiences with the Project and devote themselves to E-learning because their contributions to human development are always invaluable and most precious.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Developing Mavin E-learning is a component of Mavin Group's plan to build a Digital Workspace, and is an important project in the Digital Transformation Program for the period of 5 years 2019 - 2023.&lt;/p&gt;</content_html>
 	<createdDate>2021-10-01T03:12:24.948Z</createdDate>
 	<createdDate_dt>2021-10-01T03:12:24.948Z</createdDate_dt>
-	<lastModifiedDate>2021-10-01T04:01:01.532Z</lastModifiedDate>
-	<lastModifiedDate_dt>2021-10-01T04:01:01.532Z</lastModifiedDate_dt>
-	<date_dt>2021-09-30T04:00:00.000Z</date_dt>
+	<lastModifiedDate>2021-10-29T09:57:32.511Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-10-29T09:57:32.511Z</lastModifiedDate_dt>
+	<date_dt>2021-10-29T04:00:00.000Z</date_dt>
 	<date_dt_tz>EST5EDT</date_dt_tz>
 </page>
