@@ -31,10 +31,10 @@
             <li class="mb-2"><a class="text-white" href="/en/introduction">Message from Chairman</a></li>
             <li class="mb-2"><a class="text-white" href="/en/introduction/valuechain">The supply chain from Farm to Table</a></li>
             <li class="mb-2"><a class="text-white" href="/en/introduction/history">History</a></li>
-            <li class="mb-2"><a class="text-white" href="/en/introduction/production">Processing</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/introduction/production">Production Technology</a></li>
             <li class="mb-2"><a class="text-white" href="/en/introduction/award">Recognition & Awards</a></li>
             <li class="mb-2"><a class="text-white" href="/en/introduction/production-announcement">Product Announcement</a></li>
-            <li class="mb-2"><a class="text-white" href="/en/introduction/award">Mission – Vission</a></li>
+            <li class="mb-2"><a class="text-white" href="/en/introduction/missionvision">Mission – Vission</a></li>
           </ul>
 
           <ul class="list-unstyled d-flex flex-column justify-content-end col-custom">
